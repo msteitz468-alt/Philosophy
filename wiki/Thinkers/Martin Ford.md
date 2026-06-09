@@ -1,0 +1,51 @@
+---
+title: "Martin Ford"
+type: thinker
+era: "b. c. 1960s"
+schools: []
+domains: [technology, futurism, economics, ai, labor-economics, public-policy]
+source_count: 1
+created: "2026-06-04"
+updated: "2026-06-04"
+tags: [martin-ford, rise-of-the-robots, automation, technological-unemployment, basic-income, singularity, lights-in-the-tunnel, silicon-valley, futurism, ai-economics]
+sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.txt"]
+---
+
+# Martin Ford
+
+> American Silicon Valley entrepreneur, software developer, and futurist author (b. circa 1960s). Author of *The Lights in the Tunnel: Automation, Accelerating Technology and the Economy of the Future* (2009) and the influential *Rise of the Robots: Technology and the Threat of a Jobless Future* (2015, winner of the 2015 Financial Times and McKinsey Business Book of the Year Award). Best known for the data-driven argument that accelerating information technology, machine learning, robotics, and AI represent a fundamental break with prior waves of automation: machines are becoming workers (not merely tools), displacing "predictable" jobs across blue- and white-collar sectors at scale, breaking the postwar productivity-wage-consumer demand feedback loop, and risking mass technological unemployment, extreme inequality, and collapse of the mass-market economy unless society adopts a new paradigm (centered on a guaranteed basic income).
+
+## Key Contributions
+
+**Rise of the Robots (2015)**:
+- See dedicated [[Sources/Rise of the Robots - Martin Ford (2015)]].
+- Core thesis: "This time is different." Historical automation displaced specific sectors while creating new opportunities elsewhere; today's general-purpose IT + AI hits "predictable" tasks (learnable from detailed records + big data) across virtually every industry simultaneously. New industries are born labor-saving (Google, Facebook, WhatsApp achieved massive scale/valuation with tiny headcounts). Education and skills are no longer reliable protection (radiologists with 13+ years training threatened by image analysis; lawyers, journalists, programmers, office workers, pharmacists similarly exposed).
+- Evidence: Post-1973 divergence — real wages for typical production/nonsupervisory workers down ~13% while productivity up 107%; median household income growth far below GDP per capita; "jobless recoveries"; falling labor share of national income; soaring inequality (top 5% responsible for ~40% of spending). Seven "deadly trends" signaling the end of the postwar "Golden Age" symbiosis between technological progress and broad prosperity.
+- "Machines do not consume": Parable of alien invasion (or full automation) where production continues but no human purchasers remain → demand collapse, business failures, debt crises, government insolvency. The virtuous loop (productivity → wages → spending) that powered 20th-century growth is eroding.
+- Singularity and super-intelligence (Ch. 9): Engages the intelligence explosion path (recursive self-improvement after AGI leading to superhuman intellect). References Hawking et al. warnings, Vinge ("human era will be ended"), and especially Ray Kurzweil (AGI late 2020s, Singularity ~2045, human-machine merger, "longevity escape velocity"/immortality, Singularity University, Google AI role). Notes expert skepticism (Chomsky "eons away", Pinker "no slightest reason to believe", Moore doubtful) and religious overtones. Also covers nanotech (Drexler molecular assembly/"gray goo" vs. Smalley critique; NNI funding realities).
+- Policy: Past solutions (more education, public works) insufficient. Requires a "new economic paradigm." Primary proposal: guaranteed basic income (or basic income guarantee) to sustain consumer demand, provide individual security, act as automatic stabilizer, and potentially pay for itself via increased economic activity/tax revenue. Revenue options: carbon tax, VAT, higher capital/corporate/wealth taxes, financial transaction tax. Alternatives discussed: capital ownership/wealth redistribution via sovereign wealth fund (Alaska model), expanded Earned Income Tax Credit. Acknowledges political toxicity but argues discussion must begin now.
+
+**The Lights in the Tunnel (2009)**: Earlier book developing the core economic model of accelerating automation leading to demand-side crisis; precursor to *Rise of the Robots*.
+
+Ford writes as a technologist who has built and observed software businesses, giving the analysis a practical, insider perspective on how IT actually reduces headcount in operations. He is not anti-technology or anti-progress; the concern is distributional and systemic — abundance is possible, but only with deliberate adaptation of economic institutions. The book is widely cited in debates on AI/automation, universal basic income, and the future of work.
+
+## Life and Reception
+
+Ford has decades of experience in software development and running a small technology business, giving him direct observation of how automation tools reduce the need for routine labor. He has been a prominent voice in the "technological unemployment" discussion since the late 2000s, alongside (and sometimes in contrast with) more optimistic futurists. *Rise of the Robots* received significant attention, including the FT/McKinsey award, and has been engaged by economists, technologists, and policy circles. Critics have questioned timelines, the feasibility of basic income politically/economically, or whether historical patterns will reassert; supporters praise the data synthesis and urgency.
+
+## Relevance to Vault
+
+This thinker and source provide the primary, empirically grounded treatment of the *labor-market and macroeconomic downside* of the technological forces already operating in the AI & Cognitive Science leg. It directly engages vault through-lines:
+- **Kelly's forces as mechanism**: Cognifying (ubiquitous cheap AI) and Becoming (flux, services over products, perpetual upgrading) are precisely what produce the white-collar displacement, "predictable" job vulnerability, and consumer demand erosion Ford diagnoses. Kelly's protopian embrace + manage is one stance; Ford insists on paradigm-level adaptation (basic income) or face crisis. Cross-updates to [[Sources/The Inevitable - Kevin Kelly (2016)]], [[Concepts/Cognifying (Kelly)]], [[Concepts/Becoming (Kelly)]], and the new [[Concepts/Technium (Kelly)]] (technium "wants" include the exotropy driving this automation).
+- **Bostrom risks within the wave**: Ch. 9 directly covers super-intelligence/intelligence explosion and existential-scale disruption potential (Hawking et al.). Ford focuses on nearer-term economic/job impacts from narrow/specialized AI + robotics (already displacing), while Bostrom emphasizes long-term control/alignment for AGI/superintelligence. Complementary: the same technological substrate. Cross to [[Sources/Superintelligence - Nick Bostrom (2014)]], [[Concepts/Superintelligence (Bostrom)]], [[Concepts/Orthogonality Thesis (Bostrom)]], [[Concepts/Instrumental Convergence (Bostrom)]].
+- **Kurzweil Singularity engagement**: Dedicated chapter critiques/engages the optimistic 2045 rupture, merger, and immortality narrative while acknowledging acceleration. Ford is more measured and economically focused. Cross to [[Sources/The Singularity Is Near - Ray Kurzweil (2005)]], [[Concepts/Singularity (Kurzweil)]], [[Concepts/Law of Accelerating Returns (Kurzweil)]].
+- **Mitchell limits/hype corrective**: Ford cites Watson, deep learning, robotics progress as evidence of imminent broad displacement. Mitchell provides the reality check on brittleness, lack of common sense/analogy/understanding, and hype cycles — suggesting current systems may automate narrow "predictable" slices effectively while falling short of robust generalization. Cross to [[Sources/Artificial Intelligence - Melanie Mitchell (2019)]], [[Concepts/Understanding vs Pattern Matching in AI (Mitchell)]], [[Concepts/Brittleness of Deep Learning (Mitchell)]].
+- **Wiener historical root**: Explicitly revives Wiener's cybernation warning and "industrial revolution of unmitigated cruelty" (machines reducing routine worker value to zero). Ford's "Second IR" update with data and white-collar reach. Cross to [[Sources/The Human Use of Human Beings - Norbert Wiener (1950)]], [[Concepts/Second Industrial Revolution (Wiener)]].
+- **History of Ideas / progress narratives**: Challenges the postwar economist assumption that the "Golden Age" (productivity ↔ wages symbiosis) was normal/permanent (like Australian settlers assuming lush climate was permanent). Revives 1964 Triple Revolution report (guaranteed income amid automation fears) against the "Luddite fallacy" dismissal. Ties to vault's treatment of progress, contingency, and "this time different" (Butterfield/Kuhn on mental shifts and normal science; Lovejoy on static vs. becoming worldviews).
+- **Vault meta**: The wiki itself participates in the forces (cognifying tools, becoming via perpetual targeted upgrades, questioning via lint/ingest) while documenting their implications. Basic income debates connect to broader questions of meaning, work, leisure, and human flourishing amid technological abundance (links to Wiener on "know-what", Dennett on narrative selves, etc.).
+
+New entity + source-summary + 3-4 concepts (Technological Unemployment (Ford), Basic Income Guarantee (Ford), Is This Time Different? (Ford) or equivalent, Machines Do Not Consume (Ford)). Targeted cross-updates across AI/CogSci (Kelly, Bostrom, Kurzweil, Mitchell, Wiener) and related. See dedicated source page and [[log]] for full entry. No prior dedicated Martin Ford pages existed.
+
+*In the vault*: Ford supplies the clearest, most data-focused bridge from the "what technology wants"/cognifying acceleration (Kelly) and AI capabilities/limits (Kurzweil/Mitchell/Bostrom) to concrete economic and policy consequences (technological unemployment, demand-side crisis, basic income as adaptation). It revives and empirically updates the Wiener-era warnings within the current wave of general-purpose IT and machine learning. Essential for understanding the societal stakes of the AI & CogSci leg. Stats updated in index + log. See [[log]].
+
+*The past solutions to technological disruption, especially more training and education, aren’t going to work.* (Ford)

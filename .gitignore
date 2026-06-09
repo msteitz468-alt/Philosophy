@@ -1,0 +1,26 @@
+# Obsidian workspace / cache (per-machine, large, or transient)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/appearance.json  # keep if you want to share theme, but often personal
+.obsidian/plugins/*/data.json  # many plugin data files are local state
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Temporary / scratch
+*.tmp
+*.swp
+*~
+
+# If you ever add build artifacts or exports
+# exports/
+# slides/
+
+# Raw sources (excluded from the repo)
+raw/
+
+# Keep everything else, especially:
+# - All markdown in wiki/
+# - .obsidian/app.json, core plugins config, community plugin manifests if desired
