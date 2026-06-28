@@ -4,11 +4,11 @@ type: thinker
 era: "c. 427–347 BC"
 schools: [Platonism]
 domains: [ethics, political-philosophy, metaphysics, epistemology]
-source_count: 13
+source_count: 17
 created: "2026-06-03"
-updated: "2026-06-03"
+updated: "2026-06-11"
 tags: [philosophy, classical, ancient-greece, plato, c427-347bce, ethics, political-philosophy, metaphysics, epistemology]
-sources: ["Plato - Timaeus & Critias (Oxford, 2008).docx", "Plato - Republic (Cambridge, 2000).pdf", "plato_five_dialogues_rag.md", "plato_gorgias_rag.md", "plato_ion_hippias_laches_protagoras_rag.md", "plato_clitophon_rag.md", "laws.md", "meno.md", "parmenides.md", "phaedo.md", "Plato - Theaetetus.md", "gemini-code-1780529044073.yaml", "gemini-code-1780529148704.yaml"]
+sources: ["Plato - Timaeus & Critias (Oxford, 2008).docx", "Plato - Republic (Cambridge, 2000).pdf", "plato_five_dialogues_rag.md", "plato_gorgias_rag.md", "plato_ion_hippias_laches_protagoras_rag.md", "plato_clitophon_rag.md", "laws.md", "meno.md", "parmenides.md", "phaedo.md", "Plato - Theaetetus.md", "gemini-code-1780529044073.yaml", "gemini-code-1780529148704.yaml", "Symposium - Plato.txt", "Phaedrus - Plato.txt", "Sophist - Plato.txt", "Statesman - Plato.txt"]
 ---
 
 # Plato
@@ -30,6 +30,8 @@ The vault now contains summaries or excerpts from the following Platonic dialogu
 **Cosmology / Late Period**:
 - *Timaeus* — teleological cosmogony; demiurge imposes order on chaos; geometric elements; world-soul; time as moving image of eternity; human body as microcosm. [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]]
 - *Critias* — Atlantis: concentric island empire, bull rituals, hubris, cataclysm (sole ancient source). Unfinished. [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]]
+- *Sophist* — defining the sophist; method of division; problem of non-being and falsehood; the Five Greatest Kinds. [[Sources/Sophist - Plato]]
+- *Statesman* — definition of the statesman; myth of cosmic cycles; rule of law as second-best. [[Sources/Statesman - Plato]]
 
 **Political Philosophy**:
 - *Republic* — ideal state; philosopher-kings; tripartite soul (reason/spirit/appetite); Forms; Allegory of the Cave; regime decay. [[Sources/The Republic - Plato (Cambridge, 2000)]]
@@ -37,6 +39,8 @@ The vault now contains summaries or excerpts from the following Platonic dialogu
 - *Gorgias* — rhetoric vs. true philosophy; justice vs. power; Socrates refuses to flatter; critique of sophistry and "might is right."
 
 **Ethics / Epistemology**:
+- *Symposium* — eulogies on Love (Eros); split-selves myth; Diotima's Ladder of Love; ascent to the Form of Beauty. [[Sources/Symposium - Plato]]
+- *Phaedrus* — love as divine madness; Chariot Allegory (Reason/Spirit/Appetite); critique of writing and sophistry. [[Sources/Phaedrus - Plato]]
 - *Meno* — can virtue be taught? Recollection (*anamnesis*); the slave-boy geometry proof; hypothesis method; true belief vs. knowledge.
 - *Phaedo* — soul immortality; Theory of Forms; philosophy as preparation for death; Socrates' final hours.
 - *Protagoras* — teachability of virtue debate; Socratic intellectualism (all wrongdoing from ignorance); hedonism critique; virtue as measurement of pleasure.
@@ -78,10 +82,13 @@ New domain entry (classical philosophy / "reading a book" use case per [[GROK]])
 - [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]]
 - [[Sources/The Republic - Plato (Cambridge, 2000)]]
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]] (Laws, Gorgias, Five Dialogues, Parmenides, Philebus, Theaetetus, etc.)
+- [[Sources/Symposium - Plato]], [[Sources/Phaedrus - Plato]], [[Sources/Sophist - Plato]], [[Sources/Statesman - Plato]]
 - [[Thinkers/Aristotle]] — student of Plato; critic of Forms and teleology
 - [[Thinkers/Plotinus]] — "Plato redivivus"; Neoplatonism as systematic Platonism
 - [[Thinkers/Epicurus]] / [[Thinkers/Lucretius]] — direct materialist counterpoint (blind atoms vs. demiurge/Forms)
+- [[Thinkers/Parmenides]] — target of the "parricide" in the Sophist
 - [[Concepts/Atlantis]], [[Concepts/Eudaimonia]], [[Concepts/Teachability of Virtue (Plato Protagoras Meno)]], [[Concepts/Pleasure vs Intelligence as the Good (Philebus)]]
+- [[Concepts/Ladder of Love and Form of Beauty (Plato Symposium)]], [[Concepts/Chariot Allegory and Divine Madness (Plato Phaedrus)]], [[Concepts/Method of Division and Definition of Sophist (Plato Sophist)]], [[Concepts/Rule of Law vs Royal Art of Statesmanship (Plato Statesman)]]
 - [[Thinkers/Bertrand Russell]] — sharply critical: "Plato is **hardly ever intellectually honest, because he allows himself to judge doctrines by their social consequences**… He introduced this vice into philosophy, where it has persisted ever since." Reads the *Republic*'s Utopia as Sparta-inspired authoritarianism ("the union of idealism and love of power has led men astray over and over again"). See [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]], [[Concepts/Social Cohesion vs. Individual Liberty (Russell)]].
 - [[LLM Wiki]] (deep reading example)
 - [[Sources/The Great Chain of Being - Arthur O. Lovejoy (1936)]] and [[Thinkers/Arthur O. Lovejoy]] — Lovejoy's history of the "Great Chain of Being" traces the Timaeus (plenitude/generative Good, all possibles realized) + Republic (Idea of the Good as transcendent source) as primary origin of the dominant Western presupposition of a full, continuous, graded cosmos (fused with Aristotelian continuity/gradation and elaborated in Neoplatonism/medieval thought). This source roots the History of Ideas leg and supplies the presuppositional background for the vault's classical and Phil of Science holdings.

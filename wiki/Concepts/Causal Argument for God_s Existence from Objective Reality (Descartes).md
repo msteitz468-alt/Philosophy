@@ -56,7 +56,7 @@ This is a model of rigorous causal tracing from effect (the idea or the dependen
 
 - [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]
 - [[Thinkers/Descartes]]
-- [[Concepts/Ontological Argument (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]]
+- [[Arguments/Ontological Argument|Ontological Argument]], [[Concepts/Clear and Distinct Perception (Descartes)]]
 - [[Concepts/Occasionalism vs Natural Causation (Ghazali and Ibn Rushd)]], [[Concepts/Natural Law (Aquinas)]], [[Concepts/Beatific Vision - Last End (Aquinas)]]
 - [[Sources/Incoherence of the Incoherence - Ibn Rushd]], [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]]
 

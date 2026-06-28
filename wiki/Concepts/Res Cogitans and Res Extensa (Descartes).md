@@ -31,6 +31,9 @@ sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)"]
 
 ## Key Distinctions and Tensions
 
+- > [!WARNING]
+  > Conflicts with [[Concepts/Subjective Idealism (Berkeley)|Subjective Idealism (Berkeley)]] on the existence of *res extensa* (material substance) — see [[Contradictions/Subjective Idealism vs. Physical Realism]].
+
 - **Substance dualism**: Two really distinct substances (complete in themselves, needing only God's concurrence to exist). Not property dualism or hylomorphism (soul as form of body).
 - **Interaction problem**: How do two substances with no common attribute interact? (A problem Descartes acknowledges in correspondence, especially with Princess Elizabeth; the *Passions of the Soul* addresses the union via the pineal gland as seat, but the *Meditations* leave the "how" largely open.)
 - **Animals**: No minds/souls (or only mechanical souls); they are automata. Discussed in Objections (esp. 6th).

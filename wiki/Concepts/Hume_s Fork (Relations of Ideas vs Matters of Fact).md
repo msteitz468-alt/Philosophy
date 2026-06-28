@@ -25,7 +25,7 @@ The criterion separating the prongs is **conceivability**: a relation of ideas c
 
 ## What the Fork Does
 
-1. **Detonates rationalist metaphysics**: any claim about existence (God, substance, causal necessity, the external world) must be a matter of fact, hence contingent and answerable only to experience — *not* demonstrable a priori. This is the standing refutation of the [[Concepts/Ontological Argument (Descartes)|ontological argument]] (existence is never part of an essence; "the non-existence of any being is as clear and distinct an idea as its existence") and of Spinoza's deduction of the world's features from the essence of substance.
+1. **Detonates rationalist metaphysics**: any claim about existence (God, substance, causal necessity, the external world) must be a matter of fact, hence contingent and answerable only to experience — *not* demonstrable a priori. This is the standing refutation of the [[Arguments/Ontological Argument|ontological argument]] (existence is never part of an essence; "the non-existence of any being is as clear and distinct an idea as its existence") and of Spinoza's deduction of the world's features from the essence of substance.
 2. **Sets up the problem of induction**: since causal relations are matters of fact, and the contrary of any predicted effect is conceivable, no causal inference is demonstrative. See [[Concepts/Problem of Induction (Hume)]].
 3. **Yields a meaning/value filter** (Section XII): the only proper objects of inquiry are *quantity and number* (demonstration) and *matters of fact* (experience). A volume containing neither should be committed "to the flames." See [[Concepts/Mitigated Scepticism (Hume)]].
 
@@ -54,7 +54,7 @@ Quine's "Two Dogmas of Empiricism" (1951) launches the decisive internal critiqu
 - [[Thinkers/Hume]], [[Thinkers/W.V.O. Quine]]
 - [[Concepts/Problem of Induction (Hume)]], [[Concepts/Impressions and Ideas - Copy Principle (Hume)]], [[Concepts/Mitigated Scepticism (Hume)]]
 - [[Concepts/Analytic-Synthetic Distinction (Quine)]], [[Concepts/Reductionism and Verification Theory of Meaning (Quine)]], [[Concepts/Confirmation Holism (Duhem-Quine Thesis)]]
-- [[Concepts/Ontological Argument (Descartes)]], [[Concepts/Geometrical Method - Rationalism (Spinoza)]] (rationalist targets); [[Concepts/Modal Copula (Aristotelian Modality)]] (alternative modal framework)
+- [[Arguments/Ontological Argument|Ontological Argument]], [[Concepts/Geometrical Method - Rationalism (Spinoza)]] (rationalist targets); [[Concepts/Modal Copula (Aristotelian Modality)]] (alternative modal framework)
 - [[Thinkers/Descartes]], [[Thinkers/Spinoza]], [[Thinkers/Aristotle]]
 
 *Concept page created during 2026-06-04 Hume *Enquiry* ingest. The two-pronged classification of all inquiry that grounds the induction problem and the meaning-test.*

@@ -65,7 +65,7 @@ Material things are *logical constructions* out of sense-contents: all sentences
 - **[[Thinkers/Karl Popper]]**: a contemporary critic from within the anti-metaphysics camp. Popper disagrees that verifiability is the right criterion (use falsifiability for *demarcation*, not *meaning*), treats the induction problem as genuine (not fictitious), and rejects the identification of metaphysics with nonsense in principle (some metaphysical research programs are fruitful). See [[Concepts/Falsifiability as Criterion of Demarcation (Popper)]].
 - **[[Thinkers/Kant]]**: Ayer's main theoretical opponent. Kant's synthetic a priori is the key target; Ayer argues all Kant's purported examples are analytic. The "transcendental aesthetic" falls with it.
 - **[[Thinkers/Carnap]]** (not yet a vault entity): closest Vienna Circle ally. The *Aufbau* is the most serious prior attempt to reduce physical-object language to sense-data; Ayer adopts the spirit while liberalizing the criterion.
-- **[[Thinkers/Locke]]**, **[[Thinkers/Berkeley]]**: part of Ayer's empiricist lineage; he claims they were primarily analysts, not metaphysicians (Locke "clearing the ground"; Berkeley correctly seeing material things must be defined in terms of sense-contents).
+- [[Thinkers/Locke]], [[Thinkers/George Berkeley|Berkeley]]: part of Ayer's empiricist lineage; he claims they were primarily analysts, not metaphysicians (Locke "clearing the ground"; Berkeley correctly seeing material things must be defined in terms of sense-contents).
 
 ## 1946 Revisions (Appendix)
 

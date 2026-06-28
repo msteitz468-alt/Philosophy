@@ -2451,3 +2451,106 @@ This completes the ingest per SCHEMA.md. One source integrated into ~7+ wiki pag
 Followed SCHEMA.md exactly (read index/log first, file counts, greps for orphans/warnings/loose terms, targeted fixes only, append-only log entry with findings). No silent reconciliation of issues. Vault is in good shape after Kaku + prior AI/History of Ideas leg work.
 
 See [[log]] for this lint and prior ingests.
+
+---
+
+## [2026-06-11] Ingest | Pre-Socratics and Plato late dialogues (Burnet's *Early Greek Philosophy* + Plato's *Symposium*, *Phaedrus*, *Sophist*, *Statesman*)
+
+**Sources**:
+- `raw/Early Greek Philosophy - John Burnet.txt` (doxography and translation of Pre-Socratic fragments).
+- `raw/Symposium - Plato.txt` (dialogue on love, beauty, and form).
+- `raw/Phaedrus - Plato.txt` (dialogue on love, soul, and writing).
+- `raw/Sophist - Plato.txt` (dialogue on division, sophistry, and non-being).
+- `raw/Statesman - Plato.txt` (dialogue on governance, cycles, and law).
+
+**Key content**:
+- **Pre-Socratics**: The emergence of naturalist cosmology and metaphysics. Water as *arche* (Thales), *Apeiron* (Anaximander), Air (Anaximenes), Number as essence (Pythagoras), universal flux and opposites under *Logos* (Heraclitus), Eleatic monism and stasis (Parmenides), paradoxes of motion (Zeno), pluralist roots/forces (Empedocles), cosmic mind/Nous (Anaxagoras), and mechanical atomism (Leucippus and Democritus).
+- **Plato**: *Symposium* (Ladder of Love to the Form of Beauty); *Phaedrus* (Chariot Allegory of the soul, divine madness, critique of writing); *Sophist* (method of division, definition of the sophist, proof of Non-Being as difference/otherness); *Statesman* (royal art of statesmanship, cosmic cycles myth, rule of law as second-best).
+
+**Actions taken**:
+- Extracted and read raw files.
+- Created source summary page for Burnet: `wiki/Sources/Early Greek Philosophy - John Burnet (1920).md`
+- Created 10 thinker pages: Thales, Anaximander, Anaximenes, Pythagoras, Heraclitus, Parmenides, Zeno of Elea, Empedocles, Anaxagoras, Democritus.
+- Created 9 Pre-Socratic concept pages: Arche, Apeiron, Number as Essence, Heraclitean Flux, Parmenidean Being, Zeno's Paradoxes, Four Elements, Nous, Atomism.
+- Created 2 contradiction pages: Heraclitean Flux vs. Parmenidean Stasis, Atomist Materialism vs. Platonic-Aristotelian Teleology.
+- Created 4 Plato source summaries: Symposium, Phaedrus, Sophist, Statesman.
+- Created 4 Plato concept pages: Ladder of Love, Chariot Allegory, Method of Division, Rule of Law vs. Statesmanship.
+- Updated thinker page `wiki/Thinkers/Plato.md` with new sources and dialogue links.
+- Updated `wiki/index.md` statistics, categories (added 5 sources, 2 contradictions, 10 thinkers, 13 concepts), and banner.
+- Verified vault formatting and cross-links (in-progress).
+
+---
+
+## [2026-06-11] Ingest | G.W.F. Hegel Major Works (German Idealism Domain Bootstrap)
+
+**Sources**:
+- `raw/The Logic of Hegel - William Wallace.txt` (translation of the Lesser Logic, Gutenberg #55108).
+- `raw/Philosophy of History - John Sibree.txt` (translation of Lectures on the Philosophy of History, Internet Archive).
+- `raw/Phenomenology of Mind - J B Baillie.txt` (translation of Phenomenology of Spirit, Internet Archive).
+- `raw/Hegel Philosophy of Mind - William Wallace.txt` (translation of Philosophy of Mind, Gutenberg #39064).
+
+**Key content**:
+- **German Idealism**: Bootstrap of the new philosophical domain centering on Georg Wilhelm Friedrich Hegel's Absolute Idealism. Developed dynamic dialectical logic to resolve the dualisms of modern epistemology (phenomena/noumena, subject/object, nature/freedom).
+- **Core Concepts**: *Geist* (Absolute Spirit as historical/rational process), the Dialectical Method (thesis-antithesis-synthesis progression driven by internal contradictions), *Aufhebung* (sublation as simultaneous negation, preservation, and elevation), the Master-Slave Dialectic (intersubjective struggle for recognition, labor, and self-realization), and the Cunning of Reason (Spirit's use of individual passions to realize historical freedom).
+
+**Actions taken**:
+- Downloaded and analyzed raw source texts to `raw/`.
+- Created thinker page: `wiki/Thinkers/Hegel.md`.
+- Created 5 concept pages: `wiki/Concepts/Dialectical Method (Hegel).md`, `wiki/Concepts/Geist (Absolute Spirit).md`, `wiki/Concepts/Master-Slave Dialectic (Hegel).md`, `wiki/Concepts/Aufhebung (Sublation).md`, `wiki/Concepts/Cunning of Reason (Hegel).md`.
+- Created 2 contradiction pages: `wiki/Contradictions/Hegelian Monism vs. Kantian Dualism.md`, `wiki/Contradictions/Dialectical Idealism vs. Atomist Materialism.md`.
+- Created 4 source summary pages: `wiki/Sources/Phenomenology of Spirit - Hegel (1807).md`, `wiki/Sources/The Logic of Hegel - Hegel (1812).md`, `wiki/Sources/Philosophy of History - Hegel (1837).md`, `wiki/Sources/Philosophy of Mind - Hegel (1894).md`.
+- Updated `wiki/index.md` counts (thinkers 60, concepts 249, source-summaries 76, contradictions 15, total ~386), lists, and the main banner.
+- Verified vault formatting and cross-links via the lint script.
+
+---
+
+## [2026-06-11] Ingest | Hobbes, Leibniz, Mill, and Marx (Modern Metaphysics, Ethics, and Political Philosophy)
+
+**Sources**:
+- `raw/Leviathan - Thomas Hobbes.txt` (Gutenberg #3207)
+- `raw/Utilitarianism - John Stuart Mill.txt` (Gutenberg #11224)
+- `raw/On Liberty - John Stuart Mill.txt` (Gutenberg #34901)
+- `raw/The Communist Manifesto - Marx and Engels.txt` (GitHub mirror)
+- `raw/Discourse on Metaphysics and Monadology - Leibniz.txt` (Gutenberg #28414)
+
+**Key content**:
+- **Modern Metaphysics, Ethics, and Political Philosophy**: Integration of core modern thinkers covering absolute sovereignty, utilitarian ethics, political liberalism, historical materialism, class struggle, and rationalist substance pluralism.
+- **Core Concepts**: State of Nature (Hobbes), Social Contract (Hobbes), Harm Principle (Mill), Greatest Happiness Principle (Mill), Historical Materialism (Marx), Class Struggle (Marx), Monad (Leibniz), and Pre-Established Harmony (Leibniz).
+
+**Actions taken**:
+- Sourced and downloaded 5 raw source texts to `raw/`.
+- Created 4 thinker pages: `wiki/Thinkers/Thomas Hobbes.md`, `wiki/Thinkers/John Stuart Mill.md`, `wiki/Thinkers/Karl Marx.md`, `wiki/Thinkers/Gottfried Wilhelm Leibniz.md`.
+- Created 8 concept pages: `wiki/Concepts/State of Nature (Hobbes).md`, `wiki/Concepts/Social Contract (Hobbes).md`, `wiki/Concepts/Harm Principle (Mill).md`, `wiki/Concepts/Greatest Happiness Principle (Mill).md`, `wiki/Concepts/Historical Materialism (Marx).md`, `wiki/Concepts/Class Struggle (Marx).md`, `wiki/Concepts/Monad (Leibniz).md`, `wiki/Concepts/Pre-Established Harmony (Leibniz).md`.
+- Created 3 contradiction pages: `wiki/Contradictions/Hobbesian Absolutism vs. Lockean Constitutionalism.md`, `wiki/Contradictions/Utilitarian Consequentialism vs. Kantian Deontology.md`, `wiki/Contradictions/Dialectical Idealism vs. Historical Materialism.md`.
+- Created 5 source summary pages: `wiki/Sources/Leviathan - Thomas Hobbes (1651).md`, `wiki/Sources/Utilitarianism - John Stuart Mill (1861).md`, `wiki/Sources/On Liberty - John Stuart Mill (1859).md`, `wiki/Sources/The Communist Manifesto - Marx and Engels (1848).md`, `wiki/Sources/Monadology - Leibniz (1714).md`.
+- Updated `wiki/index.md` counts (thinkers 64, concepts 257, source-summaries 81, contradictions 18, total ~406), categories, and the main banner.
+- Verified vault formatting and cross-links.
+
+---
+
+## [2026-06-11] Ingest | Berkeley, Rousseau, Wittgenstein, Schopenhauer, and Anselm (Immaterialism, Social Contract, Logical Atomism, Voluntarism, and Ontological Argument)
+
+**Sources**:
+- `raw/Three Dialogues between Hylas and Philonous - George Berkeley.txt`
+- `raw/The Social Contract - Jean-Jacques Rousseau.txt`
+- `raw/Tractatus Logico-Philosophicus - Ludwig Wittgenstein.txt`
+- `raw/The World as Will and Idea Vol 1 - Arthur Schopenhauer.txt`
+- `raw/Proslogion - Anselm of Canterbury.txt`
+
+**Key content**:
+- **Immaterialism, Social Contract, Logical Atomism, Voluntarism, and Ontological Argument**: Integration of five major thinkers covering subjective idealism, popular sovereignty and general will, picture theory of language, voluntaristic pessimism, and the ontological argument.
+- **Core Concepts**: Subjective Idealism (Berkeley), State of Nature (Rousseau), General Will (Rousseau), Picture Theory of Language (Wittgenstein), and The Will (Schopenhauer).
+- **Arguments**: Promoted the Ontological Argument from a Cartesian concept page to a unified, multi-author page covering Anselm's formulation, Descartes' version, and standard critiques.
+
+**Actions taken**:
+- Sourced and downloaded 5 raw source texts to `raw/`.
+- Created 5 thinker pages: `wiki/Thinkers/George Berkeley.md`, `wiki/Thinkers/Jean-Jacques Rousseau.md`, `wiki/Thinkers/Ludwig Wittgenstein.md`, `wiki/Thinkers/Arthur Schopenhauer.md`, `wiki/Thinkers/Anselm of Canterbury.md`.
+- Created 5 concept pages: `wiki/Concepts/Subjective Idealism (Berkeley).md`, `wiki/Concepts/General Will (Rousseau).md`, `wiki/Concepts/State of Nature (Rousseau).md`, `wiki/Concepts/Picture Theory of Language (Wittgenstein).md`, `wiki/Concepts/The Will (Schopenhauer).md`.
+- Promoted Descartes' Ontological Argument concept, deleted `wiki/Concepts/Ontological Argument (Descartes).md`, and created `wiki/Arguments/Ontological Argument.md`. Updated all inbound links.
+- Created 3 contradiction pages: `wiki/Contradictions/Subjective Idealism vs. Physical Realism.md`, `wiki/Contradictions/Rousseau vs. Hobbes on the State of Nature.md`, `wiki/Contradictions/Schopenhauer's Pessimism vs. Leibnizian Optimism.md`.
+- Created 5 source summary pages: `wiki/Sources/Three Dialogues between Hylas and Philonous - George Berkeley (1713).md`, `wiki/Sources/The Social Contract - Jean-Jacques Rousseau (1762).md`, `wiki/Sources/Tractatus Logico-Philosophicus - Ludwig Wittgenstein (1922).md`, `wiki/Sources/The World as Will and Idea - Arthur Schopenhauer (1819).md`, `wiki/Sources/Proslogion - Anselm of Canterbury (1078).md`.
+- Updated `wiki/index.md` counts (thinkers 69, concepts 261, source-summaries 86, contradictions 21, argument 1, total ~441), categories, and the main banner.
+- Verified vault formatting and cross-links.
+
+
+

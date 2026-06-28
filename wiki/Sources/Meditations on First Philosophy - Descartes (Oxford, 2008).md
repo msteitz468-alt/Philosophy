@@ -90,7 +90,7 @@ Major extension of the classical philosophy domain into early modernity/rational
 ## Related
 
 - [[Thinkers/Descartes]]
-- [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Cogito (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]], [[Concepts/Res Cogitans and Res Extensa (Descartes)]], [[Concepts/Ontological Argument (Descartes)]], [[Concepts/Causal Argument for God's Existence from Objective Reality (Descartes)]]
+- [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Cogito (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]], [[Concepts/Res Cogitans and Res Extensa (Descartes)]], [[Arguments/Ontological Argument|Ontological Argument]], [[Concepts/Causal Argument for God's Existence from Objective Reality (Descartes)]]
 - [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Augustine]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Sextus Empiricus]], [[Thinkers/Plotinus]], [[Thinkers/Epictetus]]
 - [[Sources/The Republic - Plato (Cambridge, 2000)]], [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]], [[Sources/Aristotle - Nicomachean Ethics (Book I)]], [[Sources/Outlines of Pyrrhonism - Sextus Empiricus]], [[Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas]], [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]], [[Sources/Confessions - Augustine]], [[Sources/City of God - Augustine]], [[Sources/The Enneads - Plotinus]]
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]]
