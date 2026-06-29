@@ -4,11 +4,11 @@ type: thinker
 era: "4th century BC"
 schools: [Aristotelianism, Peripatetic School]
 domains: [ethics, logic, rhetoric, metaphysics]
-source_count: 3
+source_count: 4
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-06-29"
 tags: [aristotle, philosophy, logic, ethics, rhetoric, metaphysics, classical, 4th-century-bc]
-sources: ["Aristotle_Logic.md", "gemini-code-1780526441159.md", "gemini-code-1780526905681.md"]
+sources: ["Aristotle_Logic.md", "gemini-code-1780526441159.md", "gemini-code-1780526905681.md", "Metaphysics (Aristotle).txt"]
 ---
 
 # Aristotle
@@ -36,6 +36,21 @@ sources: ["Aristotle_Logic.md", "gemini-code-1780526441159.md", "gemini-code-178
 - Three branches: deliberative (future, expedient), forensic (past, just/unjust), epideictic (present, praise/blame).
 - Critiques earlier manuals for over-focusing on emotional manipulation at the expense of substance and the integrity of judgment.
 
+**Metaphysics (the full treatise, W. D. Ross translation — ingested 2026-06-29)**:
+This is the metaphysical core only gestured at before. The fourteen books develop:
+- **Wisdom as knowledge of first causes** and the cognitive ladder sensation→memory→experience→art→wisdom ("all men by nature desire to know"); knowing *why* vs. *that* ([[Concepts/Wisdom as Knowledge of First Causes (Aristotle)]]).
+- **The four causes** — material, formal, efficient, final — and the doxographic verdict that every predecessor grasped only one or two "like one who lisps" ([[Concepts/The Four Causes (Aristotle)]]).
+- **Being qua being** as the object of first philosophy; "being is said in many ways" unified by *pros hen* (focal) reference to **substance** ([[Concepts/Being qua Being (Aristotle)]]).
+- **The principle of non-contradiction** as the firmest principle, indemonstrable but defended by *elenchus*; refutation of Protagorean relativism and Heraclitean flux ([[Concepts/Principle of Non-Contradiction (Aristotle)]]).
+- **Substance (*ousia*)** as primary being; of the four candidates (substratum, universal, composite, form), **form/essence is primary** ([[Concepts/Substance (Ousia) (Aristotle)]], [[Concepts/Essence and Definition (Aristotle)]]).
+- **Hylomorphism**: sensible substance = matter (potential) + form (actual), unified intrinsically ([[Concepts/Form and Matter - Hylomorphism (Aristotle)]]).
+- **Potentiality and actuality**, with the master-thesis that **actuality is prior to potentiality** in formula, time, and substance ([[Concepts/Potentiality and Actuality (Aristotle)]]).
+- **Unity / the One** as measure, not substance ([[Concepts/Unity and the One (Aristotle)]]).
+- **The unmoved mover** (Book XII): eternal motion requires an eternal, purely actual, immaterial substance that moves "as an object of love," whose life is *thought thinking itself* — Aristotle's natural theology ([[Concepts/The Unmoved Mover (Aristotle)]]).
+- **The sustained critique of Plato's Forms and of number-metaphysics** (Books I, XIII–XIV): Forms are redundant, causally inert, regress-breeding (Third Man), and incoherent as numbers ([[Concepts/Critique of Platonic Forms (Aristotle)]]). This supplies the primary text for [[Contradictions/Plato vs Aristotle on the Forms]].
+
+See [[Sources/Aristotle - Metaphysics]] for the full source-summary. This ingest grounds the act/potency and prime-mover material that [[Thinkers/Thomas Aquinas]] and [[Thinkers/Ibn Rushd]] inherit, and that [[Thinkers/Spinoza]] and [[Thinkers/Leibniz]] later transform.
+
 ## Relevance to Vault
 
 - **Classical Philosophy cluster**: Primary counterpart and successor to Plato in the vault. Logic/metaphysics (Organon) complements Timaeus cosmogony/teleology; Ethics provides practical counterpart to Republic’s ideal state and justice; Rhetoric offers systematic art of persuasion linking to sales/playbook, leadership, and AI prompting.
@@ -54,7 +69,6 @@ sources: ["Aristotle_Logic.md", "gemini-code-1780526441159.md", "gemini-code-178
 - [[Thinkers/Plato]], [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]], [[Sources/The Republic - Plato (Cambridge, 2000)]]
 - [[Sources/MasterClass Collection - 2026]] (excellence, practice, leadership, persuasion)
 - [[Concepts/Reasoning Scaffolds]], [[Concepts/Persuasion & Sales Science]], [[Concepts/Creative Leadership]], [[Concepts/Expertise & Deliberate Practice]]
-- [[Mack Steitz]] (eudaimonia through professional excellence; strategy and rhetoric in career)
 - Future: Phronēsis, Topoi, Essence/Accident in modern contexts, Aristotle vs Plato on the good and the city, Rhetoric in agent design.
 
 ## Skeptical Counterpoint (Sextus Empiricus / Pyrrhonism)

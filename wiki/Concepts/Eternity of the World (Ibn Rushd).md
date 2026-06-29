@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 3
+source_count: 4
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-06-29"
 tags: [philosophy, aristotle, ibn-rushd, averroes, ghazali, metaphysics, creation, eternity, time, causation, classical, medieval]
-sources: ["Incoherence of the Incoherence - Ibn Rushd.txt", "Aristotle - Nicomachean Ethics (Book I).md", "Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas.md"]
+sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Incoherence of the Incoherence - Ibn Rushd.txt", "Aristotle - Nicomachean Ethics (Book I).md", "Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas.md"]
 ---
 
 # Eternity of the World (Ibn Rushd)
@@ -41,6 +41,8 @@ sources: ["Incoherence of the Incoherence - Ibn Rushd.txt", "Aristotle - Nicomac
 
 The editor’s introduction highlights that both sides struggle with the relation between an unchanging eternal God and a changing world, and with whether “creation” language can coherently apply to something co-eternal.
 
+> [!note] Ghazali's side now has its primary text. This page originally reconstructed al-Ghazali through Averroes' rebuttal; his own First/Second Discussions are now ingested ([[Sources/The Incoherence of the Philosophers - Al-Ghazali]]) and treated in full at [[Concepts/Eternal Will and Temporal Creation (Ghazali)]]. His positive doctrine in his own words: "The world was temporally created by an eternal will that decreed its existence at the time in which it came to be"; will is "an attribute whose function — nay, its essence — is to differentiate a thing from its similar," so it needs no further determinant (*murajjih*) to fix the moment. To "how long did God refrain before creating?" he answers: "duration and time are both created." And the world's beginning does not entail an end: "it is not a necessary requirement for that which is temporally originated that it should have an end." The dedicated [[Contradictions/Temporal Creation vs Eternal World]] page now states both sides at full strength.
+
 ## Relation to Other Vault Sources
 
 - **Aristotle**: Direct defense of the Stagirite’s position (see *Physics* VIII, *De Caelo*, *Metaphysics* Lambda). Complements the vault’s Organon (modal/essentialist logic), Nicomachean Ethics (eudaimonia as activity in a complete life — which presupposes a stable natural order), and Rhetoric.
@@ -61,8 +63,9 @@ The editor’s introduction highlights that both sides struggle with the relatio
 
 ## Related
 
-- [[Thinkers/Ibn Rushd]], [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Augustine]], [[Thinkers/Plotinus]]
-- [[Sources/Incoherence of the Incoherence - Ibn Rushd]], [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]], [[Sources/Confessions - Augustine]], [[Sources/City of God - Augustine]], [[Sources/The Enneads - Plotinus]], [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]]
+- [[Thinkers/Al-Ghazali]], [[Thinkers/Ibn Rushd]], [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Augustine]], [[Thinkers/Plotinus]]
+- [[Sources/The Incoherence of the Philosophers - Al-Ghazali]], [[Sources/Incoherence of the Incoherence - Ibn Rushd]], [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]], [[Sources/Confessions - Augustine]], [[Sources/City of God - Augustine]], [[Sources/The Enneads - Plotinus]], [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]]
+- [[Concepts/Eternal Will and Temporal Creation (Ghazali)]], [[Contradictions/Temporal Creation vs Eternal World]]
 - [[Concepts/Occasionalism vs Natural Causation (Ghazali and Ibn Rushd)]], [[Concepts/Natural Law (Aquinas)]], [[Concepts/Beatific Vision - Last End (Aquinas)]], [[Concepts/Eudaimonia]], [[Concepts/Time and Eternity - Distentio Animi (Augustine)]], [[Concepts/Return of the Soul (Epistrophe)]]
 - [[Concepts/Emanation (Proodos)]]
 

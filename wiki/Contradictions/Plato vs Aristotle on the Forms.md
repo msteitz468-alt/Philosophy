@@ -27,10 +27,11 @@ This is the foundational metaphysical split of the classical tradition: whether 
 
 ## Position B — Aristotle: form is immanent in substances
 
-- Aristotle rejects a separate realm of Forms. Form (*eidos*) is real but exists only as the form of an individual substance (hylomorphism: form + matter), not in a world apart.
+- Aristotle rejects a separate realm of Forms. Form (*eidos*) is real but exists only as the form of an individual substance (hylomorphism: form + matter, [[Concepts/Form and Matter - Hylomorphism (Aristotle)]]), not in a world apart. The truly real is *this individual*, known through its immanent form ([[Concepts/Substance (Ousia) (Aristotle)]]).
 - He explicitly criticizes the **Form of the Good** in [[Sources/Aristotle - Nicomachean Ethics (Book I)]]: the good is not one separate Idea but is "said in many ways" across the categories; an abstract, separate Good would be useless to ethics and craft. ("Plato is dear, but truth is dearer.")
+- The **primary-text engine** of the critique is now the *Metaphysics* (Books I, VII, XIII–XIV) — see [[Concepts/Critique of Platonic Forms (Aristotle)]]: the Forms redundantly double the world, are causally inert ("they cause neither movement nor any change"), generate the **Third Man** regress, cannot exist apart since a thing is one with its essence, and collapse into incoherence when reduced to numbers. Mathematicals exist only by **abstraction**, not as separate substances.
 - Universals are grasped by abstraction *from* particulars, not by recollecting a prior acquaintance with transcendent Forms.
-- Held in: [[Thinkers/Aristotle]].
+- Held in: [[Thinkers/Aristotle]], [[Sources/Aristotle - Metaphysics]].
 
 ## Why It Matters / Downstream Effects
 
@@ -45,6 +46,7 @@ This is the foundational metaphysical split of the classical tradition: whether 
 - [[Sources/The Republic - Plato (Cambridge, 2000)]]
 - [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]]
 - [[Sources/Aristotle - Nicomachean Ethics (Book I)]]
+- [[Sources/Aristotle - Metaphysics]] (Books I, VII, XIII–XIV — the sustained critique)
 
 ## Related
 - [[Thinkers/Plato]]

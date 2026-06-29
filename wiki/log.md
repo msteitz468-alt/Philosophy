@@ -2554,3 +2554,29 @@ See [[log]] for this lint and prior ingests.
 
 
 
+
+## [2026-06-29] ingest | Aristotle - Metaphysics (W. D. Ross, full 14 books) — Large-Volume Protocol
+- Read in 9 logical section-groups (I–II, III, IV, V, VI, VII–IX, X–XI, XII, XIII–XIV) via parallel reader subagents (one per group); pages written from condensed digests so no two sections' raw text held in context at once.
+- Source-summary created: [[Sources/Aristotle - Metaphysics]] (Argument Spine + section plan → status: complete + Whole-Work Assessment).
+- Concepts created (11): Wisdom as Knowledge of First Causes; The Four Causes; Being qua Being; Principle of Non-Contradiction; Substance (Ousia); Essence and Definition; Form and Matter - Hylomorphism; Potentiality and Actuality; Unity and the One; The Unmoved Mover; Critique of Platonic Forms (all "(Aristotle)").
+- Updated: [[Thinkers/Aristotle]] (new Metaphysics section + frontmatter source_count 3→4, source added); [[Contradictions/Plato vs Aristotle on the Forms]] (Metaphysics now the primary-text engine of the Aristotelian side).
+- Contradictions: none newly opened; deepened the existing Plato-vs-Aristotle Forms tension and connected to Atomist-vs-Teleology (four causes / final cause). Flagged discontinuity: Aristotle's god neither creates nor knows particulars (vs. Aquinas/Ibn Rushd inheritance).
+- Index: added 1 source line + 11 concept lines.
+## [2026-06-29] ingest-complete | Aristotle - Metaphysics | sections: 9 | created: 12 | updated: 3
+
+## [2026-06-29] ingest-complete | The Incoherence of the Philosophers (Tahafut al-Falasifa) - Al-Ghazali | sections: 5 | created: 6 | updated: 5
+- Large-volume protocol (110k words / "518 pp", Marmura tr.). Supplies the missing PRIMARY half of a debate the vault previously held only via Averroes' rebuttal (Incoherence of the Incoherence). Reading done by 4 parallel subagents over fixed line-ranges; pages written from disk.
+- Created: [[Thinkers/Al-Ghazali]] (entity was absent); concepts [[Concepts/Criterion of Demonstrability (Ghazali)]], [[Concepts/Eternal Will and Temporal Creation (Ghazali)]], [[Concepts/God's Knowledge of Particulars (Ghazali)]], [[Concepts/Bodily Resurrection and the Immaterial Soul (Ghazali)]]; contradiction [[Contradictions/Temporal Creation vs Eternal World]].
+- Updated: [[Concepts/Occasionalism vs Natural Causation (Ghazali and Ibn Rushd)]] and [[Concepts/Eternity of the World (Ibn Rushd)]] (added primary text + Ghazali's own words, source_count bump); [[Contradictions/Occasionalism vs Natural Causation]] (primary source, two-causal-theories note); reciprocal links from [[Thinkers/Ibn Rushd]] and [[Sources/Incoherence of the Incoherence - Ibn Rushd]].
+- Corrections to second-hand record: (a) Disc 17 advances TWO incompatible causal theories (strict occasionalism + a modified dispositional one "for the sake of argument"); (b) the "refute-only" stance is selectively honored — eternal-will and resurrection sections do constructive work; (c) the demonstrability criterion unifies the 20 discussions.
+- Contradictions: 1 new major (Temporal Creation vs Eternal World); deepened the existing Occasionalism contradiction. Verdict captured: 3 doctrines = kufr, 17 = bid'a.
+- Index: added 1 source + 1 thinker + 4 concept + 1 contradiction line; edited 2 concept lines.
+- Open neighbor: Maimonides' Guide for the Perplexed (raw, not yet ingested) — parallel Jewish negotiation of Aristotle vs. scripture.
+
+## [2026-06-29] ingest-complete | The Guide for the Perplexed (Moreh Nevukhim) - Maimonides | sections: 3 | created: 7 | updated: 2
+- Large-volume protocol (270k words / "562 pp", Friedländer 1904 tr.). Reading by 3 parallel subagents over fixed line-ranges (Part I 3093–11109; Part II 11110–17066; Part III 17067–25205); pages written from disk.
+- Adds the THIRD corner of the medieval Aristotle-vs-revelation triangle the vault held in Arabic (Ghazali vs. Ibn Rushd). Maimonides lands on different sides of the two contradiction pages built during the Ghazali ingest.
+- Created: [[Thinkers/Maimonides]] (entity was absent); concepts [[Concepts/Negative Theology and Divine Attributes (Maimonides)]], [[Concepts/Critique of the Kalam (Maimonides)]], [[Concepts/Creation vs Eternity (Maimonides)]], [[Concepts/Prophecy (Maimonides)]], [[Concepts/Providence and the Problem of Evil (Maimonides)]], [[Concepts/Reasons for the Commandments (Maimonides)]].
+- Updated: [[Contradictions/Occasionalism vs Natural Causation]] (Maimonides REJECTS the Kalam occasionalism Ghazali defends → now Ghazali-alone vs. Averroes+Maimonides+Aquinas); [[Contradictions/Temporal Creation vs Eternal World]] (added Position C: eternity undemonstrated, creation on prophecy+design — the verdict Aquinas later adopts). Both: source_count + frontmatter bumped.
+- Cross-tradition payoffs: negative theology (Aquinas → analogy; Spinoza → Deus sive Natura); evil-as-privation (with Augustine/Plotinus); intellectualist eudaimonia + imitatio Dei; Sabean/functional theory of ritual law.
+- Index: added 1 source + 1 thinker + 6 concept lines. Contradictions: none newly opened (Maimonides slots into 2 existing).

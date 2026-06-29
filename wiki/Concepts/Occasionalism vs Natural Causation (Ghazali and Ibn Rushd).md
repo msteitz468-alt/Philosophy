@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 3
+source_count: 4
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-06-29"
 tags: [philosophy, causation, occasionalism, ghazali, ibn-rushd, averroes, aristotle, ash'arites, natural-law, epistemology, metaphysics, classical, medieval]
-sources: ["Incoherence of the Incoherence - Ibn Rushd.txt", "Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas.md", "Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas.md"]
+sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Incoherence of the Incoherence - Ibn Rushd.txt", "Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas.md", "Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas.md"]
 ---
 
 # Occasionalism vs Natural Causation (Ghazali and Ibn Rushd)
@@ -28,6 +28,17 @@ sources: ["Incoherence of the Incoherence - Ibn Rushd.txt", "Sources/Summa Theol
   - Leads to the famous “scandalous” consequences Ghazali himself raises and tries to mitigate: at any moment a book could turn into a horse, a man into a dog, etc., consistent with God’s absolute power. Ghazali’s defense: God has created in us the knowledge that He will not do these things except at special times (prophetic miracles); habit fixes expectation.
 
 Ghazali concedes in later replies that things can have qualities/dispositions, but still insists these need not produce their usual effects without God’s concurrent creation of the effect.
+
+## From the Primary Text (Tahafut al-Falasifa, Seventeenth Discussion)
+
+*Added 2026-06-29 with the ingest of al-Ghazali's own work ([[Sources/The Incoherence of the Philosophers - Al-Ghazali]]) — previously this page reconstructed his position only through Averroes' rebuttal. His actual words:*
+
+- **The thesis:** "The connection between what is habitually believed to be a cause and what is habitually believed to be an effect is not necessary, according to us." Their conjunction "is due to the prior decree of God, who creates them side by side, not to its being necessary in itself."
+- **Fire and cotton:** "The one who enacts the burning by creating blackness in the cotton, [causing] separation in its parts, and making it cinder or ashes is God, either through the mediation of His angels or without mediation. As for fire, which is inanimate, it has no action."
+- **The epistemology** anticipating [[Thinkers/Hume|Hume]]: observation "shows the occurrence [of burning] at [the time of] the contact with the fire but does not show the occurrence [of burning] *by* [the fire]." His man-born-blind example: one who first opens his eyes at daylight thinks sight alone reveals colors, until sunset teaches him the sun was the cause — the apparent cause may be a mere "readier," the true cause the permanent "bestower of forms."
+- **The "scandal" objection and the habit-reply:** the opponent jeers that occasionalism licenses a book left at home becoming a horse "that has defiled the library with its urine." Al-Ghazali: "God created for us the knowledge that He did not enact these possibilities... the continuous habit of their occurrence repeatedly... fixes unshakably in our minds the belief in their occurrence according to past habit." When a miracle comes, "these cognitions slip away from [people's] hearts." The objection is "nothing but sheer vilification."
+- **Two approaches.** Crucially, the primary text shows al-Ghazali offering *two* positions: (1) the pure occasionalist denial (God acts voluntarily; He can create contact without burning); and (2) a **modified theory** "with which there is deliverance from these vilifications" — fire is "created in such a way that" it burns like cotton, yet "we allow as possible that a prophet may be cast into the fire without being burned, either by changing the quality of the fire or by changing the quality of the prophet" (the *talc* example: a man coated in talc sits unharmed in a furnace). Here things have real dispositions, while miracles remain possible through God altering them — provided the divine act stays voluntary. He does not claim the two are compossible; Marmura's introduction and the sequel *Al-Iqtisad* show theory (1), strict Ash'arite occasionalism, is the one he actually holds, theory (2) being advanced for the sake of argument.
+- **Miracles targeted:** Abraham unburned, the staff into a serpent, reviving the dead, splitting the moon. Transformation requires *common matter* (staff→serpent, blood→sperm share subsistent matter); accident↔substance changes, lacking common matter, remain genuinely impossible — so even the second theory has limits.
 
 ## Averroes’ (Aristotelian) Defense of Natural Causation
 
@@ -71,8 +82,8 @@ The vault’s existing Aquinas pages already note the anti-Averroist polemics on
 
 ## Related
 
-- [[Thinkers/Ibn Rushd]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Aristotle]], Ghazali (future primary source)
-- [[Sources/Incoherence of the Incoherence - Ibn Rushd]], [[Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas]], [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]]
+- [[Thinkers/Al-Ghazali]], [[Thinkers/Ibn Rushd]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Aristotle]]
+- [[Sources/The Incoherence of the Philosophers - Al-Ghazali]], [[Sources/Incoherence of the Incoherence - Ibn Rushd]], [[Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas]], [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]]
 - [[Concepts/Eternity of the World (Ibn Rushd)]], [[Concepts/Natural Law (Aquinas)]], [[Concepts/Beatific Vision - Last End (Aquinas)]], [[Concepts/Eudaimonia]]
 - [[Concepts/Emanation (Proodos)]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Epoché (Suspension of Judgment)]]
 - [[Thinkers/Hume]], [[Concepts/Necessary Connexion and the Two Definitions of Cause (Hume)]] — the empiricist *third option* in this debate: Hume agrees with the occasionalists that no necessary connexion is observed in bodies, but rejects the divine remedy and relocates "necessity" into the observer's mind (constant conjunction + customary transition) — neither Averroes' real powers nor Ghazali's God-as-sole-cause.

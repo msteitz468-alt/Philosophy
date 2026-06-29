@@ -53,8 +53,10 @@ Primary source that **grounds the existing anti-Averroist passages** already pre
 ## Related
 
 - [[Sources/Incoherence of the Incoherence - Ibn Rushd]]
+- [[Thinkers/Al-Ghazali]], [[Sources/The Incoherence of the Philosophers - Al-Ghazali]] — his interlocutor; the primary text the *Tahafut al-Tahafut* answers
 - [[Concepts/Eternity of the World (Ibn Rushd)]]
 - [[Concepts/Occasionalism vs Natural Causation (Ghazali and Ibn Rushd)]]
+- [[Contradictions/Temporal Creation vs Eternal World]]
 - [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Plotinus]], [[Thinkers/Augustine]]
 - [[Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas]] (detailed refutations of Averroes on soul/intellect)
 - [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]] (natural law, last end, grace perfects nature — presuppose real secondary causes)
