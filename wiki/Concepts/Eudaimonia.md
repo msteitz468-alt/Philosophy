@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 2
+source_count: 3
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-07-01"
 tags: [aristotle, ethics, happiness, virtue, flourishing, classical]
-sources: ["gemini-code-1780526441159.md", "Aristotle - Nicomachean Ethics (Book I)"]
+sources: ["gemini-code-1780526441159.md", "Aristotle - Nicomachean Ethics (Book I)", "Nicomachean Ethics (Aristotle).txt"]
 ---
 
 # Eudaimonia
@@ -28,6 +28,14 @@ sources: ["gemini-code-1780526441159.md", "Aristotle - Nicomachean Ethics (Book 
 - Links to MasterClass craft and deliberate practice (excellence through repeated excellent activity), routines that support the “complete life” (Wintour, sleep science, mindfulness), and values-driven leadership (Schultz dignity, Blakely mission-tied philanthropy).
 - Practical wisdom (*phronēsis*, implied in the text) for navigating particulars (links to reasoning scaffolds, agentic workflows, CPCU tailoring to specific client exposures).
 - Counterpoint/complement to Plato (ideal Forms and philosopher-kings vs realized activity in the polis) and Thucydides (power politics as the arena in which eudaimonia or its corruption plays out).
+
+## Completion from the Full Text (ingested 2026-07-01)
+
+Reading the complete ten-book *Nicomachean Ethics* (rather than Book I alone) refines this page in two ways.
+
+**Book I, more precisely**: eudaimonia is "something final and self-sufficient, and is the end of action" — the only good chosen always for itself and never for the sake of anything else, while other goods (honor, virtue, pleasure, reason) are chosen both for themselves and for happiness's sake. External goods (birth, friends, wealth, beauty, good fortune) are necessary conditions/instruments, not the substance of happiness, which lies in virtuous activity itself; great misfortune can diminish but does not simply destroy eudaimonia so long as virtuous activity persists — a more precise, resilience-oriented reading than "external goods as necessary instruments" alone suggests.
+
+**Book X completes and specifies the account**: happiness admits of degrees. The *highest* eudaimonia is specifically **contemplative activity** (*theōria* — reason contemplating eternal truth), argued to be most continuous, most self-sufficient, most purely self-directed, most leisured, and most akin to divine activity — "we must, so far as we can, make ourselves immortal, and strain every nerve to live in accordance with the best thing in us." The practically virtuous life (justice, courage, temperance, and the rest, examined across Books II–V) remains genuinely happy but "in a secondary degree," since it depends on relations to others and worldly circumstance rather than being wholly self-sufficient. See [[Concepts/Contemplation and the Best Life - Theoria (Aristotle)]] for the full treatment, and [[Concepts/Doctrine of the Mean (Aristotle)]], [[Concepts/Practical Wisdom - Phronesis (Aristotle)]], [[Concepts/Justice - Universal, Particular, and Equity (Aristotle)]], [[Concepts/Akrasia - Weakness of Will (Aristotle)]], [[Concepts/Friendship - Philia (Aristotle)]], [[Concepts/Voluntary Action and Choice (Aristotle)]], and [[Concepts/Moral Virtues as Means (Aristotle)]] for the intervening machinery (habituation, choice, the particular virtues, justice, practical wisdom, incontinence, and friendship) that Book I's sketch presupposes and Book X's conclusion crowns. See [[Sources/Aristotle - Nicomachean Ethics (Complete, W.D. Ross)]] for the full source-summary, which supersedes the partial Book-I-only [[Sources/Aristotle - Nicomachean Ethics (Book I)]] (retained for its original secondary-notes provenance).
 
 ## Aquinas' Medieval Synthesis and Elevation
 
@@ -52,7 +60,12 @@ Augustine's *Confessions* supplies the experiential and psychological root that 
 See [[Sources/Confessions - Augustine]], [[Thinkers/Augustine]], [[Concepts/Restless Heart - Rest in God (Augustine)]], [[Concepts/Memory - Interiority and Self-Knowledge (Augustine)]]. This adds the confessional, narrative, grace-dependent dimension to eudaimonia — directly relevant to personal "pilgrimages" (career transition, CPCU study, craft mastery) and the vault's own compounding process (restless integration of sources until unified vision).
 
 ## Related
+- [[Sources/Aristotle - Nicomachean Ethics (Complete, W.D. Ross)]]
 - [[Sources/Aristotle - Nicomachean Ethics (Book I)]]
+- [[Concepts/Contemplation and the Best Life - Theoria (Aristotle)]]
+- [[Concepts/Doctrine of the Mean (Aristotle)]]
+- [[Concepts/Practical Wisdom - Phronesis (Aristotle)]]
+- [[Concepts/Friendship - Philia (Aristotle)]]
 - [[Thinkers/Aristotle]]
 - [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]]
 - [[Thinkers/Thomas Aquinas]]

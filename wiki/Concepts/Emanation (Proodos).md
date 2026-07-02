@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 2
+source_count: 3
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-07-01"
 tags: [plotinus, enneads, neoplatonism, emanation, proodos, hierarchy, metaphysics, classical]
-sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026"]
+sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md"]
 ---
 
 # Emanation (Proodos)
@@ -28,6 +28,14 @@ sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Addition
 - **Image and Participation**: Each level is an image (*eikon*) of the prior and participates (*methexis*) in it. The sensible world is "in the likeness" of the intelligible; matter is the extreme of otherness.
 
 The reference file (raw/The Enneads - Plotinus.txt) signals the treatises on origins and order (e.g., V.1–2, VI.9) where the dynamics are worked out in detail.
+
+## From Wallis's *Neoplatonism* (1972)
+
+- **Two-stage structure**: emanation is (1) *procession* — a formless, indefinite outflow of life from the source — and (2) *reversion* — the product's turning back on its source in contemplation, whereby it receives form and order. The Athenian School generalized this into the universal triad [[Concepts/Procession, Remaining, and Return (Neoplatonic Triad)]].
+- **Undiminished giving**: "good diffuses itself" (*bonum diffusivum sui*); perfect beings "spread it abroad by generating an external 'image' of their internal activity" — fire's heat, the sun's light (Enn. V.1.6.28–40; V.3.12.39–44). "For absolutely blessed beings, it suffices to remain in themselves and be what they are" (III.2.1.40–2); the One "creates without inclination, will or movement" (V.1.6.25–7).
+- **Stoic ingredient**: the World-Soul generates the sensible world via seed-principles (*logoi spermatikoi*), and cosmic sympathy (*sympatheia*) — the world as one living organism whose parts react to each other (II.3.7; IV.4.32) — underwrites astrology, prayer, and magic, though only at the level of body and lower soul.
+- **Logos**: Wallis stresses the untranslatable term's triple role — ground-plan/ordering principle of unfolding, external expression of a higher principle in a lower order, and the relation between Hypostases; Soul's logoi convey the Forms into Matter.
+- **Later systematization**: Iamblichus's Law of Mean Terms and Unparticipated–Participated–Participant scheme, and Proclus's cyclic causation (higher causes reach further down; all effects revert on their causes) turn Plotinus's dynamic image into a deductive science (*Elements of Theology*).
 
 ## Relevance to Vault
 

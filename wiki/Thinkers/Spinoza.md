@@ -98,3 +98,12 @@ Compounds powerfully with AI/agentic sources (geometrical deduction as reliable 
 ---
 
 *Entity page for the author of the Ethics; cross-references the dedicated source summary and new concept pages. The hinge figure for moving from dualist rationalism and classical pluralism/teleology into thoroughgoing naturalist monism.*
+
+## Deleuze's Reading of Spinoza (from [[Sources/The Deleuze Reader]])
+
+Deleuze treats Spinoza as the philosopher of immanence par excellence and the primary source for his ethics without morality:
+- **Univocal Being:** Being is said in one sense of everything; no vertical axes of participation or emanation. "Being is univocal, equal to itself, and offers itself equally to all beings."
+- **Expression (implicatio/explicatio):** The One expresses itself through an infinity of attributes in modes. No hierarchical power — the essence "unfolds" without any loss or descending grace.
+- **The body as philosophical model:** "We do not know what the body can do." Consciousness registers only effects, never causes — generating the triple illusion of final causes, free will, transcendence.
+- **Ethics vs. morality:** Spinoza's *Ethics* is, for Deleuze, not a moral system but a typology of immanent modes of existence — ethology. See [[Concepts/Ethics Without Morality (Deleuze-Spinoza)]].
+- **Sad passions and despotism:** Deleuze reads Spinoza politically: sad passions (fear, guilt, resentment) are the instruments of power over subjects. Joy and active affection are simultaneously the ethical aim and the condition of freedom.

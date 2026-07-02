@@ -4,11 +4,11 @@ type: thinker
 era: "18th century"
 schools: [Deontology, German Idealism]
 domains: [ethics, epistemology, metaphysics]
-source_count: 3
+source_count: 4
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [kant, immanuel-kant, philosophy, ethics, deontology, categorical-imperative, good-will, duty, a-priori, freedom, autonomy, early-modern, moral-philosophy, critique]
-sources: ["Metaphysics of Morals - Immanuel Kant.txt", "Metaphysics of Morals - Immanuel Kant", "The Logic of Scientific Discovery (Routled - Karl Popper.txt"]
+sources: ["Metaphysics of Morals - Immanuel Kant.txt", "Metaphysics of Morals - Immanuel Kant", "The Logic of Scientific Discovery (Routled - Karl Popper.txt", "Heidegger (Michael Inwood).txt"]
 ---
 
 # Immanuel Kant (1724–1804)
@@ -74,6 +74,28 @@ Kant is the pivotal synthesizer and critic in the Early Modern cluster: he "awok
 **Personal/career/insurance**: Acting from duty/integrity (e.g., honest risk assessment or client dealings even when not incentivized or when inclinations conflict); universal law as test for practices ("Would I will this policy/maxim for all in my role/industry?"); good will as character that "shines" independently of outcomes (complements "book of business" ownership with deontological guardrails). Education/cultivation of good will and respect for principle over mere prudence or sympathy.
 
 **Other**: Ties to education (Kant's later works on pedagogy), politics (universal law as basis for rights and cosmopolitanism), and religion (moral faith/postulates).
+
+## Heidegger's Critique (2026-06-29 Ingest)
+
+Heidegger's relationship with Kant is characterized by a "destructive retrieval" of the first *Critique*:
+- **Kant as Ontologist**: In his 1929 *Kant and the Problem of Metaphysics* (and the planned Part II §1 of *Being and Time*), Heidegger reads Kant not as an epistemologist (which was the dominant Neo-Kantian reading of his day) but as an ontologist trying to lay the groundwork for metaphysics.
+- **The Transcendental Imagination**: Heidegger identifies the transcendental power of imagination (*Einbildungskraft*) in the first edition (A) of the *Critique of Pure Reason* as the original root of both sensibility and understanding, grounding the categories in time. Heidegger argues Kant "shrank back" from this insight in the second edition (B) by subordinating imagination to understanding and reason.
+- **Time and the Ego**: Kant recognized time as the a priori form of inner sense, linking it to the unity of apperception. However, Heidegger argues Kant still treated the "I think" as an atemporal, static subject (Cartesian residue) rather than recognizing the ecstatic, finite temporality of Dasein.
+- **Primacy of Practical Reason**: Heidegger treats Kant's doctrine of the primacy of practical reason and freedom "more seriously, perhaps, than Kant did," grounding freedom not in a moral law but in Dasein's temporal transcendence.
+
+See [[Thinkers/Martin Heidegger]] and [[Concepts/Temporality (Heidegger)]].
+
+## Husserl's Engagement with Kant (2026-06-29 Ingest)
+
+[[Thinkers/Edmund Husserl]] engaged deeply with Kant throughout his career, positioning phenomenology as both a continuation and a radical revision of the critical project:
+
+- **Shared structure**: Husserl's "phenomenology of reason" echoes Kant's "critique of reason" — both seek conditions of possibility of knowledge from within experience. Both posit a priori structures that shape what can be known.
+- **Transcendental idiom absorbed in *Ideas I***: By 1913, Husserl adopted the neo-Kantian language of "transcendental phenomenology," and his account of constitution echoes Kant's account of the categories as conditions of possible experience. However, Husserl grounds constitution in intentionality rather than in Kantian categories applied to a brute sensory manifold.
+- **Rejection of the Ding an sich**: Husserl rejects the unknowable thing-in-itself. When a perceptual intention is intuitively fulfilled, it reaches the existing thing *itself* — not merely a phenomenal appearance. The proper theory of intentionality was unavailable to Kant.
+- **Categorical vs. eidetic a priori**: Kant's categories are functions of synthesis applied to sensory intuition; Husserl's material a priori are real structures of domains of objects (essences), grasped through eidetic variation rather than deduced from the conditions of synthesis.
+- **Ethics**: Husserl treats Kant's categorical imperative as the *ground norm* (Grundnorm) of Kantian ethics — a formal metanormative measure that "defines" the normativity of all moral propositions within that system. He criticises Kant for excluding love and compassion from moral grounding, placing all moral authority in pure practical reason alone.
+
+See [[Thinkers/Edmund Husserl]], [[Concepts/Transcendental Ego and Constitution (Husserl)]], and [[Concepts/Formal and Material Ethics (Husserl)]].
 
 ## Related
 

@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 2
+source_count: 3
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-07-01"
 tags: [plotinus, enneads, neoplatonism, epistrophe, henosis, soul, ascent, contemplation, classical]
-sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026"]
+sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md"]
 ---
 
 # Return of the Soul (Epistrophe)
@@ -24,6 +24,13 @@ sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Addition
 - **Universal Orientation**: All reality strives back (even matter indirectly desires form); the One is the object of eros (desire/love) at every level. No one is excluded; the path is open through reason and practice.
 
 The reference file signals the treatises on the soul's nature, descent, and return (Ennead IV especially; also I, V–VI).
+
+## From Wallis's *Neoplatonism* (1972)
+
+- **Why contemplation can suffice (for Plotinus)**: a level of the soul never descends ([[Concepts/The Undescended Soul (Plotinus vs Iamblichus)]]); the return is a redirection of attention to what we already are. Virtue and dialectic are inseparable — "without dialectic virtue is imperfect; without virtue true philosophy is impossible" (I.3.6).
+- **The final step**: union requires "divesting ourselves of everything" (V.3.17.38), putting away "all otherness"; the mystical state is an undifferentiated unity beyond subject and object, better figured as *touch* than vision; contact occurs through the "centre of the soul." The One does not turn toward us or love its products — eros runs upward only.
+- **The school's great dispute**: Iamblichus denied the undescended soul, so contemplation alone cannot complete the return — ritual and divine grace are required ([[Concepts/Theurgy (Iamblichus)]]); Proclus added faith–truth–love as theurgic virtues and a providential *descending* love. See [[Contradictions/Plotinus vs Iamblichus - Contemplation vs Theurgy]] — Augustine's insufficiency-of-the-Platonists argument (already noted below) is the Christian analogue of Iamblichus's position.
+- The Athenian School generalized *epistrophē* into the cosmic law of [[Concepts/Procession, Remaining, and Return (Neoplatonic Triad)]]: "All things pray except the First" (Theodorus of Asine).
 
 ## Relevance to Vault
 

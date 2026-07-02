@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, ontology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Metaphysics (Aristotle).txt"]
+sources: ["Metaphysics (Aristotle).txt", "Heidegger (Michael Inwood).txt"]
 tags: [aristotle, being, ontology, pros-hen, first-philosophy, substance, classical]
 ---
 
@@ -33,6 +33,7 @@ Book VI (Epsilon) divides the theoretical sciences into **physics** (separable b
 - **Versus [[Thinkers/Plato]]**: rejects a separate Form of Being/the One over the categories.
 - **Downstream**: the analogy of being becomes central to [[Thinkers/Thomas Aquinas]] (*analogia entis*); Aristotle's identification of first philosophy with theology shapes the whole medieval project. Contrast [[Thinkers/Spinoza]], who collapses the many beings into one substance ([[Concepts/Deus sive Natura - Substance Monism (Spinoza)]]) — the opposite of the *pros hen* pluralism.
 - The senses-of-being analysis grounds the essence/accident distinction used in [[Sources/Aristotle - Modal Logic (Organon, Patterson)]] ([[Concepts/Modal Copula (Aristotelian Modality)]]).
+- **Versus [[Thinkers/Martin Heidegger]]**: Heidegger reads Aristotle's *pros hen* reference to substance (*ousia*) as a key moment in the history of ontology, but argues that treating *ousia* as presence (*Anwesenheit*) privileges a single temporal ecstasis (the present) and homogenises Being as *presence-at-hand* (*Vorhandenheit*). Heidegger's **ontological difference** seeks to recover the question of Being in radical distinction from any particular being or substance. See [[Concepts/Being and the Ontological Difference (Heidegger)]].
 
 ## Contradictions / Open Questions
 

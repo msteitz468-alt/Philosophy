@@ -6,9 +6,9 @@ schools: [Platonism]
 domains: [ethics, political-philosophy, metaphysics, epistemology]
 source_count: 17
 created: "2026-06-03"
-updated: "2026-06-11"
-tags: [philosophy, classical, ancient-greece, plato, c427-347bce, ethics, political-philosophy, metaphysics, epistemology]
-sources: ["Plato - Timaeus & Critias (Oxford, 2008).docx", "Plato - Republic (Cambridge, 2000).pdf", "plato_five_dialogues_rag.md", "plato_gorgias_rag.md", "plato_ion_hippias_laches_protagoras_rag.md", "plato_clitophon_rag.md", "laws.md", "meno.md", "parmenides.md", "phaedo.md", "Plato - Theaetetus.md", "gemini-code-1780529044073.yaml", "gemini-code-1780529148704.yaml", "Symposium - Plato.txt", "Phaedrus - Plato.txt", "Sophist - Plato.txt", "Statesman - Plato.txt"]
+updated: "2026-06-29"
+tags: [philosophy, classical, ancient-greece, plato, c427-347bce, ethics, political-philosophy, metaphysics, epistemology, pythagoreanism]
+sources: ["Plato - Timaeus & Critias (Oxford, 2008).docx", "Plato - Republic (Cambridge, 2000).pdf", "plato_five_dialogues_rag.md", "plato_gorgias_rag.md", "plato_ion_hippias_laches_protagoras_rag.md", "plato_clitophon_rag.md", "laws.md", "meno.md", "parmenides.md", "phaedo.md", "Plato - Theaetetus.md", "gemini-code-1780529044073.yaml", "gemini-code-1780529148704.yaml", "Symposium - Plato.txt", "Phaedrus - Plato.txt", "Sophist - Plato.txt", "Statesman - Plato.txt", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 ---
 
 # Plato
@@ -69,11 +69,18 @@ The vault now contains summaries or excerpts from the following Platonic dialogu
 - **Link to Republic**: Dramatic framing — the "ideal citizens" of yesterday's conversation (echoing Republic) are given historical embodiment in the ancient Athenians of the tale.
 
 ## Influence
-- Academy → Neoplatonism.
+- Academy → Neoplatonism. Wallis (see [[Sources/Neoplatonism - R. T. Wallis (1972)]]): the Neoplatonic canon centered on *Timaeus*, *Republic*, *Phaedo*, *Phaedrus*, *Symposium*, later adding *Parmenides* (its second part read as disguised theology yielding the three Hypostases — see [[Concepts/Parmenidean Being and the One (Parmenides)]]) and *Cratylus* (divine names). The reading was selective: the Forms' logical function was dropped for their aesthetic/cosmological ones; the mathematics, politics, and much of Socratic dialectic were marginalized; Proclus canonized Plato's philosophy as "a divine revelation to men."
 - Shaped Stoicism, early Christian theology (demiurge → creator; teleology in natural theology).
 - Renaissance Neoplatonism took Timaeus as key text.
 - Aristotle: influenced by but critical of the teleology and cosmology.
 - Enduring cultural impact: Atlantis legend (no independent ancient sources), "likely story," mathematics/geometry as language of nature, aspiration to cosmic order.
+
+## Plato's Pythagorean Debt (Huffman volume, 2014)
+John Palmer's chapter in [[Sources/A History of Pythagoreanism - Carl A. Huffman (ed.) (2014)]] locates Plato's real debt to the Pythagoreans not in mathematics *per se* but in a **vision of value as order** (*kosmos*, *taxis*):
+- The *Gorgias*' "**geometrical equality** ... holds together gods and men" parallels [[Thinkers/Archytas]] fr. 3 (calculation/*logismos* ends greed and increases *homonoia*); after Socrates' death Plato's ethics shifts toward this proportionate-order model.
+- The *Phaedo* **develops rather than adopts** Pythagorean doctrines — the suicide prohibition (from [[Thinkers/Philolaus]]) and the soul's immortality get the *rationales* the Pythagoreans lacked. Notably, the **soul-as-*harmonia*** theory (Simmias) is *rejected* by Plato and is *not* credited to the Pythagoreans by Aristotle.
+- The *Republic* fuses the *Gorgias*' ordered soul with the *Phaedo*'s love of truth: justice "harmonizes the three parts, just like the three terms in a musical scale" — yet Plato also *criticizes* Pythagorean harmonics (the *kanonikoi* "look for the numbers in audible concords" but fail to ask *why*; [[Thinkers/Archytas]] is the target — see [[Concepts/Pythagorean Harmonics]]).
+- The *Philebus* adapts Philolaus' ***peras*/*apeiron*** (limiters/unlimiteds) — among Plato's most significant borrowings, feeding the Academy's "unwritten doctrines" (the One and Indefinite Dyad) that were then retrojected onto Pythagoras (see [[Schools/Neopythagoreanism]], [[Concepts/Number as the Essence of Reality (Pythagoras)]]). The *Timaeus* realizes the Pythagorean insight that mathematical order is the source of cosmic beauty — its World-Soul reproduces Philolaus' diatonic scale.
 
 ## In This Vault
 New domain entry (classical philosophy / "reading a book" use case per [[GROK]]). Source of foundational Western ideas on reality, order/chaos, human place in cosmos, limits of knowledge. Pairs thematically with later esoteric/self-help sources (e.g. Reality Transurfing's "alternatives space," intention as ordering force, pendulums vs equilibrium) for future synthesis on "models of reality" and personal agency.
@@ -87,6 +94,7 @@ New domain entry (classical philosophy / "reading a book" use case per [[GROK]])
 - [[Thinkers/Plotinus]] — "Plato redivivus"; Neoplatonism as systematic Platonism
 - [[Thinkers/Epicurus]] / [[Thinkers/Lucretius]] — direct materialist counterpoint (blind atoms vs. demiurge/Forms)
 - [[Thinkers/Parmenides]] — target of the "parricide" in the Sophist
+- [[Thinkers/Archytas]] · [[Thinkers/Philolaus]] · [[Schools/Pythagoreanism]] · [[Schools/Neopythagoreanism]] — Plato's Pythagorean sources and his Academic heirs
 - [[Concepts/Atlantis]], [[Concepts/Eudaimonia]], [[Concepts/Teachability of Virtue (Plato Protagoras Meno)]], [[Concepts/Pleasure vs Intelligence as the Good (Philebus)]]
 - [[Concepts/Ladder of Love and Form of Beauty (Plato Symposium)]], [[Concepts/Chariot Allegory and Divine Madness (Plato Phaedrus)]], [[Concepts/Method of Division and Definition of Sophist (Plato Sophist)]], [[Concepts/Rule of Law vs Royal Art of Statesmanship (Plato Statesman)]]
 - [[Thinkers/Bertrand Russell]] — sharply critical: "Plato is **hardly ever intellectually honest, because he allows himself to judge doctrines by their social consequences**… He introduced this vice into philosophy, where it has persisted ever since." Reads the *Republic*'s Utopia as Sparta-inspired authoritarianism ("the union of idealism and love of power has led men astray over and over again"). See [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]], [[Concepts/Social Cohesion vs. Individual Liberty (Russell)]].
@@ -95,6 +103,14 @@ New domain entry (classical philosophy / "reading a book" use case per [[GROK]])
 
 ---
 *Created during ingest of Timaeus & Critias source, 2026-06-03.*
+
+## Deleuze's Overturning of Platonism (from [[Sources/The Deleuze Reader]])
+
+Deleuze defines his project partly as an "overturning of Platonism" — but one that does not simply invert Plato's hierarchy. Key claims:
+- **Plato's real dualism:** Not Ideas vs. matter, but copies (which participate in the Idea, stabilized in presence) vs. **simulacra** (which embody pure becoming, elude the Idea, resist identification). Plato's Republic is an operation to *exclude the simulacrum*.
+- **Affirming the simulacrum:** Deleuze affirms what Plato condemns — the simulacrum, the copy-without-an-original, pure difference that resists subordination to the Same. See [[Concepts/Becoming (Deleuze)]].
+- **Platonism and arborescent thought:** The hierarchical tree of Western thought (from Idea through copies to shadows) is a Platonist structure. The rhizome is the anti-Platonist ontological alternative. See [[Concepts/Rhizome vs Trees (Deleuze-Guattari)]].
+- **Ethics:** Plato grounds ethics in imitation of and participation in transcendent Forms. Deleuze (via Spinoza) replaces transcendent moral criteria with immanent ethical composition. See [[Concepts/Ethics Without Morality (Deleuze-Spinoza)]].
 
 ## Contradictions / Open Questions
 

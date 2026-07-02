@@ -1,14 +1,14 @@
 ---
 title: "Ludwig Wittgenstein"
 type: thinker
-era: "20th century"
-schools: [Analytic Philosophy, Logical Atomism]
-domains: [philosophy-of-language, logic, metaphysics]
-source_count: 1
+era: "1889–1951"
+schools: [Logical Atomism, Ordinary Language Philosophy, Analytic Philosophy]
+domains: [logic, epistemology, philosophy-of-language, philosophy-of-mind]
+source_count: 3
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Tractatus Logico-Philosophicus - Ludwig Wittgenstein.txt"]
-tags: [wittgenstein, ludwig-wittgenstein, analytic-philosophy, logical-atomism, tractatus, philosophy-of-language, logic]
+sources: ["Tractatus Logico-Philosophicus - Ludwig Wittgenstein.txt", "Philosophical Investigations (Ludwig Wittgenstein).txt", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+tags: [wittgenstein, ludwig-wittgenstein, analytic-philosophy, logical-atomism, tractatus, philosophical-investigations, ordinary-language, philosophy-of-language, philosophy-of-mind, logic]
 ---
 
 # Ludwig Wittgenstein (1889–1951)
@@ -43,6 +43,21 @@ He returned to Cambridge in 1929, received his PhD, and succeeded G.E. Moore as 
 
 ---
 
+## Key Philosophical Positions (Investigations Era)
+
+The later Wittgenstein systematically *refuted his own earlier system* (see [[Contradictions/Early vs Later Wittgenstein]]). The *Philosophical Investigations* (1953) replaces the single hidden logic of the *Tractatus* with the motley of human practice:
+
+* **[[Concepts/Language-Games (Wittgenstein)|Language-Games]]**: Language is not one mirror of reality but "countless" rule-governed activities woven into action — "the speaking of language is part of an activity, or of a form of life" (§23). The builders' "slab" language and the toolbox of words break the spell of the naming-model.
+* **[[Concepts/Meaning as Use (Wittgenstein)|Meaning as Use]]**: "The meaning of a word is its use in the language" (§43). Meaning is neither a named object nor an inner idea; "a sign is dead — in use it is alive" (§432).
+* **[[Concepts/Family Resemblance (Wittgenstein)|Family Resemblance]]**: General terms (e.g. "game") share no common essence, only overlapping, criss-crossing similarities. "Don't think, but look!" (§66).
+* **[[Concepts/Rule-Following (Wittgenstein)|Rule-Following]]**: The paradox of §201 — every action can be made to accord with a rule — shows that following a rule is "a practice," not the grasp of an interpretation. "When I obey a rule, I do not choose. I obey the rule blindly" (§219).
+* **[[Concepts/Private Language Argument (Wittgenstein)|Private Language Argument]]**: A language referring only to private inner sensations is incoherent, lacking any criterion of correctness — the "beetle in a box" cancels out (§293). A frontal attack on the Cartesian/Lockean inner theatre.
+* **[[Concepts/Forms of Life (Wittgenstein)|Forms of Life]]**: Justification ends in shared human practice. "What has to be accepted, the given, is — so one could say — forms of life" (II §xi).
+* **[[Concepts/Aspect Seeing (Wittgenstein)|Aspect Seeing]]**: The duck-rabbit — "I see that it has not changed; and yet I see it differently" — shows perception is shot through with concept and technique.
+* **[[Concepts/Philosophy as Therapy (Wittgenstein)|Philosophy as Therapy]]**: Philosophical problems are confusions, not discoveries. "Philosophy is a battle against the bewitchment of our intelligence by means of language" (§109); its aim is "to shew the fly the way out of the fly-bottle" (§309).
+
+---
+
 ## Influence and Legacy
 
 Wittgenstein is unique in having inspired two major, opposing philosophical movements:
@@ -62,11 +77,25 @@ Wittgenstein anchors the linguistic and logical limits of representation:
 
 ## Sources
 - [[Sources/Tractatus Logico-Philosophicus - Ludwig Wittgenstein (1922)]]
+- [[Sources/Philosophical Investigations - Ludwig Wittgenstein (1953)]]
+- [[Sources/Wittgenstein’s Philosophical Investigations - A Critical Guide - Ahmed (2010)]]
 
 ## Related
 - [[Thinkers/Bertrand Russell]]
 - [[Thinkers/A.J. Ayer]]
 - [[Thinkers/Douglas Hofstadter]]
 - [[Thinkers/John Searle]]
+- [[Thinkers/Richard Rorty]]
+- [[Thinkers/John McDowell]]
+- [[Contradictions/Early vs Later Wittgenstein]]
 - [[Concepts/Picture Theory of Language (Wittgenstein)]]
+- [[Concepts/Language-Games (Wittgenstein)]]
+- [[Concepts/Meaning as Use (Wittgenstein)]]
+- [[Concepts/Private Language Argument (Wittgenstein)]]
 - [[Concepts/Verification Principle (Ayer)]]
+- [[Concepts/The Standard Metre Bar (Wittgenstein)]]
+- [[Concepts/Concept Possession as Ability (Wittgenstein)]]
+- [[Concepts/Semantic Contextualism (Wittgenstein)]]
+- [[Concepts/Deductive Inference as Aspect Perception (Wittgenstein)]]
+- [[Concepts/Remembering Intentions (Wittgenstein)]]
+

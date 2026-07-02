@@ -3,11 +3,11 @@ title: "Metaphysics as Meaningless (Ayer)"
 type: concept
 domains: [epistemology, philosophy-of-language, metaphysics]
 schools: [Logical Positivism, Analytic Philosophy]
-source_count: 1
+source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [ayer, metaphysics, meaninglessness, verification, logical-positivism, language, pseudo-proposition, grammar]
-sources: ["Language, Truth and Logic - A. J. Ayer.txt"]
+sources: ["Language, Truth and Logic - A. J. Ayer.txt", "Heidegger (Michael Inwood).txt"]
 ---
 
 # Metaphysics as Meaningless (Ayer)
@@ -28,7 +28,7 @@ Most metaphysics is not produced by deliberate dishonesty but by grammatical con
 English (and most European languages) requires us to use a grammatical subject when referring to sensible properties of a thing. This creates the appearance that there must be a "thing itself" behind all its properties — the metaphysical notion of *substance*. But logical analysis shows: what makes appearances "appearances of the same thing" is *their relations to each other*, not their relation to an unobservable "somewhat." The grammar generates the illusion.
 
 ### Being
-The sentences "Martyrs exist" and "Martyrs suffer" have the same grammatical form (noun + intransitive verb), which leads people to suppose that "exist" is an attribute like "suffer." But as Kant already noted, existence is not a predicate: to ascribe an attribute is to presuppose existence; so existence cannot itself be an attribute (that would make all positive existential propositions tautologies and all negative ones self-contradictions). Metaphysicians who ask about "the Being of martyrs" — or posit that "Nothing" names a peculiarly mysterious entity (Heidegger) — are following grammar beyond the boundaries of sense.
+The sentences "Martyrs exist" and "Martyrs suffer" have the same grammatical form (noun + intransitive verb), which leads people to suppose that "exist" is an attribute like "suffer." But as Kant already noted, existence is not a predicate: to ascribe an attribute is to presuppose existence; so existence cannot itself be an attribute (that would make all positive existential propositions tautologies and all negative ones self-contradictions). Metaphysicians who ask about "the Being of martyrs" — or posit that "Nothing" names a peculiarly mysterious entity ([[Thinkers/Martin Heidegger]]) — are following grammar beyond the boundaries of sense.
 
 ### Subsistent entities and fictitious objects
 "Unicorns are fictitious" has the same grammatical form as "Dogs are faithful," which leads to the assumption that unicorns must *somehow exist* (subsist, have non-empirical "real being") in order to have the property of being fictitious. This is a grammatical superstition — "to every name a real entity must correspond" — that generates a special non-empirical world to house entities that lack empirical being.
@@ -79,4 +79,4 @@ Ayer considers whether metaphysicians might be "misplaced poets" — producing e
 - [[Thinkers/Kant]] (contrast: Kant says metaphysics impossible as a factual limit; Ayer says it's a logical limit)
 - [[Concepts/Falsifiability as Criterion of Demarcation (Popper)]] (demarcation without condemning metaphysics as meaningless)
 - [[Concepts/Naturalized Epistemology and the Web of Belief (Quine)]] (holism erodes the clean boundary)
-- [[Thinkers/Descartes]], [[Thinkers/Spinoza]], [[Thinkers/Plato]] (vault thinkers whose central claims Ayer would condemn)
+- [[Thinkers/Descartes]], [[Thinkers/Spinoza]], [[Thinkers/Plato]], [[Thinkers/Martin Heidegger]] (vault thinkers whose central claims Ayer would condemn)

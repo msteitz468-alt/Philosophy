@@ -4,11 +4,11 @@ type: thinker
 era: "17th century"
 schools: [Rationalism, Cartesianism]
 domains: [epistemology, metaphysics]
-source_count: 1
+source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [descartes, rene-descartes, philosophy, rationalism, dualism, epistemology, god-proofs, early-modern, meditations, cogito, classical]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)"]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Heidegger (Michael Inwood).txt"]
 ---
 
 # René Descartes (1596–1650)
@@ -73,6 +73,26 @@ Pivotal early-modern capstone (or rupture) for the classical philosophy cluster.
 - **Vs. Turing / computationalism**: The *res cogitans* whose essence is thought, and the demand that the thinker *know* that it thinks (cogito), is directly challenged by Turing's 1950 mechanistic account: a physical discrete-state universal machine, programmed and educated, can produce outputs indistinguishable (under text interrogation) from a thinking thing, without a separate non-mechanical substance or guaranteed inner "feeling." The Imitation Game tests functional equivalence without privileged access to consciousness. See [[Thinkers/Alan Turing]], [[Concepts/Imitation Game (Turing)]], [[Concepts/Argument from Consciousness (Jefferson)]].
 - **Vault method and meta**: Hyperbolic doubt + clear/distinct rubric as ultimate reasoning scaffold and "lint" (clear all prejudices before building). Meditative withdrawal + ordered chain as model for ingest (one source, many pages touched in logical order). Dependence on God (veracity) for all scientia parallels dependence on [[GROK]] schema for consistent, compounding wiki maintenance. Imagination (body-directed, effortful) vs. pure intellection relevant to multimodal vs. agentic/symbolic work. Objections/Replies as ideal critical practice (opposition/equipollence before synthesis).
 - **Personal/career/insurance**: Rebuilding foundations when prior opinions (or business-as-usual) prove shaky. Disciplined will/assent for high-stakes judgement (underwriting, prospecting, promotion strategy). Withdrawal for clarity before action (deliberate practice, CPCU study). "Best of the pagan world" (Marcus) now has a rationalist successor/rupture.
+
+## Heidegger's Critique (2026-06-29 Ingest)
+
+Heidegger's *Being and Time* is explicitly constructed as an anti-Cartesian ontology:
+- **Destruction of subject-object dualism**: Heidegger rejects Descartes' starting point of the isolated thinking subject (*res cogitans*) confronting a value-neutral external world (*res extensa*). Heidegger argues that Dasein is always already *being-in-the-world*, practically engaged with equipment.
+- **Homogenisation of Being**: Descartes is criticized for treating both mind and body as substances (things with essential attributes), thereby homogenising Being as *presence-at-hand* (*Vorhandenheit*) and ignoring the distinctive mode of Dasein's existence.
+- **The "Scandal of Philosophy"**: Descartes' concern with proving the existence of the external world (which Kant called the "scandal of philosophy") is shown by Heidegger to be a pseudo-problem. The real scandal is not that the proof has failed, but that it is expected in the first place, as this expectation assumes an inadequate, worldless subject.
+
+See [[Thinkers/Martin Heidegger]] and [[Concepts/Being-in-the-World (Heidegger)]].
+
+## Husserl's Engagement with Descartes (2026-06-29 Ingest)
+
+[[Thinkers/Edmund Husserl]]'s *Cartesian Meditations* (1931) explicitly reformulates transcendental phenomenology in Cartesian terms:
+
+- **Epoché and Cartesian doubt**: Husserl's phenomenological epoché parallels Cartesian hyperbolic doubt methodologically — both suspend ordinary commitments to redirect attention to the structure of the subject. But they differ in purpose: Descartes sought bedrock certainty about what *exists* (a metaphysical project); Husserl seeks to *describe* the structure of consciousness without making metaphysical claims.
+- **Husserl's critique**: "Descartes was close to discovering phenomenology but mistakenly held on to 'a little tag-end' of the world, in the ego or I who thinks." By retaining a substantive res cogitans, Descartes smuggled a worldly object back into what was supposed to be a purely phenomenological analysis.
+- **Shared starting point**: Both begin from the indubitable existence of the thinking act (the cogito). Husserl endorses the apodicticity of phenomenological self-reflection: the existence of a current act of experience cannot be doubted while it is occurring.
+- **The "transcendental solipsism" problem**: Husserl's *Cartesian Meditations* tries to reconstruct intersubjectivity from within the transcendental attitude (bracketed from the natural world), paralleling Descartes' famous difficulty in bridging the gap from the isolated cogito to the external world and to other minds.
+
+See [[Thinkers/Edmund Husserl]], [[Concepts/Phenomenological Reduction and Epoché (Husserl)]], and [[Concepts/Transcendental Ego and Constitution (Husserl)]].
 
 ## Related
 

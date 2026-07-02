@@ -4,11 +4,11 @@ type: thinker
 era: "4th century BC"
 schools: [Aristotelianism, Peripatetic School]
 domains: [ethics, logic, rhetoric, metaphysics]
-source_count: 4
+source_count: 9
 created: "2026-06-04"
-updated: "2026-06-29"
+updated: "2026-07-01"
 tags: [aristotle, philosophy, logic, ethics, rhetoric, metaphysics, classical, 4th-century-bc]
-sources: ["Aristotle_Logic.md", "gemini-code-1780526441159.md", "gemini-code-1780526905681.md", "Metaphysics (Aristotle).txt"]
+sources: ["Aristotle_Logic.md", "gemini-code-1780526441159.md", "gemini-code-1780526905681.md", "Metaphysics (Aristotle).txt", "Heidegger (Michael Inwood).txt", "On the Soul (Aristotle).txt", "On Sleep (Aristotle).txt", "On Dreams (Aristotle).txt", "On Memory (Aristotle).txt", "On Divination in Sleep (Aristotle).txt", "Nicomachean Ethics (Aristotle).txt", "Economics (Aristotle).txt"]
 ---
 
 # Aristotle
@@ -23,11 +23,7 @@ sources: ["Aristotle_Logic.md", "gemini-code-1780526441159.md", "gemini-code-178
 - Logic is not independent of metaphysics; scientific demonstration (*apodeixis*) relies on *per se* (essential) predications.
 - Critiques modern de dicto/de re frameworks as incomplete for capturing Aristotle’s system.
 
-**Nicomachean Ethics (Book I)**:
-- Every action/expertise aims at some good; there is a highest good: *eudaimonia* (happiness/flourishing) as activity of the soul in accordance with virtue (*arête*) over a complete life (*teleiotēs*).
-- Function (*ergon*) argument: the human good lies in performing the characteristic human activity (rational soul) excellently.
-- Political science is the most architectonic expertise, directing others and aiming at the good of the city (greater than for one individual).
-- Critiques the lives of pleasure (vulgar), honor (political), and wealth (instrumental). Requires good upbringing/habituation for ethical understanding.
+**Nicomachean Ethics (Book I only)** — see full ten-book treatment below (ingested 2026-07-01, supersedes this partial summary).
 
 **Rhetoric (Book I)**:
 - Rhetoric is the counterpart of dialectic: the art of observing the available means of persuasion in any given case.
@@ -62,8 +58,10 @@ See [[Sources/Aristotle - Metaphysics]] for the full source-summary. This ingest
 
 ## Related
 
+- [[Sources/Teachout - Break Em Up]] — Teachout invokes Aristotle's *political animal* thesis and the tyrant/legitimate ruler distinction to argue that monopolists are tyrants in the Aristotelian sense (ruling in their own interest, not the governed's); [[Concepts/Moral Economy (Teachout)]] connects to Aristotelian conditions for human flourishing.
 - [[Sources/Aristotle - Modal Logic (Organon, Patterson)]]
-- [[Sources/Aristotle - Nicomachean Ethics (Book I)]]
+- [[Sources/Aristotle - Nicomachean Ethics (Complete, W.D. Ross)]] (supersedes [[Sources/Aristotle - Nicomachean Ethics (Book I)]])
+- [[Sources/Aristotle (Pseudo) - Economics]]
 - [[Sources/Aristotle - Rhetoric (Book I)]]
 - [[Sources/Thucydides - History of the Peloponnesian War (Book III, Mytilene revolt)]]
 - [[Thinkers/Plato]], [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]], [[Sources/The Republic - Plato (Cambridge, 2000)]]
@@ -104,6 +102,94 @@ The *Tahafut al-Tahafut* (Incoherence of the Incoherence) by Ibn Rushd (Averroes
 - **Influence on Aquinas**: The Latin reception of Aristotle was heavily mediated by Averroes’ commentaries. Aquinas cites “the Commentator” constantly — adopting much of the causal and hylomorphic framework while explicitly refuting the unicity of the intellect and related errors that would undermine personal immortality, moral responsibility, and “Socrates understands” (see Summa I, Q. 76). The *Tahafut* now grounds those existing anti-Averroist notes in the vault.
 
 This adds the crucial Islamic link in the transmission chain: Greek Aristotle → Neoplatonized Islamic *falasifa* (Avicenna et al.) → Averroes’ literal defense → Latin scholastic debate and Aquinas’ synthesis. Enriches the entire classical cluster with the faith/reason, elites/masses, and causation/nature debates. See new [[Thinkers/Ibn Rushd]], [[Sources/Incoherence of the Incoherence - Ibn Rushd]].
+
+## Heidegger's Ontological Critique (2026-06-29 Ingest)
+
+Heidegger's philosophy of Being represents both a retrieval and a radical critique of Aristotle:
+- **Destructive Retrieval**: Heidegger was inspired by Brentano's study of Aristotle's meanings of Being. In *Being and Time*, Heidegger reads Aristotle as the highest peak of ancient ontology, but one that ultimately went astray.
+- **Ambiguity of Being**: Heidegger accepts Aristotle's view that Being is systematically ambiguous across the categories and unified by *pros hen* reference to substance (*ousia*). However, Heidegger argues that by treating substance as presence (*Anwesenheit*), Aristotle privileged a single temporal ecstasis (the present) and homogenised being as *presence-at-hand* (*Vorhandenheit*).
+- **Potentiality vs. Actuality**: Heidegger inverts Aristotle's thesis that actuality is prior to potentiality: for Dasein, possibility (potentiality) is ontologically prior to actuality.
+- **Phronesis**: Heidegger's analysis of the ready-to-hand (*Zuhandenheit*) and practical circumspection is heavily influenced by Aristotle's description of practical wisdom (*phronēsis*) in *Nicomachean Ethics* VI.
+
+See [[Thinkers/Martin Heidegger]] and [[Concepts/Being and the Ontological Difference (Heidegger)]].
+
+## Politics (Jowett translation, ingested 2026-07-01)
+
+The explicit sequel to the *Nicomachean Ethics* ("political science is architectonic"), the *Politics* extends the ethical inquiry into the household and the state:
+
+- **The natural polis and the political animal** ([[Concepts/Political Animal and the Natural Polis (Aristotle)]]): man is by nature a *zōon politikon*; the polis is the natural, self-sufficient end of household→village→polis, prior in nature to the individual and household because the whole is prior to the part.
+- **Natural slavery** ([[Concepts/Natural Slavery (Aristotle)]]): a graded deliberative-faculty hierarchy within the household (slave/woman/child) grounds Aristotle's controversial defense of a natural (as opposed to merely conventional) form of slavery.
+- **Household management and property** ([[Concepts/Household Management and Property (Aristotle)]]): *oikonomia* is distinct from *chrēmatistikē*; natural acquisition is self-limiting, unnatural acquisition (retail trade, usury) is not — the ancient root of the later Marxian critique of self-expanding capital.
+- **Critique of Plato's *Republic* and *Laws*** ([[Concepts/Critique of Plato's Republic (Aristotle)]], [[Contradictions/Plato vs Aristotle on the Ideal State]]): the state is essentially plural, not a candidate for maximal unity; "it is clearly better that property should be private, but the use of it common."
+- **Classification of constitutions** ([[Concepts/Classification of Constitutions (Aristotle)]]): true forms (kingship, aristocracy, polity) ruling for the common good vs. deviant forms (tyranny, oligarchy, democracy) ruling for the rulers' advantage; the *pambasileia* (absolute kingship) exception for transcendent virtue.
+- **Distributive justice and the rule of law** ([[Concepts/Distributive Justice and the Rule of Law (Aristotle)]]): proportional (not numerical) justice; "the law is reason unaffected by desire," preferred to personal rule except for the *pambasileia* case.
+- **Polity and the middle class** ([[Concepts/Polity and the Middle-Class Constitution (Aristotle)]]): the practically best constitution for most states is a fusion of oligarchy and democracy anchored by a large, stabilizing middle class.
+- **Stasis and constitutional change** ([[Concepts/Stasis and Constitutional Change (Aristotle)]]): revolution's causes (feeling/motive/occasion; disproportionate growth of a part; misapplied equality) and the contrast between oppressive and "moderate-kingly" strategies for preserving tyranny.
+- **The best state and the good life** ([[Concepts/The Best State and the Good Life (Aristotle)]]): individual and political good are identical (virtuous activity, per the *Ethics*); self-sufficiency and leisure (*scholē*), not scale or wealth, size and structure the ideal city, which excludes laborers/tradesmen/farmers from full citizenship.
+- **Education and music** ([[Concepts/Education and Music in the Ideal State (Aristotle)]]): public, constitution-directed education; music's genuine mimetic power over character grounds concrete curricular judgments (Dorian endorsed, Phrygian and the flute limited/rejected). The text breaks off mid-sentence — confirming the *Politics*' well-known unfinished state.
+
+See [[Sources/Aristotle - Politics]] for the full source-summary. This ingest completes the Ethics→Politics arc gestured at since the vault's first Aristotle ingest, and supplies the primary text behind [[Thinkers/Zephyr Teachout]]'s prior invocation of the political-animal and tyrant/legitimate-ruler distinction.
+
+## On the Soul / De Anima (J.A. Smith translation, ingested 2026-07-01)
+
+The full application of hylomorphism to living things, and the vault's primary source for Aristotelian philosophy of mind:
+
+- **Soul as form of the body** ([[Concepts/Soul as Form of the Body (Hylomorphism, Aristotle)]]): soul is "the first actuality of a natural body which has life potentially in it," not a separate substance (rejecting Platonic self-moving/self-existing soul, atomist soul-as-particles, and harmony theories); the wax/stamped-shape analogy for soul-body unity.
+- **Theory of perception** ([[Concepts/Theory of Perception (Aristotle)]]): sense as reception of sensible form without matter (wax-and-signet-ring analogy); proper vs. common sensibles; the necessity of an external medium for sight/hearing/smell; touch as the foundational, indispensable sense.
+- **Imagination and common sense** ([[Concepts/Imagination and Common Sense (Aristotle)]]): a unifying "general sensibility" perceives common sensibles and grounds awareness of perceiving itself; imagination as a derivative "movement" from actual sensation, distinct from both perception and belief.
+- **Active and passive intellect** ([[Concepts/Active and Passive Intellect (Aristotle)]]): the passive intellect "becomes all things" (destructible); the active/productive intellect "makes all things" and is declared "alone immortal and eternal" — the unresolved crux later split between [[Thinkers/Ibn Rushd]]'s unicity thesis and [[Thinkers/Thomas Aquinas]]'s individual-subsistent-soul solution. Desire (*orexis*), not mind alone, actually produces animal motion.
+
+See [[Sources/Aristotle - On the Soul]] for the full source-summary. Text confirmed incomplete (breaks off mid-sentence, Book III ch. 13). Directly grounds the "function" (*ergon*) argument in [[Sources/Aristotle - Nicomachean Ethics (Book I)]] and is the sharpest ancient counterpoint to [[Thinkers/Descartes]]'s mind-body dualism.
+
+## Parva Naturalia: Sleep, Dreams, Memory, Divination (Beare translation, ingested 2026-07-01)
+
+Four short treatises continuing *De Anima*'s psychology into the physiology of sleep, dreaming, memory, and prophetic dreams:
+
+- **Sleep and waking** ([[Concepts/Sleep and Waking (Aristotle)]]): sleep is the periodic privation of waking, seated in the single primary/common sense-organ (heart) rather than the special senses separately; caused physiologically by the upward evaporation of digested nutriment and its cooling reflux. Final cause is conservation of the animal.
+- **Dreams** ([[Concepts/Dreams as Residual Sense-Movements (Aristotle)]]): a dream belongs to *phantasia*, not perception or opinion — a residual sensory "movement" persisting after stimulation ceases, amplified by sleep's quiet and mistaken by the dormant common sense for a present perception ("not actually Koriskos, it is like Koriskos").
+- **Memory and recollection** ([[Concepts/Memory and Recollection (Aristotle)]]): memory is a seal-like impression of a past perception contemplated *as a likeness* of its absent original (the picture/likeness solution); recollection is a distinct, effortful search through movements linked by similarity, contrast, or contiguity — "a mode of inference" exclusive to deliberative animals (man). Founding text of associationist psychology, later systematized by [[Thinkers/Hume]].
+- **Divination in sleep** ([[Concepts/Divination in Sleep (Aristotle)]]): a naturalistic, skeptical verdict on prophetic dreams — cause/token/coincidence taxonomy; most predictive dreams are coincidence; some are genuine tokens of incipient bodily states because sleep amplifies otherwise-imperceptible "small beginnings"; explicitly denies divine sending (foresight clusters in "commonplace" persons, not the wise) and rejects Democritus's images/emanations theory.
+
+See [[Sources/Aristotle - On Sleep and Waking]], [[Sources/Aristotle - On Dreams]], [[Sources/Aristotle - On Memory and Recollection]], [[Sources/Aristotle - On Divination in Sleep]] for full source-summaries. All four extend the common-sense/*phantasia* doctrine of *De Anima* into concrete physiological and psychological phenomena, and the recollection material opens a direct line to Humean associationism.
+
+## Nicomachean Ethics (Complete, W. D. Ross translation, ingested 2026-07-01)
+
+The full ten-book treatise, superseding the vault's prior Book-I-only summary (from secondary notes) with a direct reading of the complete text:
+
+- **The doctrine of the mean** ([[Concepts/Doctrine of the Mean (Aristotle)]]): virtue of character is a habituated disposition (*hexis*), not a passion or bare faculty, lying in a mean "relative to us" between excess and deficiency, fixed only by the judgment a person of practical wisdom would make; some acts (murder, theft, adultery) admit no mean at all.
+- **Voluntary action and choice** ([[Concepts/Voluntary Action and Choice (Aristotle)]]): an act is voluntary when its moving principle is in the agent; choice (*prohairesis*) is deliberate desire about means (not ends), following deliberation restricted to contingent, agent-achievable matters; responsibility for character is retrospective, grounded in the habituating choices that formed it.
+- **The particular virtues as means** ([[Concepts/Moral Virtues as Means (Aristotle)]]): courage (facing noble death, distinguished from five counterfeits), temperance (the "slavish" pleasures of touch/taste alone), liberality and magnificence (giving relative to means and scale), magnanimity ("the crown of the virtues"), good temper, and the social virtues.
+- **Justice, universal and particular** ([[Concepts/Justice - Universal, Particular, and Equity (Aristotle)]]): distributive justice (geometric proportion by merit) vs. corrective justice (arithmetic proportion, judge as "animate justice"); equity (*epieikeia*) as law's necessary self-correction for cases its generality cannot anticipate. Complements, without duplicating, [[Concepts/Distributive Justice and the Rule of Law (Aristotle)]] from the *Politics*.
+- **Practical wisdom** ([[Concepts/Practical Wisdom - Phronesis (Aristotle)]]): the intellectual virtue of deliberating well about the humanly good, irreducible to art or science, impossible in the young, mutually necessary with moral virtue of character — the epistemic engine the mean-doctrine presupposes.
+- **Akrasia (weakness of will)** ([[Concepts/Akrasia - Weakness of Will (Aristotle)]]): resolves the Socratic puzzle (no one knowingly does wrong) via the having/using distinction — incontinence is a recoverable "intermittent disease," vice a settled, unregretted "permanent" one.
+- **Friendship (*philia*)** ([[Concepts/Friendship - Philia (Aristotle)]]): three kinds (utility, pleasure, virtue), with virtue-friendship between equals alone primary and durable; modeled on the good person's own proper self-love; even the self-sufficient happy person genuinely needs friends to complete shared awareness of living well.
+- **Contemplation and the best life** ([[Concepts/Contemplation and the Best Life - Theoria (Aristotle)]]): pleasure as a complete "whole" supervening on activity, not a process; the contemplative life (*theōria*, activity of *nous*) as the highest happiness, most self-sufficient and most divine, with the practical/moral life happy "in a secondary degree." Closes with the explicit hand-off to the *Politics*: most people's virtue requires habituation under law, not argument alone.
+
+See [[Sources/Aristotle - Nicomachean Ethics (Complete, W.D. Ross)]] for the full source-summary and whole-work assessment; [[Sources/Aristotle - Nicomachean Ethics (Book I)]] is retained but marked superseded. This ingest completes [[Concepts/Eudaimonia]] (now spanning the whole treatise) and forms a direct diptych with [[Sources/Aristotle - Politics]].
+
+## Economics / Oikonomikos (Pseudo-Aristotle, G. C. Armstrong translation, ingested 2026-07-01)
+
+Traditionally transmitted with the Aristotelian corpus but attributed by modern scholarship to a student or to Theophrastus. Three short books on household management (*oikonomia*) and, in Book II, historical state revenue-raising technique:
+
+- **Household management and wealth-getting** ([[Concepts/Household Management and the Ranking of Wealth-Getting (Pseudo-Aristotle)]]): the household as prior to and component of the nation; husband/wife and master/slave as its natural relations, each mean-governed; a ranked hierarchy of wealth-getting modes (agriculture > mining > trade/wage-labor > war) anticipating the *Politics*' natural/unnatural *chrematistike* distinction.
+- **Revenue-raising stratagems** ([[Concepts/Revenue-Raising Stratagems (Pseudo-Aristotle Economics)]]): Book II's amoral catalogue of historical fiscal expedients (Dionysius of Syracuse, Mausolus, Cypselus, and dozens more) — forced loans, currency debasement, religious pretext, manufactured emergencies — offered as practical precedent, in unresolved tension with Book I's virtue-oriented household ethics.
+
+See [[Sources/Aristotle (Pseudo) - Economics]] for the full source-summary.
+
+## Note: Spurious Attribution (On the Universe / De Mundo, ingested 2026-07-01)
+
+*On the Universe* (*De Mundo*) is **not** a genuine Aristotelian work — Capelle traces its doctrines to the Stoic Poseidonius, and it likely dates 1st–2nd century AD. Its theology of a remote, providentially active cosmic God sustaining the world through a graduated causal chain (king/satrap, puppeteer, chorus-leader analogies) directly conflicts with Aristotle's own [[Concepts/The Unmoved Mover (Aristotle)]], a self-contemplating final cause uninvolved with particulars — strong internal evidence for the spurious attribution. See [[Sources/On the Universe (Pseudo-Aristotle)]], [[Concepts/Five-Element Cosmology (Pseudo-Aristotle)]], [[Concepts/God as Cosmic Sustaining Cause (Pseudo-Aristotle)]]. Retained under the Aristotle hub (with this flag) because it circulated as genuine for centuries and shaped the historical reception of "Aristotelian" cosmology.
+
+## Husserl's Engagement with Aristotle (2026-06-29 Ingest)
+
+[[Thinkers/Edmund Husserl]] engages Aristotle directly in his ontology:
+
+- **Categories as historical starting point**: Husserl treats Aristotle's ten categories (substance, quantity, quality, relation, place, time, position, having, action, passion) as the historical origin of ontology, which he revises with his own formal/material distinction. Where Aristotle's categories conflate formal and material levels, Husserl separates them: formal categories (Individual, Property, Relation, State of Affairs, Number, Part, Whole, Dependence) apply to any domain; material categories are region-specific.
+- **Moment and inherence**: Husserl's concept of "moment" (dependent part — e.g., this-whiteness-in-this-vase) extends Aristotle's particularized qualities *in* a substance from the *Categories*. The synthesis: the ideal species *White* (Platonic) is "in" the object via its concrete moment (Aristotelian inherence), without requiring universals to be spatial or temporal.
+- **Substrate (Tode Ti)**: Husserl borrows Aristotle's *todeti* ("this-there") as his preferred term for the individual substrate — the ultimate bearer of essences — to avoid conflating individuality with part-whole structure.
+- **Formal vs. material ontology**: Husserl's distinction synthesizes Platonic ideal forms (universals are real, atemporal) with Aristotelian inherence (universals are in individuals) via the mereological concept of moment-as-instance.
+
+See [[Thinkers/Edmund Husserl]] and [[Concepts/Formal and Material Ontology (Husserl)]].
 
 ## Status
 Created 2026-06-04 during ingest of new classical .md sources in raw/ (Aristotle Logic notes + structured Ethics and Rhetoric extracts + Thucydides). Serves as hub entity for the growing Aristotle material. Will expand with more works, specific concepts (e.g. phronēsis, categories, metaphysics), and cross-domain applications as sources are added.

@@ -4,12 +4,14 @@ type: source-summary
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-07-01"
 tags: [aristotle, ethics, eudaimonia, virtue, political-philosophy, classical]
 sources: ["gemini-code-1780526441159.md"]
 ---
 
 # Aristotle - Nicomachean Ethics (Book I)
+
+> **Superseded 2026-07-01** by [[Sources/Aristotle - Nicomachean Ethics (Complete, W.D. Ross)]], a direct reading of the full ten-book treatise from primary raw text. This page (built from secondary structured notes, Book I only) is retained for provenance but should not be treated as the vault's primary Nicomachean Ethics source going forward.
 
 > Foundational text on the human good (*eudaimonia*). Every action and expertise aims at some good; there is a highest good which is happiness, understood as activity of the soul in accordance with virtue (*arête*) over a complete life. Political science is the architectonic expertise. Critiques of the lives of pleasure, honor, and wealth. Function argument (*ergon*). Methodological notes on precision, audience (requires good upbringing), and starting from what is knowable to us.
 

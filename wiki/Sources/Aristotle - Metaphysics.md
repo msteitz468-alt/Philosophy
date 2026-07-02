@@ -71,6 +71,7 @@ The Argument Spine written in Step 1 held up against the text — the introducti
 
 ## Related
 - [[Thinkers/Aristotle]]
+- > [!note] On the "so-called Pythagoreans" of *Metaphysics* A: Oliver Primavesi's chapter in [[Sources/A History of Pythagoreanism - Carl A. Huffman (ed.) (2014)]] argues this passage is Aristotle's own *historiographical reconstruction* of a development from arithmology to [[Thinkers/Philolaus]] (even/odd = limited/unlimited), built from heterogeneous sources — which is why he hedges with "*so-called*." See [[Concepts/Number as the Essence of Reality (Pythagoras)]] and [[Concepts/Pythagorean Mathematics]].
 - [[Sources/Aristotle - Nicomachean Ethics (Book I)]]
 - [[Sources/Aristotle - Rhetoric (Book I)]]
 - [[Sources/Aristotle - Modal Logic (Organon, Patterson)]]

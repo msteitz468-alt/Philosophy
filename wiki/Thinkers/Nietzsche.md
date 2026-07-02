@@ -4,11 +4,11 @@ type: thinker
 era: "19th century"
 schools: []
 domains: [ethics, metaphysics, epistemology]
-source_count: 2
+source_count: 3
 created: 2026-06-04
 updated: 2026-06-04
 tags: [nietzsche, philosophy, ethics, will-to-power, perspectivism, revaluation, critique, modern-philosophy, beyond-good-and-evil, genealogy-of-morals, master-slave, ressentiment, bad-conscience, ascetic-ideal]
-sources: ["Beyond Good and Evil - Nietzsche (AmazonClassics Edition)", "The Genealogy of Morals - Nietzsche (1887)"]
+sources: ["Beyond Good and Evil - Nietzsche (AmazonClassics Edition)", "The Genealogy of Morals - Nietzsche (1887)", "Heidegger (Michael Inwood).txt"]
 ---
 
 # Friedrich Nietzsche (1844–1900)
@@ -76,6 +76,15 @@ Productive tensions/syntheses are enormous:
 
 **Other**: Strong bridge from classical/Early Modern to modern/postmodern. Sets up Genealogy (master/slave, ressentiment, bad conscience) and later works. "We good Europeans" as anti-nationalist, pro-high-culture cosmopolitanism. Health, solitude, "wakefulness" as conditions for the free spirit.
 
+## Heidegger's Critique (2026-06-29 Ingest)
+
+Heidegger's relationship with Nietzsche is a cornerstone of his later philosophy of history:
+- **The Last Metaphysician**: In his extensive Nietzsche lectures (1936–1944, published in 1961), Heidegger argues that Nietzsche is not the destroyer of metaphysics but its culmination. By defining being as *will to power* and value-creation, Nietzsche represents the final, most extreme phase of the Western "forgetfulness of Being," in which reality is reduced to a resource for subjective will and mastery.
+- **Historiology**: In *Being and Time*, Heidegger draws on Nietzsche's *Untimely Meditations* II to map the three modes of historiology (monumental, antiquarian, critical) onto Dasein's three temporal ecstases (future, past, present), claiming "Nietzsche understood more than he has made known to us."
+- **The End of Metaphysics**: For Heidegger, Nietzsche's proclamation of the "death of God" and the "revaluation of all values" marks the end of the metaphysics of presence, clearing the way for the "Turn" (*Kehre*) toward a non-willful letting-be (*Gelassenheit*).
+
+See [[Thinkers/Martin Heidegger]] and [[Concepts/Historicality and the Turn (Heidegger)]].
+
 ## Related
 
 - [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]]
@@ -91,3 +100,12 @@ Productive tensions/syntheses are enormous:
 ---
 
 *Nietzsche entity for the author of *Beyond Good and Evil* and the revaluation project; cross-references the dedicated source and emerging Nietzsche concepts. Strongest modern counterpoint and enrichment to the Kant/Hume/Spinoza/Plato cluster.*
+
+## Deleuze's Reading of Nietzsche (from [[Sources/The Deleuze Reader]])
+
+Deleuze is arguably the 20th century's most creative reader of Nietzsche. Key extensions:
+- **Eternal return as selective ontology:** Not cosmological cyclicism but a selective test — only becoming-active has being; reactive forces do not return. See [[Concepts/Eternal Return as Selective Ontology (Deleuze-Nietzsche)]].
+- **Will to power as expression, not acquisition:** "Will *of* power" — power itself wills, not an intentional power-grab by a force deprived of power. This reading makes will to power incompatible with representationalism.
+- **Active/reactive forces:** Deleuze systematizes Nietzsche's force-theory into a strict typology: active forces express themselves affirmatively; reactive forces operate by negation and resentment.
+- **The Overman as superfold:** The overman arises when forces within man meet forces of "unlimited finity" (silicon, genetic code, agrammatical language) — a new ontological form, not a new morality. Contrasts with Heidegger's reading of Nietzsche as completing metaphysics.
+- **Nietzsche and Spinoza:** Deleuze pairs them as the two thinkers who provide his ethics of joy and immanence — Spinoza's univocal Being and Nietzsche's active forces converge in the project of [[Concepts/Ethics Without Morality (Deleuze-Spinoza)]].

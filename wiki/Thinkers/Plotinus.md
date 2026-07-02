@@ -4,11 +4,11 @@ type: thinker
 era: "3rd century AD"
 schools: [Neoplatonism]
 domains: [metaphysics]
-source_count: 3
+source_count: 4
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-07-01"
 tags: [plotinus, enneads, neoplatonism, philosophy, metaphysics, classical, 3rd-century-ad, porphyry, augustine, confessions]
-sources: ["The Enneads - Plotinus.txt", "Confessions - Augustine.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026"]
+sources: ["The Enneads - Plotinus.txt", "Confessions - Augustine.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md"]
 ---
 
 # Plotinus
@@ -44,6 +44,18 @@ sources: ["The Enneads - Plotinus.txt", "Confessions - Augustine.txt", "Classica
 - Porphyry's edition/arrangement (and later Iamblichus, Proclus developments) shaped "Neoplatonism." Enormous influence: Augustine (via Plotinus on evil as privation, ascent/return, God as beyond being; explicit "conversion to Neo-Platonism" in *Confessions* Book VII as intellectual liberation from materialism — the "Platonists" taught him to conceive immaterial reality and the One, enabling his later Christian resolution; the garden ecstasy is real but insufficient without the Mediator and transforming grace), Islamic philosophy (al-Farabi, Avicenna, the One/Intellect/Soul), Christian mysticism (Pseudo-Dionysius, Eriugena), Renaissance (Ficino, Pico), Romantics, and modern idealism/esotericism. Often seen as the culmination of Greek philosophy ("Plato redivivus").
 
 See [[Sources/Confessions - Augustine]], [[Thinkers/Augustine]], [[Concepts/Restless Heart - Rest in God (Augustine)]], [[Concepts/Memory - Interiority and Self-Knowledge (Augustine)]], and [[Concepts/Time and Eternity - Distentio Animi (Augustine)]] for Augustine's direct engagement and transposition of Neo-Platonism.
+
+## From Wallis's *Neoplatonism* (1972)
+
+Wallis's scholarly survey sharpens and partly corrects the picture above:
+
+- **Life**: all factual information comes from Porphyry's reticent first-hand biography. Plotinus (204/5–270) studied under Ammonius Saccas for eleven years from age 28, taught orally in Rome for ten years before writing; Porphyry's thematic (not chronological) arrangement into six Enneads should not be over-read — most treatises span several topics. Porphyry reports Plotinus attained mystical union four times in their six years together (*V. Pl.* 23).
+- **Consciousness innovation**: Plotinus's decisive move was identifying metaphysical realities with states of consciousness — the Hypostases are simultaneously objective beings and levels of inner awareness, the duality driving later Neoplatonism's deepest tensions.
+- **Emanation mechanics**: "good diffuses itself"; perfect beings generate an external image of their internal activity (Enn. V.1.6, V.3.12); the One "creates without inclination, will or movement." Emanation has two stages — formless procession, then reversion in contemplation whereby the product receives form — later generalized as [[Concepts/Procession, Remaining, and Return (Neoplatonic Triad)]].
+- **The undescended soul**: a level of every soul remains eternally in contemplation of Intelligence (IV.8.8) — see [[Concepts/The Undescended Soul (Plotinus vs Iamblichus)]]; the descent is both biological necessity (Universal Logos) and irrational audacity (*tolma*). Rejected by [[Thinkers/Iamblichus]] — the anthropological root of [[Contradictions/Plotinus vs Iamblichus - Contemplation vs Theurgy]].
+- **Sympathy and magic**: cosmic sympathy (the world as one living organism, II.3.7, IV.4.32) explains astrology, prayer, and magic, but touches only body and lower soul; the philosopher transcends it by contemplation — the ground of his (and Porphyry's) resistance to [[Concepts/Theurgy (Iamblichus)]].
+- **Problems bequeathed** (Wallis pp. 90–93): matter's status if divinely produced; how the One produces what it does not contain; the One's knowability; the internal order of the Intelligible world (Being–Life–Intelligence left in conflicting alternatives); the source of the soul's irrational impulse; whether the undescended soul collapses the Soul/Intelligence distinction. Wallis's thesis: later Neoplatonic metaphysics is "in many ways merely a series of footnotes to the Enneads," working out this list.
+- **Successors**: [[Thinkers/Porphyry]] "telescoped" the Hypostases; [[Thinkers/Iamblichus]] stratified them and turned to theurgy; the Athenian School ([[Thinkers/Proclus]]) systematized — see [[Schools/Neoplatonism]].
 
 ## Relevance to Vault
 

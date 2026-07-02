@@ -118,6 +118,7 @@ For articles, papers, short treatises, and dialogues that fit in a single readin
 4. Add `[[wikilinks]]` to every entity that has or should have a page.
 5. **Index** — see Index Rules below.
 6. **Log** — append one line to `log.md`.
+7. **File the source** — move the ingested raw file(s) into `raw/Ingested/` (see File Ingested Sources below).
 
 A source typically touches 5–15 pages. Ingest one source at a time.
 
@@ -136,6 +137,40 @@ dependencies. This protocol preserves them.
 **The discipline:** read one logical section at a time, write all affected
 pages to disk before reading the next section. Context is ephemeral; disk
 is permanent. Never hold two sections in context simultaneously.
+
+#### Orchestrator + Subagent Pattern (preferred for large sources)
+
+Large sources are read most reliably by **delegating the reading to subagents
+and keeping the synthesis in one orchestrator**. The orchestrator (main agent)
+never tries to hold the whole book in context; it holds only the Argument Spine,
+the Section Plan, and the structured notes the subagents return.
+
+- **Orchestrator owns:** the Step 1 structural map; the list of pages to
+  create/update; the *writing* of every wiki page; cross-linking; contradictions;
+  index and log. All disk writes to `wiki/` go through the orchestrator so the
+  voice, frontmatter, and link hygiene stay consistent.
+- **Subagents own:** reading assigned sections of the raw source (which the
+  orchestrator should not read in full) and returning a compact, structured
+  report — not prose to paste. Each subagent report should contain, per section:
+  Burkert-style **theses** (5–12 bullets), **short direct quotations with
+  nearby citations/names**, key terms introduced, and which planned wiki pages
+  it bears on. Cap each report (~600 words) so several fit in orchestrator context.
+- **Dispatch:** one subagent per section or per adjacent section-pair; run them
+  in parallel. Give each the exact source file path, the section's title/grep
+  anchors, and the return format above. Tell them **not to invent** and to quote
+  rather than paraphrase the load-bearing claims.
+- **Combine:** the orchestrator reads the returned notes (not the raw text),
+  reconciles them against the Argument Spine, and writes/updates pages section by
+  section, still committing to disk before moving on (Step 2d). If a subagent's
+  notes are thin or conflict, re-dispatch that one section rather than reading the
+  whole source.
+- **When to skip subagents:** short sources (single-pass), or when a section's
+  argument is so interdependent that only direct reading by the writer preserves
+  it — then the orchestrator reads that section itself.
+
+This pattern realizes "never hold two sections in context simultaneously": each
+section lives only in its subagent; the orchestrator holds distilled notes plus
+the whole-work spine, which is exactly what keeps each page connected to the thesis.
 
 #### Step 1 — Structural Map (before reading any content)
 
@@ -241,6 +276,11 @@ Update index.md per Index Rules — add lines for all new pages,
 edit lines for materially changed pages. One targeted operation,
 not a full rewrite.
 
+#### Step 5 — File the Source
+
+Move the ingested raw file(s) into `raw/Ingested/` (see File Ingested Sources
+below). Only after the source-summary is `status: complete`.
+
 ---
 
 ### Large-Volume Protocol: Applied to Specific Text Types
@@ -332,7 +372,25 @@ pages, add one index line, log it.
 Check for: unflagged contradictions, stale claims, orphan pages, concepts mentioned
 but lacking a page, missing cross-references, cross-domain concepts lacking a unified
 page, index/frontmatter drift, source-summary pages with `status: in-progress`
-that were never completed. Fix, then log as `lint`.
+that were never completed, **and ingested sources still sitting in `raw/` root that
+were never filed into `raw/Ingested/`**. Fix, then log as `lint`.
+
+### File Ingested Sources
+
+Once a source is fully ingested (its source-summary is written and, for large
+sources, `status: complete`), move its raw file(s) into `raw/Ingested/`. This is
+the last step of every ingest — it keeps the `raw/` root as the queue of
+*not-yet-ingested* sources, so what remains to do is always visible at a glance.
+
+- Move **every** raw file the source-summary's `sources:` / `source_file:`
+  frontmatter lists — including companion files (e.g. a `.docx` original plus its
+  converted `.md`, or a multi-volume set).
+- Match by content, not by an exact filename string: extensions and punctuation
+  often drift between the frontmatter entry and the file on disk
+  (`.pdf`→`.md`, `;`→`_`, curly vs. straight quotes).
+- Do **not** move `raw/assets/` (images stay with their source pages), and leave
+  related-but-un-ingested files (no source-summary page yet) in the `raw/` root.
+- Never edit a raw file when filing it — `raw/` is immutable; only its location changes.
 
 ---
 

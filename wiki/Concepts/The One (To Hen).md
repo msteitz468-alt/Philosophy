@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 2
+source_count: 3
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-07-01"
 tags: [plotinus, enneads, neoplatonism, the-one, metaphysics, the-good, classical, 3rd-century-ad]
-sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026"]
+sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md"]
 ---
 
 # The One (To Hen)
@@ -24,6 +24,13 @@ sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Addition
 - **Not Evil or Dualistic**: The One is purely good; evil arises only at the lowest level as privation (lack of form/unity in matter), not as a rival principle or positive force (contra Gnostics or some dualisms Plotinus critiqued).
 
 The numeric reference file (raw/The Enneads - Plotinus.txt) points to the treatises (e.g., Ennead V.1 "On the Three Primary Hypostases," V.2 "On the Origin and Order of the Beings which Come After the First," VI.9 "On the Good or the One") where these ideas are elaborated.
+
+## From Wallis's *Neoplatonism* (1972)
+
+- **Exegetical basis**: the One is extracted from the first hypothesis of Plato's *Parmenides* (read as disguised theology — Plotinus's key interpretive innovation, anticipated by the Neopythagorean Moderatus of Gades) and identified with the Form of the Good of the *Republic*. See [[Concepts/Parmenidean Being and the One (Parmenides)]].
+- **Negative theology**: the *Parmenides*' negations deny of the One everything inconsistent with its excellence — all plurality and limitation; words say only what it is *not*. Proclus radicalized this: even the negations must finally be negated, and the Law of Contradiction does not apply to the One (*In Parm.* VII).
+- **Problems bequeathed**: can the One produce what it does not contain? Can any positive term apply without subjecting it to a common measure with its products? Iamblichus answered by positing an Ineffable *beyond* the One; Proclus by interposing [[Concepts/The Henads (Proclus)]] as participated unities between the unknowable One and everything else.
+- Wallis flags the standing tension of the school: ultimate reality is imperfectly expressible, yet the Greeks refused to abandon rigorous conceptualization.
 
 ## Relevance to Vault
 

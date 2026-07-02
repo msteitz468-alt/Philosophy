@@ -44,6 +44,8 @@ Under the picture theory, a proposition only has sense (*Sinn*) if it represents
 
 ## Contradictions / Open Questions
 
+> [!warning] Repudiated by the later Wittgenstein himself. The *Philosophical Investigations* (1953) abandons the single logical form and object-and-name semantics defended here in favour of [[Concepts/Meaning as Use (Wittgenstein)|meaning as use]] within [[Concepts/Language-Games (Wittgenstein)|language-games]]. See [[Contradictions/Early vs Later Wittgenstein]].
+
 ### Crux of Self-Application (The Ladder)
 * The most famous tension in the *Tractatus* is its own self-application. The propositions of the *Tractatus* are not empirical statements picturing facts, nor are they mere tautologies. Therefore, by its own criteria, the *Tractatus* is nonsensical.
 * Wittgenstein famously embraces this contradiction in *Tractatus* 6.54: *"My propositions elucidate in this way: he who understands me finally recognizes them as senseless, when he has climbed out through them, on them, over them. (He must so to speak throw away the ladder, after he has climbed up on it.)"*
@@ -59,6 +61,8 @@ Under the picture theory, a proposition only has sense (*Sinn*) if it represents
 
 ## Related
 - [[Thinkers/Ludwig Wittgenstein]]
+- [[Contradictions/Early vs Later Wittgenstein]] — Wittgenstein's own later repudiation of this theory
+- [[Concepts/Meaning as Use (Wittgenstein)]] — the *Investigations* replacement
 - [[Thinkers/Bertrand Russell]]
 - [[Thinkers/A.J. Ayer]]
 - [[Thinkers/Douglas Hofstadter]]
