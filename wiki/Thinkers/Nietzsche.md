@@ -105,6 +105,8 @@ See [[Thinkers/Martin Heidegger]] and [[Concepts/Historicality and the Turn (Hei
 
 Deleuze is arguably the 20th century's most creative reader of Nietzsche. Key extensions:
 - **Eternal return as selective ontology:** Not cosmological cyclicism but a selective test — only becoming-active has being; reactive forces do not return. See [[Concepts/Eternal Return as Selective Ontology (Deleuze-Nietzsche)]].
+
+**Amor fati.** Nietzsche's "formula for greatness" — *"that one wants nothing to be different, not forward, not backward, not in all eternity... but love it"* — is the affirmative counterpart of Eternal Return, and the phrase modern practical Stoicism (Ryan Holiday, *The Obstacle Is the Way*) borrows to name the Stoic love of fate. The appropriation is ironic given Nietzsche's own attack on Stoic "living according to Nature" (*Beyond Good and Evil* §9): his *amor fati* is creative self-overcoming, not submission to a providential *logos*. See [[Concepts/Amor Fati (Love of Fate)]].
 - **Will to power as expression, not acquisition:** "Will *of* power" — power itself wills, not an intentional power-grab by a force deprived of power. This reading makes will to power incompatible with representationalism.
 - **Active/reactive forces:** Deleuze systematizes Nietzsche's force-theory into a strict typology: active forces express themselves affirmatively; reactive forces operate by negation and resentment.
 - **The Overman as superfold:** The overman arises when forces within man meet forces of "unlimited finity" (silicon, genetic code, agrammatical language) — a new ontological form, not a new morality. Contrasts with Heidegger's reading of Nietzsche as completing metaphysics.

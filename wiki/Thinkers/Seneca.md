@@ -27,12 +27,18 @@ sources: ["seneca_letters_from_a_stoic_rag.md", "Classical Philosophy - Stoics, 
 - **Examined Life and Writing**: The letters themselves are a form of structured self-examination and teaching – mirrors the wiki's role as persistent, compounding record of thought and sources. Links to MasterClass storytelling/craft (letters as literary philosophy) and routines.
 - **Classical Cluster**: Roman Stoicism as practical counterpart to Greek philosophy (Plato, Aristotle). Links to Marcus Aurelius (emperor living the philosophy Seneca advised).
 
+## Modern Reception (Ryan Holiday, 2014)
+
+In *The Obstacle Is the Way* (see [[Sources/The Obstacle Is the Way - Ryan Holiday (2014)]]), Seneca is the source for two of the vault's newly-dedicated Stoic exercises. His rehearsal of everything that could go wrong before a journey — *"Nothing happens to the wise man against his expectation... above all he reckoned that something could block his plans"* — is Holiday's model for [[Concepts/Premeditatio Malorum (Premeditation of Evils)]] (the ancestor of the corporate "premortem"). His "rehearse death every day" and "a life is judged by use, not length" ground [[Concepts/Memento Mori (Stoic Practice)]]. Holiday also cites Seneca's epigraph for the discipline of the Will — *"cling tooth and nail to the following rule: not to give in to adversity, not to trust prosperity, and always take full note of fortune's habit of behaving just as she pleases."* See [[Thinkers/Ryan Holiday]].
+
 ## Related
 - [[Sources/Seneca - Letters from a Stoic]]
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]]
-- [[Thinkers/Epictetus]], [[Thinkers/Marcus Aurelius]]
+- [[Sources/The Obstacle Is the Way - Ryan Holiday (2014)]]
+- [[Thinkers/Epictetus]], [[Thinkers/Marcus Aurelius]], [[Thinkers/Ryan Holiday]]
 - [[Thinkers/Aristotle]] (virtue, eudaimonia parallels), [[Thinkers/Plato]]
 - [[Concepts/Philosophy as Medicine (Seneca)]]
+- [[Concepts/Premeditatio Malorum (Premeditation of Evils)]], [[Concepts/Memento Mori (Stoic Practice)]]
 - [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Ataraxia]], [[Concepts/Eudaimonia]]
 - [[Sources/MasterClass Collection - 2026]] (practical wisdom, examined life, resilience)
 - [[Mack Steitz]] (reflective practice in career tracking, time/priority in playbook)

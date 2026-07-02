@@ -4,16 +4,19 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 1
+source_count: 2
 created: "2026-06-04"
-updated: "2026-06-04"
-tags: [descartes, clear-and-distinct, perception, criterion, truth, epistemology, certainty, meditations, god]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)"]
+updated: "2026-07-01"
+tags: [descartes, clear-and-distinct, perception, criterion, truth, epistemology, certainty, meditations, discourse-on-method, god]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 ---
 
 # Clear and Distinct Perception (Descartes)
 
 > The criterion of truth in Descartes's epistemology: whatever I perceive *very clearly and distinctly* is true. First formulated provisionally in the *Third Meditation* after the cogito ("everything I very clearly and distinctly perceive is true"), then fully secured in the *Fourth* and *Fifth* once God's existence and non-deceptive nature are established. "Clear" means present and accessible to the attentive mind; "distinct" means sharply separated from all other perceptions so that it contains only what is clear.
+
+> [!note] Earlier statement in the *Discourse* (1637)
+> Part IV of the [[Sources/Discourse on the Method - Descartes (1637)]] already derives the criterion directly from the cogito: observing that in "I think, therefore I am" nothing assures its truth beyond his seeing "very clearly that in order to think it is necessary to exist," Descartes takes as "a general rule, the principle, that all the things which we very clearly and distinctly conceive are true" — "only observing, however, that there is some difficulty in rightly determining the objects which we distinctly conceive." As in the *Meditations*, the *Discourse* then makes the rule's ultimate reliability depend on God: it is "certain only because God is or exists... and because all that we possess is derived from him." The germ is also the first of [[Concepts/The Four Precepts of the Method (Descartes)]] (accept only the clear and distinct).
 
 ## Core Formulation
 
@@ -54,8 +57,9 @@ Clear and distinct perception is the vault's ideal standard for reliable synthes
 ## Related
 
 - [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]
+- [[Sources/Discourse on the Method - Descartes (1637)]] (earlier derivation from the cogito, Part IV)
 - [[Thinkers/Descartes]]
-- [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Cogito (Descartes)]], [[Concepts/Res Cogitans and Res Extensa (Descartes)]]
+- [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Cogito (Descartes)]], [[Concepts/Res Cogitans and Res Extensa (Descartes)]], [[Concepts/The Four Precepts of the Method (Descartes)]]
 - [[Concepts/Reasoning Scaffolds]], [[Concepts/Context Engineering]], [[GROK]]
 - [[Concepts/Epoché (Suspension of Judgment)]] (alternative criterion via Sextus)
 

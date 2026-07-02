@@ -6,7 +6,7 @@ schools: [Platonism]
 domains: [ethics, political-philosophy, metaphysics, epistemology]
 source_count: 17
 created: "2026-06-03"
-updated: "2026-06-29"
+updated: "2026-07-01"
 tags: [philosophy, classical, ancient-greece, plato, c427-347bce, ethics, political-philosophy, metaphysics, epistemology, pythagoreanism]
 sources: ["Plato - Timaeus & Critias (Oxford, 2008).docx", "Plato - Republic (Cambridge, 2000).pdf", "plato_five_dialogues_rag.md", "plato_gorgias_rag.md", "plato_ion_hippias_laches_protagoras_rag.md", "plato_clitophon_rag.md", "laws.md", "meno.md", "parmenides.md", "phaedo.md", "Plato - Theaetetus.md", "gemini-code-1780529044073.yaml", "gemini-code-1780529148704.yaml", "Symposium - Plato.txt", "Phaedrus - Plato.txt", "Sophist - Plato.txt", "Statesman - Plato.txt", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 ---
@@ -53,7 +53,7 @@ The vault now contains summaries or excerpts from the following Platonic dialogu
 - *Crito* — civil obligation; Socrates refuses to escape; implicit contract with the laws.
 
 **Metaphysics**:
-- *Parmenides* — self-critique of the Theory of Forms; participation; the One and the Many.
+- *Parmenides* — self-critique of the Theory of Forms; the participation dilemma, the [[Concepts/The Third Man Argument|Third Man regress]], and the "Greatest Difficulty" (Forms unknowable to us); then the eight-deduction gymnastic on the One and the Many. Now ingested in full from the Hermann (2010) edition — see [[Sources/Plato's Parmenides - Text, Translation and Introductory Essay (Hermann, 2010)]], [[Concepts/Participation Problems and the Critique of the Forms (Plato Parmenides)]], and [[Concepts/The Eight Deductions - Hypotheses about the One (Plato Parmenides)]].
 
 **Other**:
 - *Ion* — poetry as divine inspiration, not knowledge.

@@ -30,7 +30,7 @@ sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philos
 
 ## Relevance to Vault
 
-- **Inventor of Dialectic**: Introduced the method of *reductio ad absurdum* (assuming the opponent's premise to show that it leads to self-contradiction).
+- **Inventor of Dialectic**: Introduced the method of *reductio ad absurdum* (assuming the opponent's premise to show that it leads to self-contradiction). In Plato's *Parmenides* (opening scene), it is Zeno's own book — "if things are many, they must be both like and unlike, which is impossible" — that young Socrates answers with the Theory of Forms, and Zeno's *reductio* procedure that Parmenides then generalizes into the eight-deduction gymnastic. See [[Sources/Plato's Parmenides - Text, Translation and Introductory Essay (Hermann, 2010)]] and [[Concepts/The Eight Deductions - Hypotheses about the One (Plato Parmenides)]].
 - **The Paradox of Infinity**: Zeno's paradoxes represent the first serious examination of the mathematical and metaphysical problems of **infinity, continuity, and limits**. They remained unresolved until the development of calculus (limits) in the 17th century and the formalization of real numbers in the 19th century (Cantor, Dedekind).
 
 ## Related Pages

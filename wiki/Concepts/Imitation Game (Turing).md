@@ -52,6 +52,7 @@ The imitation game supplies the vault's implicit evaluation standard for agentic
 - [[Concepts/Universal Machine (Turing)]], [[Concepts/Learning Machines (Turing)]], [[Concepts/Argument from Consciousness (Jefferson)]], [[Concepts/Lady Lovelace's Objection]]
 - [[Thinkers/Garry Kasparov]], [[Sources/MasterClass Collection - 2026]]
 - [[Thinkers/Descartes]], [[Thinkers/Locke]]
+- [[Concepts/The Two Tests and the Animal-Machine (Descartes)]] — the 1637 ancestor: Descartes's language test and universal-reason test use the same behavioral criterion, but to prove (dualistically) that no machine could ever pass; Turing keeps the criterion and rejects the verdict
 - [[Sources/Grok 4.3 Tutorial Detailed Notes - 2026]] and daily AI tips (contemporary systems evaluated under sustained interrogation)
 
 *Concept page created 2026-06-04 during ingest of Turing's 1950 paper (cluster indexing + cross-links completed 2026-06-04). The operational criterion that launched the study of machine intelligence.*

@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 1
+source_count: 2
 created: "2026-06-04"
-updated: "2026-06-04"
-tags: [descartes, doubt, skepticism, method, epistemology, foundationalism, meditations, clear-and-distinct, cogito]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)"]
+updated: "2026-07-01"
+tags: [descartes, doubt, skepticism, method, epistemology, foundationalism, meditations, discourse-on-method, clear-and-distinct, cogito]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 ---
 
 # Method of Hyperbolic Doubt (Descartes)
@@ -28,6 +28,10 @@ Finally, to make the doubt effective and to counter the "evil custom" of assenti
 The doubt is *hyperbolic* (exaggerated, extreme) and *methodical* (adopted as a method, not out of real indecision or irresponsibility). Its benefits: liberates from all prejudices; opens an easy path to withdrawing the mind from the senses; ensures that whatever is subsequently discovered to be true can be doubted no further (Synopsis).
 
 Descartes stresses he is concerned with knowledge, not action: "no danger or error will ensue... there is no risk that I shall be giving too free a rein to my distrustfulness."
+
+## The Earlier Version in the *Discourse* (1637)
+
+Part IV of the [[Sources/Discourse on the Method - Descartes (1637)]] gives a compressed first version of the same doubt, four years before the *Meditations*: the senses sometimes deceive, so he supposes nothing is as they present it; some men err even in geometry, so he rejects all his former demonstrations; and since the same thoughts occur in dreams as when awake "while there is at that time not one of them true," he supposes all his waking ideas "had in them no more truth than the illusions of my dreams." Two things differ from the *Meditations*: (1) there is **no evil-demon hypothesis** in the *Discourse* — the doubt stops at the dream argument and does not explicitly extend to make an omnipotent deceiver corrupt even mathematics; (2) the doubt is introduced not as an isolated meditative exercise but as the *first precept of the method* pushed to its limit (accept nothing that admits any ground of doubt — see [[Concepts/The Four Precepts of the Method (Descartes)]]). Descartes is careful, as in the *Discourse* Part III, that this radical doubt is confined to the search for truth and does not govern conduct (guarded by the [[Concepts/Provisional Morality (Descartes)]]).
 
 ## Key Distinctions and Clarifications (from Replies and Synopsis)
 
@@ -56,8 +60,9 @@ The method of hyperbolic doubt is one of the most powerful models in the vault f
 ## Related
 
 - [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]
+- [[Sources/Discourse on the Method - Descartes (1637)]] (earlier version, Part IV — dream argument without the evil demon)
 - [[Thinkers/Descartes]]
-- [[Concepts/Cogito (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]], [[Concepts/Res Cogitans and Res Extensa (Descartes)]]
+- [[Concepts/Cogito (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]], [[Concepts/Res Cogitans and Res Extensa (Descartes)]], [[Concepts/The Four Precepts of the Method (Descartes)]], [[Concepts/Provisional Morality (Descartes)]]
 - [[Concepts/Epoché (Suspension of Judgment)]], [[Concepts/Equipollence (Isosthenia) and the Modes]] (Sextus contrast)
 - [[Thinkers/Bertrand Russell]] adopts the method ("Descartes… invented a method which may still be used with profit") but **refines the cogito** in *The Problems of Philosophy* (ch. II): what is certain is not "I am seeing a brown colour" but "*a brown colour is being seen*" — acquaintance with the bare Self is only probable. See [[Sources/The Problems of Philosophy - Bertrand Russell (1912)]], [[Concepts/Knowledge by Acquaintance and Knowledge by Description (Russell)]].
 - [[Concepts/Reasoning Scaffolds]], [[Concepts/Context Engineering]], [[GROK]] (method parallels)

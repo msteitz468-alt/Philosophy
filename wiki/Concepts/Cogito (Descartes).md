@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 1
+source_count: 2
 created: "2026-06-04"
-updated: "2026-06-04"
-tags: [descartes, cogito, "i-think-therefore-i-am", epistemology, self, certainty, meditations, foundationalism]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)"]
+updated: "2026-07-01"
+tags: [descartes, cogito, "i-think-therefore-i-am", epistemology, self, certainty, meditations, discourse-on-method, foundationalism]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 ---
 
 # Cogito (Descartes)
@@ -24,6 +24,10 @@ After supposing that everything he sees is false, that memory is deceitful, that
 He does not yet know *what* this 'I' is that exists—only *that* it exists. The rest of the Second Meditation is devoted to determining its nature (a thinking thing).
 
 The cogito is not an inference from "I think" as a premise to "I exist" as conclusion in the manner of a syllogism (Descartes clarifies this in the Replies). It is the immediate, self-evident certainty that arises in the very act of thinking/doubting/deceiving: the act of thought cannot be separated from an existing thinker. It is performative and first-personal.
+
+## First Publication: the *Discourse* (1637)
+
+The formula appears in print for the first time not in the *Meditations* (1641) but four years earlier in Part IV of the [[Sources/Discourse on the Method - Descartes (1637)]], in the French *je pense, donc je suis* — Latinized in the same text as "COGITO ERGO SUM." The *Discourse* version compresses the reasoning: while trying to suppose everything false, "it was absolutely necessary that I, who thus thought, should be somewhat; and... this truth, I think, therefore I am, was so certain and of such evidence that no ground of doubt... could be alleged by the sceptics capable of shaking it." He immediately concludes that the 'I' is "a substance whose whole essence or nature consists only in thinking," wholly distinct from body, and that it is "more easily known than the latter." Notably, the *Discourse* presents it in the compressed "*therefore*" (inference) form that critics later seized on — prompting Descartes's clarification in the *Meditations*/Replies that it is not a syllogism but an immediate performative certainty (below). The *Meditations*' famous alternative phrasing is "I am, I exist" (*ego sum, ego existo*), presented precisely to avoid the appearance of inference.
 
 ## What the 'I' Is (and Is Not)
 
@@ -58,6 +62,7 @@ The cogito is the archetype of a foundational, self-evident certainty reached af
 ## Related
 
 - [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]
+- [[Sources/Discourse on the Method - Descartes (1637)]] (first publication, Part IV)
 - [[Thinkers/Descartes]]
 - [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]], [[Concepts/Res Cogitans and Res Extensa (Descartes)]]
 - [[Concepts/Epoché (Suspension of Judgment)]] (Sextus contrast), [[Concepts/Restless Heart - Rest in God (Augustine)]] (interiority contrast)

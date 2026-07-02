@@ -38,6 +38,10 @@ This is the foundational metaphysical split of the classical tradition: whether 
 - Drives the medieval **problem of universals** (realism vs nominalism) — see [[Concepts/Nominal and Real Essences (Locke)]] for the later empiricist deflation.
 - Neoplatonism ([[Thinkers/Plotinus]], [[Concepts/Emanation (Proodos)]], [[Concepts/The One (To Hen)]]) radicalizes the Platonic side; [[Thinkers/Thomas Aquinas]] and [[Thinkers/Ibn Rushd]] inherit the Aristotelian immanent-form view.
 
+## The Critique Begins Inside Platonism
+
+Crucially, the sharpest anti-Forms objections are **not** Aristotle's invention. Plato himself stages them, in Parmenides' mouth, in the *Parmenides* — the **[[Concepts/The Third Man Argument|Third Man regress]]**, the whole/part **participation dilemma**, and the **separation** charge that makes Forms unknowable — decades before the *Metaphysics*. Aristotle inherits and weaponizes objections Plato had already raised against his own doctrine (Position A is thus internally self-critical). See [[Concepts/Participation Problems and the Critique of the Forms (Plato Parmenides)]] and [[Sources/Plato's Parmenides - Text, Translation and Introductory Essay (Hermann, 2010)]]. Whether Plato took them to *refute* the Forms or only to demand better training in handling them is itself disputed.
+
 ## Attempted Resolutions
 
 - None within the ingested classical material reconciles the two; later traditions take sides rather than synthesize. Logged here as an open, structural tension.

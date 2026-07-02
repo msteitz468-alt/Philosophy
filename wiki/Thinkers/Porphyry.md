@@ -25,6 +25,7 @@ Educated under the critic Longinus before joining [[Thinkers/Plotinus]] in Rome,
 - **Rationalist critique of theurgy.** In the *Letter to Anebo* he argues ritual "works only through the sympathy governing the sensible cosmos and cannot therefore affect the higher souls of the gods" (II.5d); in *De Regressu Animae*, theurgy at best purifies the pneumatic envelope of the lower soul, cannot raise the soul to the Intelligible order, is unnecessary for the philosopher, and is open to abuse. This is one pole of [[Contradictions/Plotinus vs Iamblichus - Contemplation vs Theurgy]].
 - **Ethical emphasis and moderate asceticism** (*De Abstinentia*), more scholastic than Plotinus but still insufficiently systematic to become the later school's authority — that role fell to [[Thinkers/Iamblichus]].
 - **Anti-Christian polemic** whose seriousness forced Christian replies for a century; [[Thinkers/Augustine]] read Plotinus largely "through Porphyrian eyes," making Porphyry the main conduit of Neoplatonism to the Latin West.
+- **Debt to [[Thinkers/Numenius of Apamea]].** Porphyry "follows the teachings of Numenius" on the soul's pre-incarnational struggle with the material demons of the West (Numenius fr. 62b: "we would be very surprised if Porphyry asserted anything differing from Numenius"), and drew on Numenius's *Cave of the Nymphs* allegory for his own treatise of that name — one channel by which Middle-Platonic doctrine entered the school.
 
 ## Sources
 
@@ -32,5 +33,5 @@ Educated under the critic Longinus before joining [[Thinkers/Plotinus]] in Rome,
 
 ## Related
 
-- [[Thinkers/Plotinus]], [[Thinkers/Iamblichus]], [[Thinkers/Augustine]], [[Thinkers/Aristotle]]
+- [[Thinkers/Plotinus]], [[Thinkers/Iamblichus]], [[Thinkers/Augustine]], [[Thinkers/Aristotle]], [[Thinkers/Numenius of Apamea]]
 - [[Schools/Neoplatonism]], [[Concepts/Theurgy (Iamblichus)]], [[Concepts/The Undescended Soul (Plotinus vs Iamblichus)]]

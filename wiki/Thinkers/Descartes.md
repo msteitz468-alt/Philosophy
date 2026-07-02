@@ -4,11 +4,11 @@ type: thinker
 era: "17th century"
 schools: [Rationalism, Cartesianism]
 domains: [epistemology, metaphysics]
-source_count: 2
+source_count: 3
 created: "2026-06-04"
-updated: "2026-06-04"
-tags: [descartes, rene-descartes, philosophy, rationalism, dualism, epistemology, god-proofs, early-modern, meditations, cogito, classical]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+tags: [descartes, rene-descartes, philosophy, rationalism, dualism, epistemology, god-proofs, early-modern, meditations, discourse-on-method, cogito, classical]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Heidegger (Michael Inwood).txt"]
 ---
 
 # René Descartes (1596–1650)
@@ -55,6 +55,16 @@ Context: post-Reformation religious wars; revival of ancient skepticism (Montaig
 
 - **Knowledge (Scientia)**: Perfect, stable knowledge of anything (including math) requires knowledge of God. Without it, even clear perceptions can later be doubted (memory of proof vs. current attention; dream hypothesis). With God as non-deceiver, true science possible.
 
+## The *Discourse on the Method* (2026-07-01 Ingest)
+
+The vault now holds the *Discourse* (1637) as a dedicated source — the earlier, French, autobiographical companion to the *Meditations*. It presents the same foundational project in embryo (cogito, God-proofs, mind-body distinction in Part IV) but adds three things the *Meditations* lack, now given their own concept pages:
+
+- **The four precepts of the method** (Part II): evidence (clear and distinct), analysis (division), order (simple → complex), enumeration (complete review) — Descartes's reduction of logic/analysis/algebra to four geometer-modeled rules. See [[Concepts/The Four Precepts of the Method (Descartes)]].
+- **The provisional morality** (Part III): a temporary three-maxim code (conform to custom; be resolute once decided; master yourself rather than fortune) adopted so life can continue while belief is rebuilt. Its third maxim is a rationalist restatement of the Stoic [[Concepts/Dichotomy of Control (Epictetus)]] — one of the vault's clearest rationalism↔Stoicism bridges. See [[Concepts/Provisional Morality (Descartes)]].
+- **The two tests and the animal-machine** (Part V): the body as a God-made machine; the *bête-machine* thesis (animals have no reason, only mechanism); and the two tests — *language* and *universal reason* — that no machine or beast could pass. This is the direct ancestor of the [[Concepts/Imitation Game (Turing)|Turing Test]]: Turing keeps Descartes's linguistic criterion but rejects his dualist verdict. See [[Concepts/The Two Tests and the Animal-Machine (Descartes)]].
+
+Part V also gives Descartes's mechanistic physiology (heart as heat-engine, circulation of the blood crediting Harvey) and Part VI the program of a "practical philosophy" to make us "the lords and possessors of nature" (medicine especially) — the mechanistic mastery-of-nature theme connecting to Bacon and the philosophy-of-science leg. Note: *cogito ergo sum* is **first published here** (Part IV, in the French *je pense, donc je suis*), four years before the *Meditations*.
+
 ## Influence and Reception
 
 Enormous and contested. Founded rationalism (innate ideas, clear/distinct criterion, a priori). Sparked empiricist reactions (Locke, Berkeley, Hume on ideas, causation, self). Central to Kant ("Copernican revolution," synthetic a priori, critique of traditional proofs). Mind-body problem (interaction, union) dominated early modern philosophy; occasionalism (Malebranche), parallelism (Spinoza), pre-established harmony (Leibniz) as responses. Mechanistic physics influential (though vortices replaced by Newton). Religious controversies: accused of atheism/skepticism despite proofs and claims to serve faith; works placed on Index. "Cartesianism" in 17th–18th c. universities and salons. Objections and Replies remain model of philosophical exchange.
@@ -97,7 +107,9 @@ See [[Thinkers/Edmund Husserl]], [[Concepts/Phenomenological Reduction and Epoch
 ## Related
 
 - [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]
+- [[Sources/Discourse on the Method - Descartes (1637)]]
 - [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Cogito (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]], [[Concepts/Res Cogitans and Res Extensa (Descartes)]], [[Arguments/Ontological Argument|Ontological Argument]], [[Concepts/Causal Argument for God's Existence from Objective Reality (Descartes)]], [[Concepts/Imagination vs Pure Intellection (Descartes)]]
+- [[Concepts/The Four Precepts of the Method (Descartes)]], [[Concepts/Provisional Morality (Descartes)]], [[Concepts/The Two Tests and the Animal-Machine (Descartes)]] (from the *Discourse*)
 - [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Augustine]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Sextus Empiricus]], [[Thinkers/Plotinus]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]], [[Thinkers/Marcus Aurelius]]
 - [[Sources/The Republic - Plato (Cambridge, 2000)]], [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]], [[Sources/Aristotle - Nicomachean Ethics (Book I)]], [[Sources/Outlines of Pyrrhonism - Sextus Empiricus]], [[Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas]], [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]], [[Sources/Confessions - Augustine]], [[Sources/City of God - Augustine]], [[Sources/The Enneads - Plotinus]], [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]]
 - [[Thinkers/Spinoza]] (monist successor), [[Thinkers/Hume]] (empiricist reaction: rejects innate ideas; conceivability ⇒ possibility not existence; deflates the substantial self), [[Sources/An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)]]
