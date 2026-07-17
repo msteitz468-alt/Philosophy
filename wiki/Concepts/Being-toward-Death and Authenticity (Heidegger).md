@@ -3,8 +3,8 @@ title: "Being-toward-Death and Authenticity (Heidegger)"
 type: concept
 domains: [ontology, phenomenology, ethics]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, death, authenticity, anxiety, conscience]
 ---
 
@@ -45,6 +45,14 @@ Dasein is primordially **Guilty** (*Schuldig*) — not in the moral sense (havin
 
 However, Heidegger provides **no objective criteria** for the correctness of resolute choices. Karl Löwith records the student joke: "I am resolved, only towards what I don't know." Inwood presses the point: "Hitler was no less resolute than Christ or Socrates." The absence of normative content in resoluteness is one of the most persistent criticisms of *Being and Time*.
 
+## From Being and Time (Primary Text)
+
+Division Two ch. 1 (§§46–53) supplies the full argument. The problem: care's "being-ahead-of-itself" means something is always outstanding — when nothing is, Dasein is no-longer-there, so it seems it can never be grasped as a whole (§46). The death of others cannot substitute: "No one can take the other's dying away from him. … Insofar as it 'is,' death is always essentially my own" (§47). Dasein's not-yet is neither a debt-like remainder nor a fruit's ripening (§48); death is not being-*at*-an-end but **being-toward-the-end** — "As soon as a human being is born, he is old enough to die right away." §49 fixes the terminology: perishing (*Verenden*, the merely living), demise (*Ableben*), dying (*Sterben*); the analysis is purely this-worldly and decides nothing about immortality.
+
+§50: "Death is the possibility of the absolute impossibility of Dasein. Thus death reveals itself as one's ownmost, nonrelational, and insuperable possibility," into which Dasein is *thrown* — revealed in anxiety. §§51–52 document the they's evasion: "The public interpretation of Dasein says that 'one dies,' because in this way everyone can convince him/herself that in no case is it I myself, for this one is no one"; temptation, tranquillization, and estrangement level dying into a public "case of death," conceding only the ambiguous certainty "sometime, but not right away." "The they does not permit the courage to have anxiety about death." The complete concept (§52): death is the "ownmost, nonrelational, certain, and, as such, indefinite and insuperable possibility of Dasein."
+
+§53: authentic being-toward-death is neither actualizing (suicide) nor brooding nor expecting, but **anticipation** (*Vorlaufen*), which endures death as pure possibility, "individualizes Dasein down to itself," and "brings it face to face with the possibility to be itself … in the passionate anxious freedom toward death, which is free of the illusions of the they, factical, and certain of itself." This remains a bare ontological possibility until existentielly attested — the task of the conscience chapters; see [[Concepts/Conscience, Guilt, and Resoluteness (Heidegger)]] (where the primary text's fuller accounts of the call, guilt as "being the (null) ground of a nullity," and resoluteness now live).
+
 ## Key Claims / Positions
 
 ### How Different Thinkers Approach This
@@ -66,6 +74,7 @@ However, Heidegger provides **no objective criteria** for the correctness of res
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 
 ## Related
 

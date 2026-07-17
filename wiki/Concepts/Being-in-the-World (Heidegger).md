@@ -3,8 +3,8 @@ title: "Being-in-the-World (Heidegger)"
 type: concept
 domains: [ontology, phenomenology, epistemology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, ontology, phenomenology, world]
 ---
 
@@ -41,6 +41,12 @@ Dasein is never without mood (*Stimmung*). Moods are not inner feelings projecte
 
 *Verstehen* (understanding) is Dasein's a priori, pre-conceptual grasp of its environment as a field of possibilities. It is not theoretical knowledge but practical competence: "as long as it is, Dasein always has understood itself and always will understand itself in terms of possibilities" (BT 145). *Auslegung* (interpretation) is the more explicit activity of interpreting something *as* something (as a hammer, as a threat), and always involves a **fore-structure**: fore-having (*Vorhabe*), fore-sight (*Vorsicht*), and fore-conception (*Vorgriff*). "We do not throw a 'signification' over some naked thing which is present-at-hand; the thing in question already has an involvement which is disclosed in our understanding of the world" (BT 150).
 
+## From Being and Time (Primary Text)
+
+§12 derives "in" from *innan-*, to dwell: being-in is an existential of familiarity, not spatial containment ("water *in* the glass"); worldless things can never "touch" one another. Knowing is a *founded mode* of being-in-the-world (§13): Dasein is never an encapsulated inner sphere — "it is always already 'outside' together with some being encountered in the world already discovered." §18 supplies the technical structure of worldliness: the being of the handy is **relevance** (*Bewandtnis*), whose totality terminates in a *for-the-sake-of-which* that is always Dasein itself; the relational totality of signifying is **significance** (*Bedeutsamkeit*), which "constitutes the structure of the world." Dasein's spatiality (§§22–24) is **de-distancing** (*Ent-fernung* — "Dasein is essentially de-distancing") and directionality; homogeneous space appears only when the world is deprived of worldliness: "Space is neither in the subject nor is the world in space."
+
+Division Two grounds all of this in temporality (§69): circumspect taking-care has the structure awaiting-retaining-making-present; theory arises from a *change-over* (*Umschlag*) in the understanding of being, not from ceasing praxis ("Thematization objectifies… objectification presupposes transcendence"); and each ecstasis has a **horizonal schema** whose unity *is* the world's disclosedness — "The world is transcendent, grounded in the horizonal unity of ecstatic temporality"; "The world is, so to speak, already 'further outside' than any object could ever be." "If no Dasein exists, no world is 'there' either."
+
 ## Key Claims / Positions
 
 ### How Different Thinkers Approach This
@@ -58,6 +64,7 @@ Dasein is never without mood (*Stimmung*). Moods are not inner feelings projecte
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 
 ## Related
 

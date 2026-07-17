@@ -3,8 +3,8 @@ title: "Historicality and the Turn (Heidegger)"
 type: concept
 domains: [ontology, phenomenology, philosophy-of-history]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, historicality, kehre, history]
 ---
 
@@ -48,6 +48,14 @@ Between ecstatic temporality and "vulgar" clock-time, Heidegger identifies **wor
 
 [[Thinkers/Hegel]] is treated as "the last and greatest of the Cartesians" who accepted [[Thinkers/Aristotle]]'s conception of time and did not go beyond it.
 
+## From Being and Time (Primary Text)
+
+§§72–77 (Stambaugh renders *Geschichtlichkeit* "historicity," *Geschehen* "occurrence"). The whole of Dasein demands the "between" of birth and death: "Factical Dasein exists as born, and in being born it is also already dying"; as care, Dasein *is* the between, and its stretching-along is **occurrence**, whose structure is historicity. Dasein is never "past," only *having-been-there* (*da-gewesen*); antiquities are historical because they belonged to the world of a Dasein that has-been-there — innerworldly things (tools, works, battlefields) are only *secondarily* historical, "world-historical" (§73).
+
+§74 gives the load-bearing definitions. **Fate**: "the primordial occurrence of Dasein that lies in authentic resoluteness in which it hands itself down to itself, free for death, in a possibility that it inherited and yet has chosen." **Destiny** (*Geschick*): "the occurrence of the community, of a people," freed "in communication and in struggle," with one's "generation." **Repetition** (*Wiederholung*): "explicitly handing down, that is, going back to the possibilities of the Dasein that has been there" — a *response* (*Erwiderung*) to a possibility and a *renunciation* (*Widerruf*) of the "past" working itself out today, neither restoration nor progress. The hero passage: authentic repetition — "the possibility that Dasein may choose its hero — is grounded existentially in anticipatory resoluteness." Ground of it all: "Authentic being-toward-death, that is, the finitude of temporality, is the concealed ground of the historicity of Dasein." §76 derives historiography from historicity (its theme "the possibility that has been factically existent"; Nietzsche's monumental/antiquarian/critical modes "prefigured in the historicity of Dasein," mapped to the three ecstases); §77 radicalizes Dilthey via Count Yorck's ontic/historical difference — "there is no longer any real philosophizing that is not historical."
+
+The Stambaugh/Schmidt edition also prints Heidegger's later **marginalia** from his own copy (the *Hüttenexemplar*, 157 remarks): "a decision about beyng [*Seyn*] cannot be made with the help of such conceptuality"; "Dasein is … the site of the understanding of being"; the *transcendens*/horizon language redirected to "the event [*das Ereignis*]"; "Thus not a philosophy of existence." These are the *Kehre* annotating its own point of departure — primary-text evidence for reading the Turn as self-correction rather than break.
+
 ## Key Claims / Positions
 
 ### How Different Thinkers Approach This
@@ -67,6 +75,7 @@ Between ecstatic temporality and "vulgar" clock-time, Heidegger identifies **wor
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 
 ## Related
 

@@ -3,8 +3,8 @@ title: "Temporality (Heidegger)"
 type: concept
 domains: [ontology, phenomenology, metaphysics]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, temporality, time, ontology]
 ---
 
@@ -44,6 +44,14 @@ Dasein's **transcendence** — its stepping beyond every particular entity to th
 
 The Greeks viewed being as temporal **presence** (*ousia* / *parousia*) — being is what is present, what endures. Heidegger argues this privileges one temporal ecstasis (the present) and thereby distorts the question of Being. [[Thinkers/Plato]] ascribed true being only to the eternal Forms; [[Thinkers/Aristotle]] defined time as the number of motion with respect to before and after, yielding the homogeneous now-sequence. Heidegger contends that both miss the ecstatic, finite temporality of Dasein.
 
+## From Being and Time (Primary Text)
+
+§65 is the hinge of the whole book: "This unified phenomenon of the future that makes present in the process of having-been is what we call temporality… Temporality reveals itself as the meaning of authentic care." And: "Temporality 'is' not a being at all. It is not, but rather *temporalizes* itself… Temporality is the primordial 'outside of itself' in and for itself. Thus we call the phenomena of future, having-been, and present the *ecstasies* of temporality." "The primary phenomenon of primordial and authentic temporality is the future," and — decisively — "Primordial time is *finite*. … Only because primordial time is finite can 'derivative' time temporalize itself as *in*finite."
+
+Each ecstasis has authentic and inauthentic modes (§68): future — anticipation (*Vorlaufen*) vs. awaiting (*Gewärtigen*); present — the Moment (*Augenblick*, "resolute raptness … held in resoluteness") vs. making-present (*Gegenwärtigen*); having-been — repetition (*Wiederholung*) vs. forgetting (a "positive" ecstatic backing-away from thrownness, the ground of remembering). "Temporality temporalizes itself completely in every ecstasis" — the ecstases are not successive. The temporality of fear is "a forgetting that awaits and makes present"; anxiety holds the Moment in readiness. §69 grounds world-transcendence in the **horizonal schemata** ("a 'whereto' of being transported belongs to each ecstasy") — see [[Concepts/Being-in-the-World (Heidegger)]] — and §70 grounds even Dasein's spatiality: only "on the basis of ecstatic and horizonal temporality is it possible for Dasein to break into space."
+
+The derivation of the lower levels of time — datability, world-time, now-time, and the critiques of Aristotle and Hegel (§§78–82) — is now detailed in [[Concepts/World-Time and the Vulgar Concept of Time (Heidegger)]]; historicity as temporality's concretion (§§72–77) in [[Concepts/Historicality and the Turn (Heidegger)]].
+
 ## Key Claims / Positions
 
 ### How Different Thinkers Approach This
@@ -64,6 +72,7 @@ The Greeks viewed being as temporal **presence** (*ousia* / *parousia*) — bein
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 
 ## Related
 

@@ -39,6 +39,8 @@ Bodies: virtual in realistic environments, nanotech physical, etc. (Human Body 2
 
 - **Bostrom (Superintelligence)**: Uploading as one path; but orthogonality means uploaded minds could have arbitrary goals (not necessarily human-compatible). Cross to Bostrom.
 
+- **Virk (The Simulation Hypothesis, 2019)**: Uploading is Stage 10 ("downloadable consciousness") of the [[Concepts/Road to the Simulation Point (Virk)]]; Virk also reads reincarnation doctrine as consciousness download/upload at birth/death — see [[Concepts/Karma and Reincarnation as Quest Engine (Virk)]] and [[Concepts/Simulation Hypothesis (Virk)]].
+
 - **Turing, Minsky, Dennett**: Builds on Turing test (personalized version); Minsky's agent view of mind; Dennett on self as narrative/center of gravity (uploading as pattern transfer). Cross.
 
 - **Wiener, Pearl**: Pattern (Wiener's "organism as message") vs. need for causal models (Pearl) in uploads.
@@ -46,6 +48,7 @@ Bodies: virtual in realistic environments, nanotech physical, etc. (Human Body 2
 ## Contradictions / Open Questions
 
 - > [!warning] Identity/continuity: Is the upload "you"? (Original may exist; quantum/embodiment issues; gradual vs. sudden.) Cross to Dennett/Hofstadter on self.
+- Chalmers (*Reality+* ch. 15) now supplies the argument Kurzweil lacked — fading qualia for substrate-neutral consciousness — while splitting the identity verdict: nondestructive uploading creates a new person; "gradual uploading is the best bet for surviving." See [[Concepts/Machine Consciousness and Mind Uploading (Chalmers)]].
 
 - Optimistic feasibility vs. Mitchell/Bostrom limits/risks (current AI lacks understanding; uploaded minds could be dangerous).
 

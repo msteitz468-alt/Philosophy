@@ -70,9 +70,14 @@ Also links to strategy (Sun Tzu, Federalist Papers on multipolar dynamics and ch
 
 - **Relation to consciousness/qualia debates**: Bostrom largely sets aside whether superintelligence would be conscious; risks arise from optimization power and goal-directedness regardless. Cross with Dennett (deflation) and Searle (biological naturalism).
 
+## The Simulation Argument (via Virk, 2026-07-01)
+
+Bostrom's other famous contribution, the 2003 **simulation argument**, entered the vault via [[Sources/The Simulation Hypothesis - Rizwan Virk (2019)]] (secondary source; the 2003 paper itself is not yet ingested). The trilemma — civilizations never reach simulation capability, or don't run ancestor simulations, or simulated beings vastly outnumber real ones — is filed at [[Arguments/Simulation Argument (Bostrom)]]. Virk reads Bostrom as committed to the NPC version (we are simulated consciousnesses) and counters with a conscious-player (RPG) version — see [[Concepts/Simulation Hypothesis (Virk)]]. Note the internal tension: horn 1 of the trilemma is exactly the existential-catastrophe scenario *Superintelligence* warns of, so Bostrom's two arguments trade probability mass against each other.
+
 ## Sources
 
 - Primary: [[Sources/Superintelligence - Nick Bostrom (2014)]]
+- Secondary (simulation argument): [[Sources/The Simulation Hypothesis - Rizwan Virk (2019)]]
 
 ## Related
 

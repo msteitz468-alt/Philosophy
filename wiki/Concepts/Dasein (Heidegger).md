@@ -3,8 +3,8 @@ title: "Dasein (Heidegger)"
 type: concept
 domains: [ontology, phenomenology, philosophy-of-mind]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, dasein, ontology, existence]
 ---
 
@@ -43,6 +43,10 @@ Dasein is essentially embodied, but the body is "inconspicuous" — it "lies in 
 
 Dasein has an essential tendency to "fall" (*Verfallen*) away from itself into the world, expressed through idle talk (*Gerede*), curiosity (*Neugier*), and ambiguity (*Zweideutigkeit*). Falling does not presuppose a prior unfallen state; Dasein has "always already" fallen. Even the absorbed craftsman is fallen — absorbed in daily tasks without surveying his life as a whole.
 
+## From Being and Time (Primary Text)
+
+§9 gives the two theses the whole analytic rests on: "The 'essence' of Dasein lies in its existence [*Existenz*]" — Dasein's characteristics are "possible ways for it to be," not attributes of something objectively present — and being is in each case *mine* (*Jemeinigkeit*), grounding authenticity/inauthenticity (inauthenticity being no "lesser" being). "Existentials and categories are the two fundamental possibilities of the characteristics of being": "Beings are a *who* (existence) or else a *what* (objective presence in the broadest sense)." The analytic must start from average everydayness, since Dasein is "ontically 'nearest' to itself, ontologically farthest away" (§5). §10 sets the analytic off from anthropology, psychology, and biology — Dilthey, Bergson, Husserl, and Scheler never ask about the *being* of the person, and Descartes investigated the *cogito* while "the *sum* he leaves completely undiscussed." Understanding as thrown project makes Dasein "constantly 'more' than it actually is," licensing the imperative "become what you are!" (§31). Selfhood is finally cashed out not as a persisting subject but as [[Concepts/Conscience, Guilt, and Resoluteness (Heidegger)|anticipatory resoluteness]]: self-constancy "means nothing other than anticipatory resoluteness" (§64), against Kant's "I think."
+
 ## Key Claims / Positions
 
 ### How Different Thinkers Approach This
@@ -60,6 +64,7 @@ Dasein has an essential tendency to "fall" (*Verfallen*) away from itself into t
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 
 ## Related
 

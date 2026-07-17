@@ -3,8 +3,8 @@ title: "Readiness-to-Hand and Presence-at-Hand (Heidegger)"
 type: concept
 domains: [ontology, phenomenology, epistemology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, ontology, equipment, phenomenology]
 ---
 
@@ -39,6 +39,12 @@ In each case, the referential totality — normally invisible — **flashes into
 
 This insight has proven remarkably fertile beyond philosophy: Hubert Dreyfus applied it to AI (expert systems model only the present-at-hand, missing the ready-to-hand competence of skilled coping); the distinction shapes design theory (good design is invisible — it becomes ready-to-hand).
 
+## From Being and Time (Primary Text)
+
+Stambaugh renders the pair **handiness** (*Zuhandenheit*) / **objective presence** (*Vorhandenheit*), and *Zeug* as "useful thing." §15: "We shall call the useful thing's kind of being in which it reveals itself by itself handiness" — and "No matter how keenly we just look at the 'outward appearance' of things … we cannot discover handiness"; "the less we just stare at the thing called hammer, the more we take hold of it and use it." A totality of useful things always precedes any individual one ("there 'is' no such thing as a useful thing" alone). §16 gives the three breakdown modes (conspicuousness/obtrusiveness/obstinacy) through which the referential totality — world — lights up; §17 analyzes signs as useful things whose serviceability is *indicating*, making a referential totality explicit for circumspection (*Umsicht*).
+
+The Descartes critique (§§19–21) in the primary text: Descartes defines world as *res extensa* (hardness reduced to resistance to change of location), evades the meaning of being common to God, *res cogitans*, and *res extensa*, and lets mathematical *intellectio* dictate access — "Descartes does not allow the kind of being of innerworldly beings to present itself, but rather prescribes to the world, so to speak, its 'true' being on the basis of an idea of being (being = constant presence) the source of which has not been revealed" (§21). Adding "value predicates" to extended things cannot recover handiness — values are just more objectively present determinations. §69b then explains science positively: theory arises by a change-over (*Umschlag*) in the understanding of being — the hammer's place becomes a mere position, the surrounding world is "released" — and mathematical physics is decisive because its projection of nature "discloses an a priori."
+
 ## Key Claims / Positions
 
 ### How Different Thinkers Approach This
@@ -56,6 +62,7 @@ This insight has proven remarkably fertile beyond philosophy: Hubert Dreyfus app
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 
 ## Related
 

@@ -3,8 +3,8 @@ title: "Truth as Unconcealment (Heidegger)"
 type: concept
 domains: [ontology, epistemology, phenomenology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, truth, aletheia, ontology]
 ---
 
@@ -42,6 +42,12 @@ In *The Origin of the Work of Art*, truth-as-unconcealment becomes the central c
 
 Heidegger's claim provokes a sharp question: were Newton's laws "true" before Newton? Heidegger answers that the laws describe beings that were already there, but the *uncovering* of them — their truth — required Dasein. Newton's laws "became true through Newton; before him they were neither true nor false." This does not make them arbitrary; it makes truth an *event* rather than an eternal property.
 
+## From Being and Time (Primary Text)
+
+§44's three-step argument: (a) the traditional concept — locus of truth is the judgment, essence is *adaequatio intellectus et rei* — is derivative; being-true is *discovering* (*entdeckend-sein*); (b) the primordial phenomenon is the **disclosedness of Dasein** itself — *aletheia* as unconcealment must always be "wrested" from beings, "a kind of robbery," and Dasein is equiprimordially "in the truth" and "in untruth"; (c) truth is relative to Dasein's being without being "subjective": "'There is' ['gibt es'] truth only insofar as Dasein is and as long as it is." Heidegger notes Aristotle never actually located truth primarily in the judgment. We do not presuppose truth — truth first makes presupposing possible; the skeptic "can no more be refuted than truth proved," and "eternal truths" are unproven "remnants of Christian theology."
+
+The Newton passage in full force: "Newton's laws, the law of contradiction, and any truth whatsoever, are true only as long as Dasein is. Before there was any Dasein, there was no truth; nor will there be any after Dasein is no more. … Before Newton's laws were discovered, they were not 'true.' From this it does not follow that they were false… The laws became true through Newton, through them beings in themselves became accessible for Dasein." The pre-predicative ground of assertion-truth is worked out in §33's derivation chain (understanding → interpretation → statement); see [[Concepts/Disclosedness — Attunement, Understanding, Discourse (Heidegger)]].
+
 ## Key Claims / Positions
 
 ### How Different Thinkers Approach This
@@ -60,6 +66,7 @@ Heidegger's claim provokes a sharp question: were Newton's laws "true" before Ne
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 
 ## Related
 

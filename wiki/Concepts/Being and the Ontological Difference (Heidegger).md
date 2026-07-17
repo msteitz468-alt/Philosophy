@@ -3,8 +3,8 @@ title: "Being and the Ontological Difference (Heidegger)"
 type: concept
 domains: [ontology, metaphysics]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, ontology, being, metaphysics]
 ---
 
@@ -31,6 +31,12 @@ Epistemology is inadequate precisely because it presupposes a homogeneous knowin
 - **[[Thinkers/Hegel]]**: "The last and greatest of the Cartesians" — accepted Aristotle's conception of time and Descartes's subjectivism. His *Phenomenology of Spirit* is a parallel project to *Being and Time* but remains within the tradition Heidegger seeks to dismantle.
 - **[[Thinkers/A.J. Ayer]]**: Dismissed Heidegger's question of Being as paradigmatic "metaphysical nonsense" — a position Heidegger's supporters regard as exemplifying the very forgetfulness his philosophy diagnoses. See [[Concepts/Metaphysics as Meaningless (Ayer)]].
 
+## From Being and Time (Primary Text)
+
+The Introduction (§§1–4) states the question directly. Three prejudices sanction its neglect — being as the most universal, indefinable, self-evident concept — but "the indefinability of being does not dispense with the question of its meaning but forces it upon us" (§1). Being is not a genus; its universality "surpasses" generic universality (the medieval *transcendens*; Aristotle's unity of analogy "placed the problem of being on a fundamentally new basis"). The question's formal structure: what is asked about (*Gefragtes* — being), what is interrogated (*Befragtes* — beings, above all Dasein), what is to be ascertained (*Erfragtes* — the meaning of being). Dasein's priority is threefold (ontic, ontological, ontic-ontological): "the ontic distinction of Dasein lies in the fact that it is ontological" (§4). The stated aim of the whole treatise: "the interpretation of *time* as the possible horizon for any understanding whatsoever of being" — the guiding discovery being that Greek ontology read being as *ousia/parousia*, constant **presence**, i.e. tacitly from one temporal mode. The book breaks off (§83) before delivering the answer: "Does time itself reveal itself as the horizon of being?" See [[Concepts/Phenomenological Method and Destruktion (Heidegger)]] and [[Concepts/World-Time and the Vulgar Concept of Time (Heidegger)]].
+
+Heidegger's later marginalia in his own copy (printed in the Stambaugh/Schmidt edition) repudiate parts of this apparatus: "a decision about beyng [*Seyn*] cannot be made with the help of such conceptuality"; Dasein is reinterpreted as "the site of the understanding of being," and the horizon-language is redirected toward *das Ereignis* — the vocabulary of the *Kehre*.
+
 ## Contradictions / Open Questions
 
 - > [!warning] The ontological difference is foundational but difficult to state without paradox: if Being is not a being, how can it be discussed? Heidegger's own language strains against the limits it identifies.
@@ -39,6 +45,7 @@ Epistemology is inadequate precisely because it presupposes a homogeneous knowin
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 
 ## Related
 

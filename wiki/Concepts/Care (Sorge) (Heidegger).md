@@ -3,8 +3,8 @@ title: "Care (Sorge) (Heidegger)"
 type: concept
 domains: [ontology, phenomenology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, care, sorge, ontology]
 ---
 
@@ -43,6 +43,12 @@ The unity of care dissolves the traditional "scandal of philosophy" — the supp
 
 Even philosophical errors are rooted in care's structure. Dasein's everyday fallenness — its absorption in the present and the "they" — generates systematic distortions: idle talk (*Gerede*) passes on claims severed from their evidential basis; curiosity (*Neugier*) pursues novelty without depth; ambiguity (*Zweideutigkeit*) obscures who genuinely understands what. These are not failures of individual intellect but structural features of inauthentic Dasein.
 
+## From Being and Time (Primary Text)
+
+Stambaugh's rendering of §41: "the being of Dasein means *being-ahead-of-oneself-already-in* (the world) *as being-together-with* (innerworldly beings encountered). This being fills in the significance of the term care." Care is won methodologically from [[Concepts/Anxiety (Angst) (Heidegger)|anxiety]] (§40), the attunement that discloses the structural whole; care precedes will, wish, predilection, and urge, which are all founded on it, and is prior to any distinction of "theory" and "praxis." §42 offers a pre-ontological confirmation: the Latin *Cura* fable (Hyginus, via Burdach) — Care shapes *homo* from *humus*, and Saturn ("time") awards her possession of it "as long as it lives"; the double sense of *cura* (anxious effort / devoted dedication) mirrors thrown project.
+
+Division Two deepens the structure twice: care proves to harbor **guilt** — "Care, the being of Dasein, thus means, as thrown project: being the (null) ground of a nullity" (§58, see [[Concepts/Conscience, Guilt, and Resoluteness (Heidegger)]]) — and its ontological *meaning* is temporality: "Temporality reveals itself as the meaning of authentic care" (§65). §43c states the strongest consequence: "Being (not beings) is dependent upon the understanding of being; that is, reality (not the real) is dependent upon care" — see [[Concepts/Reality and the External World (Heidegger)]].
+
 ## Key Claims / Positions
 
 ### How Different Thinkers Approach This
@@ -60,6 +66,7 @@ Even philosophical errors are rooted in care's structure. Dasein's everyday fall
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 
 ## Related
 

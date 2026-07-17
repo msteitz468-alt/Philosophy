@@ -3,8 +3,8 @@ title: "Martin Heidegger"
 type: thinker
 domains: [ontology, phenomenology, existentialism, aesthetics, philosophy-of-mind]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+updated: "2026-07-01"
+sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
 tags: [philosophy, heidegger, phenomenology, ontology, existentialism]
 ---
 
@@ -14,6 +14,8 @@ tags: [philosophy, heidegger, phenomenology, ontology, existentialism]
 ## Summary
 
 Martin Heidegger (1889–1976) was a German philosopher whose single question — *What is Being?* — restructured continental philosophy in the twentieth century. His masterwork *Being and Time* (*Sein und Zeit*, 1927) argued that the Western philosophical tradition had forgotten the question of Being by burying it under epistemology, subjectivism, and science. To recover it, Heidegger analysed the entity that asks the question — *Dasein* (human existence understood as the being whose own being is an issue for it). He showed that Dasein is essentially *being-in-the-world*, not a Cartesian subject confronting objects; that its being is *care* (*Sorge*); and that care is grounded in *temporality*. The later Heidegger shifted from Dasein-centred analysis to a receptive openness in which Being itself discloses through art, language, and thinking — the "Turn" (*Kehre*).
+
+**Primary-text note (2026-07-01)**: The vault now holds *Being and Time* itself ([[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]], full ingest, §§1–83 plus the later marginalia from Heidegger's own copy). The positions below are therefore grounded in the primary text as well as Inwood's survey. The primary text added dedicated pages: [[Concepts/Phenomenological Method and Destruktion (Heidegger)]], [[Concepts/The They (das Man) and Falling Prey (Heidegger)]], [[Concepts/Disclosedness — Attunement, Understanding, Discourse (Heidegger)]], [[Concepts/Anxiety (Angst) (Heidegger)]], [[Concepts/Reality and the External World (Heidegger)]], [[Concepts/Conscience, Guilt, and Resoluteness (Heidegger)]], [[Concepts/World-Time and the Vulgar Concept of Time (Heidegger)]]. Notable primary-text precisions: the book's stated aim is "the interpretation of *time* as the possible horizon for any understanding whatsoever of being" — never delivered, ending at §83 in open questions; existential guilt ("being the (null) ground of a nullity") precedes and enables morality; and the marginalia reread the whole apparatus in the later vocabulary of *Seyn* and *Ereignis*.
 
 ## Life
 

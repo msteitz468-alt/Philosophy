@@ -68,6 +68,8 @@ Dennett borrows from the philosophy of secondary qualities:
 
 The move in Ch. 12 is to show that colors (and other secondary qualities) are lovely, not suspect. Once this is established, the apparent residue that qualia theorists are pointing to simply evaporates.
 
+> [!warning] **Chalmers's counter (*The Conscious Mind*, 1996)**: the parity argument is faced head-on as the [[Concepts/Paradox of Phenomenal Judgment (Chalmers)]] — Chalmers *accepts* that claims about qualia are functionally explainable and denies this debunks them, because "consciousness is not an explanatory construct... it is a brute explanandum," known by acquaintance rather than by causal channels. He also charges *Consciousness Explained* with trading on an ambiguity in "seem" (phenomenal vs dispositional). See [[Arguments/Zombie Argument (Chalmers)]] and [[Concepts/Naturalistic Dualism (Chalmers)]].
+
 ## Sources
 
 - [[Sources/Consciousness Explained - Daniel C. Dennett (1991)]]
