@@ -4,13 +4,13 @@ type: source-summary
 domains: [epistemology, philosophy-of-language, ethics, philosophy-of-science]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Language, Truth and Logic - A. J. Ayer.txt"]
+sources: ["Language, Truth and Logic - A. J. Ayer.md"]
 tags: [ayer, logical-positivism, logical-empiricism, verification, emotive-ethics, analytic-philosophy, metaphysics, language, meaning, vienna-circle, empiricism, tautology]
 ---
 
 # Language, Truth and Logic — A.J. Ayer (1936)
 
-> The founding English-language manifesto of logical positivism: Ayer synthesizes the Vienna Circle's verification principle, Russell's logical analysis, and Hume's empiricism into a radical program that eliminates metaphysics as literally meaningless, reduces all a priori truth to tautology, and deflates ethics to expression of feeling.
+> The founding English-language manifesto of logical positivism: Ayer synthesizes the Vienna Circle's verification principle, Russell's logical analysis, and Hume's empiricism into a radical program that eliminates metaphysics as literally meaningless, reduces all a priori truth to tautology, and deflates ethics to expression of feeling. The [[Concepts/Emotive Theory of Ethics (Ayer)|emotive]] half now has its English-language ancestor in [[Sources/The Meaning of Meaning - Ogden and Richards (1923)]].
 
 ## Bibliographic Details
 

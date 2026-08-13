@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [sun-tzu, art-of-war, strategy, calculation, planning, leadership, statecraft, decision-making, classical-china]
-sources: ["The Art of War - Sun Tzu.txt"]
+sources: ["The Art of War - Sun Tzu.md"]
 ---
 
 # Calculation and the Five Factors (Sun Tzu)
@@ -39,7 +39,7 @@ Chapter I ("Laying Plans"). Because "the art of war is of vital importance to th
 - **Pairs with [[Concepts/Know the Enemy and Know Yourself (Sun Tzu)]]**: the seven considerations are precisely a *comparison of self and enemy* across the five factors — calculation is the method, self/enemy knowledge the inputs.
 - **Vs. [[Concepts/Power, Empire, and Revolt (Thucydides)]]**: Thucydides shows the *failure* of calculation — the Athenians' miscalculation of power, honor, and fear at Melos/Sicily; Sun Tzu prescribes the calculation Thucydides' actors botch.
 - **Resonance with [[Concepts/Checks and Balances (Federalist 51)|Federalist realism]]**: "if men were angels…" — design and reckon for the actual, not the ideal; both prize sober prior analysis of forces.
-- **Vs. the philosophical "Moral Law"**: Sun Tzu's *tao* (harmony of people and ruler → willing obedience) is a *strategic* asset (morale/legitimacy), not the metaphysical *tao* of Lao Tzu or the moral law of [[Concepts/Natural Law (Aquinas)|Aquinas]]/[[Concepts/Categorical Imperative - Universal Law Formulation (Kant)|Kant]] — a notable equivocation worth flagging.
+- **Vs. the philosophical "Moral Law"**: Sun Tzu's *tao* (harmony of people and ruler → willing obedience) is a *strategic* asset (morale/legitimacy), not [[Concepts/Dao - The Course (Laozi)|Laozi's course]] (Ziporyn: nonpurposive process that cannot be taken as *the* right course) and not the moral law of [[Concepts/Natural Law (Aquinas)|Aquinas]]/[[Concepts/Categorical Imperative - Universal Law Formulation (Kant)|Kant]] — a three-way equivocation now grounded on both Chinese primaries.
 
 ## Vault / AI / Personal Relevance
 

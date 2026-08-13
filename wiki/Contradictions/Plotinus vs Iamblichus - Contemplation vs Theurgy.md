@@ -3,8 +3,8 @@ title: "Plotinus vs Iamblichus - Contemplation vs Theurgy"
 type: contradiction
 domains: [philosophy-of-religion, metaphysics, ethics]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Neo-Platonism - Wallis, Richard T., -1985.md"]
+updated: "2026-08-12"
+sources: ["Neo-Platonism - Wallis, Richard T., -1985.md", "The Mystical Theology and The Divine Names - Dionysius the Areopagite.md"]
 tags: [plotinus, iamblichus, porphyry, theurgy, contemplation, grace, neoplatonism]
 ---
 
@@ -22,7 +22,7 @@ The soul descends wholly; no reserved contemplative summit remains. Hence though
 
 ## Stakes and Echoes
 
-Wallis reads the whole later school as working out problems Plotinus left open; this one decides whether Neoplatonism is ultimately a philosophy or a religion. The debate prefigures Christian disputes over nature vs. grace and works vs. faith — [[Thinkers/Augustine]]'s insistence (against the "Platonists" of *Confessions* VII) that the ascent fails without the Mediator and grace is structurally Iamblichus's side of the argument, arrived at independently; Pseudo-Dionysius's sacramentalism carries the theurgic pattern into Christianity. Wallis's closing assessment sees in the Plotinus–Iamblichus opposition a still-live model of the reason-vs-spirituality dilemma.
+Wallis reads the whole later school as working out problems Plotinus left open; this one decides whether Neoplatonism is ultimately a philosophy or a religion. The debate prefigures Christian disputes over nature vs. grace and works vs. faith — [[Thinkers/Augustine]]'s insistence (against the "Platonists" of *Confessions* VII) that the ascent fails without the Mediator and grace is structurally Iamblichus's side of the argument, arrived at independently; [[Thinkers/Pseudo-Dionysius]]'s sacramentalism carries the theurgic pattern into Christianity. The ingested *Mystical Theology* is the contemplative pole of that carry-over (leave sense and intellect; Darkness of Unknowing); the *Hierarchies* that would complete the theurgic pole are not in this volume. Wallis's closing assessment sees in the Plotinus–Iamblichus opposition a still-live model of the reason-vs-spirituality dilemma.
 
 ## Sources
 
@@ -30,4 +30,4 @@ Wallis reads the whole later school as working out problems Plotinus left open; 
 
 ## Related
 
-- [[Schools/Neoplatonism]], [[Concepts/Return of the Soul (Epistrophe)]], [[Thinkers/Augustine]]
+- [[Schools/Neoplatonism]], [[Concepts/Return of the Soul (Epistrophe)]], [[Thinkers/Augustine]], [[Thinkers/Pseudo-Dionysius]]

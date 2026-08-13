@@ -4,7 +4,7 @@ type: concept
 domains: [political-philosophy, economics, constitutional-economics]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["The Calculus of Consent (Buchanan, Tullock).txt"]
+sources: ["The Calculus of Consent (Buchanan, Tullock).md"]
 tags: [philosophy, public-choice, rent-seeking, pressure-groups, lobbies]
 ---
 

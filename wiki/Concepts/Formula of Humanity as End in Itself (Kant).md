@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-12
 tags: [philosophy, ethics, kant, a-priori, deontology, formula-of-humanity, end-in-itself, autonomy, persons]
-sources: ["Metaphysics of Morals - Immanuel Kant"]
+sources: ["Metaphysics of Morals - Immanuel Kant", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md", "Existentialism is a Humanism - Jean-Paul Sartre (1946).md", "Anarchy, State, and Utopia - Robert Nozick (1974).md"]
 ---
 
 # Formula of Humanity as End in Itself (Kant)
@@ -34,6 +34,26 @@ In the Second Section, after establishing the universal law formulation, Kant de
 - This formula is "fundamentally the same" as the universal law formula; both express the absolutely good will. Later in the section it is connected to autonomy and the realm of ends.
 - Note: "humanity" here means rational nature (capacity to set ends and give moral laws), not the biological species; the principle is meant to hold for all rational beings.
 
+## Adjacent: Confucian *shu* and *ren* (Chin 2014)
+
+Do not equate FH with Analects 12.2 / 15.24. Both forbid treating the other as a mere convenience. Kant grounds the prohibition in rational nature as end in itself. Confucius's "do not impose" is [[Concepts/Shu - Reciprocity (Confucius)|*shu*]] — analogical, role-bound, practiced as the method of [[Concepts/Ren - Humaneness (Confucius)|humaneness]] — and 13.18 (fathers and sons cover for each other) will not fall out of FH as a duty. Chin does not call 15.24 the Golden Rule. See [[Thinkers/Confucius]].
+
+## From the Gregor/Korsgaard edition (2026-08-12)
+
+Gregor (4:429): "**So act that you use humanity, whether in your own person or in the person of any other, always at the same time as an end, never merely as a means.**" Ground: "rational nature exists as an end in itself" (4:428–429). Beings without reason = *things* (*Sachen*); rational beings = *persons*, objects of respect, who "limit all choice." The four examples of FUL are recast here (suicide, lying promise, talents, beneficence); see [[Concepts/Perfect and Imperfect Duties (Kant)]]. Golden Rule is rejected as derivative and incomplete — no duties to self, no duties of love, and it would let the criminal object to the judge (4:430n). Dignity (*Würde*) is the worth-theoretic companion: [[Concepts/Dignity of Rational Nature (Kant)]]. Korsgaard: FH (with autonomy) has been read as *stronger* than FUL; Kant asserts equivalence.
+
+## Sartre's pupil (2026-08-12)
+
+[[Sources/Existentialism is a Humanism - Jean-Paul Sartre (1946)]] grants the formula and denies that it decides. The student must choose between staying with his mother and joining the Free French. "If I remain with my mother, I shall be regarding her as the end and not as a means: but by the same token I am in danger of treating as means those who are fighting on my behalf; and the converse is also true." "Principles that are too abstract break down when we come to defining action." Sartre agrees with Kant that freedom wills itself and the freedom of others; he denies that the formal and the universal constitute a morality. The *content* must be invented in the situation. See [[Concepts/Anguish, Abandonment and Despair (Sartre)]], [[Concepts/Radical Freedom and Situation (Sartre)]].
+
+> [!warning] Conflicts with [[Thinkers/Jean-Paul Sartre]] on whether FH (or any formal universal) can determine a concrete choice — the lecture's central ethical example.
+
+## Kierkegaard's Abraham (2026-08-12)
+
+[[Sources/Fear and Trembling - Kierkegaard (Hannay 1985)]] does not mention FH, but the act it praises fails the test: Isaac is the means of a trial, and the maxim cannot be willed as a law or agreed to by the victim. Johannes's reply is that if that is the last word, Abraham is a murderer and one should stop praising him. He insists the act is sacrifice only if Abraham loves Isaac *more*, not less — which a Kantian can still hear as using a person. Different failure from Sartre's pupil (underdetermination). See [[Contradictions/Kierkegaard vs Kant - Absolute Duty vs Universal Law]].
+
+> [!warning] Conflicts with [[Thinkers/Søren Kierkegaard]] on whether a private command to kill can be a duty.
+
 ## Vault Relevance / AI / Personal
 
 - **Alignment & agent design**: "Never treat humans (or other agents) merely as means" is a core constraint for tool-using / goal-directed systems. Optimization for user "happiness" or metrics without regard to the person's rational agency (consent, dignity, capacity to set own ends) violates FH. In practice: do not manipulate, deceive, or instrumentalize users even if it "works" for short-term goals; design for users as co-legislators/end-setters.
@@ -46,7 +66,11 @@ In the Second Section, after establishing the universal law formulation, Kant de
 
 - [[Categorical Imperative - Universal Law Formulation (Kant)]], [[Autonomy and Heteronomy of the Will (Kant)]], [[Kingdom of Ends (Kant)]], [[Good Will (Kant)]], [[Duty (Kant)]], [[Hypothetical and Categorical Imperatives (Kant)]]
 - Contrasts: [[Eudaimonia]] (flourishing of the human as end vs unconditional respect for rational nature as end in itself); Humean sentiment/utility (persons as sources of pleasure/calculable welfare vs ends in themselves); Lockean personal identity/consciousness (empirical self vs noumenal/rational nature grounding dignity).
-- Cross: [[Thinkers/Kant]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Aristotle]], [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Spinoza]]
+- Cross: [[Thinkers/Kant]], [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Aristotle]], [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Spinoza]]
+- [[Concepts/Dignity of Rational Nature (Kant)]], [[Concepts/Perfect and Imperfect Duties (Kant)]]
+- [[Thinkers/Jean-Paul Sartre]], [[Concepts/Anguish, Abandonment and Despair (Sartre)]], [[Sources/Existentialism is a Humanism - Jean-Paul Sartre (1946)]]
+- [[Thinkers/Søren Kierkegaard]], [[Contradictions/Kierkegaard vs Kant - Absolute Duty vs Universal Law]]
+- [[Thinkers/Robert Nozick]], [[Concepts/Side Constraints (Nozick)]], [[Sources/Anarchy, State, and Utopia - Robert Nozick (1974)]] — political FH: “individuals are inviolable”; libertarian content Kant did not derive; “utilitarianism of rights” still utilitarian in form
 - [[GROK]] (schema and raw sources treated as ends — accuracy/provenance as non-negotiable, not instrumental to any particular output); personal integrity in career as treating self/others as ends.
 
 *Concept created during 2026-06-04 chunked ingest (Second Section) of the Kant *Groundwork*. Provides the "end in itself" formulation grounding dignity and non-instrumentalization.*

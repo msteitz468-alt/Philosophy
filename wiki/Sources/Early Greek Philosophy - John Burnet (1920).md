@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [burnet, classical-philosophy, pre-socratics, thales, anaximander, anaximenes, pythagoras, heraclitus, parmenides, zeno, empedocles, anaxagoras, democritus, primary-source, ancient-greece]
-sources: ["Early Greek Philosophy - John Burnet.txt"]
+sources: ["Early Greek Philosophy - John Burnet.md"]
 ---
 
 # Early Greek Philosophy - John Burnet (1920)

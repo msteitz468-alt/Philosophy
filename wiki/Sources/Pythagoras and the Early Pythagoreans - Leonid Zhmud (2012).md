@@ -8,7 +8,7 @@ orig_year: 1994
 domains: [history-of-philosophy, history-of-science, metaphysics, mathematics, astronomy, music, medicine, religion, ancient-greece]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [pythagoras, pythagoreanism, philolaus, hippasus, archytas, plato, aristotle, metempsychosis, acusmata, number, harmony-of-spheres, mathematics, astronomy, source-criticism, zhmud, burkert]
 ---
 

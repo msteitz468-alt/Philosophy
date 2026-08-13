@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [quine, analytic-synthetic-distinction, analyticity, synonymy, two-dogmas, meaning, logical-truth, carnap, hume, kant, positivism, epistemology, philosophy-of-language]
-sources: ["Quine51 - Unknown.txt"]
+sources: ["Quine51 - Unknown.md"]
 ---
 
 # Analytic-Synthetic Distinction (Quine)
@@ -37,7 +37,7 @@ The second class is the philosophically important and problematic one for empiri
 ## Relation to Prior Vault Content
 
 - **Direct attack on [[Concepts/Hume's Fork (Relations of Ideas vs Matters of Fact)]]**: Hume's exhaustive division (relations of ideas = a priori, denial implies contradiction; matters of fact = contingent, contrary always conceivable) is the classical ancestor of the analytic/synthetic distinction. The positivists' analytic/synthetic + verification picture is a sharpened, linguistic descendant. Quine argues the fork (and its descendants) is not exhaustive or sharp in the way required.
-- **Kant's problem**: Kant's question "How are synthetic a priori judgments possible?" presupposes that the analytic/synthetic and a priori/a posteriori distinctions can be drawn and that they are not coextensive. Quine undercuts the presupposition.
+- **Kant's problem**: Kant's question "How are synthetic judgments a priori possible?" (B 19) presupposes that the analytic/synthetic and a priori/a posteriori distinctions can be drawn and that they are not coextensive. Official wordings now in the vault: analytic = predicate "(covertly) contained" in the subject; synthetic = predicate "lies entirely outside" it (A 6–7 / B 10). Quine undercuts the presupposition. See [[Concepts/Synthetic A Priori Judgments (Kant)]], [[Sources/Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge)]].
 - **Vs. Carnap / logical empiricism**: The distinction (plus reductionism) was the main tool for demarcating meaningful science and eliminating metaphysics as nonsense. Quine shows the tool does not work on its own terms.
 
 ## Relevance to Vault
@@ -48,7 +48,7 @@ The second class is the philosophically important and problematic one for empiri
 - **Lint heuristic**: claims that cannot be classified as either (a) true by the explicit conventions of the schema + prior syntheses or (b) directly traceable to and revisable by specific raw sources are candidates for the flames (Hume) or at least for explicit flagging as posits.
 
 **Open questions**:
-- Can a non-circular, non-holistic account of cognitive synonymy or analyticity be given (e.g., via possible-worlds semantics, two-dimensional semantics, or other post-Quinean developments)? (Not yet represented in the vault.)
+- Can a non-circular, non-holistic account of cognitive synonymy or analyticity be given (e.g., via possible-worlds semantics, two-dimensional semantics, or other post-Quinean developments)? Two-dimensional semantics is now in the vault as *Chalmers's* reception of Kripke, not as a rehabilitation of analyticity. [[Thinkers/Saul Kripke]] does not try to save the analytic/synthetic line; he relocates necessity to metaphysics and lets empirical discovery yield necessary truth ([[Concepts/Necessary A Posteriori and Contingent A Priori (Kripke)]], [[Contradictions/Kripke vs Quine - De Re Necessity vs Holism]]).
 - How much of ordinary and scientific discourse can be reconstructed without a sharp analytic/synthetic distinction?
 
 ## Related
@@ -58,7 +58,8 @@ The second class is the philosophically important and problematic one for empiri
 - [[Concepts/Reductionism and Verification Theory of Meaning (Quine)]], [[Concepts/Confirmation Holism (Duhem-Quine Thesis)]], [[Concepts/Naturalized Epistemology and the Web of Belief (Quine)]]
 - [[Concepts/Hume's Fork (Relations of Ideas vs Matters of Fact)]] (the fork Quine attacks)
 - [[Concepts/Problem of Demarcation (Kant and Popper)]] (Carnap's use of verification/meaning to draw lines)
-- [[Thinkers/Hume]], [[Thinkers/Kant]], [[Thinkers/Carnap]], [[Thinkers/Bertrand Russell]]
+- [[Thinkers/Hume]], [[Thinkers/Kant]], [[Thinkers/Carnap]], [[Thinkers/Bertrand Russell]], [[Thinkers/Saul Kripke]]
+- [[Contradictions/Kripke vs Quine - De Re Necessity vs Holism]]
 - [[Concepts/Problem of Induction (Hume)]]
 
 *Concept page created 2026-06-04 during Quine ingest. The master distinction Quine shows cannot be drawn sharply without circular appeal to the very notions it is meant to clarify.*

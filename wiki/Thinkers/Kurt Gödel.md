@@ -4,7 +4,7 @@ type: thinker
 domains: [logic, mathematics, foundations-of-math, philosophy-of-mind, ai, epistemology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Godel's Proof - Ernest Nagel.txt", "Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt"]
+sources: ["Godel's Proof - Ernest Nagel.md", "Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt"]
 tags: [godel, incompleteness, undecidability, self-reference, formal-systems, hilbert-program, principia-mathematica, platonism, lucas-penrose, hofstadter, turing]
 ---
 

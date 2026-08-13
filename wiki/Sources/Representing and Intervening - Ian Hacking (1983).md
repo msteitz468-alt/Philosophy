@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [hacking, scientific-realism, entity-realism, experiment, intervention, representation, observation, positivism, kuhn, feyerabend, lakatos, cartwright, philosophy-of-science]
-sources: ["Representing And Intervening Introductory - Ian Hacking.txt"]
+sources: ["Representing And Intervening Introductory - Ian Hacking.md"]
 ---
 
 # Representing and Intervening - Ian Hacking (1983)
@@ -69,7 +69,7 @@ Natural science since the seventeenth century is the interlocking of representin
 
 ## Sources
 
-- Primary: `raw/Representing And Intervening Introductory - Ian Hacking.txt` (full text of the 1983 CUP edition, including analytical table of contents, preface, acknowledgements, and both parts).
+- Primary: `raw/Representing And Intervening Introductory - Ian Hacking.md` (full text of the 1983 CUP edition, including analytical table of contents, preface, acknowledgements, and both parts).
 
 ## Related
 

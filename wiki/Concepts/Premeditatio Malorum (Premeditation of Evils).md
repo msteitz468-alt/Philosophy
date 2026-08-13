@@ -6,9 +6,10 @@ schools: [Stoicism]
 domains: [ethics]
 source_count: 1
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-08-12"
+source_count: 2
 tags: [premeditatio-malorum, negative-visualization, stoicism, seneca, anticipation, premortem, ryan-holiday, resilience, ethics]
-sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Premeditatio Malorum (Premeditation of Evils)
@@ -22,6 +23,8 @@ Seneca's model (paraphrased by Holiday): before a journey, "rehearse your plans"
 > *"Nothing happens to the wise man against his expectation... nor do all things turn out for him as he wished but as he reckoned — and above all he reckoned that something could block his plans."* — Seneca
 
 The structure is a simple loop: *What if... → Then I will... / Instead I'll... / No problem, we can always...* And where nothing can be done, the exercise shades into **managing expectations**: sometimes the only answer to "What if..." is *"It will suck, but we'll be okay."*
+
+[[Thinkers/Pierre Hadot]]’s primary definition (*Philosophy as a Way of Life* ch. 3): “In the exercise called *praemeditatio malorum*, we are to represent to ourselves poverty, suffering, and death. We must confront life’s difficulties face to face, remembering that they are not evils, since they do not depend on us.” It is one item in the Stoic suite keyed by *prosoche*, not a standalone life-hack. Epicureans **refuse** it: they relive past pleasures instead of picturing misfortunes. See [[Concepts/Spiritual Exercises (Hadot)]], [[Concepts/The Present Instant (Hadot)]].
 
 ## Why It Works
 

@@ -4,7 +4,7 @@ type: concept
 domains: [aesthetics, philosophy of art]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["The Deleuze Reader (Gilles Deleuze, Constantine V. Boundas).txt"]
+sources: ["The Deleuze Reader (Gilles Deleuze, Constantine V. Boundas).md"]
 tags: [Deleuze, aesthetics, painting, Bacon, sensation]
 ---
 

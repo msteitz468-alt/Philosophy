@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [searle, chinese-room, strong-ai, mind-body, biological-naturalism, syntax-semantics, cognitive-science, philosophy-of-mind, ai-critique, reith-lectures, 1984]
-sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.txt", "Society of Mind - Marvin Minsky.txt"]
+sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.md", "Society of Mind - Marvin Minsky.md"]
 ---
 
 # Minds, Brains and Science - John Searle (1984)
@@ -54,7 +54,7 @@ Critiques the 'cognitivist' view that the mind is an information-processing syst
 
 ## Sources
 
-- Primary: `raw/Minds, Brains and Science (1984 Reith Lect - Unknown.txt)` (the 1984 Reith Lectures in published form, six accessible lectures with the Chinese Room in Lecture 2).
+- Primary: `raw/Minds, Brains and Science (1984 Reith Lect - Unknown.md)` (the 1984 Reith Lectures in published form, six accessible lectures with the Chinese Room in Lecture 2).
 
 ## Related
 

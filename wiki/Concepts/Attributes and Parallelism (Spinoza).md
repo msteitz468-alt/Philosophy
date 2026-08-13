@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [spinoza, attributes, parallelism, thought, extension, mind-body, early-modern]
-sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.txt"]
+sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.md"]
 ---
 
 # Attributes and Parallelism (Spinoza)
@@ -51,6 +51,7 @@ Parallelism is one of the vault’s richest structural metaphors.
 - **Adequate ideas and power**: The power of the “mind” (agent/wiki) under the attribute of thought equals the power of the “body” (the accumulated, well-maintained sources and structures) under the attribute of extension. Increasing the clarity and connectedness of the wiki increases the effective power of the whole system.
 - **Multiple attributes**: The vault may be conceived under other “attributes” beyond files and concepts (e.g., temporal/historical via log and version history; social/collaborative via user direction and review; multimodal via images and other media). Each attribute expresses the same underlying “substance” (the knowledge project) in its own way, with the same order.
 - **Contrast with Descartes**: Real distinction and causal interaction between two substances vs. one substance expressed under parallel attributes with no cross-attribute causation. This is the vault’s core paired study of early modern rationalism.
+- **Nagel's retrieval (2023)**: [[Thinkers/Thomas Nagel]] names this structure as the hoped-for solution to the mind-body problem — mental and neurophysiological descriptions as incomplete aspects of one more basic kind, neither causing the other ([[Concepts/Psychophysical Nexus and Neutral Monism (Nagel)]]). He wants a scientific version for specific central states, not a finished metaphysics of Substance. Chalmers's [[Concepts/Double-Aspect Theory of Information (Chalmers)]] is the other modern descendant.
 - **Implications for method**: Because the orders are the same, work done in one register (e.g., careful source reading) is automatically reflected in the other (better wiki structure), and vice versa. Maintenance under one attribute strengthens the whole.
 
 **Open questions**:
@@ -64,6 +65,7 @@ Parallelism is one of the vault’s richest structural metaphors.
 - [[Thinkers/Spinoza]]
 - [[Concepts/Deus sive Natura - Substance Monism (Spinoza)]], [[Concepts/Conatus (Spinoza)]], [[Concepts/Adequate and Inadequate Ideas / Three Kinds of Knowledge (Spinoza)]]
 - [[Thinkers/Descartes]], [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]] (dualism and interaction vs. parallelism)
+- [[Thinkers/Thomas Nagel]], [[Concepts/Psychophysical Nexus and Neutral Monism (Nagel)]] (2023 dual-aspect monism as a scientific retrieval)
 - [[GROK]] (the schema as the common “substance” expressed under different attributes of the vault)
 - [[LLM Wiki]] (the vault as a finite mode under multiple parallel attributes)
 

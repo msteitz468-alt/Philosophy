@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [popper, essentialism, instrumentalism, conjecturalism, scientific-realism, galileo, berkeley, mach, duhem, theories-as-conjectures, critical-rationalism]
-sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.txt"]
+sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.md"]
 ---
 
 # Three Views Concerning Human Knowledge (Popper)

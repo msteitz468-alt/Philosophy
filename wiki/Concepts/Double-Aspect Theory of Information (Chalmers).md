@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, metaphysics, information-theory]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [chalmers, information, double-aspect, panpsychism, it-from-bit, russellian-monism, thermostat]
 ---
 
@@ -24,6 +24,7 @@ Consequences faced squarely:
 
 - **[[Thinkers/Claude Shannon]]** ([[Sources/A Mathematical Theory of Communication - Claude Shannon (1948)]]): supplies the syntactic information measure — pointedly *non*-semantic, sidestepping [[Contradictions/Wiener vs Shannon - Information and Meaning]].
 - **[[Concepts/It-from-Bit Hypothesis (Chalmers)]]**: the 1996 treatment is the ancestor of *Reality+* ch. 8 — there the phenomenal grounding ("it-from-bit-from-consciousness") is one option among several; here it is the favored move.
+- **[[Thinkers/Thomas Nagel]]** ([[Concepts/Psychophysical Nexus and Neutral Monism (Nagel)]]): the nearest contemporary cousin. Nagel 2023 wants inner/outer aspects of a single more basic kind, starting from affect rather than from Shannon information, and *denies* that this is panpsychism ("monism all the way down"). Chalmers is more confident of dualism than of the double-aspect prototheory; Nagel is more confident of the monist *direction* than of dualism.
 - **[[Thinkers/Gottfried Wilhelm Leibniz]]** ([[Sources/Monadology - Leibniz (1714)]]) and **[[Thinkers/Baruch Spinoza]]**: monadic panpsychism and dual-aspect monism are the classical precedents; Chalmers's Russellian version is their modern descendant.
 - **[[Concepts/Entropy and Information (Wiener)]]**: Wiener's "information is information, not matter or energy" gets an unexpectedly literal metaphysical upgrade.
 

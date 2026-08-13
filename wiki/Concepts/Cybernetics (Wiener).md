@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [wiener, cybernetics, feedback, control, communication, homeostasis, servomechanism, 1948, 1950]
-sources: ["The Human Use of Human Beings - Norbert Wiener.txt"]
+sources: ["The Human Use of Human Beings - Norbert Wiener.md"]
 ---
 
 # Cybernetics (Wiener)

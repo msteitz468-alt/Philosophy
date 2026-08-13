@@ -3,8 +3,8 @@ title: "Conditional Rendering and Quantum Indeterminacy (Virk)"
 type: concept
 domains: [physics, metaphysics, computation]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["The Simulation Hypothesis An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are in a… (Rizwan Virk) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["The Simulation Hypothesis An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are in a… (Rizwan Virk) (z-library.sk, 1lib.sk, z-lib.sk).md", "Are You Living in a Computer Simulation - Nick Bostrom (2003).md"]
 tags: [conditional-rendering, quantum-indeterminacy, wave-function, observer, planck, many-worlds]
 ---
 
@@ -26,6 +26,7 @@ The supporting physics, per Virk:
 
 ## How Different Thinkers Use This
 
+- **[[Thinkers/Nick Bostrom]]** (2003, §III): the vault's earliest statement of the same optimization. Distant astronomy can be compressed; the interior of the Earth omitted; "when it saw that a human was about to make an observation of the microscopic world, it could fill in sufficient detail … on an as-needed basis"; the director can edit anomalous brains or "skip back a few seconds and rerun." Bostrom does *not* identify this with quantum collapse — it is an engineering remark about what a simulator would bother to compute. Virk turns the engineering remark into a reading of QM.
 - **[[Thinkers/George Berkeley]]**: the closest historical ancestor — *esse est percipi* with the game server playing God's role as sustainer of the unperceived (as information rather than perception). See [[Contradictions/Subjective Idealism vs. Physical Realism]].
 - **Wheeler**: the "it from bit" / participatory-universe lineage Virk builds on.
 - **Fred Alan Wolf, Tom Campbell**: consciousness-collapse and simulation-theoretic evaluation models — fringe relative to mainstream decoherence accounts.

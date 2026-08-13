@@ -4,7 +4,7 @@ type: concept
 domains: [history-of-ideas, metaphysics, biology, cosmology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Great Chain of Being - Lovejoy, Arthur; Stanlis, Peter J.;.txt"]
+sources: ["The Great Chain of Being - Lovejoy, Arthur; Stanlis, Peter J.;.md"]
 tags: [lovejoy, continuity, no-leaps, scala-naturae, aristotle, biology, zoophytes, gradation, great-chain-of-being]
 ---
 

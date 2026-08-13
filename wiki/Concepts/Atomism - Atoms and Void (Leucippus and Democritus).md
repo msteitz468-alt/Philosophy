@@ -3,8 +3,8 @@ title: "Atomism - Atoms and Void (Leucippus and Democritus)"
 type: concept
 domains: [physics, metaphysics]
 created: "2026-06-11"
-updated: "2026-06-11"
-sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+updated: "2026-08-12"
+sources: ["Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 tags: [concept, democritus, leucippus, atomism, atoms, void, materialism, physics]
 ---
 
@@ -33,6 +33,8 @@ Ancient **Atomism** is the crowning synthesis of Pre-Socratic cosmology. Devised
 - Atoms have an inherent, eternal motion in the void. They collide, rebound, and occasionally hook together (due to their shapes, e.g., jagged, smooth, spherical).
 - All physical objects and qualities are emergent properties of these atomic configurations.
 - All change is simply the rearrangement of atoms. There is no divine design, no final causes, and no cosmic forces of attraction like Love and Strife; everything happens by mechanical necessity: *"Nothing occurs at random, but everything for a reason and by necessity."*
+
+**Aristotle's denial of void (*Physics* IV.6–9)**: the atomists posit "an interval which divides the whole body so as to break its continuity." Motion does not require void — the full can alter; bodies make room for one another. A separated void would destroy natural difference (no up/down/middle), make speeds incomparable ("there is no ratio of void to full"), and yield infinite speed. Rarity and density need no interstitial void: the same matter is potentially large and small. See [[Concepts/Place (Topos) (Aristotle)]] and [[Contradictions/Atomist Materialism vs Platonic-Aristotelian Teleology]]. *Physics* II also attacks the vortex-cosmology that makes the heavens spontaneous and animals natural: "we should have expected exactly the opposite."
 
 ---
 

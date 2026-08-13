@@ -5,7 +5,7 @@ domains: [political-philosophy, economics]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["The Communist Manifesto - Marx and Engels.txt"]
+sources: ["The Communist Manifesto - Marx and Engels.md"]
 tags: [marx, engels, communism, class-struggle, capitalism, proletariat, bourgeoisie, historical-materialism, primary-source]
 ---
 

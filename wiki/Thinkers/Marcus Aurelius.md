@@ -4,11 +4,11 @@ type: thinker
 era: "2nd century AD"
 schools: [Stoicism]
 domains: [ethics]
-source_count: 3
+source_count: 4
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [marcus-aurelius, stoicism, meditations, philosopher-king, roman-emperor, classical, 2nd-century-ad]
-sources: ["marcus_aurelius_biography_lord_rag.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.txt"]
+sources: ["marcus_aurelius_biography_lord_rag.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.md", "Philosophy as a Way of Life - Pierre Hadot.md"]
 ---
 
 # Marcus Aurelius
@@ -42,6 +42,10 @@ The dedicated source [[Sources/Meditations - Marcus Aurelius]] now provides the 
 
 These supply the direct textual basis for Marcus-specific concepts (ruling faculty / daemon, view from above / cosmic perspective, every act as if the last, contentment with the assigned, social co-operation as limbs of the whole) and applications of the shared Stoic core (dichotomy, impressions, role, acceptance) in the context of supreme power and public duty.
 
+## Hadot: the *Meditations* as Spiritual Exercises (1995)
+
+[[Thinkers/Pierre Hadot]]’s Marcus essay in [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]] (rewritten after *La Citadelle intérieure*, 1992) is now the vault’s scholarly primary on how the book is *built*. The *Meditations* are daily *hypomnemata* for personal use, not a treatise, a mood-diary, or a symptom of ulcer/opium/identity crisis. Apparent “pessimism” (decay, banality, sex as slime) is a Stoic method of *phantasia kataleptike*: strip conventional value-judgments so objects appear “physically.” The view from above is a voluntary imaginative exercise. The book is variations on Epictetus’s three *topoi* — desire, action, assent — as lived physics, ethics, and logic. Marcus stresses desire as applied physics (joyful consent to fate) more than Epictetus does. See [[Concepts/The Three Disciplines - Perception, Action, and Will (Hadot)]], [[Concepts/Spiritual Exercises (Hadot)]], [[Concepts/View from Above and Cosmic Perspective (Marcus Aurelius)]].
+
 ## Modern Reception (Ryan Holiday, 2014)
 
 Marcus is the seed of Ryan Holiday's *The Obstacle Is the Way* (see [[Sources/The Obstacle Is the Way - Ryan Holiday (2014)]]). Holiday builds an entire practical ethics on *Meditations* 5.20 — *"The impediment to action advances action... What stands in the way becomes the way"* — the origin of [[Concepts/Turning Obstacles Upside Down (Holiday)]]. He organizes the book around the three Stoic disciplines as reconstructed by **Pierre Hadot** in *The Inner Citadel* (see [[Concepts/The Three Disciplines - Perception, Action, and Will (Hadot)]] and [[Concepts/The Inner Citadel (Hadot)]]), and draws his epigraph for the method from Marcus: *"Objective judgment, now at this very moment. Unselfish action, now at this very moment. Willing acceptance — now — of all external events. That's all you need."* The closing example is Marcus's response to the revolt of Avidius Cassius: forgiveness and clemency as the last available virtue, "the fire that rises higher by means of this very material." Holiday also documents Marcus's modern readers — Bill Clinton (rereads the *Meditations* yearly), Wen Jiabao (100+ times), Tim Ferriss (Stoicism as an "operating system") — and it was Gregory Hays's translation of the *Meditations* that first drew Holiday to Stoicism. This is the vault's primary source for the *reception* of Marcus as practical self-help.
@@ -55,7 +59,8 @@ Marcus is the seed of Ryan Holiday's *The Obstacle Is the Way* (see [[Sources/Th
 ## Related
 - [[Sources/Marcus Aurelius - Biography (Lord)]]
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]]
-- [[Thinkers/Epictetus]], [[Thinkers/Seneca]]
+- [[Thinkers/Pierre Hadot]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]], [[Thinkers/Ryan Holiday]]
+- [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]]
 - [[Thinkers/Plato]] (philosopher-king ideal in *Republic*), [[Thinkers/Aristotle]]
 - [[Concepts/Eudaimonia]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Philosophy as Medicine (Seneca)]]
 - [[Sources/MasterClass Collection - 2026]] (leadership under pressure, routines, craft of living well)

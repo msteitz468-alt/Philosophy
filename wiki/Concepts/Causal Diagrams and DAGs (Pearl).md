@@ -4,7 +4,7 @@ type: concept
 domains: [causality, statistics, ai, philosophy-of-science, cognitive-science]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Book of Why - Judea Pearl.txt"]
+sources: ["The Book of Why - Judea Pearl.md"]
 tags: [pearl, causal-diagrams, dags, directed-acyclic-graphs, d-separation, chains, forks, colliders, bayesian-networks, sewall-wright, path-diagrams, confounding, collider-bias]
 ---
 

@@ -5,7 +5,7 @@ domains: [political-philosophy]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["The Social Contract - Jean-Jacques Rousseau.txt"]
+sources: ["The Social Contract - Jean-Jacques Rousseau.md"]
 tags: [rousseau, social-contract, general-will, sovereignty, democracy, political-philosophy, enlightenment]
 ---
 
@@ -56,7 +56,7 @@ Rousseau's answer is the **social contract**, in which each individual alienates
 ---
 
 ## Sources
-- Raw text: `raw/The Social Contract - Jean-Jacques Rousseau.txt` (742,000 bytes)
+- Raw text: `raw/The Social Contract - Jean-Jacques Rousseau.md` (742,000 bytes)
 
 ## Related
 - [[Thinkers/Jean-Jacques Rousseau]]
@@ -65,3 +65,5 @@ Rousseau's answer is the **social contract**, in which each individual alienates
 - [[Concepts/General Will (Rousseau)]]
 - [[Concepts/State of Nature (Rousseau)]]
 - [[Contradictions/Rousseau vs. Hobbes on the State of Nature]]
+- [[Thinkers/Isaiah Berlin]]
+- [[Contradictions/Berlin vs Rousseau - Negative Liberty vs Forced to Be Free]]

@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [popper, historicism, dialectic, hegel, marx, prophecy, prediction, open-society, piecemeal-engineering, utopia, critical-rationalism, social-science]
-sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.txt"]
+sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.md"]
 ---
 
 # Critique of Historicism and Dialectic (Popper)

@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [pearl, causality, do-calculus, ladder-of-causation, causal-diagrams, dags, bayesian-networks, counterfactuals, mediation, strong-ai, causal-revolution, structural-causal-models, simpsons-paradox, confounding]
-sources: ["The Book of Why - Judea Pearl.txt"]
+sources: ["The Book of Why - Judea Pearl.md"]
 ---
 
 # Judea Pearl

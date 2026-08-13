@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 3
 created: "2026-06-04"
-updated: "2026-07-01"
+updated: "2026-08-12"
 tags: [plotinus, enneads, neoplatonism, the-one, metaphysics, the-good, classical, 3rd-century-ad]
-sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md"]
+sources: ["The Enneads - Plotinus.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md", "The Mystical Theology and The Divine Names - Dionysius the Areopagite.md"]
 ---
 
 # The One (To Hen)
@@ -23,7 +23,7 @@ sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Addition
 - **Relation to Posterior Hypostases**: Intellect is the first "image" or expression of the One (thinking the One as its object, containing the Forms as thoughts). Soul images Intellect, and so on. Each is "one-and-many" to a greater degree as it descends.
 - **Not Evil or Dualistic**: The One is purely good; evil arises only at the lowest level as privation (lack of form/unity in matter), not as a rival principle or positive force (contra Gnostics or some dualisms Plotinus critiqued).
 
-The numeric reference file (raw/The Enneads - Plotinus.txt) points to the treatises (e.g., Ennead V.1 "On the Three Primary Hypostases," V.2 "On the Origin and Order of the Beings which Come After the First," VI.9 "On the Good or the One") where these ideas are elaborated.
+The numeric reference file (raw/The Enneads - Plotinus.md) points to the treatises (e.g., Ennead V.1 "On the Three Primary Hypostases," V.2 "On the Origin and Order of the Beings which Come After the First," VI.9 "On the Good or the One") where these ideas are elaborated.
 
 ## From Wallis's *Neoplatonism* (1972)
 
@@ -32,6 +32,10 @@ The numeric reference file (raw/The Enneads - Plotinus.txt) points to the treati
 - **Negative theology**: the *Parmenides*' negations deny of the One everything inconsistent with its excellence — all plurality and limitation; words say only what it is *not*. Proclus radicalized this: even the negations must finally be negated, and the Law of Contradiction does not apply to the One (*In Parm.* VII).
 - **Problems bequeathed**: can the One produce what it does not contain? Can any positive term apply without subjecting it to a common measure with its products? Iamblichus answered by positing an Ineffable *beyond* the One; Proclus by interposing [[Concepts/The Henads (Proclus)]] as participated unities between the unknowable One and everything else.
 - Wallis flags the standing tension of the school: ultimate reality is imperfectly expressible, yet the Greeks refused to abandon rigorous conceptualization.
+
+## How Pseudo-Dionysius Uses This
+
+[[Thinkers/Pseudo-Dionysius]] takes "One" as "the most important Title of all" (DN XIII.1) and immediately unsays it. The Cause "is not one of the many… but is before all Unity and Multiplicity"; "the One can exist without the Multiplicity" (DN XIII.2). Then: "It is not an Unity or a Trinity such as can be known by us… It hath no name… we have given our preference to the Negative method" (DN XIII.3). *Mystical Theology* V completes the unsaying: "nor is It one, nor is It unity, nor is It Godhead or Goodness." This is Proclus's last negation of the *Parmenides* read as Christian naming: the title is consecrated and then left behind. See [[Concepts/Super-Essential Godhead (Dionysius)]], [[Concepts/Divine Darkness and Unknowing (Dionysius)]].
 
 ## Relevance to Vault
 

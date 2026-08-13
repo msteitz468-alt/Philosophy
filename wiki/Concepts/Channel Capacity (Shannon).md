@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [shannon, channel-capacity, mutual-information, noisy-channel, 1948]
-sources: ["A Mathematical Theory of Communication - Claude Shannon.txt"]
+sources: ["A Mathematical Theory of Communication - Claude Shannon.md"]
 ---
 
 # Channel Capacity (Shannon)

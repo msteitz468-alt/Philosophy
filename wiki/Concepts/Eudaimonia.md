@@ -8,7 +8,7 @@ source_count: 3
 created: "2026-06-04"
 updated: "2026-07-01"
 tags: [aristotle, ethics, happiness, virtue, flourishing, classical]
-sources: ["gemini-code-1780526441159.md", "Aristotle - Nicomachean Ethics (Book I)", "Nicomachean Ethics (Aristotle).txt"]
+sources: ["gemini-code-1780526441159.md", "Aristotle - Nicomachean Ethics (Book I)", "Nicomachean Ethics (Aristotle).md"]
 ---
 
 # Eudaimonia
@@ -58,6 +58,14 @@ Augustine's *Confessions* supplies the experiential and psychological root that 
 - Ultimate rest = beatific vision (direct contemplation of God), imperfect in this life, perfect in heaven. "Grace does not destroy nature but perfects it."
 
 See [[Sources/Confessions - Augustine]], [[Thinkers/Augustine]], [[Concepts/Restless Heart - Rest in God (Augustine)]], [[Concepts/Memory - Interiority and Self-Knowledge (Augustine)]]. This adds the confessional, narrative, grace-dependent dimension to eudaimonia — directly relevant to personal "pilgrimages" (career transition, CPCU study, craft mastery) and the vault's own compounding process (restless integration of sources until unified vision).
+
+## Schopenhauer’s eudaemonology is not this page (*Parerga* I, 1851)
+
+The “Aphorisms on the wisdom of life” are **eudaemonology** as “instructions to a happy existence,” and he cites *NE* I.8 (the triad of goods) and *NE* X.7 (the philosophical life). That is **not** eudaimonia as activity of soul in accordance with virtue. He writes from an “ordinary, empirical standpoint” he has already judged an error: a happy existence is not really possible; even the term is a euphemism. The ranking “what one is / has / represents” keeps Aristotle’s headings and drops Aristotle’s substance. See [[Concepts/Eudaemonology as Accommodation (Schopenhauer)]], [[Concepts/What One Is, Has, and Represents (Schopenhauer)]].
+
+## Confucius (Chin 2014): adjacent, not the same good
+
+The *Analects* now supplies a non-Greek virtue-and-practice ethics that should not be renamed eudaimonia. Both form character by practice ([[Concepts/Xiao - Filiality (Confucius)|filiality]] as root; 17.2 "similar by nature; distinct through practice") and test the good man in the city. Aristotle's highest good is excellent *activity* of the rational soul, completed in *theōria*. Confucius's fulfillment is [[Concepts/Ren - Humaneness (Confucius)|humaneness]] in relationships and office; he will not theorize human nature or the way of Heaven (5.13) and does not rank contemplation above politics. *Zhongyong* at Analects 6.29 is everyday balance among ordinary people, **not** this page's *mesotēs* and **not** the later *Zhongyong* book (still outstanding). See [[Thinkers/Confucius]], [[Concepts/Doctrine of the Mean (Aristotle)]].
 
 ## Related
 - [[Sources/Aristotle - Nicomachean Ethics (Complete, W.D. Ross)]]

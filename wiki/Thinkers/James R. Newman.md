@@ -4,7 +4,7 @@ type: thinker
 domains: [mathematics, history-of-ideas, popular-science, logic]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Godel's Proof - Ernest Nagel.txt"]
+sources: ["Godel's Proof - Ernest Nagel.md"]
 tags: [newman, nagel, godel, popularization, world-of-mathematics, hofstadter]
 ---
 

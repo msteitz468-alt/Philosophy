@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 1
+source_count: 2
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [philosophy, nietzsche, sovereign-individual, conscience, promising, autonomy, genealogy-of-morals, revaluation]
-sources: ["The Genealogy of Morals - Nietzsche (1887)"]
+sources: ["The Genealogy of Morals - Nietzsche (1887)", "On the Genealogy of Morals - Nietzsche (Johnston, from 22 Classic Works).md", "The Dawn of Day - Nietzsche (Kennedy, Collection 2013).md"]
 ---
 
 # Sovereign Individual (Nietzsche)
@@ -16,6 +16,8 @@ sources: ["The Genealogy of Morals - Nietzsche (1887)"]
 ## Overview
 
 In the *Second Essay* of *On the Genealogy of Morals*, the "sovereign individual" appears as the "ripest fruit" on the tree of the "morality of custom" (*Sittlichkeit der Sitte*) — the long, hard, prehistoric work of making man calculable, uniform, regular, and disciplined.
+
+The **tree** is now a vault primary from 1881: [[Concepts/Morality of Custom (Nietzsche)]] (*Dawn* §9). That aphorism's free man who will depend on himself is *immoral* to custom. He is **not** yet this page's being competent to promise. Do not weld 1881 into 1887.
 
 **Definition**: "The sovereign individual, that resembles only himself, that has got loose from the morality of custom, the autonomous 'super-moral' individual (for 'autonomous' and 'moral' are mutually exclusive terms), — in short, the man of the personal, long, and independent will, competent to promise."
 
@@ -36,6 +38,18 @@ This is the *proud* conscience — the late fruit of the long process that began
 
 The sovereign individual is the late, rare, "super-moral" achievement: the being who can be *trusted* because he trusts himself, who is his own security, and whose conscience is the name of his proud, unbroken will.
 
+## Johnston layer (second translation)
+
+Samuel's "super-moral" is Johnston's **"autonomous individual beyond morality"** — "'autonomous' and 'moral' are mutually exclusive terms." He is **entitled** to make promises (not only "competent").
+
+**II.I:** "To breed an animal that is entitled to make promises." The opposing power is **active forgetfulness** (not inertia), which keeps a *tabula rasa* for ruling, hoping, pride, a present.
+
+**II.II:** "the sovereign individual… the autonomous individual beyond morality… entitled to make promises." His dominating instinct is **conscience** — the proud, not the bad, conscience.
+
+**II.III:** "Only something which never ceases to cause pain stays in the memory." The process is not gentle. German *Sittlichkeit der Sitte* is rendered "morality of custom"; the German string itself is absent from this extract.
+
+Do not collapse this figure into BGE's "free spirit" or into *Zarathustra*'s overman. It is the ripest fruit of the morality of custom, stated only here.
+
 ## Vault Relevance / AI / Personal
 
 - **The ideal maintainer and agent**: The sovereign individual who can make and keep long promises across sessions, growth, tool friction, and "fate" (context limits, model changes, user shifts). The vault's discipline (read index/log/GROK first, update both in the same logical step, precise search_replace with provenance, full per-chunk integration before proceeding, "one at a time with user involvement") is training in the "memory of the will" and the "right to promise." The goal is not perpetual bad-conscience guilt or priestly asceticism but the proud, autonomous state where the "dominating instinct" is simply the reliable continuation of what was willed.
@@ -54,7 +68,7 @@ The sovereign individual is the late, rare, "super-moral" achievement: the being
 
 ## Related
 
-- [[The Genealogy of Morals - Nietzsche (1887)]], [[Thinkers/Nietzsche]]
+- [[Sources/On the Genealogy of Morals - Nietzsche (Johnston)]], [[Sources/The Genealogy of Morals - Nietzsche (1887)]], [[Thinkers/Nietzsche]], [[Concepts/Genealogy (Nietzsche)]]
 - [[Concepts/Bad Conscience (Nietzsche)]], [[Concepts/Ressentiment (Nietzsche)]], [[Concepts/Master Morality and Slave Morality (Nietzsche)]], [[Concepts/Ascetic Ideal (Nietzsche)]], [[Concepts/Will to Power (Nietzsche)]], [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]]
 - [[Concepts/Beyond Good and Evil (Nietzsche)]], [[Concepts/Perspectivism (Nietzsche)]]
 - [[Thinkers/Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]]

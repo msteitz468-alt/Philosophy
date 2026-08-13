@@ -4,7 +4,7 @@ type: concept
 domains: [cosmology, futurism, physics, technology, civilization, space]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Physics of the Future - Michio Kaku.txt"]
+sources: ["Physics of the Future - Michio Kaku.md"]
 tags: [michio-kaku, kardashev-scale, type-i-civilization, planetary-civilization, type-ii, type-iii, physics-of-the-future, energy-ranking, future-of-humanity]
 ---
 

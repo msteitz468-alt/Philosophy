@@ -6,14 +6,14 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [epicurus, epicureanism, atomism, ethics, classical-philosophy, hellenistic, 4th-3rd-century-bc]
-sources: ["Letters and Sayings of Epicurus - Epicurus.txt"]
+sources: ["Letters and Sayings of Epicurus - Epicurus.md"]
 ---
 
 # Letters and Sayings of Epicurus - Epicurus
 
 > A 2005 Barnes & Noble edition compilation (translation, introduction, and notes by Odysseus Makridis) of the surviving core texts of Epicurus (341–271 BCE): Letter to Herodotus (physics, epistemology, cosmology), Letter to Pythocles (meteorology and celestial phenomena), Letter to Menoeceus (ethics and how to live well), Principal Doctrines (40 key maxims), Letter to Idomeneus, and short fragments/testimonia. Epicurus revives and refines ancient atomism (Leucippus/Democritus) into a complete materialist, empiricist system aimed at liberating humanity from superstition, fear of gods/death, and unnecessary desires, promising peace of mind (ataraxia) through prudent pleasure, simple living, friendship, and rational understanding of nature.
 
-**Source**: `raw/Letters and Sayings of Epicurus - Epicurus.txt` (full text file of the compilation, including detailed introduction on Epicurus' life, significance, and system; originally published ca. 305 BCE, this edition 2005).
+**Source**: `raw/Letters and Sayings of Epicurus - Epicurus.md` (full text file of the compilation, including detailed introduction on Epicurus' life, significance, and system; originally published ca. 305 BCE, this edition 2005).
 
 ---
 
@@ -89,7 +89,7 @@ Fits "Research" and "Reading a book" use cases in [[GROK]]. Anti-superstition an
 
 ## Sources
 
-- `raw/Letters and Sayings of Epicurus - Epicurus.txt` (Barnes & Noble 2005 compilation, trans./intro./notes by Odysseus Makridis; core texts ca. 305 BCE onward).
+- `raw/Letters and Sayings of Epicurus - Epicurus.md` (Barnes & Noble 2005 compilation, trans./intro./notes by Odysseus Makridis; core texts ca. 305 BCE onward).
 
 ## Related
 

@@ -3,8 +3,8 @@ title: "Intelligence Explosion (Bostrom)"
 type: concept
 domains: [ai, existential-risk, strategy]
 created: "2026-06-04"
-updated: "2026-06-04"
-sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt"]
+updated: "2026-08-12"
+sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Human Compatible - Stuart Russell (2019).txt"]
 tags: [bostrom, intelligence-explosion, takeoff, recalcitrance, optimization-power, ai-risk, superintelligence]
 ---
 
@@ -35,6 +35,7 @@ A fast takeoff amplifies the control problem: there may be little time for testi
 
 - **Turing (1950)**: Turing's prediction that machines would reach and surpass human intelligence, combined with his learning-machine programme, is an early root of the intelligence explosion idea. Bostrom provides the quantitative and strategic analysis.
 - **Wiener**: Warnings about learning machines that improve themselves in unintended directions scale to explosion scenarios.
+- **Russell (2019)**: Good's loop is plausible, not proven (diminishing returns possible). He does **not** reject a hard takeoff *if* one conceptual key turns (Szilard after Rutherford). He treats a single-shot takeoff as *less likely* because several independent breakthroughs remain (language + common sense; cumulative concept learning; abstract actions; heterogeneous mental computation). Hardware-driven explosion is rejected. If a hard takeoff happens before control is solved, "the game would be over." Recursive self-improvement: the intuition that purpose and uncertainty transfer to successors has **no theorems**.
 - **Minsky/Dennett/Hofstadter**: Models of mind and learning inform what "self-improvement" would actually consist of (agent recruitment, new administrative layers, new drafts/loops, better isomorphisms). A society-of-mind architecture might change the recalcitrance curve.
 
 ## Sources
@@ -47,6 +48,7 @@ A fast takeoff amplifies the control problem: there may be little time for testi
 - [[Concepts/AI Control Problem (Bostrom)]]
 - [[Thinkers/Nick Bostrom]]
 - [[Thinkers/Alan Turing]]
+- [[Thinkers/Stuart Russell]], [[Sources/Human Compatible - Stuart Russell (2019)]]
 - [[Thinkers/Norbert Wiener]]
 - [[Thinkers/Marvin Minsky]], [[Thinkers/Daniel Dennett]], [[Thinkers/Douglas Hofstadter]]
 

@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [shannon, entropy, channel-capacity, information-theory, noisy-channel, redundancy, source-coding, 1948, bell-system-technical-journal, communication, ai-foundations]
-sources: ["A Mathematical Theory of Communication - Claude Shannon.txt"]
+sources: ["A Mathematical Theory of Communication - Claude Shannon.md"]
 ---
 
 # A Mathematical Theory of Communication - Claude Shannon (1948)
@@ -62,7 +62,7 @@ Applications noted: not only communication engineering but theory of computing m
 
 ## Sources
 
-- Primary: `raw/A Mathematical Theory of Communication - Claude Shannon.txt` (full 1948 BSTJ paper, including discrete noiseless/noisy cases, entropy definitions and properties, fundamental theorems, English language examples, and continuous extensions).
+- Primary: `raw/A Mathematical Theory of Communication - Claude Shannon.md` (full 1948 BSTJ paper, including discrete noiseless/noisy cases, entropy definitions and properties, fundamental theorems, English language examples, and continuous extensions).
 
 ## Related
 

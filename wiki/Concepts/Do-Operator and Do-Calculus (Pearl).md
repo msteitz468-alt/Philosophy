@@ -4,7 +4,7 @@ type: concept
 domains: [causality, statistics, ai, philosophy-of-science]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Book of Why - Judea Pearl.txt"]
+sources: ["The Book of Why - Judea Pearl.md"]
 tags: [pearl, do-operator, do-calculus, intervention, graph-surgery, identification, causal-inference, back-door, front-door, shpitser, completeness]
 ---
 

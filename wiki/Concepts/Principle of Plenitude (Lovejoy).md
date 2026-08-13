@@ -4,7 +4,7 @@ type: concept
 domains: [history-of-ideas, metaphysics, theology, cosmology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Great Chain of Being - Lovejoy, Arthur; Stanlis, Peter J.;.txt"]
+sources: ["The Great Chain of Being - Lovejoy, Arthur; Stanlis, Peter J.;.md"]
 tags: [lovejoy, plenitude, plenum-formarum, timaeus, good, generative, determinism, optimism, romanticism]
 ---
 
@@ -24,7 +24,7 @@ Implications Lovejoy draws:
 - Reversal of values: the Intellectual World is deficient without the sensible embodiment; the shadows/Cave are needful to the Sun; the realm of essence lacks what is indispensable to its meaning until realized in time and multiplicity.
 - "The not-so-good, not to say the bad, must be apprehended as derivative from the Idea of the Good, as involved in the essence of Perfection."
 
-The principle passes to Neoplatonism (Plotinus: emanation as elaboration of Timaeus dialectic; the One overflows necessarily), medieval theology (Augustine: "non essent omnia, si essent aequalia"; Pseudo-Dionysius: God's "love"/goodness as inexhaustible productive energy, "non permisit manere Deum in seipso sine germine"; Aquinas), Leibniz (plenitude + sufficient reason: this is the best because fullest compossible world), Spinoza (everything possible by the nature of substance *must* be actual), and 18c optimism (Pope: "Of systems possible if 'tis confest / That wisdom infinite must form the best"; the full Chain justifies "whatever is, is right").
+The principle passes to Neoplatonism (Plotinus: emanation as elaboration of Timaeus dialectic; the One overflows necessarily), medieval theology (Augustine: "non essent omnia, si essent aequalia"; [[Thinkers/Pseudo-Dionysius]], now primary: the Yearning "allowed Him not to remain unfruitful in Himself, but moved Him to exert the abundance of His powers in the production of the universe" — DN IV.10, Lovejoy's *non permisit manere Deum in seipso sine germine*; the sun that lights "through no choice or deliberation, but by the very fact of its existence," DN IV.1; Aquinas), Leibniz (plenitude + sufficient reason: this is the best because fullest compossible world), Spinoza (everything possible by the nature of substance *must* be actual), and 18c optimism (Pope: "Of systems possible if 'tis confest / That wisdom infinite must form the best"; the full Chain justifies "whatever is, is right").
 
 Temporalizing (late 18c–Romantic): the static "full" once-for-all becomes a progressive realization in time; plenitude as the "flying goal" of a Becoming rather than permanent character of a finished product (Schelling: God "is Life, and not merely being"; "Being is sensible only in becoming").
 

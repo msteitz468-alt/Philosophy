@@ -5,10 +5,10 @@ greek: ""
 schools: [Stoicism]
 domains: [ethics]
 created: "2026-06-04"
-updated: "2026-06-04"
-source_count: 1
+updated: "2026-08-12"
+source_count: 2
 tags: [marcus-aurelius, stoicism, cosmic-perspective, view-from-above, impermanence, flux, transformation, classical, 2nd-century-ad]
-sources: ["Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.txt"]
+sources: ["Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.md", "Philosophy as a Way of Life - Pierre Hadot.md"]
 ---
 
 # View from Above and Cosmic Perspective (Marcus Aurelius)
@@ -40,6 +40,7 @@ The practice is both spatial (zoom out to the cosmos) and temporal (zoom out to 
 - **Heraclitus** (via later tradition): Marcus explicitly invokes the river/flux imagery and the unity of opposites through transformation.
 - **Augustine / Plotinus**: The "view from above" has parallels in the Neoplatonic ascent and Augustine's *distentio animi* (time as distention of the soul) and memory as vast inner chamber. But Marcus stays within the immanent logos; Augustine and Plotinus move toward transcendent union or rest in God.
 - **Vault / personal use**: The cosmic perspective is a powerful corrective to the "smoke" of daily urgency (deals, promotion timeline, AI hype cycles, personal anxieties). Retiring into the "little territory" (the daemon, or the wiki as persistent record) allows clear action without being swept by opinion or fear of loss. The long view of the archive (index + log) mirrors the view from above on one's own life.
+- **Pierre Hadot** (primary, 1995): the view from above is not a metaphor and not a flying-topos. It is a **spiritual exercise** of “practical physics”: imagination traversing the universe to gain greatness of soul and inner peace — Platonists, Stoics, and Epicureans (not Skeptics). Turned on human affairs (Cynic/Lucian) it is also the viewpoint of death: human goods shrink to *indifferentia*. Goethe’s “true poetry” is the same exercise. Tied to [[Concepts/The Present Instant (Hadot)]] and to cosmic consciousness: dilation of the self through universal nature. See [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]] ch. 9.
 
 ## Sources
 

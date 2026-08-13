@@ -6,9 +6,9 @@ schools: [Empiricism]
 domains: [epistemology, political-philosophy]
 source_count: 2
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [locke, john-locke, philosophy, epistemology, empiricism, early-modern, tabula-rasa, ideas, anti-innatism, education, toleration, government]
-sources: ["Complete Works of John Locke - John Locke.txt", "An Essay Concerning Human Understanding - Locke"]
+sources: ["Complete Works of John Locke - John Locke.md", "An Essay Concerning Human Understanding - Locke", "Anarchy, State, and Utopia - Robert Nozick (1974).md"]
 ---
 
 # John Locke (1632–1704)
@@ -54,6 +54,10 @@ Locke supplies the missing constructive half of the empiricist story that Hume b
 - **Vault / AI / agentic meta**: The "historical, plain method" and the disciplined self-survey of our faculties before building systems is an almost perfect model for the wiki's own workflow (read index + GROK.md + recent log before acting; trace claims back to sources; know the limits of what the current "cabinet" of pages can support). Tabula rasa is the ur-model for experience-driven learning systems (raw sources are the "sensation"; wiki maintenance and synthesis are the "reflection"). The emphasis on clear, determinate ideas and on not overreaching the evidence is directly usable as a rubric for page quality and for source-reliability judgments.
 - **Personal / craft / education**: Ties to the MasterClass and CPCU threads (deliberate filling and ordering of the "cabinet" through habit, example, and practice) and to the *Thoughts Concerning Education* (still to be read). Also to the personal career documents: the "book of business" and expertise are built, not innate.
 
+## Versus Nozick (2026-08-12 Ingest)
+
+[[Thinkers/Robert Nozick]]'s *Anarchy, State, and Utopia* is the vault's first primary that *starts from* the Second Treatise rather than the *Essay*. He takes Locke's state of nature (perfect freedom within the law of nature; punish for reparation and restraint; inconveniences of self-judging) as the right comparison class — not Hobbes's war of all against all — and then denies what Locke thought followed: a compact is not needed for civil society, any more than consent was needed to invent money (§§46–47, 50). Independents may stay out (§95). Mixing-labor is rejected as stated (tomato juice in the sea); the "enough and as good" proviso is restated more weakly (worsening others' *liberty to use*, not their chance to appropriate) and shadowed onto later transfers. The moral basis of the law of nature is postponed — "we here are following the respectable tradition of Locke." See [[Concepts/Invisible-Hand Explanation of the State (Nozick)]], [[Concepts/Entitlement Theory (Nozick)]], [[Concepts/State of Nature, Property, and Revolution (Locke)]].
+
 ## Related
 
 - [[Sources/An Essay Concerning Human Understanding - Locke]]
@@ -62,6 +66,8 @@ Locke supplies the missing constructive half of the empiricist story that Hume b
 - [[Concepts/Impressions and Ideas - Copy Principle (Hume)]], [[Concepts/Hume's Fork (Relations of Ideas vs Matters of Fact)]], [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]]
 - [[Concepts/Sensation and Reflection as the Two Fountains of Ideas (Locke)]], [[Concepts/Simple Ideas (Locke)]], [[Concepts/Primary and Secondary Qualities (Locke)]], [[Concepts/Tabula Rasa - Blank Slate or Empty Cabinet (Locke)]], [[Concepts/No Innate Principles or Ideas (Locke)]]
 - [[Concepts/Complex Ideas, Modes, Substances, and Relations (Locke)]], [[Concepts/Identity and Diversity - Personal Identity (Locke)]], [[Concepts/Association of Ideas (Locke)]], [[Concepts/Words as Signs of Ideas and Language (Locke)]], [[Concepts/Knowledge as Perception of Agreement or Disagreement of Ideas (Locke)]], [[Concepts/Nominal and Real Essences (Locke)]], [[Concepts/Faith and Reason - Enthusiasm (Locke)]], [[Concepts/State of Nature, Property, and Revolution (Locke)]], [[Concepts/Toleration (Locke)]]
+- [[Thinkers/Robert Nozick]] — Lockean anarchy without a compact; weaker proviso; entitlement as the political form of the Second Treatise. See [[Sources/Anarchy, State, and Utopia - Robert Nozick (1974)]].
+- [[Thinkers/Arthur Schopenhauer]] — *On Vision and Colours* (1854) names Locke as having taught “most thoroughly” that colours clothing objects are in the eyes. Then goes past the secondary-quality table to a retinal mechanics. See [[Concepts/Physiological Theory of Colour (Schopenhauer)]], [[Concepts/Primary and Secondary Qualities (Locke)]].
 - [[Thinkers/Bertrand Russell]] (20th-c. analytic heir of Lockean empiricism; sense-data ≈ Locke's ideas of sensation, rebuilt as structural realism — see [[Concepts/Knowledge by Acquaintance and Knowledge by Description (Russell)]])
 
 *Entity created during 2026-06-04 chunked ingest (Book I + front matter; expanded with Book II on two fountains/simple ideas/primary-secondary + identity/personal identity; Book III language; Book IV knowledge/faith/reason/enthusiasm). Further expanded with summaries of other major works in the Complete Works volume (Toleration, Two Treatises of Government, Thoughts on Education, Reasonableness of Christianity, Conduct of the Understanding). The foundational empiricist who supplies the "materials" (ideas from experience) and the systematic refutation of innatism that the vault's Hume material radicalizes and that stands in productive tension with its Descartes/Spinoza and classical threads. Key additional positions: personal identity by consciousness (not substance; prince/cobbler); language as voluntary signs of ideas (arbitrary, general terms, abuse); knowledge as perception of agreement/disagreement of ideas (intuitive/demonstrative/sensitive degrees; self/God/other things); faith/reason distinction (enthusiasm criticized); toleration (inward persuasion, civil interests only); government by consent (state of nature, property by labor, right of revolution); education by habit (sound mind in sound body, virtue before learning). Ties to vault meta, personal development, and AI grounding/conduct of understanding.*

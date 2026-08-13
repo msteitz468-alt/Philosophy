@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 1
+source_count: 2
 created: 2026-06-04
-updated: 2026-06-04
-tags: [philosophy, nietzsche, autobiography, confession, moral-purpose, revaluation, modern-philosophy, beyond-good-and-evil]
-sources: ["Beyond Good and Evil - Nietzsche (AmazonClassics Edition)"]
+updated: "2026-08-12"
+tags: [philosophy, nietzsche, autobiography, confession, moral-purpose, revaluation, modern-philosophy, beyond-good-and-evil, gay-science]
+sources: ["Beyond Good and Evil - Nietzsche (AmazonClassics Edition)", "The Gay Science - Nietzsche (Kaufmann 1974).md"]
 ---
 
 # Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)
@@ -28,6 +28,12 @@ In Chapter 1 of *Beyond Good and Evil*, Nietzsche makes one of his most famous d
 - The "spectacle of the Tartuffery of old Kant" or Spinoza's "masquerade of a sickly recluse" betrays the personal timidity and vulnerability behind the pose of pure dialectic or geometrical truth.
 
 The claim is both diagnostic (to see through the "prejudices") and potentially affirmative (once conscious, the autobiography can be owned and used in the service of higher creation/revaluation).
+
+## Physiology in the 1887 Preface
+
+*The Gay Science* Preface §2 gives the same diagnosis a body. "Assuming that one is a person, one necessarily also has the philosophy that belongs to that person." Difference: deprivations philosophize vs riches and strengths. Highest value-judgments conceal "misunderstandings of the physical constitution." "Philosophy has not been merely an interpretation of the body and a misunderstanding of the body." Prelude #23: self-exegesis is self-insertion. BGE §6 asks "What morality do they aim at?"; the Preface asks what *health* the thought is a symptom of. See [[Concepts/The Great Health (Nietzsche)]].
+
+**Owned in public, 1888.** *The Case of Wagner* Preface is the autobiography made deliberate: “I am just as much a child of my age as Wagner — *i.e.*, I am a decadent. The only difference is that I recognised the fact.” Wagner belongs only to his diseases; the essay is inspired by gratitude. The actor’s rule (§8, Talma) is the public twin: what must strike people as true must not be true. See [[Sources/The Case of Wagner - Nietzsche (1888)]], [[Concepts/Decadence (Nietzsche)]].
 
 ## Vault Relevance / AI / Personal
 

@@ -4,7 +4,7 @@ type: concept
 domains: [cosmology, metaphysics]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On the Universe (Aristotle).txt"]
+sources: ["On the Universe (Aristotle).md"]
 tags: [pseudo-aristotle, de-mundo, ether, cosmology, classical]
 ---
 

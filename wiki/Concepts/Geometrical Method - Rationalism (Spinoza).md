@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [spinoza, geometrical-method, rationalism, definitions, essences, deduction, early-modern]
-sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.txt"]
+sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.md"]
 ---
 
 # Geometrical Method - Rationalism (Spinoza)

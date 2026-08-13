@@ -7,7 +7,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [ayer, analytic, tautology, a-priori, synthetic, kant, empiricism, logic, mathematics, geometry, logical-positivism]
-sources: ["Language, Truth and Logic - A. J. Ayer.txt"]
+sources: ["Language, Truth and Logic - A. J. Ayer.md"]
 ---
 
 # Analytic Propositions as Tautologies (Ayer)

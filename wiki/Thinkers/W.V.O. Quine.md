@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [quine, two-dogmas-of-empiricism, analyticity, synonymy, holism, web-of-belief, naturalized-epistemology, pragmatism, underdetermination, posits, carnap, logical-empiricism, hume, kant, russell, frege, philosophy-of-language, philosophy-of-science]
-sources: ["Quine51 - Unknown.txt"]
+sources: ["Quine51 - Unknown.md"]
 ---
 
 # W.V.O. Quine
@@ -18,7 +18,7 @@ sources: ["Quine51 - Unknown.txt"]
 ## Profile
 
 - **Dates / life**: Born Akron, Ohio 1908; studied mathematics and philosophy at Oberlin and Harvard (PhD 1932 under Whitehead, with influence from Russell, Carnap, Tarski, Gödel); traveled in Europe (Vienna Circle, Warsaw school); taught at Harvard from 1936 until retirement (Edgar Pierce Professor); died 2000. Major works include *Word and Object* (1960), *From a Logical Point of View* (1953, containing "Two Dogmas"), *Ontological Relativity and Other Essays* (1969, containing "Epistemology Naturalized"), *The Roots of Reference* (1974), and many technical papers in logic and set theory.
-- **In the vault**: Primary source [[Sources/Two Dogmas of Empiricism - W.V.O. Quine (1951)]] (the 1951 *Philosophical Review* text with 1961 revisions). The essay is the single most important primary text for the vault's critique of logical empiricism / positivism and the turn to holism and naturalism. It directly engages the Humean and Kantian background already present and supplies the conceptual tools (holism, underdetermination, posits) that frame later discussions of Popper and Kuhn.
+- **In the vault**: Primary source [[Sources/Two Dogmas of Empiricism - W.V.O. Quine (1951)]] (the 1951 *Philosophical Review* text with 1961 revisions). The essay is the single most important primary text for the vault's critique of logical empiricism / positivism and the turn to holism and naturalism. It directly engages the Humean and Kantian background already present and supplies the conceptual tools (holism, underdetermination, posits) that frame later discussions of Popper and Kuhn. Named reader of the whole manuscript of [[Sources/Anarchy, State, and Utopia - Robert Nozick (1974)]] (Harvard colleague); no doctrinal overlap claimed in that source.
 
 ## Core Positions (from "Two Dogmas of Empiricism")
 
@@ -59,6 +59,7 @@ sources: ["Quine51 - Unknown.txt"]
 - **Relation to Popper**: Both are post-positivist critics of verificationism and the "given." Popper supplies a deductivist methodology of bold conjectures and attempted refutations; Quine supplies holism and underdetermination (any theory can be saved by adjustments). The tension between localized falsification and web-wide readjustment is a productive open issue (see [[Concepts/Falsifiability as Criterion of Demarcation (Popper)]] and the new holism concept). Quine predates (1951) the main Popper English publications but addresses the same intellectual milieu.
 - **Relation to Kuhn**: Strong affinities — theory-laden observation, meaning change across frameworks (incommensurability has roots in the failure of synonymy/analyticity), science as non-cumulative across revolutions, the role of pragmatic values in theory choice. Kuhn's "different worlds" and goal-less progress echo Quine's web and posit-myth language. Differences: Kuhn is historical/sociological; Quine is more logical/pragmatist/naturalist. See [[Thinkers/Thomas Kuhn]] and [[Contradictions/Popper vs Kuhn - Falsification vs Paradigms]] (Quine adds a third pole).
 - **Relation to Russell**: Quine develops and radicalizes certain Russellian themes (critique of meaning as naming; logical analysis) while rejecting others (the hope for a clean acquaintance/description or correspondence foundation that survives holism). Russell's "cosmic impiety" warning against making truth man-dependent remains relevant to Quine's pragmatism.
+- **[[Thinkers/Saul Kripke]] as the other pole on modality**: *Naming and Necessity* (now primary) treats de re necessity as a metaphysical primitive and produces necessary a posteriori identities (Hesperus/Phosphorus; gold = atomic number 79). Lecture I files the "Socratizer" and 9 / number of planets as Quine's stock objection, not as a theory of reference. This is not a synthesis. See [[Contradictions/Kripke vs Quine - De Re Necessity vs Holism]].
 - **Later development**: This essay is the gateway to Quine's mature naturalism ("Epistemology Naturalized," 1969) and ontological relativity / indeterminacy of translation (*Word and Object*). Future sources will expand the picture.
 
 ## Relevance to the Vault and Meta
@@ -73,7 +74,7 @@ sources: ["Quine51 - Unknown.txt"]
 - [[Sources/Two Dogmas of Empiricism - W.V.O. Quine (1951)]] (primary)
 - [[Concepts/Analytic-Synthetic Distinction (Quine)]], [[Concepts/Reductionism and Verification Theory of Meaning (Quine)]], [[Concepts/Confirmation Holism (Duhem-Quine Thesis)]], [[Concepts/Naturalized Epistemology and the Web of Belief (Quine)]]
 - [[Concepts/Hume's Fork (Relations of Ideas vs Matters of Fact)]], [[Concepts/Problem of Induction (Hume)]], [[Concepts/Problem of Demarcation (Kant and Popper)]], [[Concepts/Falsifiability as Criterion of Demarcation (Popper)]]
-- [[Thinkers/Karl Popper]], [[Thinkers/Thomas Kuhn]], [[Thinkers/Bertrand Russell]], [[Thinkers/Hume]], [[Thinkers/Kant]]
+- [[Thinkers/Karl Popper]], [[Thinkers/Thomas Kuhn]], [[Thinkers/Bertrand Russell]], [[Thinkers/Hume]], [[Thinkers/Kant]], [[Thinkers/Saul Kripke]]
 - [[Concepts/Correspondence Theory of Truth (Russell)]], [[Concepts/Pragmatic Theory of Truth (James)]]
 - [[Thinkers/Carnap]] (the logical-empiricist foil whose verificationism and state-descriptions are the direct target)
 

@@ -5,7 +5,7 @@ domains: [philosophy-of-mind, cognitive-science, neuroscience]
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [dennett, multiple-drafts, cartesian-theater, consciousness, parallel-processing, orwellian, stalinesque, color-phi, libet]
-sources: ["Consciousness Explained - Daniel C. Dennett.txt", "Society of Mind - Marvin Minsky.txt"]
+sources: ["Consciousness Explained - Daniel C. Dennett.md", "Society of Mind - Marvin Minsky.md"]
 ---
 
 # Multiple Drafts Model (Dennett)
@@ -54,9 +54,14 @@ The Multiple Drafts model describes the underlying neural reality; the [[Concept
 
 [[Concepts/Heterophenomenology (Dennett)|Heterophenomenology]] is the *method* for studying what subjects report as their experience; Multiple Drafts is the *theory* of what is actually going on in the brain that produces those reports. The heterophenomenological world (the theorist's fiction of what subjects seem to experience) is explained, at the mechanistic level, by the ongoing multiple-drafts editorial process.
 
+## Relation to Global Neuronal Workspace
+
+[[Thinkers/Stanislas Dehaene]] cites Dennett's "fame in the brain" and keeps the no-homunculus hygiene, but [[Concepts/Global Neuronal Workspace (Dehaene)]] *is* a late, all-or-none broadcast: ignition is a phase transition, "conscious perception is complete when they converge," and the P3 marks arrival. That is a privileged finish line of the kind Multiple Drafts denies. The book never stages the fight; the vault should. See [[Concepts/Signatures of Consciousness and Ignition (Dehaene)]].
+
 ## Sources
 
 - [[Sources/Consciousness Explained - Daniel C. Dennett (1991)]]
+- [[Sources/Consciousness and the Brain - Stanislas Dehaene (2014)]]
 
 ## Related
 
@@ -67,5 +72,7 @@ The Multiple Drafts model describes the underlying neural reality; the [[Concept
 - [[Thinkers/Daniel Dennett]]
 - [[Thinkers/Marvin Minsky]] (Society of Mind: distributed agents, no central self; K-lines/B-brains as mechanisms for memory and reflection supporting drafts)
 - [[Contradictions/Dennett vs Nagel - Multiple Drafts vs Subjective Experience]]
+- [[Concepts/Global Neuronal Workspace (Dehaene)]] (fame without abandoning a bottleneck)
+- [[Thinkers/Stanislas Dehaene]]
 
 *Concept page created 2026-06-04 during ingest of Dennett (1991). MDM is Dennett's positive theory: parallel distributed editorial processes replace the Cartesian Theater as the model of conscious experience.*

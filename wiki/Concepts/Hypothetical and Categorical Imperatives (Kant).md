@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-12
 tags: [philosophy, ethics, kant, a-priori, deontology, imperatives, hypothetical, categorical, autonomy]
-sources: ["Metaphysics of Morals - Immanuel Kant"]
+sources: ["Metaphysics of Morals - Immanuel Kant", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md"]
 ---
 
 # Hypothetical and Categorical Imperatives (Kant)
@@ -29,6 +29,10 @@ In the Second Section of the *Groundwork for the Metaphysics of Morals*, Kant di
 - All prior "principles of morality" (happiness, moral feeling, perfection, divine will) turn out to yield only hypothetical (conditioned, heteronomous) imperatives, not true moral laws.
 - The question "How are these imperatives possible?" is easy for hypothetical (analytic); hard for categorical (synthetic a priori practical proposition). The content of the (one) categorical imperative is derived from the mere concept: "Act only in accordance with that maxim through which you can at the same time will that it become a universal law."
 
+## From the Gregor/Korsgaard edition (2026-08-12)
+
+Gregor (4:414): "Now, all imperatives command either hypothetically or categorically. The former represent the practical necessity of a possible action as a means to achieving something else that one wills (or that it is at least possible for one to will). The categorical imperative would be that which represented an action as objectively necessary of itself, without reference to another end." Names: *rules* of skill, *counsels* of prudence, *commands (laws)* of morality (4:416–417). Skill is analytic ("whoever wills the end also wills… the indispensably necessary means"); prudence would be analytic if happiness were determinate — it is not, so only *consilia*. The CI "is an a priori synthetic practical proposition"; *how* it is possible is postponed to §III (4:420–421). Physician and poisoner are "of equal worth" as skill: the moral difference is not technical competence.
+
 ## Vault Relevance / AI / Personal
 
 - **Reasoning scaffolds & agent alignment**: Hypothetical = instrumental / goal-conditioned policies (common in RL, planning, "if goal G, then action A"). Categorical = constitutional / unconditional constraints that must hold regardless of goals/inclinations ("never do X" because it cannot be willed as universal). Universalizability test applies especially to the latter: a maxim that cannot be willed universally (e.g., deception when convenient) undermines the practice itself and cannot ground a stable system.
@@ -41,7 +45,7 @@ In the Second Section of the *Groundwork for the Metaphysics of Morals*, Kant di
 
 - [[Categorical Imperative - Universal Law Formulation (Kant)]], [[Good Will (Kant)]], [[Duty (Kant)]], [[Formula of Humanity as End in Itself (Kant)]], [[Kingdom of Ends (Kant)]], [[Autonomy and Heteronomy of the Will (Kant)]]
 - Contrasts/syntheses: [[Impressions and Ideas - Copy Principle (Hume)]] and custom/belief (empirical, heteronomous "guide of life" vs a priori law); [[Tabula Rasa - Blank Slate or Empty Cabinet (Locke)]] (experience vs pure practical reason); [[Eudaimonia]] (happiness as end of activity vs unconditional duty); [[Conatus (Spinoza)]] (striving determined by nature vs self-legislation); [[Dichotomy of Control (Epictetus)]] (what is up to us as rational); [[Natural Law (Aquinas)]] (participation in eternal law vs pure a priori).
-- Cross: [[Thinkers/Kant]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Aristotle]], [[Thinkers/Spinoza]]
+- Cross: [[Thinkers/Kant]], [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Aristotle]], [[Thinkers/Spinoza]]
 - [[GROK]] (schema as categorical "law" for maintenance; analytic from raw to explicit principle, synthetic application; purity of principles before "popular" use).
 
 *Concept created during 2026-06-04 chunked ingest (Second Section) of the Kant *Groundwork*. Distinguishes conditional means-ends commands from the unconditional moral law.*

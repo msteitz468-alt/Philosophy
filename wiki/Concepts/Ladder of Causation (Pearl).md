@@ -4,7 +4,7 @@ type: concept
 domains: [causality, ai, cognitive-science, philosophy-of-science, statistics]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Book of Why - Judea Pearl.txt"]
+sources: ["The Book of Why - Judea Pearl.md"]
 tags: [pearl, ladder-of-causation, association, intervention, counterfactuals, do-operator, rung-1, rung-2, rung-3, strong-ai, deep-learning, mini-turing-test]
 ---
 

@@ -4,7 +4,7 @@ type: concept
 domains: [logic, metaphysics, epistemology]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Sophist - Plato.txt"]
+sources: ["Sophist - Plato.md"]
 tags: [concept, plato, sophist, division, diairesis, logic, definition, non-being, otherness]
 ---
 

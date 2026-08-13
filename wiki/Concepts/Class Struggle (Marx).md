@@ -5,7 +5,7 @@ domains: [political-philosophy, political-economy]
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [marx, class-struggle, capitalism, revolution, bourgeoisie, proletariat]
-sources: ["The Communist Manifesto - Marx and Engels.txt"]
+sources: ["The Communist Manifesto - Marx and Engels.md"]
 ---
 
 # Class Struggle (Marx)

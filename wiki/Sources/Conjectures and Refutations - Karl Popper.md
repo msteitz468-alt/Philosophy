@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [popper, conjectures-and-refutations, falsifiability, demarcation, verisimilitude, induction, critical-rationalism, philosophy-of-science, historicism, dialectic, presocratics, sources-of-knowledge, instrumentalism, essentialism]
-sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.txt"]
+sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.md"]
 ---
 
 # Conjectures and Refutations - Karl Popper
@@ -73,7 +73,7 @@ This source completes the Popper picture begun with *LSD* and pushes the vault d
 
 ## Sources
 
-- Primary: `raw/Conjectures and Refutations_ The Growth of - Karl Popper.txt` (Routledge Classics 2002 e-book text).
+- Primary: `raw/Conjectures and Refutations_ The Growth of - Karl Popper.md` (Routledge Classics 2002 e-book text).
 - Companion: [[Sources/The Logic of Scientific Discovery - Karl Popper (Routledge Classics)]] (the technical 1934/59 foundation).
 
 ## Related

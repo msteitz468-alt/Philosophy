@@ -4,7 +4,7 @@ type: concept
 domains: [political-philosophy, ethics]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Statesman - Plato.txt"]
+sources: ["Statesman - Plato.md"]
 tags: [concept, plato, statesman, law, royal-art, politics, regime-types, justice]
 ---
 

@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [hacking, experiment, theory, intervention, independence, philosophy-of-science]
-sources: ["Representing And Intervening Introductory - Ian Hacking.txt"]
+sources: ["Representing And Intervening Introductory - Ian Hacking.md"]
 ---
 
 # Experiment Has a Life of Its Own (Hacking)

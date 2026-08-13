@@ -8,7 +8,7 @@ source_count: 5
 created: "2026-06-03"
 updated: "2026-06-04"
 tags: [thomas-aquinas, aquinas, scholasticism, theology, philosophy, summa-theologica, natural-law, grace, hylomorphism, soul, intellect, free-will, imago-dei, medieval, 13th-century, augustine, confessions, patristics]
-sources: ["Summa Theologica, Part I-II - Saint Thomas Aquinas.txt", "Thomas Aquinas - Summa Theologica.txt", "Confessions - Augustine.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Incoherence of the Incoherence - Ibn Rushd.txt"]
+sources: ["Summa Theologica, Part I-II - Saint Thomas Aquinas.md", "Thomas Aquinas - Summa Theologica.md", "Confessions - Augustine.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Incoherence of the Incoherence - Ibn Rushd.md"]
 ---
 
 # Thomas Aquinas
@@ -17,7 +17,7 @@ sources: ["Summa Theologica, Part I-II - Saint Thomas Aquinas.txt", "Thomas Aqui
 
 ## Key Contributions from Part I (QQ. 75-102) — The Treatise on Man
 
-*Source: `raw/Thomas Aquinas - Summa Theologica.txt` (Dominican Province, 2nd ed., London, 1932). See [[Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas]] for full seven-pass treatment.*
+*Source: `raw/Thomas Aquinas - Summa Theologica.md` (Dominican Province, 2nd ed., London, 1932). See [[Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas]] for full seven-pass treatment.*
 
 **Hylomorphism — Soul as Form of Body (Q. 75-76)**:
 - The soul is not a body but the *act* of a body — the first principle of life as actualization, not a substance alongside the body.
@@ -181,7 +181,8 @@ Fits "Research," "Reading a book," "Personal," and "Business/team" use cases in 
 - [[Mack Steitz]], [[Sources/Job Promotion Strategy - AM to Sr AE (Alliant 2026)]], [[Sources/Strategy - Full - Agribusiness Sales Playbook (Alliant 2026)]], [[Sources/CPCU 552 Commercial Property Insurance - Study Materials]] (virtue, natural law, common good, grace in professional life)
 - [[LLM Wiki]], [[GROK]] (quaestio method; nature perfected by higher order/synthesis; systematic source integration)
 - [[Syntheses/Frontier AI Capabilities - June 2026]]
-- [[Sources/The Great Chain of Being - Arthur O. Lovejoy (1936)]] and [[Thinkers/Arthur O. Lovejoy]] — the Chain of Being (plenitude + continuity + gradation) is the implicit cosmological and theological framework that Aquinas inherits and synthesizes (via Augustine/Pseudo-Dionysius/Plotinus) into Christian form: diversity justified as required by goodness ("non essent omnia, si essent aequalia"); natural law as participation in eternal order within the graded creation; beatific vision as the apex for the rational creature. Lovejoy supplies the presuppositional history; this source as root for the vault's medieval holdings and the later Phil of Science reactions against the static rational cosmos.
+- [[Sources/The Great Chain of Being - Arthur O. Lovejoy (1936)]] and [[Thinkers/Arthur O. Lovejoy]] — the Chain of Being (plenitude + continuity + gradation) is the implicit cosmological and theological framework that Aquinas inherits and synthesizes (via Augustine/[[Thinkers/Pseudo-Dionysius]]/Plotinus) into Christian form: diversity justified as required by goodness ("non essent omnia, si essent aequalia"); natural law as participation in eternal order within the graded creation; beatific vision as the apex for the rational creature. Lovejoy supplies the presuppositional history; this source as root for the vault's medieval holdings and the later Phil of Science reactions against the static rational cosmos.
+- [[Sources/The Mystical Theology and The Divine Names - Dionysius the Areopagite]] — Sparrow-Simpson: Dionysius is "one of St. Thomas's favourite authorities"; Aquinas commented *Divine Names*, used him critically, and was averse to pantheism. Trinity and Incarnation remain "another realm" from Neoplatonism. The primary now supplies what Aquinas was commenting: Super-Essence beyond names (MT V) *and* undifferenced titles of the whole Godhead (DN II). Analogical predication is the Latin stabilization of that pair. See [[Concepts/Cataphatic and Apophatic Theology (Dionysius)]], [[Concepts/Beatific Vision - Last End (Aquinas)]] (vision vs Dionysian Darkness).
 
 ---
 

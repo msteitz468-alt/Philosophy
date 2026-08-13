@@ -4,11 +4,11 @@ type: thinker
 era: "19th–20th century"
 schools: [Analytic Philosophy, Empiricism]
 domains: [epistemology, logic, metaphysics]
-source_count: 4
+source_count: 5
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [russell, philosophy, analytic-philosophy, logical-analysis, logic, mathematics, empiricism, epistemology, liberalism, history-of-philosophy, modern, twentieth-century, quine]
-sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.txt", "The Problems of Philosophy - Bertrand Russell.txt", "The Logic of Scientific Discovery (Routled - Karl Popper.txt", "Quine51 - Unknown.txt"]
+sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.md", "The Problems of Philosophy - Bertrand Russell.md", "The Logic of Scientific Discovery (Routled - Karl Popper.md", "Quine51 - Unknown.md", "The Meaning of Meaning - Ogden and Richards (1923).md", "The Crooked Timber of Humanity - Isaiah Berlin (2013).md"]
 ---
 
 # Bertrand Russell
@@ -28,6 +28,8 @@ sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.txt", "
 - **Social cohesion vs. individual liberty** — the master dialectic of the whole history (disciplinarians vs. libertarians), with **liberalism** as "an attempt to escape from this endless oscillation." See [[Concepts/Social Cohesion vs. Individual Liberty (Russell)]].
 - **The philosophy of logical analysis** (his own school) — piecemeal, inductive, scientific: "successive approximations to the truth, in which each new stage results from an improvement, not a rejection, of what has gone before"; its chief merit "scientific truthfulness… the habit of basing our beliefs upon observations and inferences as impersonal… as possible." "In abandoning a part of its dogmatic pretensions, philosophy does not cease to suggest and inspire a way of life." See [[Concepts/Philosophy of Logical Analysis (Russell)]].
 - **"Cosmic impiety"** — his warning that making truth depend on human satisfaction (pragmatism, idealism from Fichte on) removes "the necessary element of humility" and feeds "the intoxication of power… the greatest danger of our time." The realist counter to [[Concepts/Pragmatic Theory of Truth (James)]] / [[Concepts/Humanism - Reality as Malleable (Schiller and James)]].
+- **Berlin on the *History* (1947).** [[Thinkers/Isaiah Berlin]]’s *Mind* review (reprinted in *Crooked Timber*, 2nd ed. appendix) takes Russell’s social-circumstances programme at face value and says the book does not do it: history is often detached from the ideas and thins after the Renaissance. The work’s “principal value… resides in the light which it casts upon the views of its author.” Russell is the last Encyclopedist (Voltaire/Condorcet + English liberal atheist humanism) who judges predecessors by his own standards — “not the ideal intellectual equipment for the historian of thought,” but it treats past thinkers as rational adults whose theses are still discussable. Contrast: Collingwood’s historicism (if pushed) is self-stultifying; Cassirer blurs controversies. Berlin later adopted Russell’s “simple picture of the world + elaborate defence-works” remark as his own (Hardy’s note). See [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]] and [[Sources/The Crooked Timber of Humanity - Isaiah Berlin (2013)]].
+- **Target of Ogden–Richards (1923).** [[Thinkers/C. K. Ogden]] and [[Thinkers/I. A. Richards]] treat the *Principles of Mathematics* "term" (immutable; includes chimera) as neo-Platonist [[Concepts/Word Magic (Ogden-Richards)|word-magic]] reconstructing a World of Being on a "purely linguistic basis." They prefer his later psychological / mnemic account to *Principles* denoting, deny acquaintance with propositions, and relocate [[Concepts/Correspondence Theory of Truth (Russell)|correspondence]]: once reference is contextual, a further belief–fact relation "solves the problem twice." See [[Concepts/Contextual Theory of Reference (Ogden-Richards)]].
 - **Empiricism + logic**: heir of Locke/Hume's "piecemeal" British tradition, but seeking "something less sceptical than Hume's system." Occam's razor "a most fruitful principle in logical analysis."
 
 ## Characteristic verdicts (his, opinionated)
@@ -50,6 +52,7 @@ sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.txt", "
 - **Successor-critic of [[Thinkers/Aristotle]]'s logic**: "in logic, this is still true at the present day" — modern logic (Russell's own) as the overdue replacement of the Aristotelian syllogistic ([[Concepts/Modal Copula (Aristotelian Modality)]]).
 
 - **Quine as critic and developer**: Quine (primary-sourced via "Two Dogmas") was deeply influenced by Russell's logic and analysis but radicalized the critique of "meaning" as an obscure intermediary and rejected the hope for clean foundations (acquaintance/description, correspondence as more than a regulative ideal). Quine's holism and naturalism take the "piecemeal" spirit further while undercutting the atomism sometimes associated with early analytic philosophy. See [[Sources/Two Dogmas of Empiricism - W.V.O. Quine (1951)]] and [[Thinkers/W.V.O. Quine]]. Quine also inherits and transforms Russell's anti-pragmatist realism in a more thoroughgoing naturalist direction.
+- **[[Thinkers/Saul Kripke]] as critic of the description theory**: *Naming and Necessity* (now primary) takes Frege–Russell as the "received view" — a proper name is a definite description abbreviated or disguised — and rejects it both as a theory of meaning and, except at rare baptisms, as an account of how reference is fixed. Ordinary names are rigid; "Aristotle was fond of dogs" is not analyzed as "the last great philosopher of antiquity…." Kripke pays tribute to the edifice's "marvelous internal coherence" and does not rank it among ideas that never appealed. See [[Concepts/Causal-Historical Picture of Naming (Kripke)]], [[Concepts/Knowledge by Acquaintance and Knowledge by Description (Russell)]].
 
 ## Vault / AI / Personal Relevance
 
@@ -62,7 +65,7 @@ sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.txt", "
 - [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]], [[Sources/The Problems of Philosophy - Bertrand Russell (1912)]]
 - [[Concepts/Philosophy as the No Man's Land between Theology and Science (Russell)]], [[Concepts/Social Cohesion vs. Individual Liberty (Russell)]], [[Concepts/Philosophy of Logical Analysis (Russell)]]
 - [[Concepts/Sense-Data vs. Physical Objects (Russell)]], [[Concepts/Knowledge by Acquaintance and Knowledge by Description (Russell)]], [[Concepts/Correspondence Theory of Truth (Russell)]], [[Concepts/The Value of Philosophy (Russell)]]
-- [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Spinoza]], [[Thinkers/Kant]], [[Thinkers/Nietzsche]], [[Thinkers/William James]], [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Karl Popper]] (response to Hume's induction problem that Russell restated with the chicken example)
+- [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Spinoza]], [[Thinkers/Kant]], [[Thinkers/Nietzsche]], [[Thinkers/William James]], [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Karl Popper]] (response to Hume's induction problem that Russell restated with the chicken example), [[Thinkers/Saul Kripke]] (description theory of names as the target of *Naming and Necessity*)
 - [[Concepts/Pragmatic Theory of Truth (James)]], [[Concepts/Humanism - Reality as Malleable (Schiller and James)]], [[Concepts/Problem of Induction (Hume)]], [[Concepts/Mitigated Scepticism (Hume)]], [[Concepts/Falsifiability as Criterion of Demarcation (Popper)]], [[Concepts/Corroboration (Popper)]] (Popper's non-inductivist alternative to Russell's treatment of Hume)
 - [[GROK]], [[LLM Wiki]]
 

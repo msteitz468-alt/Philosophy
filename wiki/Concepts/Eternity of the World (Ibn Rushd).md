@@ -8,7 +8,7 @@ source_count: 4
 created: "2026-06-04"
 updated: "2026-06-29"
 tags: [philosophy, aristotle, ibn-rushd, averroes, ghazali, metaphysics, creation, eternity, time, causation, classical, medieval]
-sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Incoherence of the Incoherence - Ibn Rushd.txt", "Aristotle - Nicomachean Ethics (Book I).md", "Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas.md"]
+sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).md", "Incoherence of the Incoherence - Ibn Rushd.md", "Aristotle - Nicomachean Ethics (Book I).md", "Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas.md"]
 ---
 
 # Eternity of the World (Ibn Rushd)
@@ -45,7 +45,7 @@ The editor’s introduction highlights that both sides struggle with the relatio
 
 ## Relation to Other Vault Sources
 
-- **Aristotle**: Direct defense of the Stagirite’s position (see *Physics* VIII, *De Caelo*, *Metaphysics* Lambda). Complements the vault’s Organon (modal/essentialist logic), Nicomachean Ethics (eudaimonia as activity in a complete life — which presupposes a stable natural order), and Rhetoric.
+- **Aristotle**: Direct defense of the Stagirite’s position. Primary text now in the vault: [[Sources/Aristotle - Physics]] VIII (motion never began; time is the number of motion, hence eternal; first principle permanent ⇒ universe permanent), plus [[Sources/Aristotle - Metaphysics]] Lambda. Complements the vault’s Organon, *Nicomachean Ethics*, and Rhetoric.
 - **Thomas Aquinas / Summa**: Aquinas accepts *creatio ex nihilo* and temporal beginning as taught by faith/revelation, but develops sophisticated accounts of God’s eternal knowledge and will (e.g., “God willed from eternity that the world should be, but not that it should be from eternity”). He uses Aristotelian causation and hylomorphism extensively while correcting Averroist interpretations (especially on the soul). “Grace does not destroy nature but perfects it” and natural law presuppose a stable created nature with real causal powers.
 - **Augustine (Confessions, City of God)**: Time as *distentio animi* (distention of the soul); creation and time co-originate; God abides in simple eternity (“today”). Strong personal/experiential and theological counter to purely philosophical eternity. The two-cities framework judges even the “best of the pagan world” (Marcus) as ultimately insufficient.
 - **Plotinus / Neoplatonism**: Eternal emanation (*proodos*) from the One without loss or temporal beginning; soul’s *epistrophe*. The *Tahafut* critiques and refines emanationist elements in the Islamic *falasifa*.

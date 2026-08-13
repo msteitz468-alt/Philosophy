@@ -3,18 +3,20 @@ title: "The Unmoved Mover (Aristotle)"
 type: concept
 domains: [metaphysics, theology, cosmology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Metaphysics (Aristotle).txt"]
+updated: "2026-08-12"
+sources: ["Metaphysics (Aristotle).md", "Physics (Aristotle).txt"]
 tags: [aristotle, theology, unmoved-mover, prime-mover, actuality, god, final-cause, classical]
 ---
 
 # The Unmoved Mover (Aristotle)
 
-> The eternal, immaterial, purely actual substance that moves the cosmos *as an object of love and desire* — final cause, not pusher — and whose own life is "thought thinking itself" (*noēsis noēseōs*). Aristotle's natural theology, developed in *Metaphysics* Book XII (Lambda).
+> The eternal, immaterial, purely actual substance that moves the cosmos *as an object of love and desire* — final cause, not pusher — and whose own life is "thought thinking itself" (*noēsis noēseōs*). *Physics* VIII proves that there must be an unmoved first mover without magnitude; *Metaphysics* XII says what its life is.
 
 ## Summary
 
-In *Metaphysics* XII Aristotle argues from the eternity of motion to a first principle that is pure **actuality** (*energeia*) with no admixture of **potentiality** ([[Concepts/Potentiality and Actuality (Aristotle)]]). The argument runs: motion and time must be eternal (they cannot themselves come to be or cease); a merely *potential* mover need not actually move, so it could not guarantee eternal motion; therefore there must be an eternal substance whose very essence is to be active. Because it is fully actual it is **immaterial** (matter is potentiality), and being immaterial it is indivisible, eternal, and one.
+*Physics* VIII is the kinematic proof, and it is not yet theology. Everything in motion is moved by something; an infinite chain of moved movers is impossible (they would compose one infinite motion in a finite time); motion never began (time is the number of motion, and there is always a now); animals are imperfect self-movers; light and heavy things contain a source of *suffering* motion, not of initiating it. The first movent is unmoved even accidentally, one, eternal, **without magnitude** (a finite magnitude cannot house infinite force or cause motion for infinite time), and causes the one continuous motion that admits infinity: **rotatory locomotion**. Book VII.2 is explicit that this first source supplies "not 'that for the sake of which' but the source of the motion" and is **together** with the moved. There is no *noēsis noēseōs* in the *Physics*.
+
+*Metaphysics* XII then argues from the eternity of motion to a first principle that is pure **actuality** (*energeia*) with no admixture of **potentiality** ([[Concepts/Potentiality and Actuality (Aristotle)]]). The argument runs: motion and time must be eternal (they cannot themselves come to be or cease); a merely *potential* mover need not actually move, so it could not guarantee eternal motion; therefore there must be an eternal substance whose very essence is to be active. Because it is fully actual it is **immaterial** (matter is potentiality), and being immaterial it is indivisible, eternal, and one.
 
 This first mover **"moves without being moved"**: it causes motion the way a beloved object or an object of thought moves desire — as a **final cause** (the *for-the-sake-of-which*), not as an efficient pusher. "The final cause produces motion as being loved, but all other things move by being moved." The heavens, eternally striving to imitate its perfection, rotate eternally; all sublunary change follows from that.
 
@@ -43,7 +45,8 @@ Its life is the highest activity, contemplation. Since in immaterial thinking th
 - Eternity of motion conflicts with creation *ex nihilo* and temporal beginning — see [[Concepts/Eternity of the World (Ibn Rushd)]].
 
 ## Sources
-- [[Sources/Aristotle - Metaphysics]] (Book XII / Lambda)
+- [[Sources/Aristotle - Physics]] (VII–VIII — kinematic proof; no theology)
+- [[Sources/Aristotle - Metaphysics]] (Book XII / Lambda — *noēsis noēseōs*)
 
 ## Related
 - [[Thinkers/Aristotle]]

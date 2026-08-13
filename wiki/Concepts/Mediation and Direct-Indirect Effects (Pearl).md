@@ -4,7 +4,7 @@ type: concept
 domains: [causality, statistics, epidemiology, philosophy-of-science]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Book of Why - Judea Pearl.txt"]
+sources: ["The Book of Why - Judea Pearl.md"]
 tags: [pearl, mediation, direct-effect, indirect-effect, controlled-direct-effect, natural-direct-effect, natural-indirect-effect, mediation-formula, simpsons-paradox, barbara-burks, scurvy, vitamin-c, berkeley-admissions]
 ---
 

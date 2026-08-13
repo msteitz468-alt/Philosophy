@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [james, pragmatism, philosophy, truth, epistemology, verification, instrumentalism, dewey, schiller, american-philosophy, modern]
-sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.txt"]
+sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.md"]
 ---
 
 # Pragmatic Theory of Truth (James)
@@ -16,6 +16,8 @@ sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.txt"]
 > One-sentence hook: Truth is not a static "copying" of a ready-made reality but something that *happens* to an idea — "it *becomes* true, is *made* true by events," namely by the process of its verification; "the 'true' is only the expedient in the way of our thinking."
 
 ## Overview
+
+A 1902 precursor already appears in *Varieties* Lecture XIX — "the true is what works well, even though the qualification 'on the whole' may always have to be added" — and Lecture XVIII's Peirce test of God's attributes. That is a religious-value application, not yet this genetic theory. See [[Sources/The Varieties of Religious Experience - William James (1902)]].
 
 The doctrine of Lecture VI ("Pragmatism's Conception of Truth"), credited to Dewey and Schiller and defended by James against "a hailstorm of contempt." Both pragmatists and intellectualists accept the dictionary definition — truth = "agreement of our ideas with reality" — but James **analyzes "agreement" pragmatically**. The intellectualist treats truth as "an inert static relation": once you have the true idea, "there's an end of the matter… you are in stable equilibrium." James asks his usual question: "Grant an idea to be true — what concrete difference will its being true make in anyone's actual life? … What is the truth's cash-value in experiential terms?"
 

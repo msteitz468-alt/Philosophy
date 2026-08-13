@@ -3,18 +3,20 @@ title: "The Four Causes (Aristotle)"
 type: concept
 domains: [metaphysics, philosophy-of-science, philosophy-of-nature]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Metaphysics (Aristotle).txt"]
+updated: "2026-08-12"
+sources: ["Metaphysics (Aristotle).md", "Physics (Aristotle).txt"]
 tags: [aristotle, causation, four-causes, teleology, final-cause, explanation, classical]
 ---
 
 # The Four Causes (Aristotle)
 
-> To know a thing is to know *why* it is — and "the why" comes in four irreducible kinds: the **material** (what it's made of), the **formal** (what it is, its essence), the **efficient** (what brought it about), and the **final** (what it is for). A complete explanation gives all four. *Metaphysics* I (Alpha) and V (Delta).
+> To know a thing is to know *why* it is — and "the why" comes in four irreducible kinds: the **material** (what it's made of), the **formal** (what it is, its essence), the **efficient** (what brought it about), and the **final** (what it is for). A complete explanation gives all four. Canonical statement: *Physics* II.3; restated in *Metaphysics* I and V.
 
 ## Summary
 
-Wisdom is knowledge of first causes ([[Concepts/Wisdom as Knowledge of First Causes (Aristotle)]]), and "causes are spoken of in four senses" (*aition* / *aitia*):
+*Physics* II.3 is the school statement: "(1) that out of which a thing comes to be and which persists… (2) the form or the archetype, i.e. the statement of the essence… (3) the primary source of the change or coming to rest… (4) …end or 'that for the sake of which'." The last three often **coincide** (man generates man). The physicist must use all four, **especially the end**, "for that is the cause of the matter, not vice versa." Necessity in generation is **hypothetical**, in the matter; the end is in the definition. See [[Concepts/Nature as Internal Principle of Motion (Aristotle)]].
+
+*Metaphysics* I then makes the same four the grid of wisdom ([[Concepts/Wisdom as Knowledge of First Causes (Aristotle)]]): "causes are spoken of in four senses" (*aition* / *aitia*):
 
 1. **Material cause** (*hylē*) — "the matter or substratum," that out of which a thing comes to be and persists in it (the bronze of the statue, the silver of the bowl).
 2. **Formal cause** (*eidos*, *to ti ēn einai*) — "the substance, i.e. the essence," the form or definition that makes a thing what it is ("the 'why' is reducible finally to the definition"). See [[Concepts/Essence and Definition (Aristotle)]].
@@ -42,10 +44,13 @@ This doctrine doubles as Aristotle's **historiographical grid** for judging his 
 - **[[Thinkers/Spinoza]]**: explicitly *rejects* final causes as anthropomorphic illusion — a direct anti-Aristotelian move.
 
 ## Sources
+- [[Sources/Aristotle - Physics]] (II.3, II.7–9 — canonical)
 - [[Sources/Aristotle - Metaphysics]] (Book I / Alpha; lexicon entry Book V / Delta; regress argument Book II)
 
 ## Related
 - [[Thinkers/Aristotle]]
+- [[Concepts/Nature as Internal Principle of Motion (Aristotle)]]
+- [[Concepts/Chance and Spontaneity (Aristotle)]]
 - [[Concepts/Wisdom as Knowledge of First Causes (Aristotle)]]
 - [[Concepts/Substance (Ousia) (Aristotle)]]
 - [[Concepts/Essence and Definition (Aristotle)]]

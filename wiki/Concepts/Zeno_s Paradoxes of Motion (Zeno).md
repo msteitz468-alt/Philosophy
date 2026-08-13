@@ -3,8 +3,8 @@ title: "Zeno's Paradoxes of Motion (Zeno)"
 type: concept
 domains: [mathematics, metaphysics, logic]
 created: "2026-06-11"
-updated: "2026-06-11"
-sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+updated: "2026-08-12"
+sources: ["Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 tags: [concept, zeno, paradoxes, motion, space, time, infinity, calculus, limits]
 ---
 
@@ -41,10 +41,20 @@ Zeno's paradoxes are designed to support Parmenides' monism by demonstrating tha
 
 ---
 
-## Mathematical and Philosophical Resolution
+## Aristotle's Reply (*Physics* VI)
+
+The vault now has the primary answer, not only Burnet/Russell. *Physics* VI.2 and VI.9 name all four.
+
+- **Dichotomy and Achilles**: Zeno "makes a false assumption in asserting that it is impossible for a thing to pass over or severally to come in contact with infinite things in a finite time." There are two infinites. A finite thing cannot contact a **quantitative** infinite of extremities in a finite time; it *can* contact things infinite **in respect of divisibility**. Time is infinite in the same sense (infinitely many nows, not an infinite stretch). Achilles is "the same in principle as that which depends on bisection"; the leader is overtaken "if it is granted that it traverses the finite distance prescribed." See [[Concepts/The Infinite (Apeiron) (Aristotle)]].
+- **Arrow**: "This is false, for time is not composed of indivisible moments any more than any other magnitude is composed of indivisibles." Nothing is in motion *or* at rest in a now. See [[Concepts/Time (Aristotle)]].
+- **Stadium**: it is false that equal velocity takes equal time to pass a moving and a resting equal body.
+
+There is also **no first part** of a process of change: "we can never take any stage and say that it is absolutely the first." Completing infinitely many halves is possible because they are potential, not a completed actual infinite.
+
+## Later Resolutions
 
 - **The Crisis of the Infinite**: Zeno's paradoxes demonstrated that mathematics and physics must grapple with the nature of infinity and continuity.
-- **The Limit Resolution**: Modern mathematics resolves the Dichotomy and Achilles paradoxes using the theory of infinite series and **limits** (calculus). A convergent infinite series (such as $\sum \frac{1}{2^n} = 1$) has a finite sum, proving that an infinite number of spatial intervals can be traversed in a finite time.
+- **The Limit Resolution**: Modern mathematics resolves the Dichotomy and Achilles paradoxes using the theory of infinite series and **limits** (calculus). A convergent infinite series (such as $\sum \frac{1}{2^n} = 1$) has a finite sum, proving that an infinite number of spatial intervals can be traversed in a finite time. This is a descendant of Aristotle's "infinite by divisibility," rewritten as a completed sum.
 - **The Quantum Resolution**: Modern quantum mechanics (Planck length and time) suggests that physical space and time might indeed be discrete, meaning the continuous infinite divisibility assumed in the Dichotomy does not apply to physical reality.
 
 ## Related Pages
@@ -52,6 +62,10 @@ Zeno's paradoxes are designed to support Parmenides' monism by demonstrating tha
 - [[Thinkers/Parmenides]]
 - [[Concepts/Parmenidean Being and the One (Parmenides)]]
 - [[Sources/Early Greek Philosophy - John Burnet (1920)]]
+- [[Sources/Aristotle - Physics]] (VI.2, VI.9)
+- [[Concepts/Motion as Actuality of the Potential (Aristotle)]]
+- [[Concepts/The Infinite (Apeiron) (Aristotle)]]
+- [[Concepts/Time (Aristotle)]]
 
 ## Contradictions / Open Questions
 - > [!warning] The Paradox of the Instant: The Arrow paradox remains philosophically challenging: does an arrow have a velocity *at* a specific instant, or is velocity only defined *across* an interval of time?

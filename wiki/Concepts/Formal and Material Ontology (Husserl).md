@@ -3,8 +3,8 @@ title: "Formal and Material Ontology (Husserl)"
 type: concept
 domains: [ontology, phenomenology, logic]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+updated: "2026-08-12"
+sources: ["Husserl (David Woodruff Smith).md", "Cartesian Meditations - Edmund Husserl.md"]
 tags: [philosophy, husserl, ontology, mereology, essences, categories]
 ---
 
@@ -53,6 +53,14 @@ Formal ontology correlates with **formal logic**: meaning-categories (Concept, P
 
 These are independent operations and must not be conflated (a common source of error in traditional metaphysics).
 
+## Regions as Indexes of Evidence (*CM* §29)
+
+*Cartesian Meditations* does not rebuild the table of categories. It **indexes** them to systems of evidence. Formal-logical and formal-ontological concepts point to a lawful structure of conscious life without which truth and actuality have no sense (§26). **True being** indexes a system of combining evidences (ideally one total, adequate evidence). For real objects that absolute evidence is an **idea**; the task is the transcendental constitution of existing objectivity in the pregnant sense (§29).
+
+Beside formal-ontological investigations (any object as such) stand **regional** constitutional theories: physical Nature, man, community, culture. Naive ontological concepts (space, time, causality, thing) become *clues*. Lowest founding level: **immanent temporality** / original time-consciousness. The Second Meditation had already split formal-ontological particularization (Anything-Whatever: individual, universal, plurality, state of affairs) from material-ontological (spatial thing, animate being) and **real** from **categorial** objectivities (§21).
+
+The Conclusion then claims that fully developed transcendental phenomenology would be "the true and genuine universal ontology" — not an emptily formal one, but one comprising all regional existential possibilities and their correlations (§64). First in order: "solipsistically" reduced egology; then intersubjective phenomenology.
+
 ## Mereology: Pieces and Moments
 
 One of Husserl's most original contributions is his **mereology** (theory of parts and wholes, from *Logical Investigations*, Third Investigation).
@@ -94,6 +102,7 @@ This is Smith's proposed response to the contemporary "hard problem of conscious
 ## Sources
 
 - [[Sources/Husserl - David Woodruff Smith (2013)]]
+- [[Sources/Cartesian Meditations - Edmund Husserl]]
 
 ## Related
 
@@ -101,6 +110,8 @@ This is Smith's proposed response to the contemporary "hard problem of conscious
 - [[Concepts/Essences and Eidetic Variation (Husserl)]]
 - [[Concepts/Transcendental Ego and Constitution (Husserl)]]
 - [[Concepts/Intentionality and Noema (Husserl)]]
+- [[Concepts/Evidence and Truth (Husserl)]]
+- [[Concepts/Transcendental Idealism (Husserl)]]
 - [[Contradictions/Husserl vs Naturalism — Phenomenal Consciousness and the Hard Problem]]
 - [[Thinkers/Aristotle]]
 - [[Thinkers/Immanuel Kant]]

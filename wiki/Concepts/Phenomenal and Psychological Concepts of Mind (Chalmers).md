@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [chalmers, phenomenal, psychological, awareness, mind-body-problem]
 ---
 
@@ -23,7 +23,9 @@ The mind–body problem thereby factors in two. The **psychological** mind–bod
 
 - **[[Thinkers/Descartes]]** ([[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]): the original assimilation in one direction — mind as essentially conscious and self-transparent.
 - **Ryle / functionalism**: the opposite assimilation; Chalmers grants functional analysis full success for the psychological mind while denying it touches the phenomenal.
+- **[[Thinkers/Thomas Nagel]]** ([[Concepts/Subjective Character of Experience (Nagel)]]): the 1974 source of the phenomenal side. Functional and intentional ascriptions (the psychological concept) can hold of unconscious automata; that is why they do not exhaust the mental.
 - **[[Thinkers/Daniel Dennett]]**: heterophenomenology in effect treats the psychological concept as exhaustive — the disagreement is over whether anything is left over.
+- **[[Thinkers/Stanislas Dehaene]]**: operationalizes the psychological concept as [[Concepts/Conscious Access (Dehaene)]] and calls the phenomenal leftover a dualist slope. The book is the experimental program Chalmers's ch. 1 already predicted would succeed at functions and miss experience.
 - **[[Thinkers/Sigmund Freud]]**: unconscious belief and desire showed the psychological mind can come apart from the phenomenal.
 - The distinction is the analytical engine behind the [[Concepts/Hard Problem of Consciousness (Chalmers)]]: zombie twins share the whole psychological mind and lack the phenomenal one.
 
@@ -31,4 +33,4 @@ The mind–body problem thereby factors in two. The **psychological** mind–bod
 - [[Sources/The Conscious Mind - David J. Chalmers (1996)]]
 
 ## Related
-- [[Thinkers/David Chalmers]] · [[Concepts/Zombie Argument (Chalmers)]] · [[Concepts/Qualia Disqualified (Dennett)]]
+- [[Thinkers/David Chalmers]] · [[Thinkers/Thomas Nagel]] · [[Concepts/Zombie Argument (Chalmers)]] · [[Concepts/Qualia Disqualified (Dennett)]]

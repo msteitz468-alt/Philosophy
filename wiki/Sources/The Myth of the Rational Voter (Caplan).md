@@ -7,7 +7,7 @@ year: 2007
 domains: [political philosophy, economics, political economy, epistemology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["The Myth of the Rational Voter (Bryan Caplan).txt"]
+sources: ["The Myth of the Rational Voter (Bryan Caplan).md"]
 tags: [political-economy, public-choice, democracy, rationality, bias]
 ---
 

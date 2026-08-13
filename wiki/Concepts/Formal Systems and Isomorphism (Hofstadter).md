@@ -4,7 +4,7 @@ type: concept
 domains: [logic, mathematics, philosophy-of-mind, philosophy-of-language, ai]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Godel's Proof - Ernest Nagel.txt"]
+sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Godel's Proof - Ernest Nagel.md"]
 tags: [hofstadter, formal-systems, isomorphism, syntax, semantics, meaning, MIU, pq-system, godel-numbering, M-mode, I-mode]
 ---
 

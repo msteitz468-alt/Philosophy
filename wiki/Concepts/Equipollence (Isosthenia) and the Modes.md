@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-03"
 tags: [sextus-empiricus, pyrrhonism, skepticism, equipollence, isosthenia, modes, classical-philosophy, hellenistic, epistemology]
-sources: ["Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.txt", "Sources/Outlines of Pyrrhonism - Sextus Empiricus"]
+sources: ["Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.md", "Sources/Outlines of Pyrrhonism - Sextus Empiricus"]
 ---
 
 # Equipollence (Isosthenia) and the Modes

@@ -7,7 +7,7 @@ domains: [theology, metaphysics, epistemology]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Proslogion - Anselm of Canterbury.txt"]
+sources: ["Proslogion - Anselm of Canterbury.md"]
 tags: [anselm, anselm-of-canterbury, scholasticism, ontological-argument, medieval, theology, realism]
 ---
 

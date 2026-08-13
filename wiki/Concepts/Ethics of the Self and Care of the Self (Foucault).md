@@ -3,8 +3,8 @@ title: "Ethics of the Self and Care of the Self (Foucault)"
 type: concept
 domains: [ethics, philosophy, ancient philosophy]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Michel Foucault (David Macey).txt"]
+updated: "2026-08-12"
+sources: ["Michel Foucault (David Macey).md", "Philosophy as a Way of Life - Pierre Hadot.md", "The History of Sexuality Volume 1 - An Introduction - Michel Foucault.md"]
 tags: [philosophy, foucault, ethics, self, care, aesthetics, parrhesia]
 ---
 
@@ -35,14 +35,20 @@ Foucault's personal interest in these ideas was not merely academic. He understo
 
 - **[[Thinkers/Plato]]**: The Platonic *epimeleia* appears in the Alcibiades — care of the soul as prerequisite of political governance. Foucault traces the subsequent decline of this theme as Platonic self-knowledge (know thyself) displaced self-care.
 - **[[Thinkers/Nietzsche]]**: The aesthetics of existence recalls Nietzsche's ideal of giving style to character — a convergence Foucault acknowledged but distinguished from Nietzsche's focus on the exceptional individual vs. Foucault's interest in shared practices.
+- **[[Thinkers/Pierre Hadot]]**: The missing interlocutor. Hadot supplied the archive Foucault reread (spiritual exercises, *hypomnemata*, Stoic practices). He accepts the recovery of the art of living and rejects the *telos*: not a culture of the self, not *voluptas*, not “writing of the self,” not an aesthetics that “may be a new form of Dandyism.” “Interiorization is a going beyond oneself; it is universalization.” See [[Contradictions/Hadot vs Foucault - Care of the Self vs Cosmic Universalization]], [[Concepts/Spiritual Exercises (Hadot)]].
 
 ## Contradictions / Open Questions
 
 - The late ethics of the self sits in tension with the earlier power-knowledge framework: if power constitutes subjects, does a self-constituting ethics have any purchase? Foucault never resolved whether the care of the self operates inside or outside (or across) power relations.
+
+*The History of Sexuality* I (1976) does **not** yet make this move. Direction of conscience and *ars artium* appear only as genealogical sources of confession ([[Concepts/Scientia Sexualis and Ars Erotica (Foucault)]]). The book's own exit-gesture is the rallying point "bodies and pleasures" against "sex-desire" (p. 157) — a 1976 slogan, not *souci de soi*. Do not read Volumes 2–3 back into Volume 1.
 - The Greco-Roman *epimeleia* was available only to free men — a significant omission in a framework meant to serve broader ethical purposes.
+- > [!warning] Direct clash with Hadot on the *aim* of the same practices — see [[Contradictions/Hadot vs Foucault - Care of the Self vs Cosmic Universalization]].
 
 ## Sources
 - [[Sources/Michel Foucault - David Macey]]
+- [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]]
+- [[Sources/The History of Sexuality Volume 1 - Michel Foucault (1976)]] (bodies and pleasures only; not the 1984 ethics)
 
 ## Related
 - [[Thinkers/Michel Foucault]]
@@ -50,3 +56,6 @@ Foucault's personal interest in these ideas was not merely academic. He understo
 - [[Concepts/Power-Knowledge (Foucault)]]
 - [[Thinkers/Plato]]
 - [[Thinkers/Nietzsche]]
+- [[Thinkers/Pierre Hadot]]
+- [[Concepts/Spiritual Exercises (Hadot)]]
+- [[Contradictions/Hadot vs Foucault - Care of the Self vs Cosmic Universalization]]

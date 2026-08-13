@@ -4,7 +4,7 @@ type: concept
 domains: [ontology, phenomenology, metaphysics]
 created: "2026-06-29"
 updated: "2026-07-01"
-sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Heidegger (Michael Inwood).md", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [philosophy, heidegger, temporality, time, ontology]
 ---
 
@@ -82,3 +82,4 @@ The derivation of the lower levels of time — datability, world-time, now-time,
 - [[Concepts/Being and the Ontological Difference (Heidegger)]]
 - [[Concepts/Historicality and the Turn (Heidegger)]]
 - [[Concepts/Dasein (Heidegger)]]
+- [[Concepts/Temporality (Sartre)]] (same ekstases; Sartre accents the *present*, not the future)

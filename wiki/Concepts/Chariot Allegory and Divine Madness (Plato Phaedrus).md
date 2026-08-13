@@ -4,7 +4,7 @@ type: concept
 domains: [epistemology, ethics, metaphysics]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Phaedrus - Plato.txt"]
+sources: ["Phaedrus - Plato.md"]
 tags: [concept, plato, phaedrus, soul, chariot-allegory, reason, spirit, appetite, madness, recollection]
 ---
 

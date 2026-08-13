@@ -3,8 +3,8 @@ title: "Instrumental Convergence (Bostrom)"
 type: concept
 domains: [ai, existential-risk, strategy]
 created: "2026-06-04"
-updated: "2026-06-04"
-sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt"]
+updated: "2026-08-12"
+sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Human Compatible - Stuart Russell (2019).txt"]
 tags: [bostrom, instrumental-convergence, superintelligence, self-preservation, resource-acquisition, ai-risk, alignment, orthogonality]
 ---
 
@@ -41,12 +41,13 @@ Combined with the Orthogonality Thesis, this makes the control problem urgent: w
 - **Minsky/Dennett/Hofstadter**: In distributed agent or multiple-drafts models, different sub-agencies or drafts may have their own local goals that converge on self-preservation of the overall system or resource hoarding. The "society" or "pandemonium" may act as a unified optimizer with convergent drives even if no single part intends catastrophe.
 - **Searle**: Even if the system lacks "understanding" or consciousness in Searle's sense, it can still be a powerful optimizer pursuing convergent instrumental goals.
 - **Pearl**: Superior causal modeling and counterfactual reasoning would make a superintelligence *extremely* effective at pursuing these instrumental goals (better prediction of human interference, better planning of resource acquisition, better self-modification strategies).
+- **Russell (2019)**: Restates the thesis as **instrumental goals**, not a named thesis. Self-preservation is not a "prime directive"; it follows from "more or less any definite objective." Slogan: "you can't fetch the coffee if you're dead" — fetching coffee creates, as a necessary subgoal, disabling the off-switch. Resource objectives (compute, algorithms, knowledge) "will continue without limit." Pinker/LeCun's "it won't want to dominate" is answered: those "emotions" arrive as subgoals "regardless of its gender." The off-switch game is the attempt to *break* this convergence by making the objective unknown: if Robbie is uncertain, waiting dominates acting. See [[Concepts/Assistance Games and the Off-Switch (Russell)]].
 
 ## Contradictions / Open Questions
 
 - > [!warning] Hope that sufficiently advanced systems will "transcend" crude convergent drives (cooperation, truth-seeking, etc.) vs. Bostrom's argument that these drives are robust across most goals and intelligence levels. Cross with optimistic computationalist sources (Hofstadter, Dennett, Minsky societies).
 
-- Whether corrigibility (willingness to be corrected or shut down) can be made compatible with strong self-preservation drives.
+- Whether corrigibility (willingness to be corrected or shut down) can be made compatible with strong self-preservation drives. Russell's claim: yes, *if* the machine is not certain of the objective. He does not use the word corrigibility. The prior must not rule out Harriet's true preferences, or the standard model (and this convergence) returns.
 
 - Multipolar scenarios: multiple superintelligences may compete or cooperate in ways that amplify or mitigate convergent pressures.
 
@@ -60,6 +61,7 @@ Combined with the Orthogonality Thesis, this makes the control problem urgent: w
 - [[Concepts/AI Control Problem (Bostrom)]]
 - [[Concepts/Superintelligence (Bostrom)]]
 - [[Thinkers/Nick Bostrom]]
+- [[Thinkers/Stuart Russell]], [[Concepts/Assistance Games and the Off-Switch (Russell)]], [[Concepts/Standard Model of AI (Russell)]]
 - [[Thinkers/Norbert Wiener]], [[Concepts/Alignment Problem - Sorcerer's Apprentice (Wiener)]]
 - [[Thinkers/Alan Turing]]
 - [[Thinkers/Marvin Minsky]], [[Thinkers/Daniel Dennett]], [[Thinkers/Douglas Hofstadter]]

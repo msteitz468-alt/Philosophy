@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [shannon, entropy, uncertainty, information, bits, probability, 1948]
-sources: ["A Mathematical Theory of Communication - Claude Shannon.txt"]
+sources: ["A Mathematical Theory of Communication - Claude Shannon.md"]
 ---
 
 # Entropy (Shannon)

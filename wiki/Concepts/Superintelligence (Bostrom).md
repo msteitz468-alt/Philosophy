@@ -3,8 +3,8 @@ title: "Superintelligence (Bostrom)"
 type: concept
 domains: [ai, existential-risk, cognitive-science]
 created: "2026-06-04"
-updated: "2026-06-04"
-sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt"]
+updated: "2026-08-12"
+sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Human Compatible - Stuart Russell (2019).txt"]
 tags: [bostrom, superintelligence, ai, intelligence-explosion, quality-superintelligence, speed-superintelligence, collective-superintelligence]
 ---
 
@@ -36,6 +36,7 @@ A superintelligent system would have decisive cognitive superpowers in areas suc
 - **Turing**: Turing predicted machines would eventually surpass humans in intellectual fields and sketched a research program (learning machines) that could lead there. Bostrom provides the detailed analysis of the post-threshold dynamics.
 - **Minsky, Dennett, Hofstadter**: Models of mind (agent societies, multiple drafts, strange loops) inform what "human-level" or "quality super" might look like architecturally and whether emulation (WBE path) or de novo design is more likely or controllable.
 - **Wiener**: Early warnings about powerful machines and alignment scale up directly to the superintelligence case.
+- **Russell (2019)**: Uses "superintelligent AI" as the biggest/last-event candidate, analogous to incoming aliens we help create. Refuses a date (~80 years is conservative vs mid-century surveys). Architecture is not a lone robot with an onboard brain but "a wirelessly connected… single, global entity." Not omniscient: empirical science is gated by experiments; humans are unusually hard to model. Partial superhuman systems arrive first. Hardware charts are empty — "faster machines just give you the wrong answer more quickly." Prize if controlled: ~10× global GDP via existing tech at scale (EaaS). The [[Concepts/Gorilla Problem (Russell)|gorilla problem]] is this page's comparative-competence fact as a species analogy. Bostrom is quoted on the "compassionate and jubilant use of humanity's cosmic endowment."
 - **Pearl**: Causal mastery would be one of the first and most powerful advantages a superintelligence would have over current systems.
 
 ## Sources
@@ -51,6 +52,7 @@ A superintelligent system would have decisive cognitive superpowers in areas suc
 - [[Thinkers/Nick Bostrom]]
 - [[Thinkers/Alan Turing]]
 - [[Thinkers/Marvin Minsky]], [[Thinkers/Daniel Dennett]], [[Thinkers/Douglas Hofstadter]]
+- [[Thinkers/Stuart Russell]], [[Sources/Human Compatible - Stuart Russell (2019)]], [[Concepts/Gorilla Problem (Russell)]]
 - [[Thinkers/Norbert Wiener]]
 
 *Concept page created 2026-06-04. The core object of analysis in Bostrom's work.*

@@ -7,7 +7,7 @@ domains: [ethics, epistemology]
 source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [descartes, morality, ethics, maxims, provisory-code, stoicism, dichotomy-of-control, discourse-on-method]
 ---
 

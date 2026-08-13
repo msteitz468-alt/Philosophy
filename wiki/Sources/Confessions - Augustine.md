@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [augustine, confessions, patristics, theology, philosophy, grace, memory, time, conversion, neo-platonism, evil, will, interiority, hermeneutics, 4th-century, christianity, doctor-gratiae]
-sources: ["Confessions - Augustine.txt"]
+sources: ["Confessions - Augustine.md"]
 ---
 
 # Confessions - Augustine
@@ -19,7 +19,7 @@ Augustine (354–430 CE, Bishop of Hippo Regius) presents not a conventional aut
 
 ## Provenance and Context
 
-- **Source file**: `raw/Confessions - Augustine.txt` (741 KB, 9,148 lines; full text of the 13-book work).
+- **Source file**: `raw/Confessions - Augustine.md` (741 KB, 9,148 lines; full text of the 13-book work).
 - Translation: Albert C. Outler (Ph.D., D.D., Perkins School of Theology), first published 1955 (Library of Congress 55-5021). Scanned from uncopyrighted edition; language/titles updated 2007 by William H. Gross (www.onthewing.org).
 - This is public domain. Outler's substantial Introduction and Augustine's own testimony from *Retractations* (II, 6), *De Dono Perseverantiae*, and Letter to Darius are included.
 - Written ~397–400 CE (shortly after becoming bishop); Books 1–10 about himself, 11–13 on Scripture/creation. Augustine later reviewed it and noted minor obscurities but affirmed its purpose: to excite minds and affections toward God.
@@ -67,7 +67,7 @@ This is a foundational "reading a book" + classical philosophy ingest (per [[GRO
 
 ## Sources
 
-- Primary: `raw/Confessions - Augustine.txt` (full 13 books + Outler intro + Augustine's *Retractations* testimony).
+- Primary: `raw/Confessions - Augustine.md` (full 13 books + Outler intro + Augustine's *Retractations* testimony).
 - Cross-referenced in existing vault: Aquinas *Summa* sources, Plotinus entity, classical notes collection, Eudaimonia/Ataraxia/Return concepts, Overview, index.
 
 ## Related

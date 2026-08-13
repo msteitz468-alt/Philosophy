@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [searle, intentionality, semantics, chinese-room, philosophy-of-mind]
-sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.txt"]
+sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.md"]
 ---
 
 # Intentionality (Searle)

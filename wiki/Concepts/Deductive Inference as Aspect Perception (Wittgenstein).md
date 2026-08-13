@@ -5,7 +5,7 @@ created: "2026-06-29"
 updated: "2026-06-29"
 domains: [philosophy-of-logic, epistemology, philosophy-of-mind]
 tags: [wittgenstein, logic, deduction, aspect-seeing, ahmed, rules]
-sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md"]
 ---
 
 # Deductive Inference as Aspect Perception (Wittgenstein)

@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-language, philosophy-of-mind, epistemology, anthropology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Philosophical Investigations (Ludwig Wittgenstein).txt"]
+sources: ["Philosophical Investigations (Ludwig Wittgenstein).md"]
 tags: [wittgenstein, form-of-life, lebensform, agreement, philosophical-investigations, the-given]
 ---
 
@@ -41,6 +41,7 @@ Because understanding rests on a shared form of life, beings whose lives are ali
 - **vs. [[Thinkers/Descartes|Cartesian]] foundations:** Where Descartes seeks an indubitable foundation in the solitary thinking self, Wittgenstein locates the "given" in communal practice. Certainty is not built up from private clear-and-distinct ideas but exhibited in agreement in acting.
 - **vs. empiricist/foundationalist epistemology:** Forms of life are neither sense-data (foundationalism) nor self-evident truths (rationalism). This anticipates [[Concepts/Paradigm (Kuhn)|Kuhn]]'s emphasis on shared practice and trained perception in science, and later "practice"-based epistemologies.
 - **For anthropology and social theory:** the concept became a touchstone for relativism debates — whether forms of life are incommensurable — though Wittgenstein himself stresses shared human nature, not boundless variety.
+- **[[Thinkers/Hubert Dreyfus]]**: forms of life are the unprogrammable halt to the context antinomy. A network "must share our commonsense understanding of the world if it is to share our sense of appropriate generalization," and that understanding is a form of life, not a theory. See [[Concepts/Commonsense Knowledge Problem (Dreyfus)]].
 
 ## Contradictions / Open Questions
 - Are forms of life singular (the human form of life) or plural (different cultures as different forms)? The text supports both readings, and the dispute drives the relativism debate around Wittgenstein.

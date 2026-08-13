@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [russell, philosophy, epistemology, theory-of-knowledge, sense-data, acquaintance, description, induction, a-priori, universals, truth, correspondence, analytic-philosophy, modern]
-sources: ["The Problems of Philosophy - Bertrand Russell.txt"]
+sources: ["The Problems of Philosophy - Bertrand Russell.md"]
 ---
 
 # The Problems of Philosophy - Bertrand Russell (1912)
@@ -60,7 +60,7 @@ This is the **companion primary text** to the already-ingested [[Sources/A Histo
 
 ## Sources
 
-- Raw: `raw/The Problems of Philosophy - Bertrand Russell.txt` (Standard Ebooks, from Project Gutenberg + Internet Archive; the 1912 text, 15 chapters + bibliographical note; 888 lines). Russell's own bibliographic note recommends **Plato's *Republic*** (VI–VII), **Descartes' *Meditations***, **Spinoza's *Ethics***, **Leibniz's *Monadology***, **Berkeley's *Three Dialogues***, **Hume's *Enquiry***, and **Kant's *Prolegomena*** — nearly all already in the vault.
+- Raw: `raw/The Problems of Philosophy - Bertrand Russell.md` (Standard Ebooks, from Project Gutenberg + Internet Archive; the 1912 text, 15 chapters + bibliographical note; 888 lines). Russell's own bibliographic note recommends **Plato's *Republic*** (VI–VII), **Descartes' *Meditations***, **Spinoza's *Ethics***, **Leibniz's *Monadology***, **Berkeley's *Three Dialogues***, **Hume's *Enquiry***, and **Kant's *Prolegomena*** — nearly all already in the vault.
 - Cross-references: the empiricist cluster ([[Thinkers/Locke]], [[Thinkers/Hume]], Berkeley) and the rationalists ([[Thinkers/Descartes]], [[Thinkers/Spinoza]], Leibniz, [[Thinkers/Kant]]) Russell adjudicates between; [[Thinkers/Plato]] (universals); the pragmatism pages (the realist counter to James).
 
 ## Related

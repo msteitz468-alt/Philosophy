@@ -4,7 +4,7 @@ type: concept
 domains: [ai, cognitive-science, philosophy-of-mind, developmental-psychology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Society of Mind - Marvin Minsky.txt"]
+sources: ["Society of Mind - Marvin Minsky.md"]
 tags: [minsky, society-of-mind, agents, emergence, distributed-mind, no-central-self, k-lines, frames, consciousness, learning, dennett, hofstadter]
 ---
 
@@ -45,6 +45,8 @@ The model is developmental and evolutionary: early simple agent societies (infan
 - **Turing**: Concrete realization of "child machines" and the learning/education programme. Societies of agents can be grown and educated rather than pre-loaded with a complete formal system.
 
 - **Searle**: Minsky is often attributed (with others) as a "strong AI" proponent ("brain = computer, mind = program"). Minsky's actual multi-agent, emergent, non-centralized theory complicates and partially resists that characterization — it is closer to the distributed views Searle opposes than to the single-program literalism he attacks.
+
+- **[[Thinkers/Francisco J. Varela]] et al.**: ch. 6 of *The Embodied Mind* takes society-of-mind architecture (agencies from agents, insulation, emergence) as a "middle way" and then charges Minsky with leaving a theoretical no-self that everyday grasping cannot inhabit. Minsky quotes the Buddha but will not drop the Self; they quote his "forced to maintain that belief, even though we know it's false." See [[Concepts/Selfless Minds (Varela)]].
 
 ## Contradictions / Open Questions
 

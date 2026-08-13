@@ -6,7 +6,7 @@ source_count: 4
 created: "2026-06-03"
 updated: "2026-06-04"
 tags: [epictetus, stoicism, ethics, prohairesis, dichotomy-of-control, impressions, divine-order, role-duty, equanimity, classical, 1st-2nd-century-ad]
-sources: ["epictetus_enchiridion_rag.md", "epictetus_fragments_rag.md", "epictetus_golden_sayings_rag.md", "Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.txt"]
+sources: ["epictetus_enchiridion_rag.md", "epictetus_fragments_rag.md", "epictetus_golden_sayings_rag.md", "Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.md"]
 ---
 
 # Epictetus — Enchiridion, Fragments, and Golden Sayings

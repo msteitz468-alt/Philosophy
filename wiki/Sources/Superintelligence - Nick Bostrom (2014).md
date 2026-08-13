@@ -4,7 +4,7 @@ type: source-summary
 domains: [ai, cognitive-science, philosophy-of-mind, existential-risk, ethics, strategy]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt"]
+sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md"]
 tags: [bostrom, superintelligence, paths, dangers, strategies, orthogonality-thesis, instrumental-convergence, intelligence-explosion, control-problem, alignment, singleton, treacherous-turn, perverse-instantiation, ai-safety, existential-risk, wiener, turing, dennett, hofstadter, minsky]
 ---
 
@@ -16,8 +16,8 @@ tags: [bostrom, superintelligence, paths, dangers, strategies, orthogonality-the
 
 - **Author**: Nick Bostrom, Professor at Oxford, Director of the Future of Humanity Institute (FHI).
 - **Publication**: Oxford University Press, 2014 (hardcover); widely influential in AI safety, policy (e.g., referenced by Elon Musk, governments, effective altruism community).
-- **Raw file**: `Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt` (full text).
-- **Domain position**: The definitive modern treatment of superintelligence and the control/alignment problem in the vault's AI & Cognitive Science leg. Builds directly on Turing's 1950 prediction of machines surpassing humans, Wiener's early warnings about alignment ("the machine will in no way be obliged to make such decisions as we should have made"), and mind models from Minsky/Dennett/Hofstadter. Provides the strategic and risk-focused framework that complements the mechanistic and philosophical accounts elsewhere in the vault.
+- **Raw file**: `Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md` (full text).
+- **Domain position**: The definitive modern treatment of superintelligence and the control/alignment problem in the vault's AI & Cognitive Science leg. Builds directly on Turing's 1950 prediction of machines surpassing humans, Wiener's early warnings about alignment ("the machine will in no way be obliged to make such decisions as we should have made"), and mind models from Minsky/Dennett/Hofstadter. Provides the strategic and risk-focused framework that complements the mechanistic and philosophical accounts elsewhere in the vault. The 2003 [[Sources/Are You Living in a Computer Simulation - Nick Bostrom (2003)|simulation paper]] is the other Bostrom primary: its horn (1) (*f_P* ≈ 0) is the same civilizational-failure mass this book treats as default without a solved control problem — the two arguments trade probability.
 
 ## Core Thesis
 
@@ -70,6 +70,8 @@ Later chapters: value loading (how to get human values into the AI), multipolar 
 
 - **Modern AI sources (Grok/Claude/Gemini tutorials, daily tips, MasterClass, etc.)**: Practical realizations and discussions of agentic systems, scaffolding, and risks implicitly engage Bostrom's framework (e.g., need for alignment in advanced agents).
 
+- **[[Sources/Human Compatible - Stuart Russell (2019)]]**: The vault's designated successor (Outstanding Sources: "real successor to *Superintelligence*"). Accepts orthogonality, instrumental goals, boxing-failure, and race dynamics. Recants value-loading: do not put a purpose into the machine. Control of a finished system is "toast"; the programme is uncertainty + assistance games. Complementary, not a rebuttal.
+
 Also connects to broader vault themes: control/alignment as a supreme "strategy/statecraft" problem (Sun Tzu echoes in multipolar analysis?); ethics of superintelligence (Kantian autonomy? Nietzschean revaluation in a post-human world?); limits of formal systems (Gödel: even superintelligence faces incompleteness in self-modeling or prediction).
 
 ## Contradictions / Open Questions
@@ -86,11 +88,12 @@ Also connects to broader vault themes: control/alignment as a supreme "strategy/
 
 ## Sources
 
-- Raw: `Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt`
+- Raw: `Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md`
 
 ## Related
 
 - [[Thinkers/Nick Bostrom]]
+- [[Thinkers/Stuart Russell]], [[Sources/Human Compatible - Stuart Russell (2019)]] (successor programme)
 - [[Thinkers/Norbert Wiener]], [[Concepts/Alignment Problem - Sorcerer's Apprentice (Wiener)]], [[Concepts/Feedback and Control (Wiener)]]
 - [[Thinkers/Alan Turing]], [[Sources/Computing Machinery and Intelligence - Alan Turing (1950)]], [[Concepts/Learning Machines (Turing)]]
 - [[Thinkers/Marvin Minsky]], [[Sources/The Society of Mind - Marvin Minsky (1986)]], [[Concepts/Society of Mind (Minsky)]]

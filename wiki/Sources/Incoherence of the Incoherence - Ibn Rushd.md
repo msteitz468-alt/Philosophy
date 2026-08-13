@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [philosophy, islamic-philosophy, averroes, ibn-rushd, aristotle, ghazali, metaphysics, theology, causation, eternity, medieval, classical]
-sources: ["Incoherence of the Incoherence - Ibn Rushd.txt"]
+sources: ["Incoherence of the Incoherence - Ibn Rushd.md"]
 ---
 
 # Incoherence of the Incoherence - Ibn Rushd
@@ -73,7 +73,7 @@ This is the **primary Islamic source** grounding and extending the vault’s Ari
 
 ## Sources
 
-- Raw: `raw/Incoherence of the Incoherence - Ibn Rushd.txt` (E-text conversion by Muhammad Hozien; translation with introduction and notes by Simon van den Bergh; marginals refer to Bouyges edition).
+- Raw: `raw/Incoherence of the Incoherence - Ibn Rushd.md` (E-text conversion by Muhammad Hozien; translation with introduction and notes by Simon van den Bergh; marginals refer to Bouyges edition).
 - Cross: [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]], [[Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas]], [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]], [[Sources/The Enneads - Plotinus]], [[Sources/Confessions - Augustine]], [[Sources/City of God - Augustine]].
 - **Primary text it answers**: [[Sources/The Incoherence of the Philosophers - Al-Ghazali]] (al-Ghazali's *Tahafut al-Falasifa*, ingested 2026-06-29; held by [[Thinkers/Al-Ghazali]]) — this rebuttal can now be read against the original point by point.
 - Further reading in vault: classical philosophy notes collections; future deeper dives into Aquinas’ Aristotle commentaries.

@@ -4,7 +4,7 @@ type: concept
 domains: [aesthetics, ontology, phenomenology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+sources: ["Heidegger (Michael Inwood).md"]
 tags: [philosophy, heidegger, aesthetics, art, truth, aletheia]
 ---
 

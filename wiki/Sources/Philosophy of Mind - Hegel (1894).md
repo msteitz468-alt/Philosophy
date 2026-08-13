@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, mind, philosophy-of-mind, subjective-spirit, objective-spirit, absolute-spirit, primary-source]
-sources: ["Hegel Philosophy of Mind - William Wallace.txt"]
+sources: ["Hegel Philosophy of Mind - William Wallace.md"]
 ---
 
 # Philosophy of Mind - Hegel (1894)

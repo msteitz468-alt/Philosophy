@@ -3,8 +3,8 @@ title: "Gilles Deleuze"
 type: thinker
 domains: [metaphysics, ethics, political philosophy, aesthetics, philosophy of language]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["The Deleuze Reader (Gilles Deleuze, Constantine V. Boundas).txt"]
+updated: "2026-08-12"
+sources: ["The Deleuze Reader (Gilles Deleuze, Constantine V. Boundas).md"]
 tags: [philosophy, continental, poststructuralism, French]
 born: 1925
 died: 1995
@@ -53,8 +53,12 @@ His career proceeds through two phases. First, a series of monographs on canonic
 
 ## Sources
 - [[Sources/The Deleuze Reader]]
+- [[Sources/Discipline and Punish - Michel Foucault (1975)]] (I.1 n.2: unspecifiable debt)
+
+Foucault's *Discipline and Punish* I.1 n.2: "I could give no notion by references or quotations what this book owes to Gilles Deleuze and the work he is undertaking with Félix Guattari." No conceptual uptake in the note itself — acknowledgement, not a thesis. The Macey biography already records the collaboration ("Intellectuals and Power," 1972) and later rupture.
 
 ## Related
+- [[Thinkers/Michel Foucault]]
 - [[Thinkers/Nietzsche]]
 - [[Thinkers/Spinoza]]
 - [[Thinkers/Hume]]

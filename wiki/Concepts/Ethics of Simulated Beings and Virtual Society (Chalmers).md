@@ -3,8 +3,8 @@ title: "Ethics of Simulated Beings and Virtual Society (Chalmers)"
 type: concept
 domains: [ethics, political-philosophy, ai]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md", "Are You Living in a Computer Simulation - Nick Bostrom (2003).md"]
 tags: [moral-status, trolley-problem, simulation-theodicy, virtual-society, social-contract, post-scarcity]
 ---
 
@@ -24,6 +24,7 @@ tags: [moral-status, trolley-problem, simulation-theodicy, virtual-society, soci
 - **[[Thinkers/Thomas Hobbes]]** ([[Sources/Leviathan - Thomas Hobbes (1651)]]) and Mozi: state-of-nature contract theory transplanted to worlds with genuine consent and exit.
 - **[[Thinkers/Jean-Jacques Rousseau]]/Rawls**: distributive justice under abundance; [[Thinkers/Karl Marx]]'s abundance premise noted.
 - **[[Thinkers/Gottfried Wilhelm Leibniz]]**: simulation theodicy as naturalized best-of-all-possible-worlds — cf. [[Concepts/Simulation Theology (Chalmers)]].
+- **[[Thinkers/Nick Bostrom]]** (2003, §VI): two ethical notes prior to Chalmers. Horn (2) floats an ethical prohibition on ancestor-simulations because of inflicted suffering — and immediately doubts it, since "we tend to view the existence of our race as constituting a great ethical value." Horn (3) derives a "universal ethical imperative … 'from nowhere'": uncertainty about basement-level status gives everyone, including the basement civilization, a self-interested reason to behave as if watched. Chalmers's Principle of Personhood (don't create sims *merely* as means) is the worked-out version of the first note; he does not take the virtuous-circle argument.
 - **[[Sources/Superintelligence - Nick Bostrom (2014)]]**: mind-crime worries about suffering simulated minds get their ethical foundation here.
 
 ## Sources

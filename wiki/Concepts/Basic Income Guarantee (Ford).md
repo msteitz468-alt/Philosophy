@@ -4,7 +4,7 @@ type: concept
 domains: [economics, public-policy, futurism, technology, labor-economics, ethics]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.txt"]
+sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.md"]
 tags: [martin-ford, basic-income, guaranteed-income, universal-basic-income, rise-of-the-robots, new-economic-paradigm, consumer-demand, technological-unemployment]
 ---
 

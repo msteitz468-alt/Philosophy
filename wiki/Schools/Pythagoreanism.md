@@ -6,7 +6,7 @@ domains: [metaphysics, mathematics, religion, cosmology, ethics]
 created: "2026-06-29"
 updated: "2026-06-29"
 tags: [pythagoreanism, pythagoras, philolaus, hippasus, archytas, acusmatici, mathematici, hetairia, metempsychosis, number, harmony, neo-pythagoreanism, burkert, zhmud]
-sources: ["Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).md", "Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).md", "Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Pythagoreanism

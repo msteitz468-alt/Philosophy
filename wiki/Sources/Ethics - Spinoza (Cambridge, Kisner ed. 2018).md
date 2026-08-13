@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [spinoza, philosophy, ethics, substance-monism, pantheism, parallelism, conatus, rationalism, early-modern, classical, naturalism, geometrical-method]
-sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.txt"]
+sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.md"]
 ---
 
 # Ethics - Spinoza (Cambridge, Kisner ed. 2018)
@@ -84,7 +84,7 @@ Strong compounding with AI/agentic sources (geometrical deduction ~ reliable too
 
 ## Sources
 
-- Raw: `raw/Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.txt` (Cambridge Texts edition).
+- Raw: `raw/Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.md` (Cambridge Texts edition).
 - Cross: All classical sources/entities (especially Descartes, Aristotle, Aquinas, Augustine, Plotinus, Stoics, Sextus); [[GROK]] (method, persistence, layered representation); future: Spinoza’s *Theological-Political Treatise*, *Treatise on the Emendation of the Intellect*.
 
 ## Related

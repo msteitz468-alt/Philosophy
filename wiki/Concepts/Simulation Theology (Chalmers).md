@@ -3,8 +3,8 @@ title: "Simulation Theology (Chalmers)"
 type: concept
 domains: [philosophy-of-religion, metaphysics]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md", "Are You Living in a Computer Simulation - Nick Bostrom (2003).md"]
 tags: [simulation-theology, demiurge, natural-god, fine-tuning, problem-of-evil, chalmers]
 ---
 
@@ -21,6 +21,7 @@ Classic theistic arguments reviewed: Anselm's ontological argument (undermined b
 
 ## How This Relates to Prior Thinkers
 
+- **[[Thinkers/Nick Bostrom]]** ([[Sources/Are You Living in a Computer Simulation - Nick Bostrom (2003)]], §VI): the immediate predecessor. Posthuman simulators are "like gods" — they created the world we see, are of superior intelligence, and are "omnipotent" and "omniscient" in the sense that they can violate our physics and monitor everything. All but basement-level agents are subject to deeper-level sanctions. Bostrom names this a **naturalistic theogony**, floats a possible afterlife, and derives a "universal ethical imperative … 'from nowhere'": because nobody can be sure they are at the basement, even the basement civilization has reason to behave as if watched, "in truly virtuous circle." Chalmers keeps the local-god picture, drops the virtuous-circle ethics, adds the "not especially good" clause, batch/AI-scientist demographics, and the worship refusal.
 - **[[Thinkers/Plato]]**: the *Timaeus* demiurge ([[Sources/Timaeus and Critias - Plato (Oxford, 2008)]]) is the closest classical model — a craftsman-god working within a larger order.
 - **[[Thinkers/Anselm of Canterbury]]** ([[Sources/Proslogion - Anselm of Canterbury (1078)]]) and **[[Thinkers/Al-Ghazali]]**: their arguments surveyed and set aside; the simulation argument replaces a priori proof with statistical reasoning.
 - **[[Thinkers/Gottfried Wilhelm Leibniz]]**: the ch. 18 "simulation theodicy" (create all worlds where happiness outweighs suffering; simulators aren't omniscient) parallels the best-of-all-possible-worlds — see [[Concepts/Ethics of Simulated Beings and Virtual Society (Chalmers)]].

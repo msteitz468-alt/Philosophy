@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 5
 tags: [contradiction, popper, kuhn, feyerabend, lakatos, falsification, paradigm, normal-science, anarchism, verisimilitude, incommensurability, rationality, philosophy-of-science]
-sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.txt", "Conjectures and Refutations_ The Growth of - Karl Popper.txt", "The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.txt", "Against Method - Paul Feyerabend.txt", "Representing And Intervening Introductory - Ian Hacking.txt"]
+sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.md", "Conjectures and Refutations_ The Growth of - Karl Popper.md", "The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.md", "Against Method - Paul Feyerabend.md", "Representing And Intervening Introductory - Ian Hacking.md"]
 ---
 
 # Popper vs Kuhn - Falsification vs Paradigms

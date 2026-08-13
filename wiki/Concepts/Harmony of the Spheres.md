@@ -4,7 +4,7 @@ type: concept
 domains: [cosmology, astronomy, metaphysics, mathematics, religion]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).md", "Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).md", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [harmony-of-spheres, music-of-spheres, central-fire, counter-earth, philolaus, astronomy, copernicus, kepler, astral-immortality, burkert, zhmud, huffman, boethius]
 ---
 

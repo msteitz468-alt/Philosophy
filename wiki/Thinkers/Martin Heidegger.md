@@ -3,8 +3,8 @@ title: "Martin Heidegger"
 type: thinker
 domains: [ontology, phenomenology, existentialism, aesthetics, philosophy-of-mind]
 created: "2026-06-29"
-updated: "2026-07-01"
-sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Heidegger (Michael Inwood).md", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).md", "Existentialism is a Humanism - Jean-Paul Sartre (1946).md"]
 tags: [philosophy, heidegger, phenomenology, ontology, existentialism]
 ---
 
@@ -75,7 +75,9 @@ The later Heidegger shifts from Dasein-centred questioning to receptive listenin
 
 ## Influence
 
-Heidegger's influence spans theology (Bultmann, Karl Rahner, Paul Tillich), psychoanalysis (Ludwig Binswanger), literary criticism (Emil Staiger), and philosophy. [[Thinkers/Nietzsche]] was the subject of his most sustained historical engagement. In France, Sartre, Merleau-Ponty, Emmanuel Levinas, and Jacques Derrida (whose "deconstruction" descends from Heidegger's *Destruktion*) are all deeply indebted. Hans-Georg Gadamer's hermeneutics, José Ortega y Gasset's philosophy of life, and Karl Jaspers's existentialism all bear Heidegger's mark.
+Heidegger's influence spans theology (Bultmann, Karl Rahner, Paul Tillich), psychoanalysis (Ludwig Binswanger), literary criticism (Emil Staiger), and philosophy. [[Thinkers/Nietzsche]] was the subject of his most sustained historical engagement. The *primary* for the "death of God" he reads as the end of the metaphysics of presence is now [[Sources/The Gay Science - Nietzsche (Kaufmann 1974)]] (§§108, 125, 343) — a parable about shadows, earliness, and lanterns, not a treatise on Being. See [[Concepts/Death of God (Nietzsche)]]. The notebooks he used for "being = will to power" are now in as an **incomplete** Kaufmann excerpt ([[Sources/The Will to Power - Nietzsche (Kaufmann, Collection 2013)]]; n.617 imposes being on becoming; n.1067 is **not** in the file). Do not let the lectures replace the published books. In France, Sartre, [[Thinkers/Maurice Merleau-Ponty]] (now primary: *être au monde* only appears against the background of the reduction; temporality as field of presence, refusing a resolute time that would "save itself once and for all from dispersion"), Emmanuel Levinas, and Jacques Derrida (whose "deconstruction" descends from Heidegger's *Destruktion*) are all deeply indebted. Hans-Georg Gadamer's hermeneutics, José Ortega y Gasset's philosophy of life, and Karl Jaspers's existentialism all bear Heidegger's mark.
+
+**AI and cognitive science (2026-08-12)**: [[Thinkers/Hubert Dreyfus]] made Division I operational against classical AI. *What Computers Still Can't Do* (1972/1992) argues that GOFAI models only the present-at-hand and misses the ready-to-hand competence of [[Concepts/Skilled Coping and the Five Stages of Expertise (Dreyfus)|skilled coping]]; being-in-the-world is the positive account of what frames and CYC try to store as facts. Dreyfus's 1991 commentary *Being-in-the-World* is the book behind "Heideggerian AI" (Winograd, Agre–Chapman: "the world is its own best representation"). See [[Sources/What Computers Still Can't Do - Hubert Dreyfus (1992)]] and [[Contradictions/Dreyfus vs Computationalism - Skilled Coping vs Formal Rules]]. [[Thinkers/Andy Clark]]'s extended mind and predictive processing are a later, more optimistic mechanization of the same world-involving agent.
 
 ## Contradictions / Open Questions
 
@@ -98,7 +100,9 @@ See [[Thinkers/Edmund Husserl]], [[Concepts/Phenomenological Reduction and Epoch
 ## Sources
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
+- [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
 - [[Sources/Husserl - David Woodruff Smith (2013)]]
+- [[Sources/What Computers Still Can't Do - Hubert Dreyfus (1992)]] (AI application of Division I)
 
 ## Related
 
@@ -113,11 +117,15 @@ See [[Thinkers/Edmund Husserl]], [[Concepts/Phenomenological Reduction and Epoch
 - [[Concepts/Historicality and the Turn (Heidegger)]]
 - [[Concepts/Art and Truth (Heidegger)]]
 - [[Schools/Phenomenology]]
-- [[Thinkers/Jean-Paul Sartre]] — borrows Heidegger's ontological vocabulary (*pour-soi*/*en-soi*) but starts from the *lack* of being rather than Being; see [[Concepts/Being-for-itself and Being-in-itself (Sartre)]]
+- [[Thinkers/Jean-Paul Sartre]] — borrows Heidegger's ontological vocabulary (*pour-soi*/*en-soi*) but starts from the *lack* of being rather than Being; see [[Concepts/Being-for-itself and Being-in-itself (Sartre)]]. In [[Sources/Existentialism is a Humanism - Jean-Paul Sartre (1946)]] Sartre enrols Heidegger among the *atheistic existentialists* and takes "abandonment" and "human reality" from him. Heidegger's 1947 *Letter on Humanism* (already in the works list above) is the refusal of that enrolment; the letter is not yet a vault source.
+- [[Schools/Existentialism]]
 - [[Thinkers/Aristotle]]
 - [[Thinkers/Kant]]
 - [[Thinkers/Descartes]]
 - [[Thinkers/Nietzsche]]
+- [[Concepts/Death of God (Nietzsche)]]
+- [[Sources/The Gay Science - Nietzsche (Kaufmann 1974)]]
 - [[Thinkers/Hegel]]
 - [[Thinkers/Plato]]
 - [[Thinkers/Ludwig Wittgenstein]]
+- [[Thinkers/Hubert Dreyfus]] — primary AI application of ready-to-hand and being-in-the-world

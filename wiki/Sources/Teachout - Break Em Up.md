@@ -7,7 +7,7 @@ published: 2020
 domains: [political philosophy, political economy, ethics]
 created: "2026-06-29"
 updated: "2026-06-29"
-source_file: "Break 'Em Up (Zephyr Teachout).txt"
+source_file: "Break 'Em Up (Zephyr Teachout).md"
 tags: [antitrust, monopoly, corporate power, democracy, political philosophy]
 ---
 

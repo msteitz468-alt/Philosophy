@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [philosophy, ethics, nietzsche, genealogy, master-slave-morality, ressentiment, bad-conscience, ascetic-ideal, revaluation, modern-philosophy, beyond-good-and-evil]
-sources: ["The genealogy of morals - Nietzsche, Friedrich Wilhelm, 1844-1900.txt"]
+sources: ["The genealogy of morals - Nietzsche, Friedrich Wilhelm, 1844-1900.md"]
 ---
 
 # The Genealogy of Morals - Nietzsche (1887)
@@ -16,13 +16,17 @@ sources: ["The genealogy of morals - Nietzsche, Friedrich Wilhelm, 1844-1900.txt
 
 Internet Archive text of Friedrich Nietzsche's *On the Genealogy of Morals* (original German *Zur Genealogie der Moral*, 1887). Published as a "polemic" to amplify and complete doctrines sketched in *Beyond Good and Evil* (especially Aphorism 260). Least aphoristic of Nietzsche's major works; noted for analytical power, especially on the ascetic ideal and "sacerdotal psychology." Standard English translation (public domain). Three essays + substantial Preface. Direct continuation and genealogical grounding of the revaluation project begun in BGE.
 
+**BGE now complete (2026-08-12).** §260 is in the vault as typology (master good/bad vs slave good/evil; can live in one soul; “beyond good and evil” as how nobles treat inferiors). This book supplies the *history* (ressentiment, priest, Rome vs Judaea) and the sentence that the slogan is not “beyond good and bad.” See [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]], [[Concepts/Master Morality and Slave Morality (Nietzsche)]], [[Concepts/Pathos of Distance and Order of Rank (Nietzsche)]].
+
+**Second translation (2026-08-12):** Ian Johnston, extracted from the 2013 22-work collection. See [[Sources/On the Genealogy of Morals - Nietzsche (Johnston)]]. Do not merge wording. Samuel: "we knowers," "blue vacuum of heaven," grey, French *ressentiment*, "Monster and Superman," Sils-Maria July 1887 colophon. Johnston: "knowledgeable people," "staring off into the blue" / **gray**, English **resentment**, "inhuman and the superhuman," no date line. The 2026-06-04 Essay III digest on this page is thin; the priest-as-physician and science-as-last-form of the ideal are now on the Johnston source and on [[Concepts/Ascetic Ideal (Nietzsche)]]. The method page this ingest claimed and retracted is now [[Concepts/Genealogy (Nietzsche)]].
+
 ## Editor's Note (from the edition)
 
 In 1887, with the view of amplifying and completing certain new doctrines which he had merely sketched in *Beyond Good and Evil*, Nietzsche published *The Genealogy of Morals*. This work is perhaps the least aphoristic, in form, of all Nietzsche's productions. For analytical power, more especially in those parts where Nietzsche examines the ascetic ideal, *The Genealogy of Morals* is unequalled by any other of his works; and, in the light which it throws upon the attitude of the ecclesiast to the man of resentment and misfortune, it is one of the most valuable contributions to sacerdotal psychology.
 
 ## Preface
 
-Nietzsche recounts the personal and intellectual origins of his "thoughts concerning the genealogy of our moral prejudices." Early curiosity (age 13) about the origin of "Good" and "Evil," first expressed clumsily in *Human, All Too Human*. Response to Dr. Paul Rée's *The Origin of the Moral Emotions* (1877, "English" utilitarian/positivist view of altruistic origin via habit and forgetting). Shift from theological "origin of evil" to the *value* of morality and the "unegoistic" instincts (pity, self-denial) that Schopenhauer had deified. Critique of modern pity-morality as "the most sinister symptom of our modern European civilisation" — route to nihilism, a "European Buddhism." Call for a *critique of moral values*: knowledge of the conditions under which they grew, evolved, and distorted (morality as symptom, mask, disease *and* cause, remedy, stimulant). "Grey" authentic historical facts (the "long hieroglyphic script" of the past) over the "blue vacuum of heaven" of English theories. "Rumination" as the forgotten art of reading (be a cow, not a modern man). "We finders of knowledge" must keep silent sufficiently long. Dated Sils-Maria, Upper Engadine, July, 1887.
+Nietzsche recounts the personal and intellectual origins of his "thoughts concerning the genealogy of our moral prejudices." Early curiosity (age 13) about the origin of "Good" and "Evil," first expressed clumsily in *Human, All Too Human* (now ingested for Vol. I chs. I–III: the 1878 "two-fold historical origin" is requital vs. subjugation, **not** this book's ressentiment; see [[Concepts/Two-fold Historical Origin of Good and Evil (Nietzsche)]], [[Sources/Human, All Too Human - Nietzsche (Zimmern, Collection excerpt)]]). Response to Dr. Paul Rée's *The Origin of the Moral Emotions* (1877, "English" utilitarian/positivist view of altruistic origin via habit and forgetting). Shift from theological "origin of evil" to the *value* of morality and the "unegoistic" instincts (pity, self-denial) that Schopenhauer had deified. Critique of modern pity-morality as "the most sinister symptom of our modern European civilisation" — route to nihilism, a "European Buddhism." Call for a *critique of moral values*: knowledge of the conditions under which they grew, evolved, and distorted (morality as symptom, mask, disease *and* cause, remedy, stimulant). "Grey" authentic historical facts (the "long hieroglyphic script" of the past) over the "blue vacuum of heaven" of English theories. "Rumination" as the forgotten art of reading (be a cow, not a modern man). "We finders of knowledge" must keep silent sufficiently long. Dated Sils-Maria, Upper Engadine, July, 1887.
 
 ## First Essay: "Good and Evil," "Good and Bad"
 
@@ -56,7 +60,7 @@ Further development (tribal ancestors as creditors, growing debt to gods with ra
 
 "What is the meaning of ascetic ideals?" Survey across types:
 
-- Artists: nothing, or too much (late Wagner's homage to chastity in *Parsifal* questioned — parody of the ascetic ideal or serious reversion?).
+- Artists: nothing, or too much (late Wagner's homage to chastity in *Parsifal* questioned — parody of the ascetic ideal or serious reversion?). **The 1888 *Case of Wagner* answers:** not a riddle about self-parody; *Parsifal* is the masterpiece of seduction, the most sublime advocate of impoverished life’s Beyond. See [[Sources/The Case of Wagner - Nietzsche (1888)]].
 
 - Philosophers and scholars: a "flair" and instinct for conditions favourable to advanced intellectualism (asceticism — grim renunciation, chastity, humility, solitude — as condition for highest spirituality and pregnancy of great thought; Schopenhauer example; philosophers as "shadows," "maternal" instinct for the growing work absorbing vitality; not hatred of flesh but will of the dominant instinct).
 
@@ -100,12 +104,14 @@ The text is the analytic heart of the "revaluation of all values" and the "prelu
 
 ## Sources
 
-- `raw/The genealogy of morals - Nietzsche, Friedrich Wilhelm, 1844-1900.txt` (Internet Archive edition; English translation of Nietzsche's *Zur Genealogie der Moral*, 1887; published to complete doctrines from *Beyond Good and Evil*).
+- `raw/The genealogy of morals - Nietzsche, Friedrich Wilhelm, 1844-1900.md` (Internet Archive edition; English translation of Nietzsche's *Zur Genealogie der Moral*, 1887; published to complete doctrines from *Beyond Good and Evil*).
 
 ## Related
 
 - [[Thinkers/Nietzsche]]
+- [[Sources/On the Genealogy of Morals - Nietzsche (Johnston)]] — second translation
 - [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]]
+- [[Concepts/Genealogy (Nietzsche)]]
 - [[Concepts/Will to Power (Nietzsche)]], [[Concepts/Perspectivism (Nietzsche)]], [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]], [[Concepts/Beyond Good and Evil (Nietzsche)]]
 - New from this source: [[Concepts/Ressentiment (Nietzsche)]], [[Concepts/Master Morality and Slave Morality (Nietzsche)]], [[Concepts/Bad Conscience (Nietzsche)]], [[Concepts/Ascetic Ideal (Nietzsche)]], [[Concepts/Sovereign Individual (Nietzsche)]]
 - [[Thinkers/Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]], [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]]

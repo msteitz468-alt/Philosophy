@@ -6,7 +6,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [hume, philosophy, empiricism, epistemology, induction, causation, scepticism, miracles, free-will, compatibilism, early-modern, enlightenment, scottish-enlightenment, naturalism, classical]
-sources: ["An Enquiry concerning Human Understanding - Hume, David, Millican, Peter.txt", "The Logic of Scientific Discovery (Routled - Karl Popper.txt"]
+sources: ["An Enquiry concerning Human Understanding - Hume, David, Millican, Peter.md", "The Logic of Scientific Discovery (Routled - Karl Popper.md"]
 ---
 
 # An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)
@@ -101,7 +101,7 @@ The empiricist hinge of the Early Modern cluster, and the most disruptive episte
 
 ## Sources
 
-- Raw: `raw/An Enquiry concerning Human Understanding - Hume, David, Millican, Peter.txt` (Oxford World's Classics, ed. Peter Millican, 2007; ~7,300 lines: introduction, the 12-section text in its 1748 final form, Hume's endnotes, and Appendices I–V).
+- Raw: `raw/An Enquiry concerning Human Understanding - Hume, David, Millican, Peter.md` (Oxford World's Classics, ed. Peter Millican, 2007; ~7,300 lines: introduction, the 12-section text in its 1748 final form, Hume's endnotes, and Appendices I–V).
 - Cross-references: the Early Modern cluster ([[Thinkers/Descartes]], [[Thinkers/Spinoza]]) and the classical/skeptical cluster ([[Thinkers/Sextus Empiricus]], [[Thinkers/Epicurus]], [[Thinkers/Lucretius]], [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]]); [[GROK]] (evidence-proportioning, meaning-test, and mitigated-scepticism parallels for maintenance); future: the *Treatise*, *Dialogues concerning Natural Religion* (full), *Enquiry concerning the Principles of Morals*, the *Essays*.
 
 ## Related

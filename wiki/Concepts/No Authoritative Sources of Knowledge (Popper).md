@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [popper, sources-of-knowledge, manifest-truth, conspiracy-theory-of-ignorance, fallibilism, empiricism, rationalism, critical-rationalism, authority]
-sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.txt"]
+sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.md"]
 ---
 
 # No Authoritative Sources of Knowledge (Popper)

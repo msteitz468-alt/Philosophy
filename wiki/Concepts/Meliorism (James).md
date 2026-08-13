@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [james, pragmatism, philosophy, meliorism, optimism, pessimism, possibility, religion, pluralism, free-will, agency, american-philosophy, modern]
-sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.txt"]
+sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.md", "The Varieties of Religious Experience - William James (1902).md"]
 ---
 
 # Meliorism (James)
@@ -29,7 +29,7 @@ So he analyzes "**possible**" pragmatically. A bare possibility means only "ther
 - **Our acts as the world's growing-places**: "Every such ideal realized will be one moment in the world's salvation." Our ideals are "live possibilities, for we are their live champions and pledges." "Does our act then create the world's salvation so far as it makes room for itself…? Why not the workshop of being, where we catch fact in the making?" This links meliorism to free will read as "a doctrine of relief" and "novelty" (Lecture III) — see the design/free-will discussion in [[Concepts/Pragmatic Method (James)]].
 - **The "world's author" scenario**: God offers you, before creation, "a world not certain to be saved… a real adventure, with real danger, yet it may win through… Will you trust yourself and trust the other agents enough to face the risk?" James: "if you are normally constituted, you would… accept the offer… loyalty to our old nurse Nature would forbid us to say no."
 - **Accepting real loss**: siding with the "moralistic" over the "saccharine" tender-minded view, James is "willing that there should be real losses and real losers, and no total preservation of all that is." He rejects the absolutist's "*aufgehoben*" (every evil "preserved as an element essential but overcome"); evil is escaped "by dropping it out altogether, throwing it overboard." The Greek epigram of the shipwrecked sailor who "bids you set sail."
-- **Pluralistic theism**: pragmatism "can be called religious if you allow that religion can be pluralistic or merely melioristic." God is "but one helper, *primus inter pares*, in the midst of all the shapers of the great world's fate." We stand to the universe "as our dogs and cats" stand to human life — "tangents to the wider life of things," yet with ideals that may "coincide." James points to his own *Varieties of Religious Experience* as evidence "the hypothesis of God… does work."
+- **Pluralistic theism**: pragmatism "can be called religious if you allow that religion can be pluralistic or merely melioristic." God is "but one helper, *primus inter pares*, in the midst of all the shapers of the great world's fate." We stand to the universe "as our dogs and cats" stand to human life — "tangents to the wider life of things," yet with ideals that may "coincide." James points to his own *Varieties of Religious Experience* as evidence "the hypothesis of God… does work." That book is now ingested: see [[Sources/The Varieties of Religious Experience - William James (1902)]] and [[Concepts/Over-Beliefs and Piecemeal Supernaturalism (James)]]. The Postscript already has partial/conditional salvation and "the *chance* of salvation is enough." Do **not** back-name 1902 as "meliorism": in Lectures IV–V the word names healthy-minded evolution/progress religion, not this 1907 midpoint. See [[Concepts/Healthy-Mindedness and the Sick Soul (James)]].
 - **It depends on your faith, not logic**: "In the end it is our faith and not our logic that decides such questions, and I deny the right of any pretended logic to veto my own faith." The two Whitman readings ("To You") — monistic "you are already safe" vs. pluralistic "your better possibilities pick their way" — both "sanctify the human flux," but the pluralistic "agrees with the pragmatic temper best, for it immediately suggests… future experience… sets definite activities in us at work."
 
 ## Contrasts / Lineage
@@ -49,7 +49,7 @@ So he analyzes "**possible**" pragmatically. A bare possibility means only "ther
 
 ## Related
 
-- [[Sources/Pragmatism - William James (1907, Standard Ebooks)]], [[Thinkers/William James]]
+- [[Sources/Pragmatism - William James (1907, Standard Ebooks)]], [[Sources/The Varieties of Religious Experience - William James (1902)]], [[Thinkers/William James]]
 - [[Concepts/The One and the Many (James)]], [[Concepts/Humanism - Reality as Malleable (Schiller and James)]], [[Concepts/Pragmatic Method (James)]], [[Concepts/Tender-Minded and Tough-Minded (James)]], [[Concepts/Pragmatic Theory of Truth (James)]]
 - [[Concepts/Conatus (Spinoza)]], [[Concepts/Freedom and Blessedness - Intellectual Love of God (Spinoza)]], [[Concepts/Tranquillitas Ordinis - Peace as Order (Augustine)]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Will to Power (Nietzsche)]]
 - [[Thinkers/Spinoza]], [[Thinkers/Augustine]], [[Thinkers/Nietzsche]], [[Thinkers/Epictetus]]

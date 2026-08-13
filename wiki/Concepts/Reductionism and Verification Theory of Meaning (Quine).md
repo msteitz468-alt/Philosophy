@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [quine, reductionism, verification-theory, verificationism, meaning, sense-data, carnap, aufbau, logical-empiricism, empiricism, two-dogmas, holism, hume, locke, positivism]
-sources: ["Quine51 - Unknown.txt"]
+sources: ["Quine51 - Unknown.md"]
 ---
 
 # Reductionism and Verification Theory of Meaning (Quine)

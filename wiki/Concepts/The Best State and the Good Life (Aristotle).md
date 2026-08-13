@@ -4,7 +4,7 @@ type: concept
 domains: [politics, ethics]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Politics (Aristotle).txt"]
+sources: ["Politics (Aristotle).md"]
 tags: [aristotle, eudaimonia, autarkeia, scholē, politics, classical]
 ---
 

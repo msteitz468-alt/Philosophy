@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 3
 created: "2026-06-04"
-updated: "2026-07-01"
+updated: "2026-08-12"
 tags: [plotinus, enneads, neoplatonism, epistrophe, henosis, soul, ascent, contemplation, classical]
-sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md"]
+sources: ["The Enneads - Plotinus.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md", "The Mystical Theology and The Divine Names - Dionysius the Areopagite.md"]
 ---
 
 # Return of the Soul (Epistrophe)
@@ -31,6 +31,7 @@ The reference file signals the treatises on the soul's nature, descent, and retu
 - **The final step**: union requires "divesting ourselves of everything" (V.3.17.38), putting away "all otherness"; the mystical state is an undifferentiated unity beyond subject and object, better figured as *touch* than vision; contact occurs through the "centre of the soul." The One does not turn toward us or love its products — eros runs upward only.
 - **The school's great dispute**: Iamblichus denied the undescended soul, so contemplation alone cannot complete the return — ritual and divine grace are required ([[Concepts/Theurgy (Iamblichus)]]); Proclus added faith–truth–love as theurgic virtues and a providential *descending* love. See [[Contradictions/Plotinus vs Iamblichus - Contemplation vs Theurgy]] — Augustine's insufficiency-of-the-Platonists argument (already noted below) is the Christian analogue of Iamblichus's position.
 - The Athenian School generalized *epistrophē* into the cosmic law of [[Concepts/Procession, Remaining, and Return (Neoplatonic Triad)]]: "All things pray except the First" (Theodorus of Asine).
+- **[[Thinkers/Pseudo-Dionysius]]**: the Christian *epistrophē* as stripping. Prayer does not pull God down; it draws the soul up (DN III.1). *Mystical Theology* I–V is the return written as Moses' ascent: leave sense and intellect, meet not God but the place, plunge into [[Concepts/Divine Darkness and Unknowing (Dionysius)|Darkness of Unknowing]]. Wallis's Plotinian note that the One "does not turn toward us or love its products" is exactly what DN IV.13 reverses — God is transported outside Himself by yearning. See [[Concepts/Ecstasy of Divine Love (Dionysius)]].
 
 ## Relevance to Vault
 

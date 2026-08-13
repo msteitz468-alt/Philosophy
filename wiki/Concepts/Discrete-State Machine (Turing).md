@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [turing, discrete-state-machine, state-transition, predictability, digital-computers, universal-machine, 1950]
-sources: ["Computing Machinery and Intelligence - Alan Turing.txt"]
+sources: ["Computing Machinery and Intelligence - Alan Turing.md"]
 ---
 
 # Discrete-State Machine (Turing)

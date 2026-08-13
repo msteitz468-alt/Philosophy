@@ -4,7 +4,7 @@ type: argument
 domains: [metaphysics, epistemology, philosophy-of-religion]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Proslogion - Anselm of Canterbury.txt", "Meditations on First Philosophy - Descartes (Oxford, 2008)"]
+sources: ["Proslogion - Anselm of Canterbury.md", "Meditations on First Philosophy - Descartes (Oxford, 2008)"]
 tags: [metaphysics, ontological-argument, god, existence, a-priori, anselm, descartes]
 ---
 
@@ -64,10 +64,11 @@ Anselm's contemporary, the monk Gaunilo of Marmoutiers, argued that if Anselm's 
 * **Anselm's Reply**: The argument cannot be applied to contingent, finite entities like islands. The concept of "that than which nothing greater can be conceived" uniquely involves necessary existence and has no upper limit of perfection, unlike an island which can always be conceived with more trees, rivers, or riches.
 
 ### 2. Kant's "Existence is Not a Real Predicate" Critique
-In the *Critique of Pure Reason*, Immanuel Kant argued that **existence is not a real or determining predicate**. 
-* A real predicate is a term that adds something to the description of a concept (e.g., "the coin is round, gold, and heavy").
-* Saying "the coin exists" or "is" does not add any new properties to the concept of the coin; it merely posits the subject itself in the actual world with all its existing predicates. 
-* A concept of 100 real thalers contains no more conceptual predicates than 100 possible thalers. Therefore, we cannot deduce existence from the mere definition of a concept.
+In the *Critique of Pure Reason* (Ideal of Pure Reason), Kant argued that **existence is not a real or determining predicate**. Primary page: [[Concepts/Existence is Not a Real Predicate (Kant)]].
+* "Being is obviously not a real predicate, i.e., a concept of something that could add to the concept of a thing. It is merely the positing of a thing…" (A 598 / B 626).
+* "A hundred actual dollars do not contain the least bit more than a hundred possible ones" — though "in my financial condition there is more with a hundred actual dollars than with the mere concept of them" (A 599 / B 627; Guyer/Wood render *Taler* as "dollars").
+* Absolute necessity of a *judgment* is not necessity of a *thing*; "God is not" cancels omnipotence with the subject, so no contradiction remains. "The famous ontological (Cartesian) proof… is only so much trouble and labor lost" (A 602 / B 630).
+* The cosmological and physicotheological proofs collapse into this one: "it is really only the ontological proof from mere concepts that contains all the force of proof in the so-called cosmological proof" (A 607 / B 635).
 
 ### 3. Hume's Fork Critique
 David Hume, in *An Enquiry concerning Human Understanding*, targets all a priori claims of existence:

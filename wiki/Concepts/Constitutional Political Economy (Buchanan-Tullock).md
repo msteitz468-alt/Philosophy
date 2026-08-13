@@ -4,7 +4,7 @@ type: concept
 domains: [political-philosophy, economics, constitutional-economics]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["The Calculus of Consent (Buchanan, Tullock).txt"]
+sources: ["The Calculus of Consent (Buchanan, Tullock).md"]
 tags: [philosophy, public-choice, constitutional-economics, social-contract, rules]
 ---
 
@@ -60,6 +60,7 @@ The constitution is a social contract: individuals trade some of their private f
 - **[[Thinkers/Thomas Hobbes]]**: Hobbes's social contract theory argues that individuals, in the state of nature, must surrender their sovereignty to an absolute monarch (Leviathan) to escape the war of all against all. Buchanan and Tullock reject this authoritarian conclusion. They show that individuals can contractually establish a democratic, constitutional system with checks and balances (bicameralism, qualified majorities) that preserves individual liberty and limits the state's power.
 - **[[Thinkers/Karl Marx]]**: Marx viewed the state and its constitution as the instrument of the ruling class to exploit the proletariat. Constitutional economics reinterprets this: exploitation occurs not because of class dialectics, but because the constitutional stage failed to require unanimity, allowing winning coalitions at the operational stage to impose external costs on the minority.
 - **John Rawls**: In *A Theory of Justice* (1971), Rawls used the "veil of ignorance" to derive egalitarian moral principles (the difference principle). Buchanan and Tullock, writing a decade earlier, used a similar "veil of uncertainty" to derive efficiency-maximizing constitutional rules, emphasizing the interdependence of decision costs and external costs rather than distributive justice.
+- **[[Thinkers/Robert Nozick]]**: *Anarchy, State, and Utopia* (1974) does not discuss Buchanan. Adjacent: both refuse a utilitarian time-slice. They split on the replacement — entitlement [[Concepts/Side Constraints (Nozick)|side constraints]] vs cost-minimizing voting rules — and on method (invisible-hand filter vs constitutional design). Nozick’s target in Ch. 7 is Rawls’s veil as *ignorance of entitlements*, forcing a manna/end-state choice. See [[Contradictions/Nozick vs Rawls - Historical Entitlement vs Patterned Justice]].
 
 ## Contradictions / Open Questions
 
@@ -69,6 +70,7 @@ The constitution is a social contract: individuals trade some of their private f
 ## Sources
 
 - [[Sources/The Calculus of Consent - Buchanan and Tullock (1962)]]
+- [[Sources/Anarchy, State, and Utopia - Robert Nozick (1974)]] (adjacent; not cited)
 
 ## Related
 

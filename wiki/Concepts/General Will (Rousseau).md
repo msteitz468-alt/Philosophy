@@ -3,8 +3,8 @@ title: "General Will (Rousseau)"
 type: concept
 domains: [political-philosophy]
 created: "2026-06-11"
-updated: "2026-06-11"
-sources: ["The Social Contract - Jean-Jacques Rousseau.txt"]
+updated: "2026-08-12"
+sources: ["The Social Contract - Jean-Jacques Rousseau.md", "Isaiah Berlin and the Politics of Freedom - Baum and Nichols (2013).md"]
 tags: [rousseau, general-will, social-contract, sovereignty, political-philosophy, enlightenment]
 ---
 
@@ -47,8 +47,10 @@ To modern ears, this sounds authoritarian. For Rousseau, however, true freedom i
 > [!WARNING]
 > The General Will stands in tension with liberal theories of individual autonomy, such as [[Thinkers/John Stuart Mill|John Stuart Mill]]'s [[Concepts/Harm Principle (Mill)|Harm Principle]], which warns against the "tyranny of the majority" and seeks to protect private liberty against collective coercion.
 
+> [!warning] Conflicts with [[Thinkers/Isaiah Berlin]] on whether obedience to a collective will can *be* freedom — see [[Contradictions/Berlin vs Rousseau - Negative Liberty vs Forced to Be Free]].
+
 ### Critiques
-* **Totalitarian Potential**: Critics (like Isaiah Berlin) argue that by identifying freedom with obedience to a collective will, Rousseau's theory provides a dangerous justification for state totalitarianism and the suppression of dissent.
+* **Totalitarian Potential (Berlin, now sourced)**: The 2013 reception of “Two Concepts of Liberty” quotes Berlin’s use of *Social Contract* I.7 as the exemplar of coercion justified as liberty. The slide: divided self → higher/real self identified with the state → “to force empirical selves into the right pattern is not tyranny but liberation.” Dimova-Cookson (same volume) tries to split Green/Rousseau’s *social* positive liberty from that debasement. Myers: Berlin’s democracy critique is sharpest against Rousseauian rational consensus, and should not smear every democratic self-rule. See [[Concepts/Negative and Positive Liberty (Berlin)]].
 * **Practicality**: The General Will requires a small, culturally homogeneous state (like ancient Sparta or Geneva) where direct democracy is logistically feasible. In large, modern, diverse nation-states, finding a unified "General Will" is highly problematic.
 
 ---
@@ -60,6 +62,8 @@ To modern ears, this sounds authoritarian. For Rousseau, however, true freedom i
 - [[Thinkers/Jean-Jacques Rousseau]]
 - [[Thinkers/Thomas Hobbes]]
 - [[Thinkers/John Stuart Mill]]
+- [[Thinkers/Isaiah Berlin]]
+- [[Contradictions/Berlin vs Rousseau - Negative Liberty vs Forced to Be Free]]
 - [[Concepts/State of Nature (Rousseau)]]
 - [[Concepts/Social Contract (Hobbes)]]
 - [[Concepts/Harm Principle (Mill)]]

@@ -4,7 +4,7 @@ type: concept
 domains: [epistemology, philosophy, methodology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Michel Foucault (David Macey).txt"]
+sources: ["Michel Foucault (David Macey).md"]
 tags: [philosophy, foucault, epistemology, method, discourse]
 ---
 
@@ -43,6 +43,14 @@ By the early 1970s, Foucault recognized archaeology's limitation: it describes t
 
 ## Sources
 - [[Sources/Michel Foucault - David Macey]]
+
+## The Skinner Fork (2026-08-12)
+
+> [!warning] [[Thinkers/Quentin Skinner]] and Foucault are the vault's two rival methods for the history of discourse, and the disagreement is precise. Both historicise concepts, refuse timeless meanings, and treat vocabulary as constitutive of what can be thought and done. Skinner quotes Foucault approvingly on the endless revisability of classificatory schemes, and takes over his line that "the history which bears and determines us has the form of a war."
+
+Where they part is the **author**. Archaeology brackets the speaking subject in favour of anonymous rules of formation governing what can be said; Skinner's entire method turns on recovering what a particular agent was *doing* in saying something ([[Concepts/Illocutionary Force and Historical Meaning (Skinner)]]). He calls the "death of the author" **exaggerated**, on the ground that language is a *resource* as well as a constraint — the innovating ideologist exploits the available vocabulary rather than merely being spoken by it (see [[Concepts/Innovating Ideologist and Legitimation (Skinner)]]).
+
+Neither reduces to the other. The fork is: are discursive regimes best studied through their rules, or through the moves agents make within and against them?
 
 ## Related
 - [[Thinkers/Michel Foucault]]

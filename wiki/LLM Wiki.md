@@ -8,7 +8,7 @@ source_count: 10
 created: 2026-06-03
 updated: 2026-06-04
 tags: [pkm, llm, meta, classical-philosophy, patristics, memory, grace]
-sources: ["AI_Tips_Chat_Export_June_2_2026.docx", "Claude_AI_Advanced_User_Guide.docx", "Grok_4.3_Tutorial_Detailed_Notes.docx", "Plato - Timaeus & Critias (Oxford, 2008).docx", "Reality Transurfing I - V.pdf", "Plato - Republic (Cambridge, 2000).pdf", "daily_advanced_ai_tips_june_3_2026.md", "CPCU 552 Commercial Property Insurance - Study Materials", "MasterClass Collection - 2026", "Confessions - Augustine.txt"]
+sources: ["AI_Tips_Chat_Export_June_2_2026.docx", "Claude_AI_Advanced_User_Guide.docx", "Grok_4.3_Tutorial_Detailed_Notes.docx", "Plato - Timaeus & Critias (Oxford, 2008).docx", "Reality Transurfing I - V.pdf", "Plato - Republic (Cambridge, 2000).pdf", "daily_advanced_ai_tips_june_3_2026.md", "CPCU 552 Commercial Property Insurance - Study Materials", "MasterClass Collection - 2026", "Confessions - Augustine.md"]
 ---
 
 # LLM Wiki

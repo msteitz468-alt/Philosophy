@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [wiener, second-industrial-revolution, automation, unemployment, slave-labor, vacuum-tube, feedback, factory, computing, 1950]
-sources: ["The Human Use of Human Beings - Norbert Wiener.txt"]
+sources: ["The Human Use of Human Beings - Norbert Wiener.md"]
 ---
 
 # Second Industrial Revolution (Wiener)

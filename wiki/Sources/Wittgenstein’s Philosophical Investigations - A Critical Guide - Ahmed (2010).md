@@ -5,7 +5,7 @@ status: complete
 domains: [philosophy-of-language, philosophy-of-mind, epistemology, metaphysics]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md"]
 tags: [wittgenstein, philosophical-investigations, language-games, rule-following, private-language, aspect-seeing]
 ---
 

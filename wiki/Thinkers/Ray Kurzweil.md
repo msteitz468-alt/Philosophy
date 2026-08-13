@@ -4,7 +4,7 @@ type: thinker
 domains: [ai, futurism, transhumanism, invention, technology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Singularity is Near - Ray Kurzweil [Ray Kurzweil].txt"]
+sources: ["The Singularity is Near - Ray Kurzweil [Ray Kurzweil].md"]
 tags: [kurzweil, singularity-is-near, law-of-accelerating-returns, technological-singularity, mind-uploading, gnr, exponential-growth, transhumanism, google-ai, hofstadter, mitchell, bostrom, turing, minsky]
 ---
 

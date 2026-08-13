@@ -6,9 +6,9 @@ schools: []
 domains: [technology, futurism, economics, ai, labor-economics, public-policy]
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [martin-ford, rise-of-the-robots, automation, technological-unemployment, basic-income, singularity, lights-in-the-tunnel, silicon-valley, futurism, ai-economics]
-sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.txt"]
+sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.md"]
 ---
 
 # Martin Ford
@@ -38,6 +38,7 @@ Ford has decades of experience in software development and running a small techn
 This thinker and source provide the primary, empirically grounded treatment of the *labor-market and macroeconomic downside* of the technological forces already operating in the AI & Cognitive Science leg. It directly engages vault through-lines:
 - **Kelly's forces as mechanism**: Cognifying (ubiquitous cheap AI) and Becoming (flux, services over products, perpetual upgrading) are precisely what produce the white-collar displacement, "predictable" job vulnerability, and consumer demand erosion Ford diagnoses. Kelly's protopian embrace + manage is one stance; Ford insists on paradigm-level adaptation (basic income) or face crisis. Cross-updates to [[Sources/The Inevitable - Kevin Kelly (2016)]], [[Concepts/Cognifying (Kelly)]], [[Concepts/Becoming (Kelly)]], and the new [[Concepts/Technium (Kelly)]] (technium "wants" include the exotropy driving this automation).
 - **Bostrom risks within the wave**: Ch. 9 directly covers super-intelligence/intelligence explosion and existential-scale disruption potential (Hawking et al.). Ford focuses on nearer-term economic/job impacts from narrow/specialized AI + robotics (already displacing), while Bostrom emphasizes long-term control/alignment for AGI/superintelligence. Complementary: the same technological substrate. Cross to [[Sources/Superintelligence - Nick Bostrom (2014)]], [[Concepts/Superintelligence (Bostrom)]], [[Concepts/Orthogonality Thesis (Bostrom)]], [[Concepts/Instrumental Convergence (Bostrom)]].
+- **Russell 2019, Ch. 4**: Same labor diagnosis from inside AI — "within the next few decades essentially all routine physical and mental labor will be done more cheaply by machines"; Great Decoupling already visible; UBI one destination, "humanics" preferred. Russell adds that the *existential* risk is not "stupid killer robots" and that enfeeblement (*The Machine Stops*) can survive a solved control problem. Cross to [[Sources/Human Compatible - Stuart Russell (2019)]].
 - **Kurzweil Singularity engagement**: Dedicated chapter critiques/engages the optimistic 2045 rupture, merger, and immortality narrative while acknowledging acceleration. Ford is more measured and economically focused. Cross to [[Sources/The Singularity Is Near - Ray Kurzweil (2005)]], [[Concepts/Singularity (Kurzweil)]], [[Concepts/Law of Accelerating Returns (Kurzweil)]].
 - **Mitchell limits/hype corrective**: Ford cites Watson, deep learning, robotics progress as evidence of imminent broad displacement. Mitchell provides the reality check on brittleness, lack of common sense/analogy/understanding, and hype cycles — suggesting current systems may automate narrow "predictable" slices effectively while falling short of robust generalization. Cross to [[Sources/Artificial Intelligence - Melanie Mitchell (2019)]], [[Concepts/Understanding vs Pattern Matching in AI (Mitchell)]], [[Concepts/Brittleness of Deep Learning (Mitchell)]].
 - **Wiener historical root**: Explicitly revives Wiener's cybernation warning and "industrial revolution of unmitigated cruelty" (machines reducing routine worker value to zero). Ford's "Second IR" update with data and white-collar reach. Cross to [[Sources/The Human Use of Human Beings - Norbert Wiener (1950)]], [[Concepts/Second Industrial Revolution (Wiener)]].

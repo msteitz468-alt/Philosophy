@@ -4,7 +4,7 @@ type: concept
 domains: [ai, history-of-ai, epistemology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Artificial Intelligence - Melanie Mitchell.txt"]
+sources: ["Artificial Intelligence - Melanie Mitchell.md"]
 tags: [mitchell, hype-cycles, ai-spring, ai-winter, overpromising, media-hype, history]
 ---
 

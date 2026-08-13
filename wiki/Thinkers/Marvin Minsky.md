@@ -3,8 +3,8 @@ title: "Marvin Minsky"
 type: thinker
 domains: [ai, cognitive-science, philosophy-of-mind, developmental-psychology]
 created: "2026-06-04"
-updated: "2026-06-04"
-sources: ["Society of Mind - Marvin Minsky.txt", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt", "Artificial Intelligence - Melanie Mitchell.txt"]
+updated: "2026-08-12"
+sources: ["Society of Mind - Marvin Minsky.md", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Artificial Intelligence - Melanie Mitchell.md"]
 tags: [minsky, society-of-mind, agents, k-lines, frames, ai-founder, mit, papert, perceptrons, distributed-mind, emergence, learning, dennett, hofstadter, turing, searle]
 ---
 
@@ -47,6 +47,8 @@ Minsky emphasized the "messy" cross-connections among agents as a source of powe
 
 - **Searle**: Minsky (along with Newell, Simon, McCarthy) is frequently cited in Searle's critiques as representative of the "strong AI" view that "the brain is a digital computer and the mind is its program." This book provides important nuance: Minsky's actual model is a *society* of many simple, often non-serial agents with emergent organization — much closer to Dennett/Hofstadter distributed views than to the literal single-program syntax engine Searle attacks in the Chinese Room. The attribution should be qualified in vault pages.
 
+- **Dreyfus**: the principal contemporary critic inside this source's own decade. *What Computers Still Can't Do* treats Minsky as the voice of Phase II optimism ("within a generation"), of frames as Husserl's noema formalized, of the large-data-base estimate, and of free will as arbitrary-or-rule-governed. Dreyfus concedes knowledge engineering in pre-fixed domains and denies that frames capture expertise or everyday understanding. See [[Concepts/Frames (Minsky)]], [[Concepts/Commonsense Knowledge Problem (Dreyfus)]], [[Contradictions/Dreyfus vs Computationalism - Skilled Coping vs Formal Rules]].
+
 - **Gödel / formal foundations (Nagel/Newman)**: Minsky's "messy" cross-connected agent societies are exactly the kind of rich, self-referential, non-neatly-axiomatizable systems to which incompleteness results apply. No single formal theory will capture the mind; we need many overlapping, partial descriptions (as the book itself provides via its society of short sections).
 
 Also resonates with Wiener (control and communication among agents), Shannon (information reducing uncertainty for specific agencies), and earlier anti-homunculus, anti-dualist threads (against Descartes-style central res cogitans).
@@ -67,7 +69,7 @@ Also resonates with Wiener (control and communication among agents), Shannon (in
 
 ## Related
 
-- [[Thinkers/Daniel Dennett]], [[Thinkers/Douglas Hofstadter]], [[Thinkers/Alan Turing]], [[Thinkers/John Searle]]
+- [[Thinkers/Daniel Dennett]], [[Thinkers/Douglas Hofstadter]], [[Thinkers/Alan Turing]], [[Thinkers/John Searle]], [[Thinkers/Hubert Dreyfus]]
 - [[Concepts/Multiple Drafts Model (Dennett)]], [[Concepts/Center of Narrative Gravity (Dennett)]], [[Concepts/Strange Loops and Tangled Hierarchies (Hofstadter)]], [[Concepts/Emergence and Consciousness (Hofstadter)]], [[Concepts/Learning Machines (Turing)]]
 - [[Sources/Consciousness Explained - Daniel C. Dennett (1991)]], [[Sources/Gödel, Escher, Bach - Douglas Hofstadter (1979)]], [[Sources/Computing Machinery and Intelligence - Alan Turing (1950)]], [[Sources/Minds, Brains and Science - John Searle (1984)]]
 - Seymour Papert (collaborator; Papert’s Principle)

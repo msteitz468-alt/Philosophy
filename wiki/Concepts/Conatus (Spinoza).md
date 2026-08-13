@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [spinoza, conatus, striving, perseverance, essence, power, ethics, early-modern]
-sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.txt"]
+sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.md"]
 ---
 
 # Conatus (Spinoza)
@@ -38,6 +38,8 @@ Active affects (actions) arise when we are the adequate cause (from adequate ide
 Virtue and power are the same (4def8). To be virtuous is to act from one’s own nature (adequate ideas, one’s own conatus). The highest good is the understanding of God (4p28), because this most augments our power. Blessedness (*beatitudo*) is the joy that accompanies the highest increase in power through intuitive knowledge of God/Nature—the intellectual love of God.
 
 Freedom is acting from the necessity of one’s own nature (conatus expressed through adequate ideas) rather than being determined externally.
+
+**Vault comparison (Damasio, not a citation).** "Government for the body and by the body" and the internal preference system (avoid pain, seek pleasure, homeostasis) that trains somatic markers are this striving in neurological dress. See [[Concepts/Body-Minded Brain and Neural Self (Damasio)]], [[Concepts/Somatic Marker Hypothesis (Damasio)]].
 
 ## Relevance to Vault
 

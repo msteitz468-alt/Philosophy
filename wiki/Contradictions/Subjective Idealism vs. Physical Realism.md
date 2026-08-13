@@ -5,7 +5,7 @@ domains: [metaphysics, epistemology]
 source_count: 2
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Three Dialogues between Hylas and Philonous - George Berkeley.txt", "Meditations on First Philosophy - Descartes (Oxford, 2008)"]
+sources: ["Three Dialogues between Hylas and Philonous - George Berkeley.md", "Meditations on First Philosophy - Descartes (Oxford, 2008)"]
 tags: [idealism, realism, physical-realism, subjective-idealism, berkeley, descartes, locke]
 ---
 
@@ -31,6 +31,12 @@ This is a fundamental ontological and epistemological split in early modern phil
 * **Berkeley**: Argues in the *Three Dialogues* that Locke's primary/secondary quality distinction is unsustainable, as primary qualities cannot be conceived or perceived without secondary ones. 
 * He argues that because we only ever perceive ideas, we can have no evidence of anything existing beyond ideas. 
 * To assert that a mind-independent substance "supports" these ideas is meaningless. The table, tree, and cherry exist, but their existence is identical to their being perceived (*esse est percipi*). The stability of the world is guaranteed not by dead matter, but by the constant perception of **God**.
+
+### 3. Kant's third way (first *Critique*, 2026-08-12)
+
+**Schopenhauer, *Parerga* I (1851):** Berkeley is “creator of the proper and true *idealism*” (the intuitive world exists only as representation). Locke’s leftover realism about primary qualities is the error Kant radicalizes; Schopenhauer then assigns the *real* to will, not to matter and not to God. A third cut, not a vote for A or B. See [[Concepts/Doctrine of the Ideal and the Real (Schopenhauer)]].
+
+[[Concepts/Transcendental Idealism (Kant)|Transcendental idealism]] asserts the *empirical reality* of bodies and the *transcendental ideality* of space and time. "I do not say that bodies merely seem to exist outside me" (B 69) — appearance ≠ illusion. The B Refutation of Idealism: "The mere, but empirically determined, consciousness of my own existence proves the existence of objects in space outside me" (B 275). Aimed at Descartes' *problematic* and Berkeley's *dogmatic* idealism. This is not a return to Locke's mind-independent *res extensa* as a thing in itself; it is empirical realism inside the human standpoint. See [[Sources/Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge)]], [[Concepts/Schematism and Principles of Pure Understanding (Kant)]].
 
 ---
 

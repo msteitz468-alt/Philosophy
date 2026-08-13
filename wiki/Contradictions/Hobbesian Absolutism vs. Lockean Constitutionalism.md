@@ -3,8 +3,8 @@ title: "Hobbesian Absolutism vs. Lockean Constitutionalism"
 type: contradiction
 domains: [political-philosophy, ethics]
 created: "2026-06-11"
-updated: "2026-06-11"
-sources: ["Leviathan - Thomas Hobbes.txt", "Complete Works of John Locke - John Locke.txt"]
+updated: "2026-08-12"
+sources: ["Leviathan - Thomas Hobbes.md", "Complete Works of John Locke - John Locke.md", "Anarchy, State, and Utopia - Robert Nozick (1974).md"]
 tags: [hobbes, locke, sovereignty, social-contract, revolution, authority, state-of-nature]
 ---
 
@@ -39,11 +39,15 @@ graph TD
 -   **The Nature of Political Legitimacy**: This split defines the foundational tension in modern political philosophy. Does legitimacy stem from the maintenance of absolute order and security (Hobbes), or from the preservation of individual liberty and rights (Locke)?
 -   **Divisibility of Power**: The debate directly influenced the framing of modern democratic constitutions (which adopted Locke's separation of powers) and the theoretical justification of authoritarian states (which mirror Hobbes's insistence on centralized, absolute command).
 -   **Revolution and Obligation**: Under Hobbes, political obligation is nearly absolute to prevent the ultimate evil of anarchy; under Locke, political obligation is conditional, framing revolution not as a crime but as a correction of a lawless ruler's rebellion against natural law.
+-   **Third pole (Nozick, 2026-08-12)**: [[Thinkers/Robert Nozick]] keeps Locke’s rights and drops the compact. Starting from the *best realistic* Lockean anarchy, a [[Concepts/Minimal State and Ultraminimal State (Nozick)|night-watchman state]] arises by an [[Concepts/Invisible-Hand Explanation of the State (Nozick)|invisible hand]]; independents may stay out; the state has no special rights and is not a party that absorbs them. Not Hobbesian absolutism, not Lockean fiduciary trust with a right of revolution.
 
 ## Related Pages
 - [[Thinkers/Thomas Hobbes]]
 - [[Thinkers/Locke]]
+- [[Thinkers/Robert Nozick]]
 - [[Concepts/State of Nature (Hobbes)]]
 - [[Concepts/Social Contract (Hobbes)]]
 - [[Concepts/State of Nature, Property, and Revolution (Locke)]]
+- [[Concepts/Minimal State and Ultraminimal State (Nozick)]]
 - [[Sources/Leviathan - Thomas Hobbes (1651)]]
+- [[Sources/Anarchy, State, and Utopia - Robert Nozick (1974)]]

@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [kevin-kelly, wired, the-inevitable, technium, out-of-control, what-technology-wants, futurism, protopia, holos, becoming, exotropy, convergence, seventh-kingdom]
-sources: ["The Inevitable_ Understanding the 12 Techn - Kevin Kelly.txt", "What Technology Wants - Kevin Kelly.txt"]
+sources: ["The Inevitable_ Understanding the 12 Techn - Kevin Kelly.md", "What Technology Wants - Kevin Kelly.md"]
 ---
 
 # Kevin Kelly

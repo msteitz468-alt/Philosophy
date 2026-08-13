@@ -4,7 +4,7 @@ type: source-summary
 domains: [logic, mathematics, foundations-of-math, philosophy-of-mind, ai, epistemology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Godel's Proof - Ernest Nagel.txt"]
+sources: ["Godel's Proof - Ernest Nagel.md"]
 tags: [godel, nagel, newman, hofstadter, incompleteness, formal-systems, consistency, hilbert, principia, undecidability, calculating-machines, self-reference, godel-numbering]
 ---
 
@@ -16,7 +16,7 @@ tags: [godel, nagel, newman, hofstadter, incompleteness, formal-systems, consist
 
 - **Authors**: Ernest Nagel (1901–1985, Columbia philosopher of science), James R. Newman (1907–1966, mathematician and writer); edited with new Foreword and technical emendations by Douglas R. Hofstadter.
 - **Publication**: First edition 1958 (NYU Press); Revised edition 2001/2002 (NYU Press) with Hofstadter's substantial new Foreword and clarifications to Ch. VII.
-- **Raw file**: `Godel's Proof - Ernest Nagel.txt` (complete text of the revised edition, including foreword, main essay, appendix notes, bibliography, index).
+- **Raw file**: `Godel's Proof - Ernest Nagel.md` (complete text of the revised edition, including foreword, main essay, appendix notes, bibliography, index).
 - **Domain position**: The primary, step-by-step technical source for the details of Gödel's proof and its Hilbert/Principia context. It is the direct parent text for the vault's [[Sources/Gödel, Escher, Bach - Douglas Hofstadter (1979)]] treatment of self-reference and the background for the "mathematical objection" (Gödel et al.) that Turing addresses in 1950.
 
 ## Core Thesis
@@ -81,7 +81,7 @@ On machines: Nagel & Newman argue that calculating machines, with their "fixed s
 
 ## Sources
 
-- Raw source: `Godel's Proof - Ernest Nagel.txt`
+- Raw source: `Godel's Proof - Ernest Nagel.md`
 - Companion synthesis that builds directly upon it: [[Sources/Gödel, Escher, Bach - Douglas Hofstadter (1979)]]
 
 ## Related

@@ -5,7 +5,7 @@ era: "1st c. BC – 3rd c. AD"
 domains: [metaphysics, religion, reception-history]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [neopythagoreanism, middle-platonism, monad, indefinite-dyad, numenius, nicomachus, moderatus, apollonius-of-tyana, rome]
 ---
 

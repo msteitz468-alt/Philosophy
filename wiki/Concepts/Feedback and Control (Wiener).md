@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [wiener, feedback, control, negative-feedback, homeostasis, servomechanism, intention-tremor, parkinsonism, learning]
-sources: ["The Human Use of Human Beings - Norbert Wiener.txt"]
+sources: ["The Human Use of Human Beings - Norbert Wiener.md"]
 ---
 
 # Feedback and Control (Wiener)

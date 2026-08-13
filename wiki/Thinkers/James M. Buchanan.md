@@ -3,8 +3,8 @@ title: "James M. Buchanan"
 type: thinker
 domains: [political-philosophy, economics, sociology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["The Calculus of Consent (Buchanan, Tullock).txt", "The Rise and Decline of Nations (Mancur Olson).txt"]
+updated: "2026-08-12"
+sources: ["The Calculus of Consent (Buchanan, Tullock).md", "The Rise and Decline of Nations (Mancur Olson).md", "Anarchy, State, and Utopia - Robert Nozick (1974).md"]
 tags: [philosophy, public-choice, economics, constitutional-economics, nobel-laureate]
 ---
 
@@ -60,6 +60,10 @@ Drawing on D. H. Robertson, Buchanan argues that moral and altruistic feelings a
 
 Buchanan's work earned him the 1986 Nobel Prize and laid the foundations for constitutional political economy, public choice theory, and law and economics. His work is a cornerstone of free-market constitutionalism, showing how institutional checks (bicameralism, qualified majority voting, balanced budget requirements) protect individual liberty from majoritarian exploitation.
 
+## Versus Nozick (2026-08-12 Ingest)
+
+[[Thinkers/Robert Nozick]] is adjacent public-choice machinery (49/2/49 voting; free-riding independents; consent) but a different *kind* of story. Buchanan/Tullock *design* a constitution under a veil of uncertainty; Nozick’s state is *filtered* by an invisible hand and has no special rights. Hart/Rawls “principle of fairness” would make unanimous consent unnecessary — Nozick rejects it; consent remains necessary. Buchanan’s veil is not discussed in ASU Ch. 7; Rawls’s veil of ignorance is. Third voice on [[Contradictions/Nozick vs Rawls - Historical Entitlement vs Patterned Justice]].
+
 ## Contradictions / Open Questions
 
 - > [!warning] Critics argue that Buchanan's strict individualistic and contractual framework assumes that individuals have pre-political property rights and equal bargaining power at the constitutional stage, which ignores historical injustices and power asymmetries.
@@ -81,3 +85,4 @@ Buchanan's work earned him the 1986 Nobel Prize and laid the foundations for con
 - [[Thinkers/Thomas Hobbes]]
 - [[Thinkers/Karl Marx]]
 - [[Thinkers/John Stuart Mill]]
+- [[Thinkers/Robert Nozick]] — filter vs design; consent retained; adjacent 49/2/49 voting model

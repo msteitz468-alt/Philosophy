@@ -7,7 +7,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [ayer, metaphysics, meaninglessness, verification, logical-positivism, language, pseudo-proposition, grammar]
-sources: ["Language, Truth and Logic - A. J. Ayer.txt", "Heidegger (Michael Inwood).txt"]
+sources: ["Language, Truth and Logic - A. J. Ayer.md", "Heidegger (Michael Inwood).md"]
 ---
 
 # Metaphysics as Meaningless (Ayer)

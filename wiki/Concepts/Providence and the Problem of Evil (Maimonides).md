@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-29"
 updated: "2026-06-29"
 tags: [maimonides, providence, evil, privation, job, theodicy, intellect, omniscience, medieval]
-sources: ["The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Providence and the Problem of Evil (Maimonides)

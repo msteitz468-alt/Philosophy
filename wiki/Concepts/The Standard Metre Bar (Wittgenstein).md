@@ -2,10 +2,10 @@
 title: "The Standard Metre Bar (Wittgenstein)"
 type: concept
 created: "2026-06-29"
-updated: "2026-06-29"
+updated: "2026-08-12"
 domains: [philosophy-of-language, epistemology, metaphilosophy]
-tags: [wittgenstein, standard-metre, criteria, grammar, contingent-a-priori]
-sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+tags: [wittgenstein, standard-metre, criteria, grammar, contingent-a-priori, kripke]
+sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md", "Naming and Necessity - Saul Kripke (1980).txt"]
 ---
 
 # The Standard Metre Bar (Wittgenstein)
@@ -19,11 +19,19 @@ Wittgenstein introduces this example to challenge the idea that everything named
 
 ## The Polarized Debate: Wittgenstein vs. Kripke
 
-In *Naming and Necessity* (1972/1980), Saul Kripke famously disputed Wittgenstein's claim:
-- **Kripke's Position**: Kripke argues that the standard metre bar is indeed one metre long. The definition "one metre is the length of the standard bar $S$ at time $t_0$" does not give the synonymy of the word "metre" but merely *fixes the reference* of the term. The length of the bar could have changed if it were heated, so the statement "Bar $S$ is one metre long at $t_0$" is a **contingent truth**, yet we know it **a priori** because we used it to define the unit. Thus, Kripke uses it as a key example of the *contingent a priori*.
+Kripke's side is now primary from [[Sources/Naming and Necessity - Saul Kripke (1980)]] (Lectures I–II; he writes "meter"). Wittgenstein is named in Lecture I: the *PI* §50 claim that one can say neither that the standard metre is one metre long nor that it is not is an "extraordinary property" — "he must be wrong." The definition **fixes the reference** of a rigid designator; it is not a synonymous definition. "Even if we define what a meter is by reference to the standard meter stick, it will be a contingent truth and not a necessary one that that particular stick is one metre long. If it had been stretched, it would have been longer than one meter. And that is because we use the term 'one meter' rigidly to designate a certain length" (Lecture II, p. 75). We know the statement a priori because we used the stick to fix the reference; it remains contingent because that property of the stick is accidental (Lecture I, p. 56). Same pattern for the yard / Henry I and for 100°C. Lecture II does not rename Wittgenstein.
+
+This is the parade case of the [[Concepts/Necessary A Posteriori and Contingent A Priori (Kripke)|contingent a priori]], not a side remark. See also [[Concepts/Rigid Designation (Kripke)]].
+
 - **Wittgensteinian Response (Dale Jacquette, 2010)**: Jacquette defends Wittgenstein's original claim against Kripke. He argues that Kripke fails to appreciate the **Polarity Principle** (or Complementarity Principle) implicit in Wittgenstein's remarks. According to the polarity principle, a predication like "X is one metre long" is only meaningful if it is also logically possible to say "X is not one metre long" in the same context. Because the standard metre bar *defines* the metre, it cannot fail to be one metre; thus, saying it is one metre long lacks any informative contrast and is grammatically senseless. It functions as a paradigm or sample, which belongs to the apparatus of the language-game itself.
+
+> [!warning] Two different collisions with "Kripke." This page is *Naming and Necessity* vs *PI* §50. McDowell vs the "sceptical paradox" is *Wittgenstein on Rules and Private Language* — a different book, still outstanding.
 
 ## Related Pages
 - [[Thinkers/Ludwig Wittgenstein]]
+- [[Thinkers/Saul Kripke]]
 - [[Sources/Wittgenstein’s Philosophical Investigations - A Critical Guide - Ahmed (2010)]]
+- [[Sources/Naming and Necessity - Saul Kripke (1980)]]
 - [[Concepts/Rule-Following (Wittgenstein)]]
+- [[Concepts/Necessary A Posteriori and Contingent A Priori (Kripke)]]
+- [[Concepts/Rigid Designation (Kripke)]]

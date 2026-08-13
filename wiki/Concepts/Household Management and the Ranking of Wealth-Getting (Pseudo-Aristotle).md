@@ -4,7 +4,7 @@ type: concept
 domains: [political-philosophy, ethics, economics]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Economics (Aristotle).txt"]
+sources: ["Economics (Aristotle).md"]
 tags: [aristotle, pseudo-aristotle, oikonomia, household-management, classical]
 ---
 

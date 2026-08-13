@@ -7,7 +7,7 @@ domains: [mathematics, harmonics, metaphysics, cosmology]
 source_count: 3
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).txt", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).md", "Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).md", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [hippasus, pythagoreanism, incommensurability, irrational, dodecahedron, harmonics, acoustics, experiment, arrhetos, zhmud, burkert]
 ---
 

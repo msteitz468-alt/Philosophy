@@ -5,7 +5,7 @@ domains: [political-philosophy]
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hobbes, social-contract, sovereign, political-philosophy, authority]
-sources: ["Leviathan - Thomas Hobbes.txt"]
+sources: ["Leviathan - Thomas Hobbes.md"]
 ---
 
 # Social Contract (Hobbes)

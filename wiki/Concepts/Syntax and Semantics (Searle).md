@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [searle, syntax, semantics, chinese-room, intentionality, philosophy-of-mind, ai-critique]
-sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.txt"]
+sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.md"]
 ---
 
 # Syntax and Semantics (Searle)

@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [martin-ford, rise-of-the-robots, automation, technological-unemployment, basic-income, guaranteed-income, singularity, jobless-future, white-collar-automation, this-time-different, consumer-economy, predictable-jobs, ai, robots]
-sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.txt"]
+sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.md"]
 ---
 
 # Rise of the Robots - Martin Ford (2015)

@@ -3,8 +3,8 @@ title: "Value in Virtual Worlds (Chalmers)"
 type: concept
 domains: [ethics, value-theory, philosophy-of-technology]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md", "Anarchy, State, and Utopia - Robert Nozick (1974).md"]
 tags: [experience-machine, nozick, good-life, hedonism, value-theory, vr]
 ---
 
@@ -19,7 +19,7 @@ He surveys four value theories — hedonism/experientialism (Bentham's "push-pin
 
 ## How This Relates to Prior Thinkers
 
-- **Nozick**: main target; note the survey result Chalmers cites — 13% of philosophers would enter the experience machine, 77% would not — he is arguing against a strong intuition, not with it.
+- **[[Thinkers/Robert Nozick]]** / [[Concepts/Experience Machine (Nozick)]]: now a vault primary (ASU Ch. 3). Three reasons: we want to *do*, to *be* (plugging in is “a kind of suicide”), and to contact a deeper-than-man-made reality. Local job in the book: blocking “felt from the inside” as the sole limit on treating animals; transformation and result machines still “live our lives for us.” Chalmers’s reply (VR is a *reality* machine) is a reply, not a restatement. Survey result Chalmers cites — 13% would enter, 77% would not — is reception, not in Nozick.
 - **[[Thinkers/Plato]]**: the cave's verdict that the outside world is more valuable is exactly what Chalmers denies for virtual worlds ([[Sources/The Republic - Plato (Cambridge, 2000)]]).
 - **[[Thinkers/John Stuart Mill]]** ([[Sources/Utilitarianism - John Stuart Mill (1861)]]) and Bentham: hedonist axiology accommodated, not endorsed.
 - **[[Thinkers/Andy Clark]]**: Clark titled his book *The Experience Machine* to argue that ordinary perception already is one (predictive processing) — a deflation of the very virtual/real value asymmetry Nozick relied on; Chalmers reaches the same parity from metaphysics rather than neuroscience.
@@ -31,6 +31,7 @@ He surveys four value theories — hedonism/experientialism (Bentham's "push-pin
 
 ## Sources
 - [[Sources/Reality+ - David J. Chalmers (2022)]]
+- [[Sources/Anarchy, State, and Utopia - Robert Nozick (1974)]]
 
 ## Related
-- [[Thinkers/David Chalmers]] · [[Concepts/Ethics of Simulated Beings and Virtual Society (Chalmers)]] · [[Concepts/Hacking the Prediction Machine (Clark)]]
+- [[Thinkers/David Chalmers]] · [[Thinkers/Robert Nozick]] · [[Concepts/Experience Machine (Nozick)]] · [[Concepts/Ethics of Simulated Beings and Virtual Society (Chalmers)]] · [[Concepts/Hacking the Prediction Machine (Clark)]]

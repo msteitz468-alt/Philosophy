@@ -6,7 +6,7 @@ domains: [philosophy-of-mind, natural-science, physiology]
 source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On Dreams (Aristotle).txt"]
+sources: ["On Dreams (Aristotle).md"]
 tags: [aristotle, parva-naturalia, dreams, phantasia, classical, 4th-century-bc]
 ---
 

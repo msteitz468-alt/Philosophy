@@ -4,7 +4,7 @@ type: concept
 domains: [ethics]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The Works of Epictetus. Consisting of His Discourses, in Four Books, The Enchiridion, and Fragments [100 AD] (Epictetus, Elizabeth Carter etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Works of Epictetus. Consisting of His Discourses, in Four Books, The Enchiridion, and Fragments [100 AD] (Epictetus, Elizabeth Carter etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [epictetus, stoicism, topoi, askesis, desire, duty, assent, hadot, spiritual-exercises]
 ---
 
@@ -34,7 +34,7 @@ Epictetus complains that contemporary "philosophers" invert this order, plunging
 ## How Different Thinkers Use This
 
 - **Epictetus** originates the scheme as a practical syllabus.
-- **Pierre Hadot** ([[Concepts/The Three Disciplines - Perception, Action, and Will (Hadot)]]) rereads the three *topoi* as the disciplines of **assent/perception**, **desire/consent to fate**, and **action/service to the human community**, and shows they structure [[Thinkers/Marcus Aurelius]]'s *Meditations*. This concept page is the primary-text ground for Hadot's interpretation.
+- **Pierre Hadot** ([[Concepts/The Three Disciplines - Perception, Action, and Will (Hadot)]], now from [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]] ch. 6) rereads the three *topoi* as the disciplines of **desire** (lived physics), **action** (lived ethics), and **assent** (lived logic), and shows they structure [[Thinkers/Marcus Aurelius]]'s *Meditations*. This concept page is the primary-text ground for Hadot's interpretation. Holiday's Perception → Action → Will tracks Marcus's *present* triad, not Epictetus's school order.
 - **[[Thinkers/Ryan Holiday]]** popularizes Hadot's mapping as **Perception, Action, Will** in [[Sources/The Obstacle Is the Way - Ryan Holiday (2014)]].
 - **[[Thinkers/Marcus Aurelius]]** practises all three as daily written exercise (see [[Concepts/The Inner Citadel (Hadot)]]).
 

@@ -6,7 +6,7 @@ domains: [philosophy-of-mind, epistemology, natural-science]
 source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On Memory (Aristotle).txt"]
+sources: ["On Memory (Aristotle).md"]
 tags: [aristotle, parva-naturalia, memory, recollection, associationism, classical, 4th-century-bc]
 ---
 

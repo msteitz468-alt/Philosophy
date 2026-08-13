@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [michio-kaku, physics-of-the-future, 2100, kardashev-scale, planetary-civilization, future-ai, mind-over-matter, nanotechnology, space-travel, type-i-civilization, string-theory, popular-science]
-sources: ["Physics of the Future - Michio Kaku.txt"]
+sources: ["Physics of the Future - Michio Kaku.md"]
 ---
 
 # Physics of the Future - Michio Kaku (2011)

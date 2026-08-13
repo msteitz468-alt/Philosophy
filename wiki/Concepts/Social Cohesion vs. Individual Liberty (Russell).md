@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [russell, political-philosophy, liberty, social-cohesion, liberalism, authority, history-of-philosophy, ethics, modern]
-sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 ---
 
 # Social Cohesion vs. Individual Liberty (Russell)

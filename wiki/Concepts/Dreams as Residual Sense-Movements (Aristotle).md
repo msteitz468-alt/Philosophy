@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, natural-science]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On Dreams (Aristotle).txt"]
+sources: ["On Dreams (Aristotle).md"]
 tags: [aristotle, dreams, phantasia, classical]
 ---
 

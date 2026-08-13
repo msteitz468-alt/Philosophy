@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [wiener, entropy, anti-entropy, information, homeostasis, pattern, identity, organism-as-message, maxwell-demon, 1950]
-sources: ["The Human Use of Human Beings - Norbert Wiener.txt"]
+sources: ["The Human Use of Human Beings - Norbert Wiener.md"]
 ---
 
 # Entropy and Information (Wiener)

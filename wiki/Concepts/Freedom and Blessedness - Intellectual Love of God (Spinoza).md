@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [spinoza, freedom, blessedness, beatitudo, intellectual-love-of-god, amor-dei-intellectualis, scientia-intuitiva, ethics]
-sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.txt"]
+sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.md"]
 ---
 
 # Freedom and Blessedness - Intellectual Love of God (Spinoza)

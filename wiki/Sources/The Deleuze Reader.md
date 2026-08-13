@@ -5,7 +5,7 @@ status: complete
 editor: "Constantin V. Boundas"
 created: "2026-06-29"
 updated: "2026-06-29"
-source_file: "The Deleuze Reader (Gilles Deleuze, Constantine V. Boundas).txt"
+source_file: "The Deleuze Reader (Gilles Deleuze, Constantine V. Boundas).md"
 tags: [philosophy, continental, poststructuralism, Deleuze]
 ---
 

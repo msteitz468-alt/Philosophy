@@ -5,7 +5,7 @@ domains: [metaphysics, ethics, aesthetics]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["The World as Will and Idea Vol 1 - Arthur Schopenhauer.txt"]
+sources: ["The World as Will and Idea Vol 1 - Arthur Schopenhauer.md"]
 tags: [schopenhauer, will, representation, idealism, pessimism, voluntarism, 19th-century]
 ---
 
@@ -30,7 +30,7 @@ The work is divided into four books:
 ### Book I: The World as Representation
 Schopenhauer begins with: *"The world is my representation."*
 * Like Kant, Schopenhauer holds that we cannot know objects directly, but only through our cognitive templates: **space, time, and causality**.
-* These templates form the **Principle of Sufficient Reason** (which dictates that everything must have a reason/cause for its existence or truth).
+* These templates are specified in the 1847 [[Sources/On the Fourfold Root of the Principle of Sufficient Reason - Schopenhauer (Cambridge 2012)|*Fourfold Root*]] as **four** laws (becoming, knowing, being, acting), not one lump. The 1819 first preface already demanded that book as propaedeutic. This *WWR* I ingest had flattened PSR; do not keep the flatten.
 * The phenomenal world is a structured illusion, similar to the Hindu concept of the **Veil of Maya**.
 
 ### Book II: The World as Will
@@ -60,11 +60,13 @@ The Will's endless, aimless striving in living things manifests as desire, which
 ---
 
 ## Sources
-- Raw text: `raw/The World as Will and Idea Vol 1 - Arthur Schopenhauer.txt` (282,150 bytes)
+- Raw text: `raw/The World as Will and Idea Vol 1 - Arthur Schopenhauer.md` (282,150 bytes)
 
 ## Related
 - [[Thinkers/Arthur Schopenhauer]]
 - [[Thinkers/Kant]]
 - [[Thinkers/Gottfried Wilhelm Leibniz]]
 - [[Concepts/The Will (Schopenhauer)]]
+- [[Sources/The World as Will and Representation Volume 2 - Schopenhauer (Payne, Dover 2012)]] — 1844 supplements (Payne); not this English
+- [[Sources/Parerga and Paralipomena Volume 1 - Schopenhauer (Cambridge 2014)]] — 1851 popular companion; assumes this system
 - [[Contradictions/Schopenhauer's Pessimism vs. Leibnizian Optimism]]

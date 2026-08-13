@@ -49,6 +49,15 @@ Hume himself raises "one contradictory phaenomenon." Present someone, long acqua
 - [[Concepts/Hume's Fork (Relations of Ideas vs Matters of Fact)]], [[Concepts/Necessary Connexion and the Two Definitions of Cause (Hume)]], [[Concepts/Custom and Belief (Hume)]]
 - [[Concepts/Cogito (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]] (rationalist contrast); [[Concepts/Epicurean Atomism (Swerve)]] (empiricist kin)
 - [[Thinkers/Descartes]], [[Thinkers/Epicurus]], [[Thinkers/Lucretius]]
+- [[Thinkers/Wilfrid Sellars]], [[Concepts/Psychological Nominalism (Sellars)]], [[Concepts/Myth of the Given (Sellars)]]
+
+## The Sellarsian Challenge (1956)
+
+> [!warning] [[Concepts/Psychological Nominalism (Sellars)]] denies the unstated premise the Copy Principle needs. The meaning-test "from what impression is that idea derived?" presupposes that one can be aware of a *determinate repeatable* — this shade, this sort — simply by having the impression. Sellars argues that all such awareness is already conceptual and learned: "all awareness of *sorts, resemblances, facts*, etc., in short, all awareness of abstract entities — indeed, all awareness even of particulars — is a **linguistic affair**" (§29).
+
+Sellars's historical claim sharpens the charge: [[Thinkers/Locke]], [[Thinkers/George Berkeley]] and Hume disagree loudly about abstract ideas while *sharing* an unargued assumption — "that the human mind has an innate ability to be aware of certain determinate sorts… simply by virtue of having sensations and images." Hume's distinctive move is only to deny that there are occurrent thoughts of *determinables* while granting occurrent thoughts of determinate repeatables; the primordial awareness of determinates is never questioned. Sellars: "it takes but a small twist of Hume's position to get a radically different view."
+
+If the challenge succeeds, the Copy Principle cannot function as Hume's microscope, because *identifying* an impression as of a given sort is already the sort of conceptual achievement the principle was meant to certify. Note what Sellars does not deny: that sensations occur, and that they may be causally indispensable to acquiring the relevant word-world connections. What he denies them is epistemic *aboutness*.
 
 *Concept page created during 2026-06-04 Hume *Enquiry* ingest. The empiricist first principle and meaning-test underlying all of Hume's destructive and constructive arguments.*
 

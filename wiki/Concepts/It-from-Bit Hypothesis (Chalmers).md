@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, physics, information-theory]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [it-from-bit, wheeler, digital-physics, information, leibniz, game-of-life]
 ---
 

@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 1
+source_count: 2
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [philosophy, nietzsche, bad-conscience, internalization, guilt, sovereign-individual, genealogy-of-morals, revaluation]
-sources: ["The Genealogy of Morals - Nietzsche (1887)"]
+sources: ["The Genealogy of Morals - Nietzsche (1887)", "On the Genealogy of Morals - Nietzsche (Johnston, from 22 Classic Works).md"]
 ---
 
 # Bad Conscience (Nietzsche)
@@ -34,6 +34,22 @@ Result: "the suffering of man from the disease called man" — a violent breakin
 
 Bad conscience is an illness "as pregnancy is an illness."
 
+## Johnston layer (second translation)
+
+- **II.IV:** "the major moral principle 'guilt' [*Schuld*] derives its origin from the very materialistic idea 'debt' [*Schulden*]." Primitive punishment is repayment, not "he could have acted otherwise" (a late idea).
+- **II.VI:** Kant's categorical imperative "stinks of cruelty."
+- **II.XI:** Justice is *not* born of resentment (contra Dühring). "We can already guess who generally has the invention of 'bad conscience' on his conscience—the man of resentment!"
+- **II.12 (method):** "all purposes, all uses, are only signs that a will to power has become master." Origin ≠ purpose. Only the ahistorical can be defined. This is the anti-teleology [[Concepts/Genealogy (Nietzsche)]] and later [[Concepts/Genealogy (Foucault)]] share.
+- **II.15:** Spinoza: leftover *morsus conscientiae* is sorrow at the unexpected. "Punishment tames human beings, but it does not make them 'better.'"
+- **II.16:** "All instincts which are not discharged to the outside are turned back inside. This is what I call the internalization of man."
+- **II.17–18:** The oldest "State" is conquest, not contract. The organizers lack guilt. Repressed instinct for freedom *is* beginning bad conscience, and is equated with **will to power**.
+- **II.19:** "Bad conscience is a sickness… but a sickness as pregnancy is a sickness."
+- **II.20–22:** Atheism and "a kind of second innocence belong together" — but moralizing debt into conscience then makes the debt unpayable. Christianity's "stroke of genius": "the creditor sacrifices himself for the debtor, out of love."
+- **II.23:** Greeks used gods to keep bad conscience *away*.
+- **II.24–25:** Possible reversal: hook bad conscience onto *anti-life* ideals. Needs "great health" and a coming anti-Christ / Anti-nihilist. Only **Zarathustra the Godless** may go further. Do not write that close as if this book names the successor.
+
+It does **not** say bad conscience is simply Christian, or that punishment produces remorse.
+
 ## Vault Relevance / AI / Personal
 
 - **Internalization as the birth of the "soul" and the modern European inheritance**: The vault (and modern "civilized" life, including insurance professionalism, "ethical" AI, "responsible" agentic work) is built on the caging and turning-inward of older free instincts. The "bad conscience" voice in maintenance ("I ought," guilt at undone cross-refs, at "incomplete" pages, at using tools "wrongly") is this illness speaking. Useful to notice; not always to obey.
@@ -52,7 +68,7 @@ Bad conscience is an illness "as pregnancy is an illness."
 
 ## Related
 
-- [[The Genealogy of Morals - Nietzsche (1887)]], [[Thinkers/Nietzsche]]
+- [[Sources/On the Genealogy of Morals - Nietzsche (Johnston)]], [[Sources/The Genealogy of Morals - Nietzsche (1887)]], [[Thinkers/Nietzsche]], [[Concepts/Genealogy (Nietzsche)]]
 - [[Concepts/Master Morality and Slave Morality (Nietzsche)]], [[Concepts/Ressentiment (Nietzsche)]], [[Concepts/Ascetic Ideal (Nietzsche)]], [[Concepts/Sovereign Individual (Nietzsche)]], [[Concepts/Will to Power (Nietzsche)]]
 - [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]], [[Concepts/Beyond Good and Evil (Nietzsche)]]
 - [[Thinkers/Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]]

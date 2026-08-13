@@ -3,8 +3,8 @@ title: "Specific Intellectual (Foucault)"
 type: concept
 domains: [philosophy, political theory, ethics]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Michel Foucault (David Macey).txt"]
+updated: "2026-08-12"
+sources: ["Michel Foucault (David Macey).md", "Discipline and Punish - Michel Foucault (Sheridan trans., Vintage 1995).md"]
 tags: [philosophy, foucault, politics, intellectual, power]
 ---
 
@@ -20,6 +20,8 @@ The **universal intellectual** (exemplified by Sartre, Zola, and the French trad
 The **specific intellectual** speaks from what they actually know — their concrete, expert, institutional position. Dr. Edith Rose, the prison psychiatrist at Toul who publicly exposed systematic abuse, was Foucault's exemplar: she spoke as a professional with insider knowledge, not as a universal moral spokesperson. The physicist (rather than the literary intellectual) becomes the model citizen — one whose expertise is specific to a technical domain and whose political intervention is grounded in that domain.
 
 The GIP itself embodied this principle: rather than speaking *for* prisoners, its project was to enable prisoners to speak for themselves, providing the infrastructure (questionnaires, publications, connections) without substituting its voice.
+
+*Discipline and Punish* I.1 takes recent prison revolts as the book's occasion: they were "about the body and material things," against both misery and "model" comfort, against warders *and* psychiatrists — revolts against "the very materiality [of the prison] as an instrument and vector of power." Part Four notes that the 1972–74 French prison uprisings still receive the same seven reform maxims fixed by 1820–45. The live issue the book names is not prison vs not-prison but "the steep rise in the use of these mechanisms of normalization."
 
 ## Key Claims
 
@@ -37,10 +39,12 @@ The GIP itself embodied this principle: rather than speaking *for* prisoners, it
 
 ## Sources
 - [[Sources/Michel Foucault - David Macey]]
+- [[Sources/Discipline and Punish - Michel Foucault (1975)]]
 
 ## Related
 - [[Thinkers/Michel Foucault]]
 - [[Concepts/Power-Knowledge (Foucault)]]
 - [[Concepts/Genealogy (Foucault)]]
+- [[Concepts/The Delinquent and the Carceral Continuum (Foucault)]]
 - [[Thinkers/Jean-Paul Sartre]]
 - [[Thinkers/Gilles Deleuze]]

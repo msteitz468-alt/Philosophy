@@ -6,8 +6,8 @@ schools: [Logical Atomism, Ordinary Language Philosophy, Analytic Philosophy]
 domains: [logic, epistemology, philosophy-of-language, philosophy-of-mind]
 source_count: 3
 created: "2026-06-11"
-updated: "2026-06-11"
-sources: ["Tractatus Logico-Philosophicus - Ludwig Wittgenstein.txt", "Philosophical Investigations (Ludwig Wittgenstein).txt", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+updated: "2026-08-12"
+sources: ["Tractatus Logico-Philosophicus - Ludwig Wittgenstein.md", "Philosophical Investigations (Ludwig Wittgenstein).md", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md", "The Meaning of Meaning - Ogden and Richards (1923).md"]
 tags: [wittgenstein, ludwig-wittgenstein, analytic-philosophy, logical-atomism, tractatus, philosophical-investigations, ordinary-language, philosophy-of-language, philosophy-of-mind, logic]
 ---
 
@@ -66,12 +66,19 @@ Wittgenstein is unique in having inspired two major, opposing philosophical move
 
 ---
 
+## Kripke (two books, do not merge)
+
+[[Thinkers/Saul Kripke]] now has a vault primary: *Naming and Necessity*. Its collision with Wittgenstein is the **standard metre** (*PI* §50) — Kripke's parade case of the contingent a priori. Lecture I says Wittgenstein "must be wrong" that one can say neither that the bar is one metre long nor that it is not. See [[Concepts/The Standard Metre Bar (Wittgenstein)]].
+
+That is not the Kripke of *Wittgenstein on Rules and Private Language*. McDowell's quarrel with a "sceptical paradox" ([[Concepts/Rule-Following (Wittgenstein)]], [[Thinkers/John McDowell]]) is a different book, still outstanding. Do not write N&N as if it contained the quus argument.
+
 ## Relevance to Vault
 
 Wittgenstein anchors the linguistic and logical limits of representation:
 - **Logical Positivism Link**: Sits directly upstream of the logical positivism of [[Thinkers/A.J. Ayer|A.J. Ayer]]. Ayer's verification principle is a direct adaptation of the Tractarian limit of sense.
 - **AI and Symbolic Representation**: The Picture Theory of Language is the purest philosophical formulation of symbolic representation (mapping symbols to objects via isomorphism), which is the foundation of classical GOFAI (Good Old-Fashioned AI) and formal databases.
 - **Tension with Emergent Meaning**: Can be contrasted with [[Thinkers/Douglas Hofstadter|Hofstadter]]'s view of self-referential systems: where Wittgenstein seeks to enforce strict limits to prevent nonsense, Hofstadter shows how self-referential loops generate meaning and consciousness.
+- **Ogden–Richards (1923)**: *The Meaning of Meaning* appeared in the same International Library (Ogden as general editor and English translator of the *Tractatus*). They cite *Tractatus* 6.2 / 6.24 with approval (mathematics as pseudo-propositions) and **reject** picture-correspondence in Appendix A: identifying "standing for" with representation is arbitrary on a causal theory. Their [[Concepts/Symbolic and Emotive Functions of Language (Ogden-Richards)|symbolic/emotive]] cut is a different partition from saying/showing: ethics and poetry remain *sayable* as emotive. Later [[Concepts/Language-Games (Wittgenstein)|language-games]] occupy neighboring ground to [[Thinkers/Bronislaw Malinowski]]'s phatic communion without citing it.
 
 ---
 
@@ -83,10 +90,12 @@ Wittgenstein anchors the linguistic and logical limits of representation:
 ## Related
 - [[Thinkers/Bertrand Russell]]
 - [[Thinkers/A.J. Ayer]]
+- [[Thinkers/C. K. Ogden]], [[Thinkers/I. A. Richards]], [[Sources/The Meaning of Meaning - Ogden and Richards (1923)]]
 - [[Thinkers/Douglas Hofstadter]]
 - [[Thinkers/John Searle]]
 - [[Thinkers/Richard Rorty]]
 - [[Thinkers/John McDowell]]
+- [[Thinkers/Saul Kripke]]
 - [[Contradictions/Early vs Later Wittgenstein]]
 - [[Concepts/Picture Theory of Language (Wittgenstein)]]
 - [[Concepts/Language-Games (Wittgenstein)]]

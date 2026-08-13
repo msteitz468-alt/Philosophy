@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [kuhn, paradigm, disciplinary-matrix, exemplar, scientific-community, normal-science, philosophy-of-science]
-sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.txt"]
+sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.md"]
 ---
 
 # Paradigm (Kuhn)

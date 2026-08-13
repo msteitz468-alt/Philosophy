@@ -3,8 +3,8 @@ title: "Readiness-to-Hand and Presence-at-Hand (Heidegger)"
 type: concept
 domains: [ontology, phenomenology, epistemology]
 created: "2026-06-29"
-updated: "2026-07-01"
-sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Heidegger (Michael Inwood).md", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [philosophy, heidegger, ontology, equipment, phenomenology]
 ---
 
@@ -37,7 +37,7 @@ The transition from ready-to-hand to present-at-hand occurs through **breakdown*
 
 In each case, the referential totality — normally invisible — **flashes into view**. The broken hammer reveals the entire workshop, the project, and Dasein's purposes in a single disclosure. Breakdown is thus philosophically productive: it makes the worldly structure of significance visible.
 
-This insight has proven remarkably fertile beyond philosophy: Hubert Dreyfus applied it to AI (expert systems model only the present-at-hand, missing the ready-to-hand competence of skilled coping); the distinction shapes design theory (good design is invisible — it becomes ready-to-hand).
+This insight has proven remarkably fertile beyond philosophy. [[Thinkers/Hubert Dreyfus]]'s primary application is now in the vault: *What Computers Still Can't Do* argues that expert systems and GOFAI model only the present-at-hand (facts, features, frames) and miss the ready-to-hand competence of [[Concepts/Skilled Coping and the Five Stages of Expertise (Dreyfus)|skilled coping]]. The expert "just sees"; extracting beginner-rules from an interview is precisely the breakdown that makes equipment conspicuous. See [[Sources/What Computers Still Can't Do - Hubert Dreyfus (1992)]] and [[Contradictions/Dreyfus vs Computationalism - Skilled Coping vs Formal Rules]]. The same structure is Otto's notebook in [[Sources/The Extended Mind - Andy Clark and David Chalmers (1998)]]: a resource that withdraws into use and is counted, unlike in Heidegger or Dreyfus, as *part of the mind*. Chalmers later makes the Heidegger link explicit (*Reality+* ch. 16). The distinction also shapes design theory (good design is invisible — it becomes ready-to-hand).
 
 ## From Being and Time (Primary Text)
 
@@ -63,6 +63,8 @@ The Descartes critique (§§19–21) in the primary text: Descartes defines worl
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
 - [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
+- [[Sources/What Computers Still Can't Do - Hubert Dreyfus (1992)]]
+- [[Sources/The Extended Mind - Andy Clark and David Chalmers (1998)]] (Otto's notebook as ready-to-hand; not cited by the paper)
 
 ## Related
 

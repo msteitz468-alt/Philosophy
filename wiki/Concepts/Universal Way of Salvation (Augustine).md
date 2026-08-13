@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-03"
 updated: "2026-06-03"
 tags: [augustine, porphyry, plotinus, neoplatonism, christ, mediator, pride-humility, via-universalis, platonism, patristics, 5th-century, city-of-god]
-sources: ["City of God (Penguin Classics) - St. Augustine of Hippo.txt"]
+sources: ["City of God (Penguin Classics) - St. Augustine of Hippo.md"]
 ---
 
 # Universal Way of Salvation (Augustine)

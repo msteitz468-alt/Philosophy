@@ -3,8 +3,8 @@ title: "Utilitarian Consequentialism vs. Kantian Deontology"
 type: contradiction
 domains: [ethics]
 created: "2026-06-11"
-updated: "2026-06-11"
-sources: ["Utilitarianism - John Stuart Mill.txt", "Metaphysics of Morals - Immanuel Kant.txt"]
+updated: "2026-08-12"
+sources: ["Utilitarianism - John Stuart Mill.md", "Metaphysics of Morals - Immanuel Kant.md", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md", "Anarchy, State, and Utopia - Robert Nozick (1974).md"]
 tags: [mill, kant, ethics, consequentialism, utilitarianism, deontology, duty, categorical-imperative]
 ---
 
@@ -32,13 +32,15 @@ graph TD
 ### Position B: Kantian Deontology
 *   **Core Claim**: The moral worth of an action is determined by the agent's motive (which must be a Good Will acting out of duty alone) and the action's compliance with universal rational principles, regardless of any resulting consequences.
 *   **Mechanism**: Kantian ethics is deontological and non-consequentialist. An action is morally permissible only if its underlying principle (maxim) can be consistently willed as a universal law of nature, and if it respects rational beings as ends in themselves rather than as mere means. Certain classes of actions—such as lying, breaking promises, or killing innocents—are unconditionally and absolutely prohibited, even if committing them would prevent a larger catastrophe.
-*   **Key Anchors**: [[Thinkers/Kant]], [[Concepts/Categorical Imperative - Universal Law Formulation (Kant)]], [[Concepts/Formula of Humanity as End in Itself (Kant)]], [[Concepts/Good Will (Kant)]].
+*   **Key Anchors**: [[Thinkers/Kant]], [[Concepts/Categorical Imperative - Universal Law Formulation (Kant)]], [[Concepts/Formula of Humanity as End in Itself (Kant)]], [[Concepts/Good Will (Kant)]], [[Concepts/Dignity of Rational Nature (Kant)]], [[Concepts/Perfect and Imperfect Duties (Kant)]].
+*   **Gregor primary (4:442)**: own happiness as moral ground is "most objectionable" — it collapses virtue and vice into calculation. The CI concerns "form and the principle," not results (4:416). Dignity admits of no equivalent (4:434–435); a person is not a unit of utility.
 
 ## Implications for the Vault
 
 -   **The Permissibility of Sacrifice**: The debate exposes a major divergence in practical ethics: Is it permissible to sacrifice or harm one person to save many? (Utilitarianism answers yes; Kantianism answers no, as it violates the formula of humanity).
 -   **Moral Absolutism vs. Relativism**: Kant defends an absolute, exceptionless moral law, whereas Mill's consequentialism is highly context-sensitive, evaluating each action based on the specific variables of the situation.
 -   **Roboethics and Machine Alignment**: This tension is a central problem in AI ethics. Should an autonomous system (like a self-driving car facing a trolley problem) be programmed with a utilitarian optimization function (minimizing total harm) or a deontological ruleset (never violating specific rights, e.g., the right of a pedestrian)?
+-   **Utilitarianism of rights (Nozick, 2026-08-12)**: [[Thinkers/Robert Nozick]] names a third form — treat rights as a *goal* to be minimized-in-violation, even by violating someone (punish the innocent to stop a mob). That is still utilitarian in form. [[Concepts/Side Constraints (Nozick)|Side constraints]] (“don’t violate *C*”) are the political reading of the Formula of Humanity. He then gives those constraints libertarian *content* (nonaggression, anti-redistribution) Kant did not. See [[Concepts/Formula of Humanity as End in Itself (Kant)]].
 
 ## Related Pages
 - [[Thinkers/John Stuart Mill]]
@@ -48,3 +50,10 @@ graph TD
 - [[Concepts/Formula of Humanity as End in Itself (Kant)]]
 - [[Concepts/Good Will (Kant)]]
 - [[Sources/Utilitarianism - John Stuart Mill (1861)]]
+- [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]]
+- [[Concepts/Dignity of Rational Nature (Kant)]]
+- [[Concepts/Perfect and Imperfect Duties (Kant)]]
+- [[Concepts/Autonomy and Heteronomy of the Will (Kant)]]
+- [[Thinkers/Robert Nozick]]
+- [[Concepts/Side Constraints (Nozick)]]
+- [[Sources/Anarchy, State, and Utopia - Robert Nozick (1974)]]

@@ -5,7 +5,7 @@ domains: [metaphysics, philosophy-of-mind, philosophy-of-history]
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, geist, spirit, mind, idealism, metaphysics, absolute]
-sources: ["The Logic of Hegel - William Wallace.txt", "Phenomenology of Mind - J B Baillie.txt", "Hegel Philosophy of Mind - William Wallace.txt"]
+sources: ["The Logic of Hegel - William Wallace.md", "Phenomenology of Mind - J B Baillie.md", "Hegel Philosophy of Mind - William Wallace.md"]
 ---
 
 # Geist (Absolute Spirit)

@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [locke, association-of-ideas, custom, wrong-connexions, unreason, education, epistemology, early-modern]
-sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.txt"]
+sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.md"]
 ---
 
 # Association of Ideas (Locke)
@@ -33,6 +33,10 @@ Education: those with charge of children should "diligently to watch, and carefu
 - [[Concepts/Impressions and Ideas - Copy Principle (Hume)]], [[Concepts/Custom and Belief (Hume)]]
 - [[Concepts/Reasoning Scaffolds]], [[Concepts/Context Engineering]]
 - [[GROK]] (lint for wrong connexions; deliberate "education" of the system via schema/index)
+
+## Schopenhauer, *WWR* II Ch. XIV (do not rewrite Locke)
+
+Association has three bonds (ground/consequent, similarity, simultaneity). The will ultimately drives it (law of motivation). Consciousness is a surface; most thinking is unconscious rumination. This is not Locke’s “wrong connexion” pedagogy. Flag only. See [[Sources/The World as Will and Representation Volume 2 - Schopenhauer (Payne, Dover 2012)]].
 
 *Concept created/expanded during final 2026-06-04 chunks. Custom/chance as source of unreason and error; call for vigilance in education and maintenance.*
 

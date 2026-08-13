@@ -7,7 +7,7 @@ domains: [epistemology, metaphysics]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Three Dialogues between Hylas and Philonous - George Berkeley.txt"]
+sources: ["Three Dialogues between Hylas and Philonous - George Berkeley.md"]
 tags: [berkeley, george-berkeley, empiricism, subjective-idealism, immaterialism, early-modern]
 ---
 

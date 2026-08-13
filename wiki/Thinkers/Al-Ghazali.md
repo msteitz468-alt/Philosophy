@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-29"
 updated: "2026-06-29"
 tags: [ghazali, al-ghazali, islamic-philosophy, kalam, ash'arism, sufism, occasionalism, avicenna, medieval, theology]
-sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Al-Ghazali (Abu Hamid al-Ghazali)
@@ -42,10 +42,12 @@ Of the twenty doctrines refuted, three are condemned not as mere innovation but 
 
 The *Tahafut* put Islamic philosophy permanently on the defensive, yet — because to refute the *falasifa* al-Ghazali first had to expound them clearly — it also spread their ideas and bound *kalam* thereafter to engagement with philosophy. Its most famous answer is [[Thinkers/Ibn Rushd]]'s *Tahafut al-Tahafut* ([[Sources/Incoherence of the Incoherence - Ibn Rushd]]), which accuses al-Ghazali of sophistry and equivocation (especially on "eternal will") and charges that denying causal necessity destroys intellect and science. Al-Ghazali's occasionalist datum — that we observe only concomitance, never necessity — anticipates, by a very different route, [[Thinkers/Hume]]'s analysis of [[Concepts/Necessary Connexion and the Two Definitions of Cause (Hume)|constant conjunction]].
 
+[[Thinkers/William James]] (*Varieties*, Lectures XVI–XVII and XX) quotes "Al-Ghazzali" for the difference between knowing "in what drunkenness consists" and "*being* drunk effectively": incommunicableness is "the keynote of all mysticism," and a science of religions cannot replace living religion. This is the Sufi Ghazali, not the *Tahafut*'s occasionalist. See [[Concepts/Mystical States - Four Marks (James)]].
+
 ## Related
 
 - [[Sources/The Incoherence of the Philosophers - Al-Ghazali]]
-- [[Thinkers/Ibn Rushd]], [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]]
+- [[Thinkers/Ibn Rushd]], [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]], [[Thinkers/William James]]
 - [[Concepts/Occasionalism vs Natural Causation (Ghazali and Ibn Rushd)]], [[Concepts/Criterion of Demonstrability (Ghazali)]], [[Concepts/Eternal Will and Temporal Creation (Ghazali)]], [[Concepts/God's Knowledge of Particulars (Ghazali)]], [[Concepts/Bodily Resurrection and the Immaterial Soul (Ghazali)]]
 - [[Contradictions/Occasionalism vs Natural Causation]]
 

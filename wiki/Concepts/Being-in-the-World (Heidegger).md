@@ -3,8 +3,8 @@ title: "Being-in-the-World (Heidegger)"
 type: concept
 domains: [ontology, phenomenology, epistemology]
 created: "2026-06-29"
-updated: "2026-07-01"
-sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Heidegger (Michael Inwood).md", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [philosophy, heidegger, ontology, phenomenology, world]
 ---
 
@@ -20,6 +20,10 @@ tags: [philosophy, heidegger, ontology, phenomenology, world]
 The "world" in Heidegger's sense is not the totality of physical objects, nor the universe as described by physics. It is a **web of significance** (*Bedeutsamkeit*): a referential totality in which entities point to each other and ultimately to Dasein's purposes. The hammer refers to the nails, which refer to the leather, which refers to the shoes, which refer to the customer who will wear them. This "in order to" chain terminates in a "for-the-sake-of" that is always Dasein's own being.
 
 The most immediate level of world is the *Umwelt* (environing world) — the workshop, the kitchen, the study. Beyond it lies the wider *Welt*, anchored in Dasein's needs, projects, and social context. Neither is the "nature" of natural science; the nature Dasein first encounters is cows in meadows and wood in forests, not particles in fields.
+
+### Merleau-Ponty: *être au monde*
+
+[[Thinkers/Maurice Merleau-Ponty]] rewrites the hyphenation as *être au monde* (being in and toward the world). For him Heidegger's *In-der-Welt-Sein* "only appears against the background of the phenomenological reduction." The body *inhabits* space and time; it is not *in* them. See [[Sources/Phenomenology of Perception - Maurice Merleau-Ponty (1945)]], [[Concepts/One's Own Body and the Body Schema (Merleau-Ponty)]].
 
 ### Against Descartes
 
@@ -55,6 +59,9 @@ Division Two grounds all of this in temporality (§69): circumspect taking-care 
 - **Husserl**: Improved on Descartes with phenomenological description of perception, but still started from consciousness directed at objects (*Lebenswelt* came late). Heidegger: the starting point must be Dasein's practical involvement, not consciousness of objects.
 - **[[Thinkers/Kant]]**: Supposed the "scandal of philosophy" is the failure to prove the external world. Heidegger: the scandal is that the proof is thought necessary.
 - **[[Thinkers/Aristotle]]**: His categories apply to entities encountered within the world but do not capture Dasein's way of being *in* it.
+- **[[Thinkers/Hubert Dreyfus]]**: being-in-the-world is what makes orderly behavior possible *without rules* and what GOFAI cannot store. When we are at home, things "are the world itself," not a stored model (ch. 8). Situation, not a phase-space point, assigns significance; a program is never "always-already-in-a-situation." See [[Concepts/Embodied Intelligence and the Role of the Body (Dreyfus)]] and [[Concepts/Commonsense Knowledge Problem (Dreyfus)]].
+- **[[Thinkers/Andy Clark]]**: later mechanizes the same claim — the world is its own best model; the mind recruits it. Dreyfus already quotes Chapman's version of the slogan.
+- **[[Thinkers/Francisco J. Varela]] et al.**: take being-in-the-world / Gadamer as source for enactment of meaning; ch. 11 prefers Heidegger's "planetary thinking" to Rorty's Western conversation. They add operational closure and enacted color, which *Being and Time* does not supply. Rosch 2016: the engaged pre-reflective agent is still *samsara*. See [[Concepts/Enaction (Varela)]], [[Concepts/Groundlessness and the Middle Way (Varela)]].
 
 ## Contradictions / Open Questions
 
@@ -65,6 +72,7 @@ Division Two grounds all of this in temporality (§69): circumspect taking-care 
 
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
 - [[Sources/Being and Time - Martin Heidegger (Stambaugh rev. Schmidt)]]
+- [[Sources/What Computers Still Can't Do - Hubert Dreyfus (1992)]]
 
 ## Related
 

@@ -4,7 +4,7 @@ type: concept
 domains: [history-of-ideas, metaphysics, cosmology, theology, philosophy-of-science-roots]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Great Chain of Being - Lovejoy, Arthur; Stanlis, Peter J.;.txt"]
+sources: ["The Great Chain of Being - Lovejoy, Arthur; Stanlis, Peter J.;.md"]
 tags: [lovejoy, great-chain-of-being, scala-naturae, plenitude, continuity, gradation, platonism, neoplatonism, enlightenment, romanticism, rational-cosmology, hierarchy, teleology]
 ---
 
@@ -25,7 +25,7 @@ Lovejoy's moral (Ch. XI): the history of the Chain *in so far as it presupposed 
 - **Plato (Timaeus / Republic)**: Plenitude from the non-envious Good/Demiurge that desires all things to be as like itself as possible; all ideal possibilities must have sensible counterparts. Gradation and continuity more implicit/vague.
 - **Aristotle**: Supplies explicit continuity (no leaps; zoophytes bridge plant/animal) and graded *scala* (powers of soul; offspring development as rank criterion). Rejects strict plenitude ("not necessary that everything possible should exist").
 - **Neoplatonists (Plotinus et al.)**: First full systematic fusion via emanation (One → Intellect/Forms → Soul → matter); necessary overflow without loss; hierarchy of hypostases as the Chain in metaphysical form. "Non permisit manere Deum in seipso sine germine."
-- **Medieval (Augustine, Pseudo-Dionysius, Aquinas)**: Christian transposition; diversity justified ("if all things were equal, all things would not be"); God's "love"/goodness as creative fecundity; Chain underpins natural law, beatific vision as apex, scala of creatures.
+- **Medieval (Augustine, [[Thinkers/Pseudo-Dionysius]], Aquinas)**: Christian transposition; diversity justified ("if all things were equal, all things would not be"); God's "love"/goodness as creative fecundity. Dionysius primary (DN IV.2): angels, souls, beasts, plants, and "whatsoever has no life or soul" exist *because the Good exists* — the ladder as overflow of Good-Being, not as a later commentator's schema. Chain underpins natural law, beatific vision as apex, scala of creatures.
 - **Leibniz / Spinoza (17c rationalism)**: Plenitude + sufficient reason (every detail has ultimate ground; this world the fullest compossible or the only one deducible from substance). Absolute determinism.
 - **18c Enlightenment (Pope et al.)**: Popular ethical version — vast Chain from God to microscopic; "all that rises, rise in due degree"; optimism as theodicy. Biology: attempts to realize the "full" series in time (missing links).
 - **Romantic / early 19c (Schelling, Oken)**: Temporalizing and inversion — God/Life-Force not eternally complete but becoming through progressive realization; "the more perfect has risen from its own less perfect condition"; plenitude now as flying goal of process, not permanent character. Pre-Darwinian evolutionism.

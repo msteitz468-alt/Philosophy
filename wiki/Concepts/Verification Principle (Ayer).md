@@ -7,7 +7,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [ayer, verification, logical-positivism, meaning, metaphysics, vienna-circle, empiricism, language, significance]
-sources: ["Language, Truth and Logic - A. J. Ayer.txt"]
+sources: ["Language, Truth and Logic - A. J. Ayer.md"]
 ---
 
 # Verification Principle (Ayer)

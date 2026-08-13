@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, ethics, aesthetics]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Symposium - Plato.txt"]
+sources: ["Symposium - Plato.md"]
 tags: [concept, plato, symposium, love, beauty, forms, metaphysics, aesthetics]
 ---
 

@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-29"
 updated: "2026-06-29"
 tags: [maimonides, negative-theology, via-negativa, divine-attributes, simplicity, homonyms, anthropomorphism, incorporeality, medieval]
-sources: ["The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Negative Theology and Divine Attributes (Maimonides)
@@ -41,6 +41,7 @@ What survives are:
 - **vs. [[Thinkers/Al-Ghazali]]:** both deny that God is composite, but Ghazali (against the *falasifa*) insists God has **real attributes** — knowledge, will, power, life — additional to the essence, precisely to keep God a living personal agent ([[Concepts/God's Knowledge of Particulars (Ghazali)]]). Maimonides' via negativa is closer to the philosophers' "simplicity" that Ghazali attacks as emptying God out. A pointed cross-tradition tension.
 - **vs. [[Thinkers/Plotinus]] / Neoplatonism:** the negative approach to the One (the [[Concepts/Emanation (Proodos)|source beyond being and predication]]) is Maimonides' deep background; he philosophizes the biblical God toward the ineffable One.
 - **vs. [[Sources/Ethics - Spinoza (Cambridge, Kisner ed. 2018)|Spinoza]]:** raised on Maimonides, Spinoza inverts him — instead of a God beyond all positive predication, *Deus sive Natura* is the one substance of which thought and extension are positively known attributes. Negative theology's God-beyond-the-world becomes immanent substance.
+- **vs. [[Thinkers/Laozi]] / [[Concepts/Dao - The Course (Laozi)]]** (Ziporyn *Daodejing*, now primary): both unsay the named highest. Maimonides unsays to protect a simple God from composition; the terminus is silence. Laozi unsays because naming *carves* the unhewn into tools (ch. 32); the nameless is a *mother* and a bellows, empty but never exhausted (chs. 1, 5) — generative process, not a simple One. See [[Concepts/Unhewn Background and the A-B Reversal (Laozi)]].
 
 ## Contradictions / Open Questions
 
@@ -53,6 +54,6 @@ What survives are:
 - [[Sources/The Guide for the Perplexed - Maimonides]]
 
 ## Related
-- [[Thinkers/Maimonides]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Al-Ghazali]], [[Thinkers/Plotinus]], [[Thinkers/Aristotle]]
+- [[Thinkers/Maimonides]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Al-Ghazali]], [[Thinkers/Plotinus]], [[Thinkers/Aristotle]], [[Thinkers/Laozi]]
 - [[Concepts/Critique of the Kalam (Maimonides)]], [[Concepts/Creation vs Eternity (Maimonides)]], [[Concepts/Emanation (Proodos)]]
 - [[Sources/Ethics - Spinoza (Cambridge, Kisner ed. 2018)]]

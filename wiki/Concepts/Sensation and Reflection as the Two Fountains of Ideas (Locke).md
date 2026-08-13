@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [locke, sensation, reflection, fountains-of-ideas, experience, empiricism, epistemology, simple-ideas, early-modern]
-sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.txt"]
+sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.md"]
 ---
 
 # Sensation and Reflection as the Two Fountains of Ideas (Locke)

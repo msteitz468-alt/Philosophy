@@ -6,7 +6,7 @@ domains: [ethics, political-philosophy]
 source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Nicomachean Ethics (Aristotle).txt"]
+sources: ["Nicomachean Ethics (Aristotle).md"]
 tags: [aristotle, ethics, eudaimonia, virtue, phronesis, akrasia, friendship, classical, 4th-century-bc]
 ---
 

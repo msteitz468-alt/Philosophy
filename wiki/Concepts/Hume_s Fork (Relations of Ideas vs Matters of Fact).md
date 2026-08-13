@@ -8,7 +8,7 @@ source_count: 3
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [hume, empiricism, epistemology, humes-fork, a-priori, matters-of-fact, relations-of-ideas, modality, conceivability, meaning, enquiry, quine, analytic-synthetic]
-sources: ["An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)", "Quine51 - Unknown.txt", "Language, Truth and Logic - A. J. Ayer.txt"]
+sources: ["An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)", "Quine51 - Unknown.md", "Language, Truth and Logic - A. J. Ayer.md"]
 ---
 
 # Hume's Fork (Relations of Ideas vs Matters of Fact)
@@ -31,9 +31,11 @@ The criterion separating the prongs is **conceivability**: a relation of ideas c
 
 ## Lineage and Legacy
 
-The fork sharpens distinctions in Leibniz ("truths of reason" vs. "truths of fact") and anticipates Kant's *analytic/synthetic* and *a priori/a posteriori* axes (Kant's revolutionary question — are there *synthetic a priori* truths? — is precisely a challenge to the exhaustiveness of Hume's fork). It is the direct ancestor of the logical positivists' analytic/synthetic-plus-verification picture.
+The fork sharpens distinctions in Leibniz ("truths of reason" vs. "truths of fact") and is the target of Kant's *analytic/synthetic* × *a priori/a posteriori* table. The revolutionary question — "How are synthetic judgments a priori possible?" (B 19) — is a challenge to the exhaustiveness of the Fork: mathematics is a priori *and* synthetic; causation is not a mere matter of fact. See [[Concepts/Synthetic A Priori Judgments (Kant)]], now primary from [[Sources/Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge)]]. It is the direct ancestor of the logical positivists' analytic/synthetic-plus-verification picture.
 
 Quine's "Two Dogmas of Empiricism" (1951) launches the decisive internal critique: the fork (and its linguistic descendants) is not sharp or exhaustive in the way required. The analytic/synthetic distinction cannot be clarified without circular appeal to synonymy or analyticity itself; the verificationist reductionism that was meant to secure the synthetic side (each statement having its own unique confirming sensory events) also fails. See [[Concepts/Analytic-Synthetic Distinction (Quine)]], [[Concepts/Reductionism and Verification Theory of Meaning (Quine)]], and [[Sources/Two Dogmas of Empiricism - W.V.O. Quine (1951)]]. The result is confirmation holism (the web of belief) and naturalized epistemology: the unit of empirical significance is the whole of science, not isolated relations of ideas or matters of fact. A continuing reference point for post-positivist debates over the a priori, meaning, and the status of logic/mathematics.
+
+[[Thinkers/Saul Kripke]] (*Naming and Necessity*, now primary) opens two cells the Fork had closed: **necessary a posteriori** (Hesperus is Phosphorus; gold is atomic number 79) and **contingent a priori** (the standard metre). Conceivability of a qualitatively identical evidential situation is not, for him, conceivability of a world in which the identity fails. That is a third pressure on the Fork's alignment of a priori / necessary / denial-is-contradiction — not Quine's dissolution, not Kant's synthetic a priori. See [[Concepts/Necessary A Posteriori and Contingent A Priori (Kripke)]], [[Contradictions/Kripke vs Quine - De Re Necessity vs Holism]].
 
 ## Relevance to Vault
 
@@ -51,7 +53,8 @@ Quine's "Two Dogmas of Empiricism" (1951) launches the decisive internal critiqu
 - [[Sources/An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)]]
 - [[Sources/Two Dogmas of Empiricism - W.V.O. Quine (1951)]]
 - [[Sources/Language, Truth and Logic - A.J. Ayer (1936)]] — Ayer's verification principle as the logical sharpening of the Fork; [[Thinkers/A.J. Ayer]], [[Concepts/Verification Principle (Ayer)]]
-- [[Thinkers/Hume]], [[Thinkers/W.V.O. Quine]]
+- [[Thinkers/Hume]], [[Thinkers/W.V.O. Quine]], [[Thinkers/Saul Kripke]]
+- [[Concepts/Necessary A Posteriori and Contingent A Priori (Kripke)]], [[Contradictions/Kripke vs Quine - De Re Necessity vs Holism]]
 - [[Concepts/Problem of Induction (Hume)]], [[Concepts/Impressions and Ideas - Copy Principle (Hume)]], [[Concepts/Mitigated Scepticism (Hume)]]
 - [[Concepts/Analytic-Synthetic Distinction (Quine)]], [[Concepts/Reductionism and Verification Theory of Meaning (Quine)]], [[Concepts/Confirmation Holism (Duhem-Quine Thesis)]]
 - [[Arguments/Ontological Argument|Ontological Argument]], [[Concepts/Geometrical Method - Rationalism (Spinoza)]] (rationalist targets); [[Concepts/Modal Copula (Aristotelian Modality)]] (alternative modal framework)

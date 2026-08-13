@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [kevin-kelly, the-inevitable, 12-technological-forces, becoming, cognifying, protopia, technium, wired, futurism, ai, sharing-economy, digital-trends]
-sources: ["The Inevitable_ Understanding the 12 Techn - Kevin Kelly.txt"]
+sources: ["The Inevitable_ Understanding the 12 Techn - Kevin Kelly.md"]
 ---
 
 # The Inevitable - Kevin Kelly (2016)

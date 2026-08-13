@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-12
 tags: [philosophy, ethics, kant, a-priori, deontology, kingdom-of-ends, realm-of-ends, autonomy, legislation, persons]
-sources: ["Metaphysics of Morals - Immanuel Kant"]
+sources: ["Metaphysics of Morals - Immanuel Kant", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md"]
 ---
 
 # Kingdom of Ends (Kant)
@@ -33,6 +33,10 @@ In the Second Section, Kant introduces the Formula of the Kingdom (or Realm) of 
 - The will that necessarily harmonizes with laws of autonomy is holy/good in itself; for imperfect wills, subjection is obligation/duty. Morality = relation of actions to the autonomy of the will (possible universal legislation through maxims).
 - This completes the system of formulas for the one CI; all are ways of expressing the absolutely good will.
 
+## From the Gregor/Korsgaard edition (2026-08-12)
+
+Gregor (4:433): "By a *kingdom* I understand a systematic union of various rational beings through common laws. … a *kingdom of ends* (admittedly only an ideal)." Member = lawgiving *and* subject; sovereign = lawgiving and *not* subject (only a completely independent being). Duty binds every member equally, not the sovereign. Price vs dignity is stated inside this stretch (4:434–436): [[Concepts/Dignity of Rational Nature (Kant)]]. Teleological pairing: nature regarded *as* a kingdom of ends (theoretical); a possible kingdom of ends regarded *as* a kingdom of nature (practical). Korsgaard: both a republic of legislators *and* a system of all good ends.
+
 ## Vault Relevance / AI / Personal
 
 - **Multi-agent systems & constitutional AI**: The kingdom of ends is a powerful model for "constitutional" or "self-governing" collectives of agents (or human-AI teams). Each participant is both subject and legislator; rules must be such that all could have authored them. In practice: protocols, shared schemas (like GROK.md + index), or alignment constitutions that agents/humans can see as self-imposed rather than externally dictated. Prevents free-riding, deception, or exploitation that would be impossible in a true realm of ends.
@@ -45,7 +49,8 @@ In the Second Section, Kant introduces the Formula of the Kingdom (or Realm) of 
 
 - [[Autonomy and Heteronomy of the Will (Kant)]], [[Formula of Humanity as End in Itself (Kant)]], [[Categorical Imperative - Universal Law Formulation (Kant)]], [[Hypothetical and Categorical Imperatives (Kant)]], [[Good Will (Kant)]], [[Duty (Kant)]]
 - Contrasts/syntheses: Spinoza's *Deus sive Natura* / intellectual love (deterministic whole vs legislated community of ends); Hume custom as "great guide" (natural order vs moral realm of ends); Aristotle polis (political community of virtue vs kingdom of rational ends legislated a priori); Stoic divine order / role (acceptance in given order vs self-legislation of the order itself).
-- Cross: [[Thinkers/Kant]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Spinoza]], [[Thinkers/Hume]], [[Thinkers/Aristotle]], [[Thinkers/Locke]]
+- Cross: [[Thinkers/Kant]], [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Spinoza]], [[Thinkers/Hume]], [[Thinkers/Aristotle]], [[Thinkers/Locke]]
+- [[Concepts/Dignity of Rational Nature (Kant)]]
 - [[GROK]] (the schema + index as the "constitution" of this small realm; maintenance as acting as legislative member; "as if" the ideal of complete, accurate, cross-linked knowledge were already realized through universal adherence to the rules).
 
 *Concept created during 2026-06-04 chunked ingest (Second Section) of the Kant *Groundwork*. The social/legislative dimension of the moral law: a community of rational ends through self-legislation.*

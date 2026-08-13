@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [augustine, time, eternity, distentio, distentio-animi, creation, memory, present, 4th-century, patristics, metaphysics]
-sources: ["Confessions - Augustine.txt"]
+sources: ["Confessions - Augustine.md"]
 ---
 
 # Time and Eternity - Distentio Animi (Augustine)

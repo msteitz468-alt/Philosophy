@@ -8,7 +8,7 @@ source_count: 4
 created: "2026-06-04"
 updated: "2026-06-29"
 tags: [philosophy, causation, occasionalism, ghazali, ibn-rushd, averroes, aristotle, ash'arites, natural-law, epistemology, metaphysics, classical, medieval]
-sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Incoherence of the Incoherence - Ibn Rushd.txt", "Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas.md", "Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas.md"]
+sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).md", "Incoherence of the Incoherence - Ibn Rushd.md", "Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas.md", "Sources/Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas.md"]
 ---
 
 # Occasionalism vs Natural Causation (Ghazali and Ibn Rushd)

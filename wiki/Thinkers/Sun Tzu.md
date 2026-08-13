@@ -6,9 +6,9 @@ schools: []
 domains: [strategy, military]
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [sun-tzu, sun-wu, art-of-war, strategy, military, statecraft, classical-china, warring-states, taoism, leadership]
-sources: ["The Art of War - Sun Tzu.txt"]
+sources: ["The Art of War - Sun Tzu.md"]
 ---
 
 # Sun Tzu
@@ -37,7 +37,8 @@ sources: ["The Art of War - Sun Tzu.txt"]
 - **Machiavelli** (surveyed in [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]]) and **[[Thinkers/Publius (Hamilton, Madison, and Jay)]]**: kindred realism about conflict, interest, and power — Sun Tzu on the battlefield, Machiavelli on the prince, Publius on institutional checks ("ambition must be made to counteract ambition").
 - **[[Thinkers/Garry Kasparov]]**: chess as the purest peacetime laboratory of Sun Tzu's strategy — calculation, initiative, positional advantage (*shih*), exploiting the opponent's weaknesses; Kasparov's human-judgment-vs-machine reflections extend the "know yourself / know the enemy" theme to AI.
 - **Ethics/just-war counterpoint** ([[Thinkers/Augustine]] [[Concepts/Tranquillitas Ordinis - Peace as Order (Augustine)|peace-as-order]]; [[Thinkers/Kant]] [[Concepts/Formula of Humanity as End in Itself (Kant)|persons as ends]]): Sun Tzu's deception and instrumental use of people stand in tension with the vault's just-war and deontological threads — though his preference for bloodless victory and restraint-from-passion partly converge with proportionality.
-- **Taoist resonance**: the "Moral Law" (*tao*) and the water/formlessness imagery echo Lao Tzu (not yet in the vault) — strategy as wu-wei-like adaptation to circumstance rather than force.
+- **[[Thinkers/Laozi]] / [[Schools/Daoism]]** (now in the vault via Ziporyn's *Daodejing*): the "Moral Law" (*tao*) and the water/formlessness imagery echo the course, [[Concepts/Wu Wei - Nondoing (Laozi)|nondoing]], and [[Concepts/Water, Softness, and the Low Place (Laozi)|water that benefits by never competing]]. The overlap is real and the divergence is load-bearing: Sun Tzu's *tao* is a calculable strategic asset and his water is a tactic for imposing will; Laozi's course is nonpurposive, and "to do something with it is to ruin it" (ch. 64).
+- **[[Thinkers/Confucius]]** (now primary, Chin 2014): traditional near-contemporary *shi*. Confucius wants government that runs on trust and *de*, prefers not to raise armies (16.1), and treats war as something a state trains for only after a people is instructed (13.29–13.30 cluster). Sun Tzu calculates war as "a matter of life and death" and founds victory on deception. Shared preference against wasteful slaughter; different first factor (moral example vs calculable *tao*).
 
 ## Vault / AI / Personal Relevance
 
@@ -49,7 +50,7 @@ sources: ["The Art of War - Sun Tzu.txt"]
 
 - [[Sources/The Art of War - Sun Tzu (Giles trans., 1910)]]
 - [[Concepts/Calculation and the Five Factors (Sun Tzu)]], [[Concepts/Winning Without Fighting (Sun Tzu)]], [[Concepts/Know the Enemy and Know Yourself (Sun Tzu)]], [[Concepts/All Warfare Is Based on Deception (Sun Tzu)]], [[Concepts/Shih - Momentum, Formlessness, and Striking Weakness (Sun Tzu)]], [[Concepts/Foreknowledge and the Use of Spies (Sun Tzu)]]
-- [[Thinkers/Thucydides]], [[Thinkers/Garry Kasparov]], [[Thinkers/Publius (Hamilton, Madison, and Jay)]]
+- [[Thinkers/Thucydides]], [[Thinkers/Garry Kasparov]], [[Thinkers/Publius (Hamilton, Madison, and Jay)]], [[Thinkers/Laozi]]
 - [[Concepts/Power, Empire, and Revolt (Thucydides)]], [[Concepts/Tranquillitas Ordinis - Peace as Order (Augustine)]]
 - [[Sources/Strategy - Full - Agribusiness Sales Playbook (Alliant 2026)]], [[Concepts/Prospecting Playbook]], [[Concepts/Persuasion & Sales Science]]
 - [[GROK]], [[LLM Wiki]]

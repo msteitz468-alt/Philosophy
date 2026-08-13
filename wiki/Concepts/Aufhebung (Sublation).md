@@ -5,7 +5,7 @@ domains: [metaphysics, logic, philosophy-of-language]
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, aufhebung, sublation, logic, dialectic, language, metaphysics]
-sources: ["The Logic of Hegel - William Wallace.txt", "Phenomenology of Mind - J B Baillie.txt"]
+sources: ["The Logic of Hegel - William Wallace.md", "Phenomenology of Mind - J B Baillie.md"]
 ---
 
 # Aufhebung (Sublation)

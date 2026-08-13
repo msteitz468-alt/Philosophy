@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 2
+source_count: 3
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [kant, categorical-imperative, universal-law, ethics, deontology, maxim, early-modern, moral-philosophy]
-sources: ["Metaphysics of Morals - Immanuel Kant.txt", "Metaphysics of Morals - Immanuel Kant"]
+sources: ["Metaphysics of Morals - Immanuel Kant.md", "Metaphysics of Morals - Immanuel Kant", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md"]
 ---
 
 # Categorical Imperative - Universal Law Formulation (Kant)
@@ -29,6 +29,10 @@ Common human reason already operates with this principle (though not always form
 
 This is the first (and most famous) formulation of the **Categorical Imperative**—categorical because it commands unconditionally (no "if" of inclination or end), in contrast to hypothetical imperatives (technical: if you will the end, will the necessary means; pragmatic: if you will happiness, act in such-and-such way). The moral law binds the will *as such*, through respect, independently of any desired effect.
 
+## From the Gregor/Korsgaard edition (2026-08-12)
+
+§I first reaches: "I ought never to act except in such a way that I could also will that my maxim should become a universal law" (4:402). §II states the official single CI: "act only in accordance with that maxim through which you can at the same time will that it become a universal law" (4:421), and the Formula of the Law of Nature: "act as if the maxim of your action were to become by your will a universal law of nature" (4:421). Two failure-modes (4:424): contradiction in *conception* (suicide, false promise) vs contradiction in the *will* (neglected talents, non-beneficence) — now tabulated on [[Concepts/Perfect and Imperfect Duties (Kant)]]. Korsgaard: FUL shows *whether* a maxim can be a law, "not why we should will only maxims that can be universal laws"; the *why* is autonomy. She also records the challenge that FH and autonomy are stronger than FUL.
+
 ## Relevance to Vault
 
 - **The supreme principle**: The a priori, formal, universalizable law that grounds all genuine moral obligation and the good will's worth. It is the "supreme principle of morality" whose search is the aim of the *Groundwork*.
@@ -42,8 +46,8 @@ This is the first (and most famous) formulation of the **Categorical Imperative*
 ## Related
 
 - [[Thinkers/Kant]]
-- [[Sources/Metaphysics of Morals - Immanuel Kant]]
-- [[Concepts/Good Will (Kant)]], [[Concepts/Duty (Kant)]]
+- [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]], [[Sources/Metaphysics of Morals - Immanuel Kant]]
+- [[Concepts/Good Will (Kant)]], [[Concepts/Duty (Kant)]], [[Concepts/Perfect and Imperfect Duties (Kant)]], [[Concepts/Formula of Humanity as End in Itself (Kant)]]
 - [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Aristotle]], [[Thinkers/Spinoza]]
 - [[Concepts/Impressions and Ideas - Copy Principle (Hume)]], [[Concepts/Eudaimonia]], [[Concepts/Ataraxia]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Natural Law (Aquinas)]]
 - Future: other formulations (Humanity as End, Kingdom of Ends) from Second Section; autonomy/freedom from Third Section; applications in later Kant.

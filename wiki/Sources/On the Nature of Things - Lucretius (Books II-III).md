@@ -6,7 +6,7 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-03"
 tags: [lucretius, epicureanism, atomism, materialism, mortalism, perception, cosmogony, religion, plague, classical, roman, 1st-century-bc]
-sources: ["Lucretius On the nature of things _ A phil - Lucretius.txt", "Lucretius - on the nature of things - Dinko Tontchev.txt"]
+sources: ["Lucretius On the nature of things _ A phil - Lucretius.md", "Lucretius - on the nature of things - Dinko Tontchev.md"]
 ---
 
 # On the Nature of Things — Lucretius (Complete, All Six Books)
@@ -15,8 +15,8 @@ sources: ["Lucretius On the nature of things _ A phil - Lucretius.txt", "Lucreti
 
 ## Edition Details
 
-- **Complete edition** (`Lucretius On the nature of things _ A phil - Lucretius.txt`, ~1.18MB): Full scholarly translation with preface, detailed life-and-poem introduction (including discussion of the love-potion legend, Eusebius dating, Cicero's editorship, manuscript tradition, Forbiger's textual theories), all six books, and extensive inline scholarly notes on every passage. Translator initials J.S.W.; text follows Forbiger (= Wakefield).
-- **Prior partial source** (`Lucretius - on the nature of things - Dinko Tontchev.txt`, 126KB): William Ellery Leonard translation, Books II–III only. Details from this are preserved below.
+- **Complete edition** (`Lucretius On the nature of things _ A phil - Lucretius.md`, ~1.18MB): Full scholarly translation with preface, detailed life-and-poem introduction (including discussion of the love-potion legend, Eusebius dating, Cicero's editorship, manuscript tradition, Forbiger's textual theories), all six books, and extensive inline scholarly notes on every passage. Translator initials J.S.W.; text follows Forbiger (= Wakefield).
+- **Prior partial source** (`Lucretius - on the nature of things - Dinko Tontchev.md`, 126KB): William Ellery Leonard translation, Books II–III only. Details from this are preserved below.
 
 ---
 

@@ -8,7 +8,7 @@ source_count: 4
 created: "2026-06-04"
 updated: "2026-07-01"
 tags: [plotinus, enneads, neoplatonism, philosophy, metaphysics, classical, 3rd-century-ad, porphyry, augustine, confessions]
-sources: ["The Enneads - Plotinus.txt", "Confessions - Augustine.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md"]
+sources: ["The Enneads - Plotinus.md", "Confessions - Augustine.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md"]
 ---
 
 # Plotinus
@@ -41,7 +41,7 @@ sources: ["The Enneads - Plotinus.txt", "Confessions - Augustine.txt", "Classica
 
 **Life and Reception**:
 - Taught in Rome; circle included senators, women, and serious seekers. Lived ascetically, refused to sit for portrait (body as image). Died ~270 CE in Campania.
-- Porphyry's edition/arrangement (and later Iamblichus, Proclus developments) shaped "Neoplatonism." Enormous influence: Augustine (via Plotinus on evil as privation, ascent/return, God as beyond being; explicit "conversion to Neo-Platonism" in *Confessions* Book VII as intellectual liberation from materialism — the "Platonists" taught him to conceive immaterial reality and the One, enabling his later Christian resolution; the garden ecstasy is real but insufficient without the Mediator and transforming grace), Islamic philosophy (al-Farabi, Avicenna, the One/Intellect/Soul), Christian mysticism (Pseudo-Dionysius, Eriugena), Renaissance (Ficino, Pico), Romantics, and modern idealism/esotericism. Often seen as the culmination of Greek philosophy ("Plato redivivus").
+- Porphyry's edition/arrangement (and later Iamblichus, Proclus developments) shaped "Neoplatonism." Enormous influence: Augustine (via Plotinus on evil as privation, ascent/return, God as beyond being; explicit "conversion to Neo-Platonism" in *Confessions* Book VII as intellectual liberation from materialism — the "Platonists" taught him to conceive immaterial reality and the One, enabling his later Christian resolution; the garden ecstasy is real but insufficient without the Mediator and transforming grace), Islamic philosophy (al-Farabi, Avicenna, the One/Intellect/Soul), Christian mysticism ([[Thinkers/Pseudo-Dionysius]] — now primary: *Divine Names* / *Mystical Theology*; keeps the sun-overflow and *erōs* but refuses to seat evil in matter, DN IV.28; Eriugena), Renaissance (Ficino, Pico), Romantics, and modern idealism/esotericism. Often seen as the culmination of Greek philosophy ("Plato redivivus").
 
 See [[Sources/Confessions - Augustine]], [[Thinkers/Augustine]], [[Concepts/Restless Heart - Rest in God (Augustine)]], [[Concepts/Memory - Interiority and Self-Knowledge (Augustine)]], and [[Concepts/Time and Eternity - Distentio Animi (Augustine)]] for Augustine's direct engagement and transposition of Neo-Platonism.
 
@@ -88,6 +88,7 @@ Fits "Research," "Reading a book," and "Personal" use cases perfectly. Positions
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]] (add Neoplatonism/Plotinus as post-Plato, post-Hellenistic development and synthesis)
 - [[Sources/Letters and Sayings of Epicurus - Epicurus]], [[Sources/Timaeus and Critias - Plato (Oxford, 2008)]], [[Sources/The Republic - Plato (Cambridge, 2000)]], [[Sources/Aristotle - Nicomachean Ethics (Book I)]], [[Sources/Aristotle - Rhetoric (Book I)]], [[Sources/Aristotle - Modal Logic (Organon, Patterson)]], [[Sources/Thucydides - History of the Peloponnesian War (Book III, Mytilene revolt)]]
 - [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Thucydides]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]], [[Thinkers/Marcus Aurelius]], [[Thinkers/Epicurus]], [[Thinkers/Numenius of Apamea]] (Neopythagorean predecessor)
+- [[Thinkers/Pierre Hadot]] — Plotinus was a lifelong object of Hadot’s commentary (EPHE chair; translations). In *Philosophy as a Way of Life*: life as purification/union; class method (commentaries then personal *theoria*); evil inquiry as “in what sense Plato says…”; the statue made by taking away; becoming the All; [[Concepts/Creative Mistakes and Philosophical Exegesis (Hadot)|creative exegesis]] of Plato. See [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]], [[Concepts/Spiritual Exercises (Hadot)]].
 - [[Concepts/Eudaimonia]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Teachability of Virtue (Plato Protagoras Meno)]], [[Concepts/Pleasure vs Intelligence as the Good (Philebus)]], [[Concepts/Power, Empire, and Revolt (Thucydides)]], [[Concepts/Ataraxia]], [[Concepts/Epicurean Atomism (Swerve)]], [[Concepts/Live Unnoticed (Lathe Biosas)]], (new: [[Concepts/The One (To Hen)]], [[Concepts/Emanation (Proodos)]], [[Concepts/Return of the Soul (Epistrophe)]])
 - [[LLM Wiki]], [[GROK]] (emanation/hierarchy as model for context/knowledge flow and agentic layers; contemplation as deep synthesis; the One as persistent schema; return as wiki integration/compounding)
 - [[Sources/MasterClass Collection - 2026]] (contemplative craft, ascent through deliberate practice and routines, human creativity/judgment)

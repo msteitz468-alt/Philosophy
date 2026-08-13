@@ -4,7 +4,7 @@ type: concept
 domains: [politics, ethics, aesthetics]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Politics (Aristotle).txt"]
+sources: ["Politics (Aristotle).md"]
 tags: [aristotle, education, music, paideia, classical]
 ---
 

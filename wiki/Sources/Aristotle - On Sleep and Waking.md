@@ -6,7 +6,7 @@ domains: [philosophy-of-mind, natural-science, physiology]
 source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On Sleep (Aristotle).txt"]
+sources: ["On Sleep (Aristotle).md"]
 tags: [aristotle, parva-naturalia, sleep, de-anima, classical, 4th-century-bc]
 ---
 

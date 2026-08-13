@@ -3,7 +3,7 @@ title: "On the Soul (De Anima, Aristotle)"
 type: source-summary
 status: complete
 translator: "J. A. Smith"
-sources: ["On the Soul (Aristotle).txt"]
+sources: ["On the Soul (Aristotle).md"]
 created: "2026-07-01"
 updated: "2026-07-01"
 domains: [metaphysics, philosophy-of-mind, biology]

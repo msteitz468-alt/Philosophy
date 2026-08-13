@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [popper, basic-statements, empirical-basis, protocol-sentences, intersubjective-testability, conventionalism, critical-rationalism, philosophy-of-science]
-sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.txt"]
+sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.md"]
 ---
 
 # Basic Statements and the Empirical Basis (Popper)
@@ -68,9 +68,20 @@ Popper criticizes views (early Carnap, Neurath, Reininger, Wittgenstein's *Tract
 - Psychological and social dimensions of accepting basic statements (later addressed in Popper's "three worlds" and institutional analysis of science).
 - Relation to underdetermination / Duhem-Quine: a falsifying basic statement contradicts a *system*; attributing the falsification to a particular hypothesis requires additional methodological decisions.
 
+## Convergence with Sellars
+
+[[Thinkers/Wilfrid Sellars]] reaches the same verdict in [[Sources/Empiricism and the Philosophy of Mind - Wilfrid Sellars (1956)|EPM]] (1956) by an independent route, and the pairing is one of the sharper convergences in the vault's post-positivist cluster.
+
+Popper argues *from the logic of testing*: no basic statement is incorrigible, all are accepted by decision, and the regress is halted conventionally rather than by an ultimate given. Sellars argues *from the logic of the word "knows"*: an observation report expresses knowledge only if it has recognized authority, and "in characterizing an episode or a state as that of *knowing*, we are not giving an empirical description of that episode or state; we are placing it in the logical space of reasons" (§36). See [[Concepts/Space of Reasons (Sellars)]] and [[Concepts/Myth of the Given (Sellars)]].
+
+The two conclusions rhyme closely. Popper's rejection of an incorrigible perceptual foundation is Sellars's "**self-authenticating** non-verbal episodes… the tortoise on which stands the elephant on which rests the edifice of empirical knowledge" (§38) — an image Popper would have endorsed. And Sellars's positive formula is nearly Popperian in spirit: "empirical knowledge, like its sophisticated extension, science, is rational, not because it has a *foundation* but because it is a **self-correcting enterprise which can put *any* claim in jeopardy, though not *all* at once**."
+
+> [!warning] The difference is where the normativity lives. For Popper, what secures rationality is the *methodological rules* — the supreme rule being to protect no statement from falsification. For Sellars, it is the *normative status* of knowledge-attribution itself, which he holds cannot be analyzed without remainder into non-epistemic facts (his "naturalistic fallacy" claim). A Popperian could accept the whole of Sellars's critique of the Given and still decline the anti-reductionist thesis about epistemic vocabulary.
+
 ## Related
 
 - [[Sources/The Logic of Scientific Discovery - Karl Popper (Routledge Classics)]]
+- [[Thinkers/Wilfrid Sellars]], [[Concepts/Myth of the Given (Sellars)]], [[Concepts/Space of Reasons (Sellars)]]
 - [[Thinkers/Karl Popper]]
 - [[Concepts/Falsifiability as Criterion of Demarcation (Popper)]]
 - [[Concepts/Corroboration (Popper)]]

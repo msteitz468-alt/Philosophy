@@ -4,7 +4,7 @@ type: contradiction
 domains: [metaphysics, philosophy-of-history, political-philosophy]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["The Logic of Hegel - William Wallace.txt", "The Communist Manifesto - Marx and Engels.txt"]
+sources: ["The Logic of Hegel - William Wallace.md", "The Communist Manifesto - Marx and Engels.md"]
 tags: [hegel, marx, dialectic, idealism, materialism, history, base-superstructure]
 ---
 

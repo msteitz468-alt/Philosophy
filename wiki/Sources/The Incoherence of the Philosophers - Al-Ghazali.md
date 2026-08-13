@@ -7,7 +7,7 @@ source_count: 1
 created: "2026-06-29"
 updated: "2026-06-29"
 tags: [philosophy, islamic-philosophy, ghazali, kalam, ash'arism, avicenna, farabi, causation, occasionalism, eternity, resurrection, demonstration, medieval]
-sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # The Incoherence of the Philosophers - Al-Ghazali

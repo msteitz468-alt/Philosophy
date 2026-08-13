@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 2
+source_count: 3
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [kant, good-will, ethics, deontology, moral-worth, duty, early-modern, moral-philosophy]
-sources: ["Metaphysics of Morals - Immanuel Kant.txt", "Metaphysics of Morals - Immanuel Kant"]
+sources: ["Metaphysics of Morals - Immanuel Kant.md", "Metaphysics of Morals - Immanuel Kant", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md"]
 ---
 
 # Good Will (Kant)
@@ -25,6 +25,10 @@ Nature's purpose in endowing a rational being with reason and will cannot be hap
 
 The good will is not the *only* or *entire* good, but the *supreme* good and indispensable condition for the worthiness to be happy or for any other goods to have moral value.
 
+## From the Gregor/Korsgaard edition (2026-08-12)
+
+Gregor's opening sentence is now the vault's English: "It is impossible to think of anything at all in the world, or indeed even beyond it, that could be considered good without limitation except a good will" (4:393). The jewel: "then, like a jewel, it would still shine by itself, as something that has its full worth in itself" (4:394). Korsgaard later equates this worth with legislative share: dignity is "the share it affords a rational being in the giving of universal laws, by which it makes him fit to be a member of a possible kingdom of ends" (4:435). See [[Concepts/Dignity of Rational Nature (Kant)]].
+
 ## Relevance to Vault
 
 - **Contrast with Hume/Locke empiricism**: Moral worth grounded in the a priori principle of the will (good will/duty/respect for law), not in sentiment, custom, utility, experience, or consequences. Challenges the vault's strong empiricist thread (Hume's "custom as the great guide," Locke's ideas from sensation/reflection as the sole materials).
@@ -38,8 +42,8 @@ The good will is not the *only* or *entire* good, but the *supreme* good and ind
 ## Related
 
 - [[Thinkers/Kant]]
-- [[Sources/Metaphysics of Morals - Immanuel Kant]]
-- [[Concepts/Duty (Kant)]], [[Concepts/Categorical Imperative - Universal Law Formulation (Kant)]]
+- [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]], [[Sources/Metaphysics of Morals - Immanuel Kant]]
+- [[Concepts/Duty (Kant)]], [[Concepts/Categorical Imperative - Universal Law Formulation (Kant)]], [[Concepts/Dignity of Rational Nature (Kant)]]
 - [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Aristotle]], [[Thinkers/Spinoza]], [[Thinkers/Epictetus]]
 - [[Concepts/Impressions and Ideas - Copy Principle (Hume)]], [[Concepts/Eudaimonia]], [[Concepts/Ataraxia]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Natural Law (Aquinas)]]
 - [[GROK]] (good will in adherence to schema and principles; respect for the "law" of accurate, sourced maintenance)

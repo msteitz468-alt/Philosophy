@@ -3,8 +3,8 @@ title: "Evidence and Truth (Husserl)"
 type: concept
 domains: [epistemology, phenomenology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+updated: "2026-08-12"
+sources: ["Husserl (David Woodruff Smith).md", "Cartesian Meditations - Edmund Husserl.md"]
 tags: [philosophy, husserl, epistemology, truth, intuition, evidence]
 ---
 
@@ -31,7 +31,7 @@ This model applies to all types of knowledge: mathematical intuition "fulfills" 
 
 **2. Adequacy**: All aspects of the intended object are fully and evidently given — nothing remains hidden, no further investigation could add to the evidence. An *ideal limit* rarely (if ever) achieved in practice. Perception of a physical thing is *inadequate* — the thing always has hidden sides, future behavior, microstructure beyond current appearances.
 
-**3. Apodicticity** (*Cartesian Meditations*, §6): Evidence in which "the non-being of the [intended state of affairs] is absolutely unimaginable" in the face of the experience. Apodictic evidence is stronger than certainty: not only do I not doubt it, but doubting it is inconceivable. Example: phenomenological reflection on one's own current experience ("I am now thinking") — the existence of this very act cannot be doubted while it is occurring.
+**3. Apodicticity** (*Cartesian Meditations*, §6): Evidence which, to a critical reflection, discloses "the absolute unimaginableness (inconceivability) of their non-being." Apodicticity can attach even to *inadequate* evidence; adequacy and apodicticity need not coincide. The *ego sum* / *sum cogitans* is apodictic; only the living present is given with "strict adequacy"; past, abilities, habitualities are a presumptive horizon (§9). World-existence, obvious for life and the sciences, is **not** apodictic (illusion, coherent dream) and is included in the Cartesian overthrow (§7).
 
 **Key asymmetry**: Perception is *certain* but neither *adequate* nor *apodictic*. Phenomenological self-reflection is *apodictic* but not *adequate* (my past stream of consciousness is not fully evidently given). Mathematical intuitions are apodictic for simple cases; for complex proofs, adequacy is the limiting ideal.
 
@@ -50,6 +50,18 @@ Husserl widens the empiricist account of knowledge by admitting multiple forms o
 
 **Categorial intuition** (Husserl's innovation in *Logical Investigations VI*): We do not merely *think* logical and mathematical structures — we intuit them. Grasping that "this rose is red" involves not only sensory intuition of the rose and its redness but a categorial intuition of the *state of affairs* (rose-being-red). This is what grounds a priori knowledge of formal ontology.
 
+## *Cartesian Meditations* I and III: Itself-Givenness, Habitual Evidence, World as Idea
+
+Primary. First principle of genuine science: accept no scientific judgment not derived from evidence, from experiences in which affairs are present as "they themselves" (§5). Evidence, broadly, is the primal phenomenon of **self-appearance / self-giving** — "itself there," given originaliter — versus empty, expectant, non-presentive consciousness (§24). Ordinary experience is a particular evidence; all evidence is experience in a maximally broad sense. Verification can invert into **nullity**.
+
+**Actuality** vs. **phantasy (as-if actuality)**; correlatively **positionality** vs. **quasi-positionality** (§25). Clarification is prefigurative intuition: evidence of *possible* being, not of being.
+
+"We can be sure something is actual only by virtue of a synthesis of evident verification… Every rightness comes from evidence… from our transcendental subjectivity itself" (§26). Evidence **institutes an abiding possession** ("I can always return"); without repeatable **potential** evidence there is "no fixed and abiding being" (§27). The **In-Itself** of object and truth refers to potential, infinitely repeatable evidences in the Ego, not to one de facto act.
+
+World-objects are given only in **external experience**, essentially **one-sided**. No synthesis completes as adequate evidence; non-existence remains an open possibility. An actual Object / the world is an **infinite idea**, correlate of the idea of a **perfect experiential evidence** (§28). Formal and material ontological regions are **indexes** pointing to transcendental systems of evidence (§29).
+
+Phenomenology's first stage is still "infected with a certain naïveté (the naïveté of apodicticity)" (§63); criticism of the *modes* of apodicticity is deferred. There is no vicious infinite regress of that criticism.
+
 ## Against Rationalism, Empiricism, and Kantianism
 
 - **Against rationalism (Descartes, Leibniz)**: Pure rational construction is insufficient; knowledge requires intuitive fulfillment, not merely logical derivation from clear and distinct ideas.
@@ -62,7 +74,7 @@ All knowledge presupposes the **Lebenswelt** as its unthematised background. Kno
 
 ## How Different Thinkers Use This
 
-- **[[Thinkers/Descartes]]**: Husserl's apodicticity echoes Cartesian indubitability but differs: Husserl's apodictic evidence is phenomenologically *local* (this experience, now) and does not extend to a priori truths about the external world via the cogito. Husserl rejects Descartes' project of rebuilding all knowledge on a solitary apodictic foundation.
+- **[[Thinkers/Descartes]]**: Husserl keeps the demand for an absolutely grounded first philosophy and the *ego sum* as first apodictic basis. He rejects the *use* of that basis: no deduction of the world from an axiom, no *veracitas Dei*. Apodicticity is local (living present); world-evidence is presumptive. The project of an all-embracing genuine science is *not* dropped — it is refashioned as self-investigation (§64).
 - **[[Thinkers/David Hume]]**: Husserl credits Hume with being "on the right track" on abstraction (recognizing resemblance-based generalization) but charges him with lacking the distinctions needed to avoid psychologism: without separating the ideal species *Red*, the moment of redness in this object, the object, and the concept of red, Hume's "ideas" collapsed everything into mental imagery.
 - **[[Thinkers/W.V.O. Quine]]**: Quine's naturalized epistemology and rejection of the a priori directly conflict with Husserl's eidetic intuition and categorial intuition. For Quine, all knowledge is in principle empirically revisable; for Husserl, material and formal essences yield genuine a priori necessary truths. See [[Concepts/Naturalized Epistemology and the Web of Belief (Quine)]].
 
@@ -74,6 +86,7 @@ All knowledge presupposes the **Lebenswelt** as its unthematised background. Kno
 ## Sources
 
 - [[Sources/Husserl - David Woodruff Smith (2013)]]
+- [[Sources/Cartesian Meditations - Edmund Husserl]]
 
 ## Related
 

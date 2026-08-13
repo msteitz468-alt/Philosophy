@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, phenomenology, consciousness, self-consciousness, recognition, master-slave, absolute-knowing, primary-source]
-sources: ["Phenomenology of Mind - J B Baillie.txt"]
+sources: ["Phenomenology of Mind - J B Baillie.md"]
 ---
 
 # Phenomenology of Spirit - Hegel (1807)

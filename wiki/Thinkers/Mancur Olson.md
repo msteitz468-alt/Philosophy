@@ -4,7 +4,7 @@ type: thinker
 domains: [political-philosophy, economics, sociology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["The Rise and Decline of Nations (Mancur Olson).txt", "The Calculus of Consent (Buchanan, Tullock).txt"]
+sources: ["The Rise and Decline of Nations (Mancur Olson).md", "The Calculus of Consent (Buchanan, Tullock).md"]
 tags: [philosophy, public-choice, economics, collective-action, institutional-sclerosis]
 ---
 

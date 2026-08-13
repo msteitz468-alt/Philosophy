@@ -5,7 +5,7 @@ created: "2026-06-29"
 updated: "2026-06-29"
 domains: [philosophy-of-language, epistemology]
 tags: [wittgenstein, contextualism, semantics, proper-names, bridges, travis]
-sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md"]
 ---
 
 # Semantic Contextualism (Wittgenstein)

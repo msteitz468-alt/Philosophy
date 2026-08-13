@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 2
 created: "2026-06-03"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [thomas-aquinas, beatific-vision, last-end, beatitude, happiness, grace, scholasticism, ethics, theology]
-sources: ["Summa Theologica, Part I-II - Saint Thomas Aquinas.txt", "Thomas Aquinas - Summa Theologica.txt"]
+sources: ["Summa Theologica, Part I-II - Saint Thomas Aquinas.md", "Thomas Aquinas - Summa Theologica.md"]
 ---
 
 # Beatific Vision / Last End (Aquinas)
@@ -99,6 +99,8 @@ Strong "Research," "Reading a book," "Personal," and meta "LLM Wiki" use cases p
 
 - [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]]
 - [[Thinkers/Thomas Aquinas]]
+- [[Thinkers/Pseudo-Dionysius]] / [[Concepts/Divine Darkness and Unknowing (Dionysius)]] — Aquinas comments *Divine Names*; his last end is *visio* of the essence, Dionysius's last word is Darkness that "outshines all brilliance." Both poles of the Latin mystical debt.
+- [[Sources/The Mystical Theology and The Divine Names - Dionysius the Areopagite]]
 - [[Sources/Aristotle - Nicomachean Ethics (Book I)]]
 - [[Thinkers/Aristotle]]
 - [[Concepts/Eudaimonia]] (enriched: Aristotelian eudaimonia completed by beatific vision)

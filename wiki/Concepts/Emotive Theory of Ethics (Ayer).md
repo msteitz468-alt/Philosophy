@@ -3,11 +3,11 @@ title: "Emotive Theory of Ethics (Ayer)"
 type: concept
 domains: [ethics, philosophy-of-language]
 schools: [Logical Positivism, Non-Cognitivism]
-source_count: 1
+source_count: 2
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [ayer, emotivism, metaethics, non-cognitivism, ethics, moral-language, meaning, logical-positivism, value]
-sources: ["Language, Truth and Logic - A. J. Ayer.txt"]
+sources: ["Language, Truth and Logic - A. J. Ayer.md", "The Meaning of Meaning - Ogden and Richards (1923).md"]
 ---
 
 # Emotive Theory of Ethics (Ayer)
@@ -15,6 +15,8 @@ sources: ["Language, Truth and Logic - A. J. Ayer.txt"]
 > Normative ethical symbols are pseudo-concepts: they add no factual content to a sentence. "Stealing is wrong" does not describe a fact or express a proposition at all — it expresses (and excites) a feeling of moral disapproval. Ethical judgments are neither true nor false.
 
 ## The Core Argument
+
+**Ancestor.** Thirteen years earlier, [[Thinkers/C. K. Ogden]] and [[Thinkers/I. A. Richards]] had drawn the [[Concepts/Symbolic and Emotive Functions of Language (Ogden-Richards)|symbolic vs emotive]] cut and applied the claim-to-truth test: if "Is this true or false in the ordinary strict scientific sense?" is clearly irrelevant, the use is emotive. Ch. VI already treats Moorean indefinable `good` as standing "for nothing whatever"; Ch. VII treats Beauty the same way. Ayer's contribution is to route that cut through the [[Concepts/Verification Principle (Ayer)|verification principle]] and to make ethics, not aesthetics, the paradigm. He is sharper (ethical symbols are *pseudo-concepts*, neither true nor false) and less hospitable to mixed uses than they were.
 
 Ayer begins from the verification principle. Normative ethical claims ("x is good," "you ought to do y") are not analytic (their truth does not follow from definitions alone) and are not empirically verifiable (no possible observation settles whether stealing is wrong, independent of any factual claim about consequences or feelings). They are therefore *not literally significant* as propositions.
 
@@ -83,9 +85,11 @@ In the Appendix, Ayer acknowledges the theory is presented "in a very summary wa
 
 ## Sources
 - [[Sources/Language, Truth and Logic - A.J. Ayer (1936)]]
+- [[Sources/The Meaning of Meaning - Ogden and Richards (1923)]] — the symbolic/emotive ancestor
 
 ## Related
 - [[Thinkers/A.J. Ayer]]
+- [[Thinkers/C. K. Ogden]], [[Thinkers/I. A. Richards]], [[Concepts/Symbolic and Emotive Functions of Language (Ogden-Richards)]]
 - [[Concepts/Verification Principle (Ayer)]], [[Concepts/Metaphysics as Meaningless (Ayer)]]
 - [[Thinkers/Kant]], [[Concepts/Duty (Kant)]], [[Concepts/Categorical Imperative - Universal Law Formulation (Kant)]]
 - [[Thinkers/Aristotle]], [[Concepts/Eudaimonia]]

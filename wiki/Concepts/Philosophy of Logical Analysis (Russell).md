@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [russell, analytic-philosophy, logical-analysis, logic, science, empiricism, epistemology, truth, cosmic-impiety, modern, twentieth-century]
-sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 ---
 
 # Philosophy of Logical Analysis (Russell)

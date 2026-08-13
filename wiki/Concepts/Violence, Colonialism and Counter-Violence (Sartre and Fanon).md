@@ -4,7 +4,7 @@ type: concept
 domains: [political-philosophy, ethics, postcolonial-theory]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Sartre (Ruud Welten).txt"]
+sources: ["Sartre (Ruud Welten).md"]
 tags: [philosophy, sartre, fanon, violence, colonialism, racism, terrorism, decolonisation]
 ---
 

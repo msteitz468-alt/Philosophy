@@ -4,7 +4,7 @@ type: concept
 domains: [ontology, phenomenology, social-philosophy]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [philosophy, heidegger, das-man, everydayness, inauthenticity]
 ---
 
@@ -35,7 +35,7 @@ These constitute **falling prey** (*Verfallen*, Stambaugh: "entanglement") — e
 
 - **[[Thinkers/Descartes]] / [[Thinkers/Edmund Husserl]]**: both start from an ego given prior to others; Heidegger inverts this — *Mitsein* is equiprimordial with being-in-the-world, and the everyday self is the they-self, so the "I" is an achievement, not a datum. Husserl's problem of [[Concepts/Intersubjectivity and the Life-World (Husserl)|intersubjectivity]] (constituting the other from the ego) is dissolved rather than solved.
 - **[[Thinkers/Jean-Paul Sartre]]**: transposes das Man into [[Concepts/Bad Faith (Mauvaise Foi) (Sartre)|bad faith]] and [[Concepts/The Look and the Other (Sartre)|the Look]], but makes the relation to the Other fundamentally conflictual, where Heidegger's being-with is neutral and even the ground of solicitude.
-- **[[Thinkers/Søren Kierkegaard]]** (where present in the vault): the analysis of "the public" and leveling anticipates das Man; Heidegger ontologizes what Kierkegaard moralized.
+- **[[Thinkers/Søren Kierkegaard]]**: the analysis of "the public" and leveling anticipates das Man; Heidegger ontologizes what Kierkegaard moralized. *Fear and Trembling* is the isolation-side of that contrast (the single individual who cannot speak), not the public-side. *A Literary Review* / *The Present Age* is still the hole for leveling. See [[Concepts/The Single Individual (Kierkegaard)]].
 
 ## Contradictions / Open Questions
 

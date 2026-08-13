@@ -6,7 +6,7 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-04"
 tags: [marcus-aurelius, stoicism, philosopher-king, meditations, roman-emperor, biography, antonine-dynasty, classical, 2nd-century-ad]
-sources: ["marcus_aurelius_biography_lord_rag.md", "Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.txt"]
+sources: ["marcus_aurelius_biography_lord_rag.md", "Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.md"]
 ---
 
 # Marcus Aurelius — Biography (Lord)

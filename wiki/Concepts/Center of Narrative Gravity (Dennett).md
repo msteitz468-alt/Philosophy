@@ -5,7 +5,7 @@ domains: [philosophy-of-mind, cognitive-science, philosophy-of-language, ethics]
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [dennett, self, narrative, center-of-gravity, identity, MPD, substrate-independence, memes, extended-phenotype]
-sources: ["Consciousness Explained - Daniel C. Dennett.txt"]
+sources: ["Consciousness Explained - Daniel C. Dennett.md"]
 ---
 
 # Center of Narrative Gravity (Dennett)

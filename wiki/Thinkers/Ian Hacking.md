@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [hacking, entity-realism, scientific-realism, experiment, intervention, representation, observation, philosophy-of-science, kuhn, feyerabend, lakatos]
-sources: ["Representing And Intervening Introductory - Ian Hacking.txt"]
+sources: ["Representing And Intervening Introductory - Ian Hacking.md"]
 ---
 
 # Ian Hacking
@@ -45,6 +45,10 @@ sources: ["Representing And Intervening Introductory - Ian Hacking.txt"]
 - **AI/agentic**: Distinguishes model-as-picture (representation) from model-as-tool (intervention). Agents can be "entity realists" about their tools (retrievers, simulators, verifiers) even when skeptical of any single overarching "theory" the system embodies. Experiment-style iteration (create stable phenomena by refining prompts/apparatus) is often more powerful than pure representational refinement.
 - **Philosophy of science leg**: Completes a crucial missing practical/experimental dimension alongside the rationality debates (Popper–Kuhn–Feyerabend) and the critique of positivism (Ayer–Quine). Shifts emphasis from "is the theory true?" to "what can we do with the posited entities?"
 
+## Making Up People (from Foucault, *History of Sexuality* I)
+
+The vault does not yet have Hacking's historical-ontology essays as a primary source. *The History of Sexuality* I supplies the canonical case those essays later generalize. "As defined by the ancient civil or canonical codes, sodomy was a category of forbidden acts; their perpetrator was nothing more than the juridical subject of them. The nineteenth-century homosexual became a personage, a past, a case history, and a childhood… The sodomite had been a temporary aberration; the homosexual was now a species" (Hurley p. 43; Westphal 1870). Around it, an entomology of minor perverts (Krafft-Ebing, Rohleder) and four personage-types: hysterical woman, masturbating child, Malthusian couple, perverse adult. Kinds are produced inside tactics of power-knowledge, then inhabited — including as "reverse" discourse (p. 101). See [[Concepts/Deployment of Sexuality (Foucault)]], [[Concepts/History of Sexuality (Foucault)]].
+
 ## Related
 
 - [[Sources/Representing and Intervening - Ian Hacking (1983)]] (primary)
@@ -53,5 +57,8 @@ sources: ["Representing And Intervening Introductory - Ian Hacking.txt"]
 - [[Sources/Against Method - Paul Feyerabend]], [[Thinkers/Thomas Kuhn]], [[Thinkers/Paul Feyerabend]], [[Thinkers/Karl Popper]]
 - [[Contradictions/Popper vs Kuhn - Falsification vs Paradigms]]
 - [[Concepts/Incommensurability (Kuhn)]]
+- [[Thinkers/Michel Foucault]] — "the homosexual was now a species" as making-up-people case (HS1); historical ontology as a milder cousin of genealogy
+- [[Concepts/History of Sexuality (Foucault)]]
+- [[Concepts/Genealogy (Foucault)]]
 
 *Thinker page created 2026-06-04 during ingest of* Representing and Intervening. *The vault's primary source for experimental/entity realism and the practice turn that complements its representation- and rationality-focused philosophy-of-science cluster.*

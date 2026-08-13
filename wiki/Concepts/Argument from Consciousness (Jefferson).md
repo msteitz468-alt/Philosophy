@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [turing, jefferson, consciousness, solipsism, viva-voce, feeling, know-that-it-had-written-it, 1949, 1950]
-sources: ["Computing Machinery and Intelligence - Alan Turing.txt"]
+sources: ["Computing Machinery and Intelligence - Alan Turing.md"]
 ---
 
 # Argument from Consciousness (Jefferson)

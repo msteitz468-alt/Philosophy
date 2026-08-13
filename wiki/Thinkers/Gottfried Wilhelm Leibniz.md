@@ -6,9 +6,9 @@ schools: [Rationalism]
 domains: [metaphysics, logic, philosophy-of-mind]
 source_count: 1
 created: "2026-06-11"
-updated: "2026-06-11"
+updated: "2026-08-12"
 tags: [leibniz, rationalism, monadology, metaphysics, logic, optimism]
-sources: ["Discourse on Metaphysics and Monadology - Leibniz.txt"]
+sources: ["Discourse on Metaphysics and Monadology - Leibniz.md", "Cartesian Meditations - Edmund Husserl.md"]
 ---
 
 # Gottfried Wilhelm Leibniz
@@ -25,8 +25,14 @@ sources: ["Discourse on Metaphysics and Monadology - Leibniz.txt"]
 - Resolved the mind-body problem by asserting that God pre-programmed the actions of all monads so that they run in perfect coordination (**Pre-Established Harmony**), like two perfectly synchronized clocks, without direct interaction. See [[Concepts/Pre-Established Harmony (Leibniz)]].
 
 **The Principle of Sufficient Reason & Optimism**:
-- Formulated the **Principle of Sufficient Reason**: nothing happens without a reason why it should be so rather than otherwise.
+- Formulated the **Principle of Sufficient Reason**: nothing happens without a reason why it should be so rather than otherwise. Schopenhauer (*Fourfold Root* §12) grants that Leibniz first *formally* advanced it, then says he "knew nothing further" than the slogan; Wolff's formula is kept as an abstraction over four roots, and God-as-reason of the *totality* is exactly what FR §52 forbids. See [[Concepts/Fourfold Root of the Principle of Sufficient Reason (Schopenhauer)]].
 - Argued that since God is all-powerful, all-knowing, and all-good, He chose to create the **best of all possible worlds**, resolving the problem of evil by claiming that some apparent evils are logically necessary for the greater good of the whole.
+
+## Husserl's Borrowing (*Cartesian Meditations*, 2026-08-12)
+
+[[Sources/Cartesian Meditations - Edmund Husserl]] takes the **name** monad for the ego "in full concreteness" (pole + habitualities + intentional life and meant objects, §33) and, after the Fifth Meditation, lets transcendental idealism "present itself as a **monadology**" (§62). The content is "drawn purely from phenomenological explication," "despite all our deliberate suggestions of Leibniz's metaphysics."
+
+What is kept: monads are **absolutely separate** as really inherent unities (the windowless *de re*); infinitely many monads/worlds are conceivable but **incompossible** as co-actual; hence only one Objective world (§60). What is refused: pre-established harmony as a created device, influx, and speculative construction. Communion is **intentional**, not causal; "harmony" is harmonious *confirmation* of experience. I can only *find* others, not create them. See [[Concepts/Monad (Leibniz)]], [[Concepts/Pairing and Analogical Appresentation (Husserl)]], [[Concepts/Transcendental Idealism (Husserl)]].
 
 ## Relevance to Vault
 
@@ -41,6 +47,7 @@ sources: ["Discourse on Metaphysics and Monadology - Leibniz.txt"]
 - [[Thinkers/Descartes]] — fellow rationalist
 - [[Thinkers/Spinoza]] — monist counterpart
 - [[Thinkers/Arthur O. Lovejoy]] — history of the Chain
+- [[Thinkers/Edmund Husserl]] / [[Sources/Cartesian Meditations - Edmund Husserl]] — name borrowed; harmony transformed into confirmation
 
 ## Contradictions / Open Questions
 - > [!warning] Conflicts with [Spinoza](file:///home/mark/Documents/Philosophy/wiki/Thinkers/Spinoza.md) on whether there is only one infinite substance (monism) or an infinite number of simple substances (pluralism).

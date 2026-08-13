@@ -4,7 +4,7 @@ type: source-summary
 domains: [ai, cognitive-science, futurism, transhumanism, existential-risk, technology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Singularity is Near - Ray Kurzweil [Ray Kurzweil].txt"]
+sources: ["The Singularity is Near - Ray Kurzweil [Ray Kurzweil].md"]
 tags: [kurzweil, singularity-is-near, law-of-accelerating-returns, technological-singularity, mind-uploading, gnr, genetics-nanotechnology-robotics, exponential-growth, six-epochs, 2045, transhumanism, hofstadter, mitchell, bostrom, turing, minsky]
 ---
 
@@ -16,7 +16,7 @@ tags: [kurzweil, singularity-is-near, law-of-accelerating-returns, technological
 
 - **Author**: Ray Kurzweil, inventor, futurist, author of *The Age of Intelligent Machines* (1990), *The Age of Spiritual Machines* (1999); now a director of engineering at Google (AI focus).
 - **Publication**: Viking (Penguin), 2005.
-- **Raw file**: `The Singularity is Near - Ray Kurzweil [Ray Kurzweil].txt` (full text).
+- **Raw file**: `The Singularity is Near - Ray Kurzweil [Ray Kurzweil].md` (full text).
 - **Domain position**: The canonical optimistic/singularitarian vision in the vault's AI & Cognitive Science leg. Explicitly engaged by later sources: Mitchell's 2019 book (personal account of 2014 Google AI meeting with Kurzweil/hype and Hofstadter's "terror" at it; Mitchell as skeptical corrective on limits/hype cycles); Bostrom's *Superintelligence* (critiques Kurzweil-style timelines and assumptions of convergence to beneficial outcomes). Builds on Turing (predictions of machine surpassing humans) and Minsky (AI history). Contrasts with Wiener (early alignment warnings) and Pearl (exponential data vs. causal understanding). Recent 2026 AI sources (Grok/Claude/Gemini tutorials) often echo exponential progress ideas.
 
 ## Core Thesis
@@ -84,7 +84,7 @@ The book is encyclopedic, data-heavy, and unapologetically optimistic about tran
 
 ## Sources
 
-- Raw: `The Singularity is Near - Ray Kurzweil [Ray Kurzweil].txt`
+- Raw: `The Singularity is Near - Ray Kurzweil [Ray Kurzweil].md`
 
 ## Related
 

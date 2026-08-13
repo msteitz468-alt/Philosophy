@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [locke, knowledge, perception, agreement, disagreement, ideas, degrees, existence, epistemology, early-modern]
-sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.txt"]
+sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.md"]
 ---
 
 # Knowledge as Perception of Agreement or Disagreement of Ideas (Locke)

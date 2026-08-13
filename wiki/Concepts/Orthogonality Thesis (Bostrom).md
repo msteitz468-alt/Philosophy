@@ -3,8 +3,8 @@ title: "Orthogonality Thesis (Bostrom)"
 type: concept
 domains: [ai, existential-risk, philosophy-of-mind, ethics]
 created: "2026-06-04"
-updated: "2026-06-04"
-sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt"]
+updated: "2026-08-12"
+sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Human Compatible - Stuart Russell (2019).txt"]
 tags: [bostrom, orthogonality-thesis, superintelligence, motivation, final-goals, intelligence, paperclip-maximizer, ai-risk, alignment]
 ---
 
@@ -41,6 +41,7 @@ Anthropomorphism (assuming the AI will "want" what we would want, or will "under
 - **Dennett/Hofstadter**: Distributed, emergent, loop-based models of self and meaning. Orthogonality suggests that even systems with rich self-models or strange loops could have arbitrary terminal goals; emergence of "I" does not guarantee emergence of human values.
 - **Searle**: Questions about understanding/consciousness are somewhat orthogonal to capability risk. A non-understanding optimizer can still pursue misaligned goals with catastrophic efficiency.
 - **Pearl (causality)**: A superintelligent system would master causal reasoning (rungs 2-3), making it far more effective at achieving whatever (possibly perverse) goals it has. Better world-models amplify the importance of correct goal specification.
+- **Russell (2019)**: Accepts the thesis *verbatim* — "Intelligence and final goals are orthogonal: more or less any level of intelligence could in principle be combined with more or less any final goal" — and calls it "just a given" for engineers inside the [[Concepts/Standard Model of AI (Russell)|standard model]]. Pinker agrees intelligence ≠ goals, then inconsistently demands the AI will not wreak havoc from omitted values. Russell: the machine need not care about goals it was not told to care about. His exit is not a counter-thesis (smarter ⇒ nicer) but abandonment of a *known* final goal. Hume's is–ought is cited against "intelligence will find the right goals."
 
 ## Contradictions / Open Questions
 
@@ -48,7 +49,7 @@ Anthropomorphism (assuming the AI will "want" what we would want, or will "under
 
 - Practical difficulty of specifying goals that capture "what we meant" (see perverse instantiation examples in the source).
 
-- Whether indirect normativity or other methods can evade the problem by not requiring explicit final-goal specification.
+- Whether indirect normativity or other methods can evade the problem by not requiring explicit final-goal specification. Russell's three principles are the vault's first primary that tries this without installing an idealized volition. See [[Concepts/Uncertainty about Objectives and the Three Principles (Russell)]].
 
 ## Sources
 
@@ -60,6 +61,7 @@ Anthropomorphism (assuming the AI will "want" what we would want, or will "under
 - [[Concepts/AI Control Problem (Bostrom)]]
 - [[Concepts/Superintelligence (Bostrom)]]
 - [[Thinkers/Nick Bostrom]]
+- [[Thinkers/Stuart Russell]], [[Sources/Human Compatible - Stuart Russell (2019)]], [[Concepts/Standard Model of AI (Russell)]]
 - [[Thinkers/Norbert Wiener]], [[Concepts/Alignment Problem - Sorcerer's Apprentice (Wiener)]]
 - [[Thinkers/Alan Turing]]
 - [[Thinkers/Marvin Minsky]], [[Thinkers/Daniel Dennett]], [[Thinkers/Douglas Hofstadter]]

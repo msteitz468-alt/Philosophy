@@ -3,8 +3,8 @@ title: "Theurgy (Iamblichus)"
 type: concept
 domains: [philosophy-of-religion, metaphysics]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Neo-Platonism - Wallis, Richard T., -1985.md"]
+updated: "2026-08-12"
+sources: ["Neo-Platonism - Wallis, Richard T., -1985.md", "The Mystical Theology and The Divine Names - Dionysius the Areopagite.md"]
 tags: [theurgy, iamblichus, porphyry, chaldaean-oracles, neoplatonism, ritual, grace]
 ---
 
@@ -22,7 +22,7 @@ Wallis defines theurgy as ritual magic justified by the magical Principle of Cor
 - **Iamblichus (*De Mysteriis*)**: thought does not unite us with the gods — "the vital union depends not on this, but on performance of the appropriate ritual actions" (II.11). Union comes by the gods' voluntary bestowal of power: salvation depends on divine grace, not human effort. This coheres with his denial of the undescended soul (see [[Concepts/The Undescended Soul (Plotinus vs Iamblichus)]]): a fully fallen soul cannot climb back by intellect alone.
 - **Proclus** added the theurgic virtues of faith, truth, and love (*pistis, alētheia, erōs*) from the *Chaldaean Oracles*, including *erōs pronoētikos*, the providential descending love of higher for lower — a stress on grace foreign to Plotinus.
 
-Wallis notes theurgy differs from Christian sacramentalism in relying on the natural world-order (cosmic correspondence), not supernatural intervention — yet Pseudo-Dionysius's sacramental hierarchy visibly echoes it.
+Wallis notes theurgy differs from Christian sacramentalism in relying on the natural world-order (cosmic correspondence), not supernatural intervention — yet Pseudo-Dionysius's sacramental hierarchy visibly echoes it. The ingested *Divine Names* / *Mystical Theology* are the contemplative half of that echo (prayer as drawing the soul up, DN III.1; Moses' staged ascent, MT I). The *Celestial* and *Ecclesiastical Hierarchy* — the ritual half — are still uningested. Sparrow-Simpson's influence essay does not treat theurgy vs contemplation.
 
 ## Contradictions / Open Questions
 

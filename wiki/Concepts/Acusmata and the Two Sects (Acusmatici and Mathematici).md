@@ -4,7 +4,7 @@ type: concept
 domains: [religion, history-of-philosophy, ethics]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).md", "Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [acusmata, symbola, acusmatici, mathematici, hippasus, pythagoras, ritual, taboo, secrecy, iamblichus, nicomachus, burkert, zhmud]
 ---
 

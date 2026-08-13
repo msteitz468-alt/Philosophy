@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [feyerabend, separation-of-science-and-state, free-society, relativism, science-as-tradition, against-reason, democracy, pluralism, philosophy-of-science]
-sources: ["Against Method - Paul Feyerabend.txt"]
+sources: ["Against Method - Paul Feyerabend.md"]
 ---
 
 # Separation of Science and State (Feyerabend)

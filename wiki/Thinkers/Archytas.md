@@ -6,7 +6,7 @@ schools: [Pythagoreanism]
 domains: [mathematics, harmonics, politics, philosophy-of-science]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).md", "Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [archytas, pythagoreanism, mathematics, harmonics, tarentum, plato, quadrivium, delian-problem]
 ---
 

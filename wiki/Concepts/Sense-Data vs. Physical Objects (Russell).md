@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [russell, epistemology, sense-data, appearance-reality, perception, realism, idealism, matter, analytic-philosophy, modern]
-sources: ["The Problems of Philosophy - Bertrand Russell.txt"]
+sources: ["The Problems of Philosophy - Bertrand Russell.md"]
 ---
 
 # Sense-Data vs. Physical Objects (Russell)
@@ -41,6 +41,18 @@ Two questions then drive chapters II–III: **(1) Is there a real table at all?*
 - **Empiricist kin** ([[Concepts/Impressions and Ideas - Copy Principle (Hume)]]): sense-data ≈ Hume's impressions; but Russell builds a structural realism on top, not Humean scepticism.
 - **Forward link**: "physical object = the cause of our sense-data, knowable only as to structure" anticipates Russell's later **structural realism** and 20th-c. debates about the manifest vs. scientific image.
 
+## The Sellarsian Rebuttal (1956)
+
+> [!warning] This concept is the principal target of [[Arguments/Inconsistent Triad in Sense-Datum Theories (Sellars)]]. [[Thinkers/Wilfrid Sellars]] argues that the classical sense datum is "a mongrel resulting from a crossbreeding of two ideas" — an unlearned inner episode that explains perception, and a non-inferential *knowing* that founds empirical knowledge — and that nothing can be both. His inconsistent triad: (A) sensing a red sense content entails non-inferentially knowing it is red; (B) the ability to sense is unacquired; (C) the ability to know facts of the form *x is φ* is acquired. Any two entail the denial of the third.
+
+Three specific pressures on the page above:
+
+1. **What is known is always a fact, never a particular.** Sellars: "what is known, even in non-inferential knowledge, is *facts* rather than particulars." So "sensing a sense datum" cannot by itself constitute knowledge, and the epistemic work Russell assigns to acquaintance has to be done by something with propositional form.
+2. **The order of analysis is reversed.** Russell moves from appearance to inferred object. Sellars argues in [[Concepts/The Logic of Looks (Sellars)]] that "the concept of *looking* green… presupposes the concept of *being* green," so appearance-talk is parasitic on object-talk, not its foundation. The "colour which it *looks* to have" and "the one it *really does* have" are the same sense of "red."
+3. **The act/object distinction survives; its epistemic payload does not.** Sellars grants exactly what Russell used against Berkeley — that the object sensed need not be mental. What he denies is that the object side can carry justificatory weight. See [[Concepts/Myth of the Given (Sellars)]].
+
+Notably, Sellars does *not* simply discard sense contents. In §§61–62 he suggests that the sense-datum theorist's particulars may find a home as posits of a future micro-theory of sentient organisms ([[Concepts/Scientia Mensura (Sellars)]]) — vindicated as theoretical entities, never as the *given*. The sense-datum philosopher's error was "dislocating" a theoretical achievement into "a 'discovery' that there are such things."
+
 ## Vault / AI / Personal Relevance
 
 - **Appearance/reality as a maintenance reflex**: the table that "is not what it seems" is a useful emblem for the vault's verify discipline — what a single source *reports* (appearance) vs. the cross-checked, inferred reality. Sense-data ≈ raw observations; physical object ≈ the inferred entity the wiki actually tracks.
@@ -52,7 +64,8 @@ Two questions then drive chapters II–III: **(1) Is there a real table at all?*
 - [[Sources/The Problems of Philosophy - Bertrand Russell (1912)]], [[Thinkers/Bertrand Russell]]
 - [[Concepts/Knowledge by Acquaintance and Knowledge by Description (Russell)]], [[Concepts/Correspondence Theory of Truth (Russell)]], [[Concepts/The Value of Philosophy (Russell)]]
 - [[Concepts/Primary and Secondary Qualities (Locke)]], [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Cogito (Descartes)]], [[Concepts/Impressions and Ideas - Copy Principle (Hume)]], [[Concepts/Mitigated Scepticism (Hume)]]
-- [[Thinkers/Locke]], [[Thinkers/Descartes]], [[Thinkers/Hume]]
+- [[Thinkers/Locke]], [[Thinkers/Descartes]], [[Thinkers/Hume]], [[Thinkers/Wilfrid Sellars]]
+- [[Arguments/Inconsistent Triad in Sense-Datum Theories (Sellars)]], [[Concepts/Myth of the Given (Sellars)]], [[Concepts/The Logic of Looks (Sellars)]]
 - [[Concepts/Philosophy of Logical Analysis (Russell)]]
 - [[GROK]] (appearance vs. cross-checked reality; sense-data ≈ raw observation, physical object ≈ inferred tracked entity; structure-only knowledge as a representation humility clause)
 

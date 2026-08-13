@@ -8,7 +8,7 @@ source_count: 17
 created: "2026-06-03"
 updated: "2026-07-01"
 tags: [philosophy, classical, ancient-greece, plato, c427-347bce, ethics, political-philosophy, metaphysics, epistemology, pythagoreanism]
-sources: ["Plato - Timaeus & Critias (Oxford, 2008).docx", "Plato - Republic (Cambridge, 2000).pdf", "plato_five_dialogues_rag.md", "plato_gorgias_rag.md", "plato_ion_hippias_laches_protagoras_rag.md", "plato_clitophon_rag.md", "laws.md", "meno.md", "parmenides.md", "phaedo.md", "Plato - Theaetetus.md", "gemini-code-1780529044073.yaml", "gemini-code-1780529148704.yaml", "Symposium - Plato.txt", "Phaedrus - Plato.txt", "Sophist - Plato.txt", "Statesman - Plato.txt", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Plato - Timaeus & Critias (Oxford, 2008).docx", "Plato - Republic (Cambridge, 2000).pdf", "plato_five_dialogues_rag.md", "plato_gorgias_rag.md", "plato_ion_hippias_laches_protagoras_rag.md", "plato_clitophon_rag.md", "laws.md", "meno.md", "parmenides.md", "phaedo.md", "Plato - Theaetetus.md", "gemini-code-1780529044073.yaml", "gemini-code-1780529148704.yaml", "Symposium - Plato.md", "Phaedrus - Plato.md", "Sophist - Plato.md", "Statesman - Plato.md", "A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Plato
@@ -91,6 +91,9 @@ New domain entry (classical philosophy / "reading a book" use case per [[GROK]])
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]] (Laws, Gorgias, Five Dialogues, Parmenides, Philebus, Theaetetus, etc.)
 - [[Sources/Symposium - Plato]], [[Sources/Phaedrus - Plato]], [[Sources/Sophist - Plato]], [[Sources/Statesman - Plato]]
 - [[Thinkers/Aristotle]] — student of Plato; critic of Forms and teleology
+- [[Thinkers/Socrates]] — Hadot’s figure (not a reconstructed biography): *Symposium* Socrates as prototype of philosophy as a way of life; irony and dialogue as spiritual exercises. See [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]].
+- [[Thinkers/Nietzsche]] / [[Sources/Twilight of the Idols - Nietzsche (Kaufmann)]] — "I, Plato, am the truth" (True World fable, stage 1); "Plato is a coward before reality, consequently he flees into the ideal; Thucydides has control of himself." Ancients: stylistic decadent, "pseudo-Christian," bridge to the Cross. See [[Concepts/How the True World Became a Fable (Nietzsche)]].
+- [[Thinkers/Pierre Hadot]] — dialogues as *model* exercises (form more than inform); two-millennium exegesis of Plato as the engine of Western philosophy; [[Concepts/Creative Mistakes and Philosophical Exegesis (Hadot)]].
 - [[Thinkers/Plotinus]] — "Plato redivivus"; Neoplatonism as systematic Platonism
 - [[Thinkers/Epicurus]] / [[Thinkers/Lucretius]] — direct materialist counterpoint (blind atoms vs. demiurge/Forms)
 - [[Thinkers/Parmenides]] — target of the "parricide" in the Sophist

@@ -5,7 +5,7 @@ status: complete
 domains: [ontology, phenomenology, existentialism, epistemology, philosophy-of-time]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [philosophy, heidegger, phenomenology, ontology]
 ---
 

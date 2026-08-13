@@ -4,7 +4,7 @@ type: concept
 domains: [ai, technology, futurism, philosophy-of-technology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Inevitable_ Understanding the 12 Techn - Kevin Kelly.txt"]
+sources: ["The Inevitable_ Understanding the 12 Techn - Kevin Kelly.md"]
 tags: [kevin-kelly, cognifying, ai, cheap-intelligence, electrification-analogy, dumb-but-tireless, the-inevitable]
 ---
 

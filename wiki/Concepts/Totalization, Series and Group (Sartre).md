@@ -4,7 +4,7 @@ type: concept
 domains: [political-philosophy, social-ontology, philosophy-of-history, marxism]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Sartre (Ruud Welten).txt"]
+sources: ["Sartre (Ruud Welten).md"]
 tags: [philosophy, sartre, totalisation, series, group, fraternity-terror, praxis, marxism, critique-of-dialectical-reason]
 ---
 

@@ -6,7 +6,7 @@ source_count: 18
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [classical-philosophy, plato, stoicism, epictetus, seneca, marcus-aurelius, dialogues, ethics, politics]
-sources: ["epictetus_enchiridion_rag.md", "epictetus_fragments_rag.md", "epictetus_golden_sayings_rag.md", "laws.md", "marcus_aurelius_biography_lord_rag.md", "meno.md", "parmenides.md", "phaedo.md", "plato_clitophon_rag.md", "plato_five_dialogues_rag.md", "plato_gorgias_rag.md", "plato_ion_hippias_laches_protagoras_rag.md", "Plato - Theaetetus.md", "seneca_letters_from_a_stoic_rag.md", "gemini-code-1780529044073.yaml", "gemini-code-1780529148704.yaml", "Letters and Sayings of Epicurus - Epicurus.txt", "The Enneads - Plotinus.txt"]
+sources: ["epictetus_enchiridion_rag.md", "epictetus_fragments_rag.md", "epictetus_golden_sayings_rag.md", "laws.md", "marcus_aurelius_biography_lord_rag.md", "meno.md", "parmenides.md", "phaedo.md", "plato_clitophon_rag.md", "plato_five_dialogues_rag.md", "plato_gorgias_rag.md", "plato_ion_hippias_laches_protagoras_rag.md", "Plato - Theaetetus.md", "seneca_letters_from_a_stoic_rag.md", "gemini-code-1780529044073.yaml", "gemini-code-1780529148704.yaml", "Letters and Sayings of Epicurus - Epicurus.md", "The Enneads - Plotinus.md"]
 ---
 
 # Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026
@@ -114,7 +114,7 @@ The "RAG" files appear to be prepared extracts/summaries, ideal for the wiki pat
 
 ## Epicurus and Epicureanism (Hellenistic Addition)
 
-**Letters and Sayings of Epicurus - Epicurus.txt** (Barnes & Noble 2005 compilation, trans./intro./notes by Odysseus Makridis; core texts ca. 305 BCE):
+**Letters and Sayings of Epicurus - Epicurus.md** (Barnes & Noble 2005 compilation, trans./intro./notes by Odysseus Makridis; core texts ca. 305 BCE):
 - Core Epicurean canon: Letter to Herodotus (atomist physics, empiricist epistemology, cosmology — infinite atoms/void, multiple worlds formed by blind collisions, swerve/clinamen for indeterminacy and free will, soul mortal, gods exist but uninvolved); Letter to Pythocles (celestial/meteorology with multiple natural explanations, anti-superstition method); Letter to Menoeceus (ethics — pleasure as natural good but prudent/ataraxia as goal of tranquility via absence of pain/fear; "death is nothing to us"; live unnoticed/lathe biosas; friendship highest; simple life, "pass your life making sure no one notices you"); Principal Doctrines (40 key maxims on physics/ethics); fragments on value of philosophy, atoms, soul, gods, society (contractarian, not naturally sociable contra Aristotle).
 - **Life/Context (from intro)**: Founded Garden school in Athens as community of mutual aid, trust, and modest pleasures (not commune; property private). Anti-elitist, accessible empiricism vs. Platonic mysticism or popular superstition/fear of gods/death/afterlife. Materialist, anti-teleological (blind self-organization). Historical influence on Newton (atoms/void), contractarianism (Hobbes/Locke), Jefferson. Often maligned as hedonist/atheist, but texts stress dignity, prudence, and peace of mind.
 - **Key Innovations**: Swerve for free will and collisions; verificationist epistemology (senses criterion; multiple explanations if evidence-consistent); refined hedonism (natural/necessary pleasures only; ataraxia as stable peace); "live unnoticed" as strategic withdrawal for tranquility.
@@ -131,7 +131,7 @@ Cross-references prior classical (Plato/Aristotle/Thucydides/Stoics) and expands
 
 ## Neoplatonism / Plotinus and The Enneads (Post-Hellenistic / Late Antique Addition)
 
-**The Enneads - Plotinus.txt** (structural/page-number reference or index for Plotinus' collected treatises, c. 204–270 CE; edited by Porphyry into 6 Enneads of 9 treatises each):
+**The Enneads - Plotinus.md** (structural/page-number reference or index for Plotinus' collected treatises, c. 204–270 CE; edited by Porphyry into 6 Enneads of 9 treatises each):
 
 - Minimal content in the file itself (mostly sequential numbers 3–26+ with whitespace; likely a skeleton, TOC, or page markers for the full *Enneads*). The title and classical context supply the signal: Plotinus as founder of Neoplatonism, the systematic late synthesis of Greek philosophy.
 - **Core System (inferred from title + vault classical thread)**: The One (transcendent, ineffable source/Good, beyond being and intellect) emanates (proodos) hierarchically without loss or will: One → Intellect (Nous: unity-in-multiplicity, realm of Forms as thoughts) → Soul (mediator, descent into bodies, capacity for return) → Nature/Matter (lowest image, privation, source of multiplicity/change). The soul's natural motion is return (epistrophe) via purification, virtue as "likeness to God," dialectic, and mystical contemplation leading to henosis (union, "flight of the alone to the Alone").

@@ -7,7 +7,7 @@ domains: [philosophy-of-mind, metaphysics, philosophy-of-science]
 source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [descartes, animal-machine, bete-machine, mechanism, language, reason, turing-test, imitation-game, philosophy-of-mind, discourse-on-method]
 ---
 
@@ -34,11 +34,19 @@ Descartes's language test is the recognizable seed of Alan Turing's operational 
 
 So Turing accepts Descartes's *criterion* (open-ended language use) while rejecting his *verdict* (that only an immaterial soul could meet it). This sharpens the standing [[Thinkers/Descartes]] ↔ [[Thinkers/Alan Turing]] contradiction over whether thought requires a *res cogitans* (see [[Concepts/Res Cogitans and Res Extensa (Descartes)]]). Descartes's universal-reason test — that mechanism cannot match reason's open, all-purpose applicability — also anticipates modern debates over the generality of intelligence (narrow AI vs. general reason).
 
+[[Thinkers/Hubert Dreyfus]] quotes the same *Discourse* robot passage and **inverts the moral**: what the machine lacks is "an involved, situated, material body," not an immaterial soul. See [[Concepts/Embodied Intelligence and the Role of the Body (Dreyfus)]].
+
+[[Thinkers/Anil Seth]] (*Being You*, 2021) inverts a different Cartesian claim: not the two tests (which he does not discuss) but the *irrelevance of life to mind*. Descartes's animals were *bêtes-machines* — flesh automatons without rational selfhood. Seth: "We are conscious selves precisely *because* we are beast machines." La Mettrie is named as the inversion's ancestor. See [[Concepts/Beast Machine Theory (Seth)]].
+
+[[Thinkers/Stanislas Dehaene]] (*Consciousness and the Brain*, 2014) takes the two tests as still standing and offers a laboratory reply: [[Concepts/Functions of Conscious Broadcasting (Dehaene)|broadcasting]] plus language answers the speech test; flexible serial routing (the "biological Turing machine") answers the universal-reason test. Ch. 7 then *grants* Descartes the composition-of-signs point as uniquely human — a nested language of thought, not access itself, which monkeys already have. The book opens by praising Descartes as the first synthetic biologist of the body and blaming him only for stopping at those two functions.
+
+[[Thinkers/Antonio Damasio]] does not discuss the two tests. His target is the *cogito*'s abyssal split, not the language/reason criteria. The *Passions* control-of-inclination thesis is accepted and naturalized. See [[Concepts/Descartes' Error (Damasio)]].
+
 ## How This Compares to Prior Thinkers
 
 - **Vs. Aristotle:** Aristotle grants animals a sensitive soul and shares reason (logos) with the human rational soul as one nested hierarchy of life; Descartes severs the continuity absolutely — animals have *no* soul in the sense of mind, only mechanism, and the rational soul is a distinct creation. Contrast the graded psuchē of [[Thinkers/Aristotle]].
 - **Vs. the scholastic "nothing in the intellect not first in the senses":** the universal-reason test reasserts that reason is not reducible to any arrangement of sensory/bodily organs.
-- **Vs. later mechanism (La Mettrie, *Man a Machine*):** La Mettrie extends the animal-machine to *man*, denying the exception Descartes reserved for the rational soul — the trajectory that runs toward computationalism and Turing.
+- **Vs. later mechanism (La Mettrie, *Man a Machine*):** La Mettrie extends the animal-machine to *man*, denying the exception Descartes reserved for the rational soul — the trajectory that runs toward computationalism and Turing. Seth takes La Mettrie's continuity (mind as a property of life) and *refuses* the computationalist sequel: silicon PP "beast machines" would probably not be conscious ([[Concepts/Machine Minds (Seth)]]).
 
 ## Relevance to Vault
 

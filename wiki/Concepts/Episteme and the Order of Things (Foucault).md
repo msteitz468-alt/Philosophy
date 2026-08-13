@@ -4,7 +4,7 @@ type: concept
 domains: [epistemology, philosophy, history of science]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Michel Foucault (David Macey).txt"]
+sources: ["Michel Foucault (David Macey).md"]
 tags: [philosophy, foucault, epistemology, structuralism, archaeology]
 ---
 

@@ -4,7 +4,7 @@ type: concept
 domains: [ai, cognitive-science]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Artificial Intelligence - Melanie Mitchell.txt"]
+sources: ["Artificial Intelligence - Melanie Mitchell.md"]
 tags: [mitchell, brittleness, deep-learning, adversarial-examples, long-tail, generalization, ai-limits]
 ---
 

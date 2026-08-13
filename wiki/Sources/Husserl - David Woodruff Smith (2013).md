@@ -4,8 +4,8 @@ type: source-summary
 status: complete
 domains: [phenomenology, philosophy-of-mind, ontology, epistemology, logic, ethics]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+updated: "2026-08-12"
+sources: ["Husserl (David Woodruff Smith).md"]
 tags: [philosophy, phenomenology, husserl, consciousness, intentionality]
 ---
 
@@ -49,3 +49,5 @@ Smith's *Husserl* (2013) is the most systematic English-language account of Huss
 - [[Thinkers/Aristotle]] — ontological categories; material vs. formal ontology
 - [[Thinkers/Descartes]] — Husserl's *Cartesian Meditations*; epoché parallels Cartesian doubt
 - [[Thinkers/Gottlob Frege]] — Frege's critique of *Philosophy of Arithmetic* pivotal; sense/reference parallel to Sinn/Bedeutung
+
+**Primary now in (2026-08-12).** [[Sources/Cartesian Meditations - Edmund Husserl]] is the vault's first Husserl primary. It confirms Smith's map of the system (intentionality, epoché, ego, eidetics, intersubjectivity) and **corrects** two of his glosses: (1) constitution as "meaning, not existence" — *CM* §41 says sense *and* being; (2) Husserl "never fully satisfied" with the Fifth Meditation — the text calls the solipsism objection groundless and the write-up incomplete. Smith's *Ideas I* / *Crisis* / formal-ontology story still stands; it is no longer the only Husserl in the vault. *Ideas* I remains outstanding.

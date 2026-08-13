@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, ai, cognitive-science]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [chalmers, organizational-invariance, fading-qualia, dancing-qualia, functionalism, silicon]
 ---
 

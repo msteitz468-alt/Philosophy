@@ -6,9 +6,9 @@ schools: [Rationalism]
 domains: [metaphysics, ethics]
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [spinoza, benedict-de-spinoza, baruch-espinoza, philosophy, ethics, substance-monism, pantheism, parallelism, conatus, rationalism, early-modern, classical, naturalism, geometrical-method, amsterdam]
-sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.txt"]
+sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.md"]
 ---
 
 # Benedict de Spinoza (Baruch Espinoza, 1632–1677)
@@ -56,13 +56,15 @@ Spinoza lived modestly, declined academic positions (including a chair at Heidel
 
 ## Influence and Reception
 
-Immediately controversial: accused of atheism, pantheism, fatalism. Works banned in the Netherlands and elsewhere. Major underground influence on the Radical Enlightenment (Bayle, Toland, Diderot, etc.). 19th-century revival (German Idealism, Romanticism—Goethe, Coleridge; “pantheism controversy”). 20th-century: influence on Marxism (via naturalism and critique of ideology), psychoanalysis (affects), contemporary metaphysics (monism, panpsychism debates), environmental ethics, and political theory (freedom, democracy, critique of superstition). The *Theological-Political Treatise* is foundational for modern biblical criticism and liberal political thought on toleration.
+Immediately controversial: accused of atheism, pantheism, fatalism. Works banned in the Netherlands and elsewhere. Major underground influence on the Radical Enlightenment (Bayle, Toland, Diderot, etc.). 19th-century revival (German Idealism, Romanticism—Goethe, Coleridge; “pantheism controversy”). 20th-century: influence on Marxism (via naturalism and critique of ideology), psychoanalysis (affects), contemporary metaphysics (monism, panpsychism debates), environmental ethics, and political theory (freedom, democracy, critique of superstition). [[Thinkers/Antonio Damasio]]'s *Descartes' Error* (1994) is **not** a Spinoza commentary — Spinoza is unnamed there — but the organism-as-ensemble, emotion-as-bodily-affection-plus-idea, and "government for the body and by the body" are 3def3 and [[Concepts/Conatus (Spinoza)|conatus]] in lesion language. *Looking for Spinoza* (flyleaf of the 2005 edition) is the later book. See [[Concepts/Emotions vs Feelings (Damasio)]], [[Concepts/Body-Minded Brain and Neural Self (Damasio)]]. The *Theological-Political Treatise* is foundational for modern biblical criticism and liberal political thought on toleration.
 
 ## Relevance to Vault
 
 Spinoza is the essential counterweight and synthesis to the vault’s Descartes material and the classical cluster. The *Ethics* offers both a profound philosophical position and a methodological model of exceptional rigor.
 
 - **Direct contrast with Descartes (now in vault)**: Monism + parallelism (one substance; mind and body as parallel expressions of the same thing) vs. substance dualism and interaction. God/Nature as immanent, deterministic, non-purposive cause vs. transcendent creator. Compatibilist freedom through adequate ideas vs. libertarian will. Geometrical deduction from essences vs. meditative hyperbolic doubt + reconstruction. The two together form a powerful paired study of early modern rationalism’s internal tensions and possibilities.
+
+- **Vs. Nietzsche, *Beyond Good and Evil* (now complete).** Ch. I: geometrical “hocus-pocus” as mail and mask for a sickly recluse. **§13:** self-preservation as cardinal instinct is “Spinoza’s inconsistency”; life is will to power, self-preservation only a result. **§25:** martyrdom made Spinoza a “refined vengeance-seeker.” Conatus ≠ WzM. See [[Thinkers/Nietzsche]], [[Concepts/Will to Power (Nietzsche)]], [[Concepts/Conatus (Spinoza)]].
 
 - **Classical philosophy**: 
   - Aristotle: Shares vocabulary of substance, essence, attribute, demonstration, and the idea that understanding essences yields knowledge of properties; but rejects pluralism of substances, hylomorphism (soul as form of *this* body), and final causes/teleology in favor of strict immanent necessity and one substance.
@@ -88,6 +90,7 @@ Compounds powerfully with AI/agentic sources (geometrical deduction as reliable 
 - [[Sources/Ethics - Spinoza (Cambridge, Kisner ed. 2018)]]
 - [[Concepts/Deus sive Natura - Substance Monism (Spinoza)]], [[Concepts/Attributes and Parallelism (Spinoza)]], [[Concepts/Conatus (Spinoza)]], [[Concepts/Adequate and Inadequate Ideas / Three Kinds of Knowledge (Spinoza)]], [[Concepts/Affects and Active vs Passive Emotions (Spinoza)]], [[Concepts/Freedom and Blessedness - Intellectual Love of God (Spinoza)]], [[Concepts/Geometrical Method - Rationalism (Spinoza)]]
 - [[Thinkers/Descartes]], [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]
+- [[Thinkers/Antonio Damasio]] / [[Sources/Descartes' Error - Antonio Damasio (1994)]] — organism/emotion kinship, not a citation; *Looking for Spinoza* is later
 - [[Thinkers/Hume]] (empiricist successor in the Early Modern triad; denies the a priori intelligibility of nature and the Principle of Sufficient Reason — necessity is in the mind, not the things), [[Sources/An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)]]
 - [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Augustine]], [[Thinkers/Plotinus]], [[Thinkers/Sextus Empiricus]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]], [[Thinkers/Marcus Aurelius]]
 - [[Thinkers/Bertrand Russell]] — Russell's warmest verdict on anyone in his *History*: "Spinoza (1634–77) is the **noblest and most lovable of the great philosophers**. Intellectually, some others have surpassed him, but ethically he is supreme" (he rates Spinoza a greater philosopher than Locke, if less influential). Yet Russell rejects the "statuesque," deduction-from-essences method ([[Concepts/Geometrical Method - Rationalism (Spinoza)]]) in favor of his own piecemeal [[Concepts/Philosophy of Logical Analysis (Russell)|logical analysis]]. See [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]].

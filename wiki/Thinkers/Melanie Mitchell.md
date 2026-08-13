@@ -4,7 +4,7 @@ type: thinker
 domains: [ai, cognitive-science, complex-systems, philosophy-of-mind]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Artificial Intelligence - Melanie Mitchell.txt", "The Singularity is Near - Ray Kurzweil [Ray Kurzweil].txt"]
+sources: ["Artificial Intelligence - Melanie Mitchell.md", "The Singularity is Near - Ray Kurzweil [Ray Kurzweil].md"]
 tags: [mitchell, artificial-intelligence, guide-for-thinking-humans, hofstadter, analogy, common-sense, complex-systems, santa-fe-institute, deep-learning-limits, ai-hype, understanding]
 ---
 
@@ -46,6 +46,8 @@ Key stance: AI is transforming the world with narrow but powerful tools, but "th
 - **Wiener**: "Know-how" vs. "know-what" (Mitchell echoes Wiener's concern that technical capability outpaces clarity about purposes/values/ethics). Cross to Wiener alignment concept.
 
 - **Pearl**: DL excels at association (rung 1) but lacks causal understanding (rungs 2-3) needed for common sense, intervention, and robust generalization. Mitchell's "no real understanding" aligns with "data are profoundly dumb." Cross to Pearl's Ladder/Do-operator concepts.
+
+- **Dreyfus**: the philosophical predecessor of Mitchell's common-sense / brittleness / hype-cycle diagnosis. *What Computers Still Can't Do* already named the first-step fallacy, the ungeneralizable micro-world, and the commonsense-knowledge problem (organization, know-how-as-knowing-that, relevance). Mitchell documents the same pattern for deep learning without the Heideggerian metaphysics. See [[Concepts/Commonsense Knowledge Problem (Dreyfus)]], [[Concepts/GOFAI as Degenerating Research Program (Dreyfus)]], [[Concepts/Common Sense and Analogy in AI (Mitchell)]].
 
 - **Kasparov (chess sources)**: Deep Blue (1997) as a pivotal "brute force" moment Hofstadter discusses; Mitchell uses it (and AlphaGo) to illustrate narrow success without general intelligence. Cross to Kasparov thinker/sources.
 

@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-03"
 tags: [augustine, political-theology, philosophy-of-history, two-cities, love, pride, grace, eschatology, rome, city-of-god, patristics, 5th-century]
-sources: ["City of God (Penguin Classics) - St. Augustine of Hippo.txt", "Confessions - Augustine.txt"]
+sources: ["City of God (Penguin Classics) - St. Augustine of Hippo.md", "Confessions - Augustine.md"]
 ---
 
 # Two Cities (Augustine)

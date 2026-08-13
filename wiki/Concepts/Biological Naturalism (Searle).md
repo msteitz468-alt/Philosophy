@@ -3,10 +3,10 @@ title: "Biological Naturalism (Searle)"
 type: concept
 domains: [philosophy-of-mind, cognitive-science, philosophy]
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 source_count: 1
 tags: [searle, biological-naturalism, mind-body, consciousness, philosophy-of-mind]
-sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.txt"]
+sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.md"]
 ---
 
 # Biological Naturalism (Searle)
@@ -35,7 +35,10 @@ Biological naturalism explains the relationship without dualism (two kinds of su
 ## Contradictions / Open Questions
 
 - > [!warning] Direct alternative to the dualism Searle criticizes in the Cartesian tradition and to the strong AI / computationalist / functionalist views that treat the mind as purely formal and multiply realizable in any hardware (see [[Concepts/Strong Artificial Intelligence (Searle)]], [[Concepts/Chinese Room Argument (Searle)]], [[Concepts/Syntax and Semantics (Searle)]], and the Computationalism school on Turing concepts). Contrasts with purely physicalist or eliminativist pictures that would deny the distinctive reality of subjectivity and semantics. Links to [[Thinkers/Descartes]] (rejects substance dualism but keeps the mental as real and biological).
+- > [!warning] The [[Arguments/Simulation Argument (Bostrom)|simulation argument]] *assumes* the functionalist thesis Searle rejects ([[Concepts/Substrate-Independence (Bostrom)]]). If biological naturalism is right, ancestor-simulations do not add observers and horn (3) is empty.
 - Open: We still lack detailed mechanisms for exactly how specific brain processes produce specific conscious experiences (the 'how' question). Searle emphasizes our ignorance of brain function in many areas. Implications for whether non-biological systems could ever produce consciousness (Searle is skeptical on current evidence but the position is not dogmatic a priori).
+- > [!warning] Near-ally, different mechanism, with [[Thinkers/Anil Seth]]: "it is life, rather than information processing, that breathes the fire into the equations" ([[Concepts/Machine Minds (Seth)]]). Seth never cites Searle in *Being You* ch. 13. His route is multi-level self-maintenance / autopoiesis, not syntax-vs-semantics. Both refuse computational sufficiency; Seth remains a "suspicious agnostic" rather than a Room-style demonstrator.
+- **[[Thinkers/Antonio Damasio]]** (named in *Descartes' Error* Ch. 10 among philosophers urging the study of consciousness): same refusal of a mental substance and of mind-as-software; Damasio specifies *which* biology (body maps, homeostasis, somatic markers) and treats feeling as pin-downable body-perception. See [[Concepts/Descartes' Error (Damasio)]], [[Concepts/Body-Minded Brain and Neural Self (Damasio)]].
 
 ## Sources
 

@@ -4,7 +4,7 @@ type: concept
 domains: [technology, futurism, philosophy-of-technology, cosmology, evolution, ai]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["What Technology Wants - Kevin Kelly.txt", "The Inevitable_ Understanding the 12 Techn - Kevin Kelly.txt"]
+sources: ["What Technology Wants - Kevin Kelly.md", "The Inevitable_ Understanding the 12 Techn - Kevin Kelly.md"]
 tags: [kevin-kelly, exotropy, entropy, complexity, information, mind, becoming, cosmic-arc, what-technology-wants, technium]
 ---
 

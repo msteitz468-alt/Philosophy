@@ -5,7 +5,7 @@ domains: [epistemology, metaphysics]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Three Dialogues between Hylas and Philonous - George Berkeley.txt"]
+sources: ["Three Dialogues between Hylas and Philonous - George Berkeley.md"]
 tags: [berkeley, dialogue, immaterialism, subjective-idealism, empiricism, skepticism, early-modern]
 ---
 
@@ -53,7 +53,7 @@ The final dialogue is dedicated to resolving Hylas's lingering objections:
 ---
 
 ## Sources
-- Raw text: `raw/Three Dialogues between Hylas and Philonous - George Berkeley.txt` (230,031 bytes)
+- Raw text: `raw/Three Dialogues between Hylas and Philonous - George Berkeley.md` (230,031 bytes)
 
 ## Related
 - [[Thinkers/George Berkeley]]

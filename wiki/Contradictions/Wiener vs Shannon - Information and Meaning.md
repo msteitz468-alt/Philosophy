@@ -4,7 +4,7 @@ type: contradiction
 domains: [information-theory, cybernetics, philosophy-of-mind, ethics, philosophy-of-language]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Human Use of Human Beings - Norbert Wiener.txt", "A Mathematical Theory of Communication - Claude Shannon.txt"]
+sources: ["The Human Use of Human Beings - Norbert Wiener.md", "A Mathematical Theory of Communication - Claude Shannon.md"]
 tags: [wiener, shannon, information, semantics, entropy, commodity, meaning, cybernetics, information-theory]
 ---
 

@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-language, philosophy-of-mind, epistemology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Philosophical Investigations (Ludwig Wittgenstein).txt"]
+sources: ["Philosophical Investigations (Ludwig Wittgenstein).md"]
 tags: [wittgenstein, language-game, sprachspiel, ordinary-language, philosophical-investigations, use]
 ---
 
@@ -40,6 +40,7 @@ Within a language-game a word has its function; torn out of any game it does no 
 - **vs. the early Wittgenstein:** The *Tractatus* held that beneath surface grammar lies one hidden logical form shared by all meaningful propositions. The language-game idea replaces that single form with an irreducible plurality of practices. This is the pivot of [[Contradictions/Early vs Later Wittgenstein]].
 - **vs. [[Thinkers/A.J. Ayer|Ayer]] / [[Concepts/Verification Principle (Ayer)|verificationism]]:** Logical positivism kept one master-criterion of meaning (empirical verifiability). Wittgenstein's pluralism dissolves the demand for any single criterion: religious, ethical, and mathematical talk are their own language-games, not failed attempts at empirical description.
 - **Heirs — Austin and [[Thinkers/John Searle|Searle]]:** Ordinary-language philosophy and speech-act theory (illocutionary force, performatives) develop the insight that saying is doing, that utterances are moves in conventional practices.
+- **[[Thinkers/Bronislaw Malinowski]] / [[Concepts/Context of Situation and Phatic Communion (Malinowski)]]:** neighboring earlier ground — speech as a mode of action, greetings as ties rather than references. Malinowski still keeps the triangle for developed speech and tells a genetic story; Wittgenstein drops the triangle. Do not identify them.
 
 ## Contradictions / Open Questions
 > [!warning] Directly overturns the single-logical-form doctrine of [[Concepts/Picture Theory of Language (Wittgenstein)]] — see [[Contradictions/Early vs Later Wittgenstein]].
@@ -49,6 +50,10 @@ Within a language-game a word has its function; torn out of any game it does no 
 ## Sources
 - [[Sources/Philosophical Investigations - Ludwig Wittgenstein (1953)]]
 
+## Downstream: Skinner's Historical Application (2026-08-12)
+
+[[Thinkers/Quentin Skinner]] takes Wittgenstein's meaning-as-use together with [[Thinkers/J.L. Austin]]'s speech acts as jointly supplying a hermeneutic for intellectual history — quoting "words are also deeds" as an epigraph to the programme. The historical consequence: a text cannot be understood by reading it "over and over," because what an author was *doing* in writing (repudiating a commonplace, ridiculing an opponent) is fixed by the conventions available on that occasion rather than by the words alone. Skinner also uses the Wittgensteinian point about the publicity of intention to answer the charge that authorial intentions are unrecoverable private states: in any successful act of communication, they are *ex hypothesi* legible. See [[Concepts/Illocutionary Force and Historical Meaning (Skinner)]] and [[Concepts/Mythologies in the History of Ideas (Skinner)]].
+
 ## Related
 - [[Thinkers/Ludwig Wittgenstein]]
 - [[Concepts/Meaning as Use (Wittgenstein)]]
@@ -56,3 +61,5 @@ Within a language-game a word has its function; torn out of any game it does no 
 - [[Concepts/Family Resemblance (Wittgenstein)]]
 - [[Concepts/Critique of Ostensive Definition (Wittgenstein)]]
 - [[Concepts/Picture Theory of Language (Wittgenstein)]]
+- [[Concepts/Context of Situation and Phatic Communion (Malinowski)]], [[Thinkers/Bronislaw Malinowski]]
+- [[Concepts/Symbolic and Emotive Functions of Language (Ogden-Richards)]]

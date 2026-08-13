@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [turing, universal-machine, turing-completeness, discrete-state-machine, computability, babbage, analytical-engine, 1936, 1950]
-sources: ["Computing Machinery and Intelligence - Alan Turing.txt"]
+sources: ["Computing Machinery and Intelligence - Alan Turing.md"]
 ---
 
 # Universal Machine (Turing)

@@ -6,14 +6,14 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-04"
 tags: [thomas-aquinas, summa-theologica, scholasticism, soul, hylomorphism, intellect, will, free-choice, image-of-god, original-justice, paradise, medieval, classical-philosophy, theology, augustine, patristics, confessions]
-sources: ["Thomas Aquinas - Summa Theologica.txt", "Confessions - Augustine.txt"]
+sources: ["Thomas Aquinas - Summa Theologica.md", "Confessions - Augustine.md"]
 ---
 
 # Summa Theologica, Part I (QQ. 75–102) — Thomas Aquinas
 
 > The *Prima Pars*, Questions 75–102: the complete **Treatise on Man** from the First Part of Aquinas' *Summa Theologica* (c. 1265–1274). Dominican Province translation (English), Second and Revised Edition, London, 1932. Imprimatur Westminster. This is Part I of the Summa — not to be confused with the already-ingested Part I-II (*Prima Secundae*). Part I-II covers moral theology (last end, acts, law, grace); this Part I covers metaphysical anthropology: what man *is*, how his soul and body are united, how he knows, wills, and chooses, and what his original state was. The scholastic *quaestio* format throughout: Objections, Sed Contra, Respondeo (I answer that), Replies to Objections.
 
-**Source file**: `raw/Thomas Aquinas - Summa Theologica.txt` (~851KB, ~16,849 lines). Augustine is the primary patristic source (Trinitarian analogy of memory/intellect/will as *imago Dei*; interiority; grace themes). See new [[Sources/Confessions - Augustine]] and [[Thinkers/Augustine]].
+**Source file**: `raw/Thomas Aquinas - Summa Theologica.md` (~851KB, ~16,849 lines). Augustine is the primary patristic source (Trinitarian analogy of memory/intellect/will as *imago Dei*; interiority; grace themes). See new [[Sources/Confessions - Augustine]] and [[Thinkers/Augustine]].
 
 **Scope**: QQ. 75–102. This is Part I only — the Five Ways (QQ. 2-3), the Trinity (QQ. 27-43), and other divine matters are in a different volume not yet in the vault.
 

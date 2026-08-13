@@ -3,8 +3,8 @@ title: "Philosophy as Therapy (Wittgenstein)"
 type: concept
 domains: [metaphilosophy, philosophy-of-language, epistemology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Philosophical Investigations (Ludwig Wittgenstein).txt", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+updated: "2026-08-12"
+sources: ["Philosophical Investigations (Ludwig Wittgenstein).md", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md"]
 tags: [wittgenstein, metaphilosophy, therapy, fly-bottle, ordinary-language, philosophical-investigations]
 ---
 
@@ -43,6 +43,7 @@ This metaphilosophy frames the whole *Investigations*. The treatments of [[Conce
 - **Contrast with [[Thinkers/Martin Heidegger|Heidegger]]:** Heidegger also diagnoses a forgetting embedded in ordinary language, but seeks to *deepen* metaphysics (the question of Being), whereas Wittgenstein seeks to *dissolve* metaphysical questions as confusions.
 - **Therapeutic vs. Pragmatic Wittgensteinianism**: Richard Rorty (2010) distinguishes the **therapeutic** reading (philosophy is plain nonsense and aims solely to dissolve puzzles) from the **pragmatic** reading (Wittgenstein replaces representationalism with a positive, social-practice theory of meaning). See [[Concepts/Linguistic Turn (Rorty)]].
 - **Paul Horwich's Refurbished Therapism**: Horwich argues that metaphysical theories are not literal nonsense but are **epistemically irrational**, arising from innate human tendencies toward simple, uniform theories and overstretched analogies (e.g. applying mechanistic models to immaterial thoughts). Therapy consists in describing open-to-view linguistic practices to eliminate these irrational overgeneralizations.
+- **[[Thinkers/Pierre Hadot]]**: ally against philosophy-as-system; opposed on what success looks like. Hadot’s [[Concepts/Spiritual Exercises (Hadot)|spiritual exercises]] aim at a *metamorphosis* of vision and being; Wittgenstein “leaves everything as it is.” Hadot read Wittgenstein (language-games as forms of life; *Tractatus* 6.522 as the unsayable) and closes the 1992 interview on that line. See [[Concepts/Philosophy as a Way of Life (Hadot)]].
 
 ## Contradictions / Open Questions
 - Is "philosophy leaves everything as it is" itself a substantive philosophical thesis (and so self-undermining)? Critics charge that the therapeutic conception smuggles in a theory of meaning; defenders read it as method, not doctrine.
@@ -54,6 +55,9 @@ This metaphilosophy frames the whole *Investigations*. The treatments of [[Conce
 ## Related
 - [[Thinkers/Ludwig Wittgenstein]]
 - [[Thinkers/Richard Rorty]]
+- [[Thinkers/Pierre Hadot]]
+- [[Concepts/Philosophy as a Way of Life (Hadot)]]
+- [[Concepts/Spiritual Exercises (Hadot)]]
 - [[Concepts/Meaning as Use (Wittgenstein)]]
 - [[Concepts/Family Resemblance (Wittgenstein)]]
 - [[Concepts/Picture Theory of Language (Wittgenstein)]]

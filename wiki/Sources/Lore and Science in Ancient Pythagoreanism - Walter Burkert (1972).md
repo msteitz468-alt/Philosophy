@@ -8,7 +8,7 @@ orig_year: 1962
 domains: [history-of-philosophy, history-of-science, metaphysics, mathematics, religion, ancient-greece]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Lore and Science in Ancient Pythagoreanism (Walter Burkert) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [pythagoras, pythagoreanism, philolaus, plato, aristotle, metempsychosis, shamanism, acusmata, number, harmony-of-spheres, mathematics, source-criticism, burkert]
 ---
 

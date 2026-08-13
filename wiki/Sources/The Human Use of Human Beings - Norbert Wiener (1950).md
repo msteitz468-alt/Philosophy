@@ -5,7 +5,7 @@ domains: [cybernetics, ai, information-theory, philosophy-of-mind, ethics, socio
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [wiener, cybernetics, feedback, entropy, learning, alignment, second-industrial-revolution, communication, society, 1950]
-source_file: "The Human Use of Human Beings - Norbert Wiener.txt"
+source_file: "The Human Use of Human Beings - Norbert Wiener.md"
 ---
 
 # The Human Use of Human Beings — Norbert Wiener (1950, rev. 1954)

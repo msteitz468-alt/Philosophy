@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, epistemology]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+sources: ["Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 tags: [concept, parmenides, being, monism, one, metaphysics, logic, stasis]
 ---
 

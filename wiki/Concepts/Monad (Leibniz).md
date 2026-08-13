@@ -3,9 +3,9 @@ title: "Monad (Leibniz)"
 type: concept
 domains: [metaphysics, philosophy-of-mind]
 created: "2026-06-11"
-updated: "2026-06-11"
+updated: "2026-08-12"
 tags: [leibniz, monad, metaphysics, rationalism, substance, mind]
-sources: ["Discourse on Metaphysics and Monadology - Leibniz.txt"]
+sources: ["Discourse on Metaphysics and Monadology - Leibniz.md", "Cartesian Meditations - Edmund Husserl.md"]
 ---
 
 # Monad (Leibniz)
@@ -31,6 +31,10 @@ sources: ["Discourse on Metaphysics and Monadology - Leibniz.txt"]
   - *Souls*: Bare monads with memory and sensation (animals).
   - *Minds/Spirits*: Souls with self-consciousness, reason, and access to eternal truths (humans).
   - *God*: The supreme monad, possessing completely clear, distinct, and infinite perceptions of all reality.
+
+## Husserl's Use (*Cartesian Meditations*)
+
+[[Thinkers/Edmund Husserl]] proposes "to call [the ego in full concreteness] by the Leibnizian name: monad" (*CM* §33). This is a **terminological borrowing**, not this page's simple windowless substance. Husserl's monads are concrete egos (stream + habitualities + meant objects). They are "absolutely separate" as really inherent unities, yet in **intentional communion** that constitutes one Objective world. Harmony is confirmation, not a pre-established program. Two actual worlds are **incompossible** — the one Leibnizian thesis Husserl endorses as phenomenological necessity (§60). See [[Concepts/Transcendental Ego and Constitution (Husserl)]], [[Concepts/Transcendental Idealism (Husserl)]].
 
 ## In the Vault
 

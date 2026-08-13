@@ -4,7 +4,7 @@ type: concept
 domains: [ai, technology, metaphysics]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The Simulation Hypothesis An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are in a… (Rizwan Virk) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Simulation Hypothesis An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are in a… (Rizwan Virk) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [simulation-point, video-games, vr, ar, mind-interface, stages]
 ---
 

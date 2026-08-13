@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [descartes, dualism, res-cogitans, res-extensa, mind-body, substance, distinction, meditations, sixth-meditation]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)"]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Descartes' Error - Antonio Damasio (1994).md"]
 ---
 
 # Res Cogitans and Res Extensa (Descartes)
@@ -33,6 +33,8 @@ sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)"]
 
 - > [!WARNING]
   > Conflicts with [[Concepts/Subjective Idealism (Berkeley)|Subjective Idealism (Berkeley)]] on the existence of *res extensa* (material substance) — see [[Contradictions/Subjective Idealism vs. Physical Realism]].
+
+- > [!warning] [[Thinkers/Antonio Damasio]] prosecutes the *abyssal* reading of this distinction ([[Concepts/Descartes' Error (Damasio)]]) from the *Discourse* slogan, not from this page's Meditation VI union. He puts the entire mind — images, feelings, the neural self — "all within Descartes' *res extensa*." The union-not-pilot claim is still Descartes's; Damasio does not cite it.
 
 - **Substance dualism**: Two really distinct substances (complete in themselves, needing only God's concurrence to exist). Not property dualism or hylomorphism (soul as form of body).
 - **Interaction problem**: How do two substances with no common attribute interact? (A problem Descartes acknowledges in correspondence, especially with Princess Elizabeth; the *Passions of the Soul* addresses the union via the pineal gland as seat, but the *Meditations* leave the "how" largely open.)
@@ -60,7 +62,10 @@ The mind-body distinction and union provide rich material for the vault's own "t
 ## Related
 
 - [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]
+- [[Sources/Descartes' Error - Antonio Damasio (1994)]]
+- [[Concepts/Descartes' Error (Damasio)]]
 - [[Thinkers/Descartes]]
+- [[Thinkers/Antonio Damasio]]
 - [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Cogito (Descartes)]], [[Concepts/Clear and Distinct Perception (Descartes)]]
 - [[Thinkers/Plotinus]], [[Thinkers/Aristotle]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Augustine]] (contrasting views of soul/body/union)
 - [[Concepts/Return of the Soul (Epistrophe)]], [[Concepts/Beatific Vision - Last End (Aquinas)]], [[Concepts/Dichotomy of Control (Epictetus)]]

@@ -6,9 +6,10 @@ schools: [Stoicism]
 domains: [ethics]
 source_count: 1
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-08-12"
+source_count: 2
 tags: [inner-citadel, hadot, hegemonikon, marcus-aurelius, stoicism, ruling-faculty, resilience, ryan-holiday, ethics]
-sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).md", "Philosophy as a Way of Life - Pierre Hadot.md"]
 ---
 
 # The Inner Citadel (Hadot)
@@ -29,7 +30,7 @@ Holiday's distinctive emphasis is on **construction**: "No one is born a gladiat
 
 - **Marcus Aurelius** — the primary textual source; the "ruling part," the "daemon Zeus gave every man as guardian and guide," the inner retreat. See [[Thinkers/Marcus Aurelius]] and [[Concepts/Ruling Faculty and the Daemon (Marcus Aurelius)]], which treats the *hēgemonikon* directly.
 - **Epictetus** — "you are a little soul carrying around a corpse"; the free *prohairesis* that no tyrant can chain is the citadel in embryo. See [[Thinkers/Epictetus]].
-- **Pierre Hadot** — coins the title-metaphor and reads the whole *Meditations* through the three disciplines (see [[Concepts/The Three Disciplines - Perception, Action, and Will (Hadot)]]); argues the fortress is maintained by daily *spiritual exercises*, not possessed once and for all. Holiday's chief scholarly source.
+- **Pierre Hadot** — coins the title-metaphor in *La Citadelle intérieure* (1992). The 1995 English *Philosophy as a Way of Life* (now in the vault) is the shorter companion: the Marcus essay does **not** use “inner citadel” as a slogan; it speaks of the *hēgemonikon* / *daimōn* and of raising oneself to the cosmic Whole. The fortress is maintained by daily [[Concepts/Spiritual Exercises (Hadot)|spiritual exercises]], not possessed once and for all. Apparent “pessimism” in the *Meditations* is a method of *phantasia kataleptike* (physical definition), not autobiography. See [[Thinkers/Pierre Hadot]], [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]]. *The Inner Citadel* itself is still not ingested.
 - **Ryan Holiday** — foregrounds the *building* of the citadel through voluntary hardship and preparation ("the path of least resistance is a terrible teacher"). See [[Thinkers/Ryan Holiday]].
 
 ## Relevance to Vault
@@ -39,8 +40,9 @@ Holiday's distinctive emphasis is on **construction**: "No one is born a gladiat
 
 ## Related
 
+- [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]]
 - [[Sources/The Obstacle Is the Way - Ryan Holiday (2014)]]
-- [[Thinkers/Marcus Aurelius]], [[Thinkers/Epictetus]], [[Thinkers/Ryan Holiday]]
+- [[Thinkers/Pierre Hadot]], [[Thinkers/Marcus Aurelius]], [[Thinkers/Epictetus]], [[Thinkers/Ryan Holiday]]
 - [[Concepts/Ruling Faculty and the Daemon (Marcus Aurelius)]]
 - [[Concepts/The Three Disciplines - Perception, Action, and Will (Hadot)]]
 - [[Concepts/Dichotomy of Control (Epictetus)]]

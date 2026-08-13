@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 2
 tags: [popper, corroboration, proved-its-mettle, degree-of-corroboration, testing, critical-rationalism, philosophy-of-science, induction, verisimilitude, growth-of-knowledge]
-sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.txt", "Conjectures and Refutations_ The Growth of - Karl Popper.txt"]
+sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.md", "Conjectures and Refutations_ The Growth of - Karl Popper.md"]
 ---
 
 # Corroboration (Popper)

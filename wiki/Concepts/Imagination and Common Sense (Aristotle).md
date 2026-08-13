@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, epistemology]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On the Soul (Aristotle).txt"]
+sources: ["On the Soul (Aristotle).md"]
 tags: [aristotle, de-anima, phantasia, common-sense, classical]
 ---
 

@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [russell, epistemology, truth, correspondence, coherence, realism, analytic-philosophy, modern]
-sources: ["The Problems of Philosophy - Bertrand Russell.txt"]
+sources: ["The Problems of Philosophy - Bertrand Russell.md", "The Meaning of Meaning - Ogden and Richards (1923).md"]
 ---
 
 # Correspondence Theory of Truth (Russell)
@@ -42,6 +42,9 @@ Russell's correspondence theory is the vault's direct counter to [[Concepts/Prag
 - **Vs. [[Concepts/Clear and Distinct Perception (Descartes)]]**: Descartes makes the *criterion* of truth internal (clarity/distinctness, God-guaranteed); Russell makes the *nature* of truth external (correspondence) and the *test* fallible (ch. XIII: self-evidence in degrees; knowledge ≠ mere true belief).
 - **Vs. coherence/idealism** (Hegel, Bradley, the Absolute): Russell's two objections target exactly the idealist coherence theory the *History* also opposes.
 - **Anticipates** the analytic truth debates (Tarski, deflationism) and the "justified true belief" / Gettier problem (ch. XIII already denies that true belief = knowledge).
+- **Vs. [[Concepts/Contextual Theory of Reference (Ogden-Richards)]]**: Ogden and Richards (1923) relocate truth as *completion of a recurrent context*. Once reference is causal-contextual, "to raise the question of the correspondence of belief with fact is… to attempt to solve the problem twice over." Their referent of an adequate reference *is* the fact, not something that corresponds to it. Flag, do not flatten: Russell's three requisites (falsehood must be possible; truth is of beliefs; truth depends on something outside the belief) are largely what their context-completion is designed to meet.
+
+> [!warning] Conflicts with [[Concepts/Contextual Theory of Reference (Ogden-Richards)]] on whether truth is a further belief–fact relation or just successful contextual adaptation.
 
 ## Vault / AI / Personal Relevance
 
@@ -58,6 +61,7 @@ Russell's correspondence theory is the vault's direct counter to [[Concepts/Prag
 - [[Concepts/Knowledge as Perception of Agreement or Disagreement of Ideas (Locke)]], [[Concepts/Clear and Distinct Perception (Descartes)]]
 - [[Thinkers/William James]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Descartes]], [[Thinkers/Locke]]
 - [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]]
+- [[Sources/The Meaning of Meaning - Ogden and Richards (1923)]], [[Concepts/Contextual Theory of Reference (Ogden-Richards)]]
 - [[GROK]] (correspondence = the realist backstop for verify-and-cross-check; coherence is only a *test*, so re-ground pages to raw sources periodically)
 
 *Concept created during the 2026-06-04 ingest of *The Problems of Philosophy*. Russell's realist theory of truth — the vault's direct counter to the pragmatist/humanist pole, and the lifelong anti-pragmatism that the 1945 "cosmic impiety" warning restates.*

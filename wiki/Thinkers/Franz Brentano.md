@@ -4,7 +4,7 @@ type: thinker
 domains: [philosophy-of-mind, ontology, ethics]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+sources: ["Husserl (David Woodruff Smith).md"]
 tags: [philosophy, brentano, intentionality, descriptive-psychology]
 ---
 

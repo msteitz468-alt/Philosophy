@@ -6,7 +6,7 @@ domains: [metaphysics, epistemology, theology]
 source_count: 1
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Metaphysics (Aristotle).txt"]
+sources: ["Metaphysics (Aristotle).md"]
 tags: [aristotle, metaphysics, ontology, substance, causation, hylomorphism, theology, classical, 4th-century-bc]
 ---
 
@@ -67,7 +67,7 @@ The *Metaphysics* is the keystone the vault's classical cluster had been missing
 The Argument Spine written in Step 1 held up against the text — the introduction's framing (reconciling Platonic permanence with observed change via being-qua-being → substance → form → actuality → divine mover) is borne out, with the qualification that the "reconciliation of Plato" framing understates how *adversarial* Books I and XIII–XIV are toward the Forms.
 
 ## Sources
-- `raw/Metaphysics (Aristotle).txt`
+- `raw/Metaphysics (Aristotle).md`
 
 ## Related
 - [[Thinkers/Aristotle]]

@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 3
 tags: [popper, falsifiability, demarcation, criterion-of-demarcation, induction, critical-rationalism, philosophy-of-science, pseudo-science, verifiability, risky-predictions, conventionalist-twist, quine, holism]
-sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.txt", "Conjectures and Refutations_ The Growth of - Karl Popper.txt", "Quine51 - Unknown.txt"]
+sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.md", "Conjectures and Refutations_ The Growth of - Karl Popper.md", "Quine51 - Unknown.md"]
 ---
 
 # Falsifiability as Criterion of Demarcation (Popper)

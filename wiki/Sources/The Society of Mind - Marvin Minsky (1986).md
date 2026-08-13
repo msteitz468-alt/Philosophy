@@ -4,7 +4,7 @@ type: source-summary
 domains: [ai, cognitive-science, philosophy-of-mind, developmental-psychology, epistemology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Society of Mind - Marvin Minsky.txt"]
+sources: ["Society of Mind - Marvin Minsky.md"]
 tags: [minsky, society-of-mind, agents, k-lines, frames, uniframes, consciousness, self, papert, distributed-mind, emergence, learning, ai-foundations, dennett, hofstadter, turing, searle]
 ---
 
@@ -16,7 +16,7 @@ tags: [minsky, society-of-mind, agents, k-lines, frames, uniframes, consciousnes
 
 - **Author**: Marvin Minsky (1927–2016), co-founder (with John McCarthy) of the MIT Artificial Intelligence Laboratory, pioneer of symbolic AI, perceptrons (with Seymour Papert), frames (1974), and this "society of mind" theory.
 - **Publication**: Simon and Schuster, 1986 (sections developed over years from MIT AI Lab work with Papert and students on blocks-world robotics and child development).
-- **Raw file**: `Society of Mind - Marvin Minsky.txt` (complete text of the book, structured as ~270 short, semi-independent "essays" or sections).
+- **Raw file**: `Society of Mind - Marvin Minsky.md` (complete text of the book, structured as ~270 short, semi-independent "essays" or sections).
 - **Domain position**: A core primary source for the vault's AI & Cognitive Science leg. Provides the practitioner/AI-researcher account of distributed, multi-agent mind that complements and grounds the more philosophical treatments in [[Sources/Consciousness Explained - Daniel C. Dennett (1991)]], [[Sources/Gödel, Escher, Bach - Douglas Hofstadter (1979)]], and Turing's learning machines. Directly engages the "strong AI" debate later critiqued by Searle.
 
 ## Core Thesis
@@ -71,7 +71,7 @@ Also connects to earlier classical themes (no homunculus echoes anti-Cartesian m
 
 ## Sources
 
-- Raw: `Society of Mind - Marvin Minsky.txt`
+- Raw: `Society of Mind - Marvin Minsky.md`
 
 ## Related
 

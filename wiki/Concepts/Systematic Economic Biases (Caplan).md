@@ -4,7 +4,7 @@ type: concept
 domains: [political-philosophy, economics, epistemology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["The Myth of the Rational Voter (Bryan Caplan).txt"]
+sources: ["The Myth of the Rational Voter (Bryan Caplan).md"]
 tags: [public-choice, democracy, bias, political-economy, economics]
 ---
 

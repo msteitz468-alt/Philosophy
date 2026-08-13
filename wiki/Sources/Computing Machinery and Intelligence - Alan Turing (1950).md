@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [turing, imitation-game, turing-test, digital-computers, universal-machine, learning-machines, philosophy-of-mind, ai, computation, 1950]
-sources: ["Computing Machinery and Intelligence - Alan Turing.txt"]
+sources: ["Computing Machinery and Intelligence - Alan Turing.md"]
 ---
 
 # Computing Machinery and Intelligence - Alan Turing (1950)
@@ -75,7 +75,7 @@ Positive evidence and programme: Turing offers no fully convincing positive argu
 
 ## Sources
 
-- Primary: `raw/Computing Machinery and Intelligence - Alan Turing.txt` (complete 1950 *Mind* paper, sections 1–7 including the nine objections and closing programme for learning machines).
+- Primary: `raw/Computing Machinery and Intelligence - Alan Turing.md` (complete 1950 *Mind* paper, sections 1–7 including the nine objections and closing programme for learning machines).
 
 ## Related
 

@@ -6,7 +6,7 @@ schools: []
 domains: []
 source_count: 1
 created: 2026-06-04
-updated: 2026-06-04
+updated: "2026-08-12"
 tags: [philosophy, nietzsche, beyond-good-and-evil, revaluation, dangerous-perhaps, modern-philosophy, critique-of-values]
 sources: ["Beyond Good and Evil - Nietzsche (AmazonClassics Edition)"]
 ---
@@ -29,7 +29,17 @@ The title and project of the 1886 book: to move beyond the traditional moral ant
 - The book is a "Prelude to a Philosophy of the Future." The Preface frames the tension produced by the struggle against Platonism/Christianity as our strength and "bow" for aiming at furthest goals. We "good Europeans, and free, very free spirits" still have "all the distress of spirit and all the tension of its bow! And perhaps also the arrow, the duty, and, who knows? the goal to aim at."
 - Chapter 1 develops this by showing how previous philosophers (Kant, Spinoza, Stoics, Plato) remained trapped in value-antitheses and dogmas, often unconsciously serving a particular (often life-denying or herd) morality under the guise of "Truth" or "the Good."
 
-"Beyond good and evil" is not "beyond morality" or "anything goes"; it is beyond the *particular* slave/herd morality of "good vs. evil" (ressentiment, pity, equality, denial of life) in favor of noble, affirmative, life-enhancing values and a revaluation that asks "what is noble?" (Ch. 9).
+The rest of the book uses the title-phrase, not just the Ch. I slogan.
+
+- **§23.** The psychologist “sail[s] away right over morality.”
+- **§32.** Toward the “ultra-moral”: the decisive value of an action lies in the unintentional.
+- **§44.** The formula marks free spirits *against* leveller free-thinkers. See [[Concepts/Free Spirit (Nietzsche)]].
+- **§108 (Ch. IV).** “There is no such thing as moral phenomena, but only a moral interpretation of phenomena.”
+- **§153.** “What is done out of love always takes place beyond good and evil.”
+- **§212.** “He shall be the greatest who can be… the man *beyond good and evil*.”
+- **§260.** Toward inferiors the noble type may act “beyond good and evil.” This is **not** *Genealogy*’s later gloss that the slogan is not “beyond good and bad.” That sentence is 1887.
+
+"Beyond good and evil" is not "beyond morality" or "anything goes"; it is beyond the *particular* slave/herd morality of "good vs. evil" (utility, fear, pity, equality, denial of life) in favor of noble good/bad and a revaluation that asks "what is noble?" (Ch. 9).
 
 ## Vault Relevance / AI / Personal
 

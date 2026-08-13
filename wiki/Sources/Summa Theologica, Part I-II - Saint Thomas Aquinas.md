@@ -6,14 +6,14 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-04"
 tags: [thomas-aquinas, summa-theologica, scholasticism, natural-law, grace, beatific-vision, ethics, medieval, classical-philosophy, theology, augustine, patristics, confessions]
-sources: ["Summa Theologica, Part I-II - Saint Thomas Aquinas.txt", "Confessions - Augustine.txt"]
+sources: ["Summa Theologica, Part I-II - Saint Thomas Aquinas.md", "Confessions - Augustine.md"]
 ---
 
 # Summa Theologica, Part I-II - Saint Thomas Aquinas
 
 > The *Prima Secundae* (First Part of the Second Part) of Thomas Aquinas' *Summa Theologica* (c. 1271–1272), translated by the Fathers of the English Dominican Province (Benziger/Gutenberg edition). After treating God and creation (Prima), Aquinas turns to man as the "image of God" endowed with free will and self-movement — the principle of his own actions. This part systematically treats the last end of human life (happiness/beatitude as God), human acts, passions, habits/virtues (acquired and infused), law (eternal, natural, human, divine), and grace. It is the moral/ethical heart of the *Summa*, synthesizing Aristotelian ethics (especially the *Nicomachean Ethics*) with Christian revelation, patristic sources, and natural theology. Central themes: happiness consists in the beatific vision of God; natural law as rational creature's participation in eternal law; grace perfects (does not destroy) nature.
 
-**Source**: `raw/Summa Theologica, Part I-II - Saint Thomas Aquinas.txt` (Project Gutenberg eBook of the complete American edition; ~16,568 lines, structured as Treatises > Questions > Articles in the classic scholastic *quaestio* format: Objections, Sed Contra, Respondeo, Replies to Objections).
+**Source**: `raw/Summa Theologica, Part I-II - Saint Thomas Aquinas.md` (Project Gutenberg eBook of the complete American edition; ~16,568 lines, structured as Treatises > Questions > Articles in the classic scholastic *quaestio* format: Objections, Sed Contra, Respondeo, Replies to Objections).
 
 This is a major medieval extension of the vault's classical philosophy cluster (Plato, Aristotle, Stoics, Epicurus, Plotinus, Pyrrhonism), moving from pagan antiquity into scholastic synthesis. Augustine is the primary patristic authority (especially the *Confessions* as experiential ground for grace, the divided will, memory, interiority, and the restless heart that finds rest only in God). See new [[Sources/Confessions - Augustine]], [[Thinkers/Augustine]], and the three new Augustine concepts.
 
@@ -103,7 +103,7 @@ Fits "Research," "Reading a book," "Personal," and "Business/team" use cases in 
 
 ## Sources
 
-- `raw/Summa Theologica, Part I-II - Saint Thomas Aquinas.txt` (Project Gutenberg / Christian Classics Ethereal Library text of the Benziger Brothers American edition; full I-II, QQ. 1–114, with the scholastic article format).
+- `raw/Summa Theologica, Part I-II - Saint Thomas Aquinas.md` (Project Gutenberg / Christian Classics Ethereal Library text of the Benziger Brothers American edition; full I-II, QQ. 1–114, with the scholastic article format).
 
 ## Related
 

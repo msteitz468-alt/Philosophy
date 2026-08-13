@@ -5,7 +5,7 @@ status: complete
 domains: [history-of-philosophy, history-of-science, religion]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [philosophy, pythagoreanism, presocratics, reception-history]
 ---
 

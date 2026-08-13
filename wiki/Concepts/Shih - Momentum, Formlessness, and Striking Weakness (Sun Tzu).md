@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [sun-tzu, art-of-war, strategy, shih, momentum, formlessness, adaptation, positioning, classical-china, taoism]
-sources: ["The Art of War - Sun Tzu.txt"]
+sources: ["The Art of War - Sun Tzu.md"]
 ---
 
 # Shih - Momentum, Formlessness, and Striking Weakness (Sun Tzu)
@@ -32,7 +32,7 @@ Where [[Concepts/Calculation and the Five Factors (Sun Tzu)|Chapter I]] is stati
 
 ## Contrasts / Lineage
 
-- **Taoist resonance**: water, formlessness, yielding-that-overcomes, and "no constant tactics" strongly echo Lao Tzu's *wu-wei* and the *Tao Te Ching*'s water imagery (Lao Tzu not yet in the vault) — strategy as flowing with circumstance rather than forcing it.
+- **[[Thinkers/Laozi]] / [[Concepts/Water, Softness, and the Low Place (Laozi)]] / [[Concepts/Wu Wei - Nondoing (Laozi)]]** (Ziporyn *Daodejing*, now primary): water, formlessness, yielding-that-overcomes, and "no constant tactics" are the Art of War's closest approach to the *Daodejing*. The split: Sun Tzu's water still *imposes will* ("the clever combatant imposes his will on the enemy"); Laozi's water "never competes" and nondoing ruins the thing if you "do something with it" (ch. 64). Sibling images, opposed uses.
 - **Vs. [[Concepts/Geometrical Method - Rationalism (Spinoza)|fixed-deduction systems]] and rigid rule-following**: Sun Tzu's "no constant tactics / adapt to the opponent" is the practical antithesis of deriving conduct from invariant principles — closer to [[Concepts/Pragmatic Method (James)|pragmatic]] situational judgment and [[Concepts/Custom and Belief (Hume)|context-trained instinct]].
 - **Kindred with [[Thinkers/Garry Kasparov]]/chess**: *initiative* and *tempo* (≈ *shih*), the interplay of forcing (direct) and quiet/prophylactic (indirect) moves, attacking the weakest defended square, and "there are no constant tactics" (position-dependent play).
 - **Vs. [[Concepts/Power, Empire, and Revolt (Thucydides)]]**: the Athenians lost *shih* at Syracuse — momentum reversed, formlessness gone, strength thrown against strength (siege) far from home.

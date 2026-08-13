@@ -3,8 +3,8 @@ title: "Strong AI and Computational Sufficiency (Chalmers)"
 type: concept
 domains: [ai, philosophy-of-mind, computer-science]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [chalmers, strong-ai, computation, implementation, chinese-room, godel, machine-consciousness]
 ---
 
@@ -26,7 +26,10 @@ tags: [chalmers, strong-ai, computation, implementation, chinese-room, godel, ma
 - **[[Thinkers/John Searle]]** ([[Concepts/Chinese Room Argument (Searle)]]): the principal opponent; Chalmers's is the vault's most developed reply, distinct from Hofstadter's complexity rejoinder ([[Contradictions/Hofstadter vs Searle - Strange Loops vs Chinese Room]]) — it concedes the hard problem and still defends machine minds.
 - **[[Thinkers/Alan Turing]]** ([[Concepts/Imitation Game (Turing)]]): Chalmers supplies what Turing's behavioral criterion lacked — an argument that the right *internal organization*, not just behavior, guarantees experience; Block's look-up table passes behaviorally but not organizationally.
 - **Penrose** and the [[Concepts/Argument from Consciousness (Jefferson)]] lineage: both rejected; consciousness is a real problem but not a computational limit.
+- **[[Thinkers/Hubert Dreyfus]]**: named in Chalmers's opening list of opponents, but Dreyfus is not primarily arguing about *consciousness*. His claim is that formal structure is the wrong model of *intelligence* (skilled coping, not computation). Chalmers can be right about organizational invariance of experience and Dreyfus still right that GOFAI never implements the relevant organization. See [[Contradictions/Dreyfus vs Computationalism - Skilled Coping vs Formal Rules]].
+- **[[Thinkers/Nick Bostrom]]** ([[Concepts/Substrate-Independence (Bostrom)]]): assumes a weaker "in fact" version of the same claim — synaptic-level replication suffices — as the philosophy-of-mind premise of the [[Arguments/Simulation Argument (Bostrom)|simulation argument]]. He does not argue organizational invariance or fading qualia.
 - Grounds [[Concepts/Machine Consciousness and Mind Uploading (Chalmers)]] and, downstream, the simulation-realism arguments of *Reality+*.
+- **[[Thinkers/Stanislas Dehaene]]** (Ch. 7): no logical bar to an *in silico* workspace (flexible communication, plasticity, autonomy). He rejects Block's leftover-qualia objection and Chalmers's hard problem as mislabeled, and rejects Penrose/Eccles quantum free will. Allies with this page on machine consciousness; opponents on whether the machine still needs extra psychophysical laws.
 
 ## Sources
 - [[Sources/The Conscious Mind - David J. Chalmers (1996)]]

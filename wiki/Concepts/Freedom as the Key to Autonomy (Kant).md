@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-12
 tags: [philosophy, ethics, kant, a-priori, deontology, freedom, autonomy, intelligible-world, two-standpoints]
-sources: ["Metaphysics of Morals - Immanuel Kant"]
+sources: ["Metaphysics of Morals - Immanuel Kant", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md"]
 ---
 
 # Freedom as the Key to Autonomy (Kant)
@@ -30,6 +30,10 @@ In the Third Section of the *Groundwork*, Kant identifies the (positive) concept
 - Every being that cannot act otherwise than under the idea of freedom is practically free (all laws inseparable from freedom are valid for it, "just as if" its will were free in itself).
 - We must necessarily lend the idea of freedom to every rational being with a will; a reason that received steering from elsewhere in its judgments would not be *its* reason.
 
+## From the Gregor/Korsgaard edition (2026-08-12)
+
+Gregor (4:447): "**hence a free will and a will under moral laws are one and the same.**" Negative freedom = efficiency "independently of alien causes"; positive freedom = "the will's property of being a law to itself" (4:446–447). "Every being that cannot act otherwise than under the *idea* of freedom is just because of that really free in a practical respect" (4:448). From *presupposed* freedom, morality follows by analysis; the CI itself remains synthetic and needs a "third" — positive freedom — which is not found in the sensible world (4:447). How freedom / pure practical reason is possible remains incomprehensible (4:458–463). See [[Contradictions/Free Will - Spinozan Necessity vs Kantian Autonomy]].
+
 ## Vault Relevance / AI / Personal
 
 - **"As if" freedom for agents**: Even if (theoretically) all is determined, for practical purposes (action, deliberation, imputation) agents must act under the idea of freedom — i.e., as self-legislating according to universalizable maxims. Directly models constitutional AI or rule-following systems: the schema/GROK.md functions as the "law" under which the agent "freely" operates, even if underlying training/data is causal. "Just as if" its will were free in itself.
@@ -42,7 +46,7 @@ In the Third Section of the *Groundwork*, Kant identifies the (positive) concept
 
 - [[Autonomy and Heteronomy of the Will (Kant)]], [[Kingdom of Ends (Kant)]], [[Categorical Imperative - Universal Law Formulation (Kant)]], [[Two Standpoints: Sensible World and Intelligible World (Kant)]]
 - Contrasts/syntheses: [[Compatibilism - Liberty and Necessity (Hume)]] (liberty/necessity reconciled via custom vs Kant's two standpoints + practical freedom); [[Dichotomy of Control (Epictetus)]] (what is up to us); Spinoza determinism (conatus as nature's law vs self-given moral law under idea of freedom).
-- Cross: [[Thinkers/Kant]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]]
+- Cross: [[Thinkers/Kant]], [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]], [[Thinkers/Isaiah Berlin]]
 - [[GROK]] (operating under the idea of the schema as "free" self-legislation; practical commitment to the rules even if underlying processes are causal; "as if" the ideal maintenance is realized).
 
 *Concept created during 2026-06-04 final chunked ingest (Third Section) of the Kant *Groundwork*. Freedom as the practical key to autonomy and the moral law.*
@@ -54,3 +58,7 @@ In the Third Section of the *Groundwork*, Kant identifies the (positive) concept
 ## Contradictions / Open Questions
 
 > [!warning] Conflicts with [[Concepts/Deus sive Natura - Substance Monism (Spinoza)]] (necessitarianism) on whether the will is genuinely free — see [[Contradictions/Free Will - Spinozan Necessity vs Kantian Autonomy]]
+
+> [!warning] [[Thinkers/Isaiah Berlin]] (reception, 2013) files this negative→positive move as the start of the self-mastery slide. Kant’s “positive freedom” here is moral self-legislation, not a collective higher self. Flag, do not flatten. See [[Concepts/Negative and Positive Liberty (Berlin)]].
+
+> [!warning] [[Thinkers/Nietzsche]], *Twilight* Four Great Errors §8, names "intelligible freedom" as "nonsense" and treats free will as a priestly fiction for guilt. That is a diagnosis of *use*, not a rebuttal of this deduction. Do not file Kant's Third Section as refuted by that heading. See [[Concepts/The Four Great Errors (Nietzsche)]].

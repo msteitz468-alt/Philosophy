@@ -4,9 +4,9 @@ type: source-summary
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [russell, history-of-philosophy, philosophy, survey, analytic-philosophy, logical-analysis, political-philosophy, liberalism, empiricism, secondary-source, modern]
-sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 ---
 
 # A History of Western Philosophy - Bertrand Russell (1945)
@@ -16,6 +16,8 @@ sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
 ## Nature of the source (read this first)
 
 This is a **secondary / tertiary** source — a *history*, not a primary text — and an unusually **opinionated** one. Its vault value is therefore different from the primary works already ingested: it supplies (a) a 20th-century logical-analyst's **verdicts** on the vault's thinkers, (b) a distinctive **social-circumstances method** of doing history of ideas, (c) a running **political thesis** (social cohesion vs. individual liberty), and (d) survey **coverage of thinkers not yet in the vault** (the Presocratics, Machiavelli, Hobbes, Leibniz, Rousseau, Hegel, Schopenhauer, Marx, Bergson, Dewey, the Utilitarians). Treat Russell's judgments as *Russell's* — brilliant, quotable, and partisan — not as neutral consensus. (Scholarship has moved on in many places, esp. on the Presocratics and medievals.)
+
+**Berlin’s 1947 *Mind* review** (now in [[Sources/The Crooked Timber of Humanity - Isaiah Berlin (2013)]], 2nd-ed. appendix) is the vault’s first *reception of this book*. Berlin: it is popular table-talk, not a systematic history; social history is arbitrary and thins after the Renaissance; its interest is Russell himself — last Encyclopedist, judging predecessors by his own standards. That is “not the ideal intellectual equipment for the historian of thought,” but it treats past thinkers as rational adults (contra Collingwood’s sealed epochs). Gaps he flags: teleology asserted rather than argued; Kant’s ethics and the synthetic a priori under-treated; Byzantium/Russia omitted; Hume on induction slighted. Do not let Berlin overwrite Russell’s own thesis; record the verdict.
 
 ## Russell's thesis and method
 
@@ -69,8 +71,8 @@ In the Logical Analysis chapter Russell delivers the canonical objection to the 
 
 ## Sources
 
-- Raw: `raw/History of Western Philosophy_ And Its Con - Bertrand Russell.txt` (Touchstone/Simon & Schuster eBook; Preface, Introduction, three Books in ~80 chapters, author bio; ~8,330 lines of text + a long index to ~19,960).
-- Companion in `raw/` (not yet ingested): `The Problems of Philosophy - Bertrand Russell.txt` (1912) — Russell's short primary epistemology (appearance/reality, knowledge by acquaintance vs. description, induction, a priori knowledge); a natural next ingest for [[Thinkers/Bertrand Russell]].
+- Raw: `raw/History of Western Philosophy_ And Its Con - Bertrand Russell.md` (Touchstone/Simon & Schuster eBook; Preface, Introduction, three Books in ~80 chapters, author bio; ~8,330 lines of text + a long index to ~19,960).
+- Companion in `raw/` (not yet ingested): `The Problems of Philosophy - Bertrand Russell.md` (1912) — Russell's short primary epistemology (appearance/reality, knowledge by acquaintance vs. description, induction, a priori knowledge); a natural next ingest for [[Thinkers/Bertrand Russell]].
 - Cross-references: nearly every vault entity (see verdicts above); the Early Modern empiricist cluster ([[Thinkers/Locke]], [[Thinkers/Hume]]) and the pragmatism pages ([[Sources/Pragmatism - William James (1907, Standard Ebooks)]]) are the densest links.
 
 ## Related

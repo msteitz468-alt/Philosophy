@@ -4,7 +4,7 @@ type: concept
 domains: [ai, futurism, technology, evolution]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Singularity is Near - Ray Kurzweil [Ray Kurzweil].txt"]
+sources: ["The Singularity is Near - Ray Kurzweil [Ray Kurzweil].md"]
 tags: [kurzweil, law-of-accelerating-returns, exponential-growth, s-curve, paradigm-shift, moores-law, information-technology, evolution]
 ---
 

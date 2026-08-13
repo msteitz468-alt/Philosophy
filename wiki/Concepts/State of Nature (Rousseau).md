@@ -4,7 +4,7 @@ type: concept
 domains: [political-philosophy, ethics]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["The Social Contract - Jean-Jacques Rousseau.txt"]
+sources: ["The Social Contract - Jean-Jacques Rousseau.md"]
 tags: [rousseau, state-of-nature, noble-savage, pity, amour-de-soi, ethics, political-philosophy, enlightenment]
 ---
 

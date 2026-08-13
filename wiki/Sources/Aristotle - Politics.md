@@ -3,7 +3,7 @@ title: "Politics (Aristotle)"
 type: source-summary
 status: complete
 translator: "Benjamin Jowett"
-sources: ["Politics (Aristotle).txt"]
+sources: ["Politics (Aristotle).md"]
 created: "2026-07-01"
 updated: "2026-07-01"
 domains: [politics, ethics, metaphysics]

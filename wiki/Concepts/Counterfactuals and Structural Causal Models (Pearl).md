@@ -4,7 +4,7 @@ type: concept
 domains: [causality, philosophy-of-science, statistics, philosophy-of-mind, ai]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Book of Why - Judea Pearl.txt"]
+sources: ["The Book of Why - Judea Pearl.md"]
 tags: [pearl, counterfactuals, structural-causal-models, scm, potential-outcomes, neyman-rubin, abduction-action-prediction, probability-of-necessity, probability-of-sufficiency, but-for-causation, climate-attribution, hume, lewis, rung-3]
 ---
 

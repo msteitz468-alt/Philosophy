@@ -4,7 +4,7 @@ type: concept
 domains: [phenomenology, philosophy-of-mind, psychology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Sartre (Ruud Welten).txt"]
+sources: ["Sartre (Ruud Welten).md"]
 tags: [philosophy, sartre, emotion, phenomenology, psychology]
 ---
 

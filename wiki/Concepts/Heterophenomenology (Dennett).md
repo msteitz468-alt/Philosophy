@@ -3,9 +3,9 @@ title: "Heterophenomenology (Dennett)"
 type: concept
 domains: [philosophy-of-mind, cognitive-science, philosophy-of-language, methodology]
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [dennett, heterophenomenology, phenomenology, methodology, intentional-stance, consciousness, third-person, qualia, introspection]
-sources: ["Consciousness Explained - Daniel C. Dennett.txt"]
+sources: ["Consciousness Explained - Daniel C. Dennett.md"]
 ---
 
 # Heterophenomenology (Dennett)
@@ -15,7 +15,7 @@ sources: ["Consciousness Explained - Daniel C. Dennett.txt"]
 ## The Problem Heterophenomenology Solves
 
 Two naive methodologies fail:
-1. **First-person-plural presumption** (traditional phenomenology: Wundt, Husserl): start with shared introspective reports as foundational data. Problem: introspection is unreliable; the Wundt and Husserl traditions diverged systematically on what "immediate experience" contains; there is no neutral arbiter.
+1. **First-person-plural presumption** (traditional phenomenology: Wundt, Husserl): start with shared introspective reports as foundational data. Problem: introspection is unreliable; the Wundt and Husserl traditions diverged systematically on what "immediate experience" contains; there is no neutral arbiter. *Cartesian Meditations* (now primary) is the opposite method: a solitary meditator's epoché, then pairing to reconstitute the Other *in* my monad — not a first-person *plural* at the start. Dennett's charge still hits the *ambition* (originary givenness as science); it misdescribes *CM*'s beginning. See [[Sources/Cartesian Meditations - Edmund Husserl]].
 2. **Behaviorism**: deny inner states entirely; study only input-output behavior. Problem: this throws away the most important data — what subjects say about their inner lives, which cannot be reduced to simple stimulus-response.
 
 Heterophenomenology is the third option: take the verbal reports seriously as evidence about the subject's intentional states, without treating them as incorrigible reports of intrinsic phenomenal properties.
@@ -44,6 +44,10 @@ Traditional phenomenology asks: "What are the real phenomenal properties of this
 
 This reformulation shifts the burden: rather than asking what qualia *really are*, we ask what work the concept of qualia does in the subject's self-model and reports — and then explain that work functionally. The result is that [[Concepts/Qualia Disqualified (Dennett)|qualia in the philosophically loaded sense]] turn out to be otiose: the reactive-dispositions account does all the explanatory work without postulating intrinsic, ineffable properties.
 
+## Relation to Dehaene's method
+
+[[Thinkers/Stanislas Dehaene]] independently states the same split: introspection is a bad *method* for how the mind works and the right *measure* of conscious content. "Subjective reports can and should be trusted" as the definiens of the phenomenon (with Naccache, 2001). He adds what heterophenomenology leaves open: pair the report with a neural event, and discard folk causal stories (stockings, choice blindness) without discarding the feeling. See [[Concepts/Minimal Contrast Method (Dehaene)]].
+
 ## Relation to the Intentional Stance
 
 Heterophenomenology applies the [[intentional stance]] (treating a system as a rational agent with beliefs and desires for purposes of prediction) specifically to the domain of *phenomenal* reports. The intentional stance is a methodological tool; heterophenomenology is that tool specialized for consciousness research.
@@ -59,5 +63,8 @@ Heterophenomenology applies the [[intentional stance]] (treating a system as a r
 - [[Concepts/Qualia Disqualified (Dennett)]] (heterophenomenology dissolves the qualia problem)
 - [[Concepts/Cartesian Theater (Dennett)]] (heterophenomenology does not presuppose a Cartesian Theater)
 - [[Contradictions/Dennett vs Nagel - Multiple Drafts vs Subjective Experience]] (Nagel's bat argument as the central test case)
+- [[Thinkers/Thomas Nagel]], [[Concepts/Subjective Character of Experience (Nagel)]], [[Concepts/Objective Phenomenology (Nagel)]] (Nagel's rival method: describe subjective character without empathy, without dropping the point of view)
+
+> [!warning] Heterophenomenology is not Nagel's [[Concepts/Objective Phenomenology (Nagel)]]. Dennett's method remains neutral on whether there are intrinsic phenomenal properties; Nagel's method presupposes them and tries to describe them better. See [[Sources/What Is It Like to Be a Bat - Thomas Nagel (1974)]].
 
 *Concept page created 2026-06-04 during ingest of Dennett (1991). Heterophenomenology: the third-person neutral method for phenomenology — takes reports as evidence for a theorist's fiction (intentional objects), without presupposing intrinsic qualia or a Cartesian Theater.*

@@ -3,8 +3,8 @@ title: "Rizwan Virk"
 type: thinker
 domains: [ai, metaphysics, technology, religion]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["The Simulation Hypothesis An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are in a… (Rizwan Virk) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["The Simulation Hypothesis An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are in a… (Rizwan Virk) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [virk, simulation-hypothesis, video-games, mit, mysticism]
 ---
 
@@ -16,7 +16,7 @@ tags: [virk, simulation-hypothesis, video-games, mit, mysticism]
 
 Virk's distinctive contribution is not the simulation argument itself (that is [[Thinkers/Nick Bostrom]]'s) but the **video game framing**: he reads the hypothesis through the concrete engineering of game development — rendering engines, game state, MMORPG server architecture, procedural generation — and through Eastern mysticism. His eleven-stage [[Concepts/Road to the Simulation Point (Virk)]] argues the Simulation Point is an extrapolation of existing technology; his physics chapters recast quantum indeterminacy as [[Concepts/Conditional Rendering and Quantum Indeterminacy (Virk)]]; his religion chapters recast karma and reincarnation as a [[Concepts/Karma and Reincarnation as Quest Engine (Virk)]].
 
-His signature philosophical position is the **RPG version** of the [[Concepts/Simulation Hypothesis (Virk)]]: against Bostrom's NPC reading, "there is a player outside the game who controls or inhabits the character inside the video game... I believe that the Eastern mystics may be closer to the nature of the Great Simulation than many of the scientists." This is functionally a modern dualism: consciousness outside the simulation, avatar within.
+His signature philosophical position is the **RPG version** of the [[Concepts/Simulation Hypothesis (Virk)]]: against what he takes to be Bostrom's NPC reading, "there is a player outside the game who controls or inhabits the character inside the video game... I believe that the Eastern mystics may be closer to the nature of the Great Simulation than many of the scientists." This is functionally a modern dualism: consciousness outside the simulation, avatar within. The 2003 paper ([[Sources/Are You Living in a Computer Simulation - Nick Bostrom (2003)]]) is officially neutral among its three horns and does not commit to an NPC conclusion — Virk is arguing with a reception of Bostrom, not with Bostrom's stated result.
 
 ## Key Claims / Positions
 

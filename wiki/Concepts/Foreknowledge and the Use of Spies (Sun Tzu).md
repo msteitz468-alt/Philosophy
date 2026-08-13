@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [sun-tzu, art-of-war, strategy, intelligence, foreknowledge, espionage, information, epistemology, classical-china]
-sources: ["The Art of War - Sun Tzu.txt"]
+sources: ["The Art of War - Sun Tzu.md"]
 ---
 
 # Foreknowledge and the Use of Spies (Sun Tzu)

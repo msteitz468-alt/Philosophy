@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [quine, naturalized-epistemology, web-of-belief, naturalism, pragmatism, posits, underdetermination, physical-objects, ontology, carnap, hume, philosophy-of-science, epistemology]
-sources: ["Quine51 - Unknown.txt"]
+sources: ["Quine51 - Unknown.md"]
 ---
 
 # Naturalized Epistemology and the Web of Belief (Quine)
@@ -56,9 +56,23 @@ The later explicit program ("Epistemology Naturalized," 1969) takes the further 
 - What is the precise status of logic and mathematics in the naturalized picture (are they simply the most central, most protected strands of the current web, or do they have a different status)?
 - Indeterminacy of translation and ontological relativity (Quine's later developments) — implications for meaning across different webs (different agents, different scientific paradigms, different cultures).
 
+## The Sellarsian Fork
+
+> [!warning] [[Thinkers/Wilfrid Sellars]] is the vault's other great anti-foundationalist of the 1950s, and Rorty pairs the two as complementary: Quine's [[Sources/Two Dogmas of Empiricism - W.V.O. Quine (1951)|"Two Dogmas"]] "helped destroy the distinction between analytic and synthetic truths," while [[Sources/Empiricism and the Philosophy of Mind - Wilfrid Sellars (1956)|EPM]] "helped destroy the empiricist form of foundationalism by attacking the distinction between what is 'given to the mind' and what is 'added by the mind.'" Their positive programs then diverge sharply on **exactly the question this page turns on**.
+
+Quine naturalizes: epistemology becomes a chapter of empirical psychology, continuous with science, and normative questions give way to the causal study of how sensory stimulation yields theory. Sellars denies precisely this reduction — "the idea that epistemic facts can be analyzed without remainder — even 'in principle' — into non-epistemic facts, whether phenomenal or behavioral, public or private, with no matter how lavish a sprinkling of subjunctives and hypotheticals is, I believe, a radical mistake — a mistake of a piece with the so-called '**naturalistic fallacy**' in ethics" (§5). See [[Concepts/Space of Reasons (Sellars)]].
+
+Points of genuine agreement worth holding onto:
+- Both reject an incorrigible observational foundation and an ontologically fundamental observation/theory divide.
+- Sellars's "self-correcting enterprise which can put *any* claim in jeopardy, though not *all* at once" (§38) is a close cousin of the web of belief — though it is a claim about *rational status*, not about the distribution of *confirmation*.
+- Both treat theoretical posits as fully respectable; but where Quine levels ("physical objects… epistemologically on a par with the gods of Homer"), Sellars *ranks*, giving the scientific framework authority over the common-sense one in the descriptive dimension ([[Concepts/Scientia Mensura (Sellars)]]).
+
+The open question the vault should keep flagged: whether normativity survives naturalization. Quine's answer is that it need not; Sellars's is that it must, and cannot be bought with descriptive vocabulary.
+
 ## Related
 
 - [[Sources/Two Dogmas of Empiricism - W.V.O. Quine (1951)]]
+- [[Thinkers/Wilfrid Sellars]], [[Concepts/Myth of the Given (Sellars)]], [[Concepts/Space of Reasons (Sellars)]], [[Concepts/Scientia Mensura (Sellars)]]
 - [[Thinkers/W.V.O. Quine]]
 - [[Concepts/Analytic-Synthetic Distinction (Quine)]], [[Concepts/Reductionism and Verification Theory of Meaning (Quine)]], [[Concepts/Confirmation Holism (Duhem-Quine Thesis)]]
 - [[Concepts/Problem of Induction (Hume)]], [[Concepts/Falsifiability as Criterion of Demarcation (Popper)]]

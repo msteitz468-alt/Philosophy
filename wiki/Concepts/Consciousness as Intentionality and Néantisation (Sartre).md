@@ -3,51 +3,64 @@ title: "Consciousness as Intentionality and Néantisation (Sartre)"
 type: concept
 domains: [phenomenology, philosophy-of-mind, ontology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Sartre (Ruud Welten).txt"]
+updated: "2026-08-12"
+sources: ["Being and Nothingness - Jean-Paul Sartre (Barnes trans.).md", "Sartre (Ruud Welten).md"]
 tags: [philosophy, sartre, phenomenology, intentionality, consciousness, nothingness]
 ---
 
 # Consciousness as Intentionality and Néantisation (Sartre)
-> Consciousness is not a thing that directs itself at objects; it *is* nothing but the directedness — and because it is always consciousness *of* something, it is not itself anything, but a negation.
+> All consciousness is consciousness of something — not as constitution of the object, but as a being born supported by a being it is not. The "not" that this relation is will be the origin of nothingness.
 
 ## Summary
 
-Sartre's whole philosophy grows, on Welten's reading, out of one radicalised borrowing from **Husserl**: *intentionality* — "the property of consciousness of always being consciousness of something." Sartre presses this further than Husserl himself. If consciousness is purely directedness (at a tree, a dog, a melody), then there is no prior "I" that *does* the directing. "Strictly speaking there is no 'I' in the counting — there is counting." The subject is not the initiator of intentionality but its *result*.
+### From *Being and Nothingness*, Introduction (primary)
 
-From this Sartre draws three consequences that found his early works:
+**Intentionality without contents.** "All consciousness, as Husserl has shown, is consciousness of something. This means that there is no consciousness which is not a positing of a transcendent object, or if you prefer, that consciousness has no 'content'" (BN li). A table is not in consciousness even as a representation; it is in space, beside the window. To introduce the table's opacity into consciousness would "make consciousness a thing, and … deny the cogito." The first procedure of a philosophy is "to expel things from consciousness and to reestablish its true connection with the world" (BN li). All consciousness is positional: it "exhausts itself" in positing the object. Not all consciousness is knowledge (there are affective consciousnesses), but all *knowing* consciousness is knowledge only of its object.
 
-1. **Pre-reflective vs reflective consciousness.** Irreflexive (pre-reflective) consciousness is absorbed in its object — being-afraid *is* the whole field, before any "I who am afraid." The "I" appears only when consciousness takes *itself* as object (reflection), and there the ego shows up as a *transcendent object*, not a subject. Hence the title of *The Transcendence of the Ego*: "the I is a thing." (Sartre therefore rejects any "unconscious": a consciousness that is unconscious is, for him, "like water that is not wet.")
+**The being of this directedness.** Consciousness of the table requires consciousness of being consciousness of the table — otherwise it would be "a consciousness ignorant of itself, an unconscious — which is absurd" (BN lii). That second consciousness is not a positional knowledge (see [[Concepts/Pre-reflective Cogito (Sartre)]]). Consciousness is "a being whose existence posits its essence" (BN lxii), a non-substantial absolute, "total emptiness (since the entire world is outside it)" (BN lvi).
 
-2. **Contingency.** That anything appears at all has no necessity — the lesson of *Nausea*: "To exist is simply to be there … you can never deduce it." This is Sartre's break with classical metaphysics, which always sought the *necessary*.
+**Ontological proof, not constitution.** "Consciousness is consciousness of something" can mean either that consciousness constitutes the being of its object or that it is in its inmost nature a relation to a transcendent being. The first destroys itself: to be conscious of something is to be confronted with a presence which is not consciousness. Husserl's empty intentions, aiming at an infinite series of *Abschattungen* never given at once, would make the object's being "pure non-being," "a lack" (BN lxi). "The objective will never come out of the subjective nor the transcendent from immanence, nor being from non-being." Husserl "posits" transcendence as his essential discovery, then is "totally unfaithful to his principle" when he makes the noema an unreal whose *esse* is *percipi* (BN lxi). Sartre's reading: "transcendence is the constitutive structure of consciousness; that is, that consciousness is born supported by a being which is not itself. This is what we call the ontological proof" (BN lxi). He completes Heidegger's formula for Dasein: consciousness is a being such that in its being, its being is in question *in so far as this being implies a being other than itself* (BN lxii).
 
-3. **Imagination and transcendence.** Appearing is not perceiving. A perceived object has infinite dimensions (I can walk toward the tree and discover more); an *imagined* object is given "all at once" (I cannot count the columns of the imagined Stoic portico). Freedom, Sartre says, exists by grace of imagination, not perception: humans live not *in* but at a distance from reality. Consciousness is therefore always *transcendent* — outside itself.
+**Where nothingness is earned (Part One, ch. 1).** The concrete starting point is not either region but "man within the world" (BN 3–4). Guiding conduct is the **question**, a human attitude that already admits a negative reply and so stands between two non-beings (the non-being of knowing; possible non-being in the thing). Negation is not born in judgment. Destruction, fragility, and Pierre's absence are objective *négatités*. The café is a fullness; "This figure … is Pierre raising himself as nothingness on the ground of the nihilation of the cafe" (BN 10). Wellington and Valéry "are not here" is only abstract. "Non-being does not come to things by a negative judgment; it is the negative judgment, on the contrary, which is conditioned and supported by non-being" (BN 11). If being were plenitude, "not" could never appear. "The necessary condition for our saying *not* is that non-being be a perpetual presence in us and outside of us, that nothingness haunt being" (BN 11). Against Hegel: being and nothingness are not contemporary opposites; "Being is and … nothingness is not"; nothingness "exists only on the surface of being" (BN 15–16). Against Heidegger's extra-mundane Nothing that nihilates itself: intramundane "little pools" (absence, distance, change) cannot be founded from outside. "Nothingness lies coiled in the heart of being — like a worm" (BN 21). The in-itself cannot produce it. Nothingness "is made-to-be." "Man is the being through whom nothingness comes to the world" (BN 24). That being *is* freedom: "there is no difference between the being of man and his being-free" (BN 25).
 
-The decisive ontological step (the title move of *Being and Nothingness*) is that this intentionality is a **negation** (*néantisation*). That a tree appears to me means first of all that *I am not the tree*. Consciousness "is not"; it has no positive being to describe, only what it is not. The world in itself is pure positivity — things simply *are* — and contains no negation: two rocks lying side by side do not "appear" to each other. The "not" enters the world only through consciousness. Sartre's famous illustration is **"Pierre is not here"**: arriving late at the café, I look for Pierre, and the whole room organises itself as the ground against which his *absence* figures. What appears is an absence, a *néantisation* — confirming that consciousness is the nothing through which the world's appearing is possible. Welten therefore calls Sartre's phenomenology a *negative* phenomenology, against Husserl's avowed "positivism."
+### From Welten (2020) and the earlier works
+
+Welten reads the whole philosophy off one radicalised borrowing: if consciousness is purely directedness, there is no prior "I" that does the directing. "Strictly speaking there is no 'I' in the counting — there is counting." That claim is the 1936 *Transcendence of the Ego*, which BN's Introduction presupposes rather than re-argues: the ego is a transcendent *object* of reflection ("the I is a thing"). Welten also supplies contingency (*Nausea*: existence cannot be deduced) and the imagination/perception contrast (*The Imaginary*: the imagined portico is given all at once). Those remain earlier-work claims until a primary ingest of those texts.
+
+Welten's ontological step — intentionality *is* negation; two rocks do not appear to each other; "Pierre is not here" — is the title move of the book. The Introduction prepares it (consciousness is not the in-itself; the "not" will have to come from somewhere); Part One has to earn it.
 
 ## Key Claims / Positions
 
-- Consciousness = intentional directedness, with no substantial ego behind it.
-- The ego is a transcendent *object* of reflection, not the source of consciousness ("the I is a thing").
-- No unconscious: pre-reflective consciousness is still fully conscious.
-- Appearing ≠ perceiving; imagination gives its object "all at once" and grounds freedom.
-- Intentionality is *negation*: consciousness is a nothing (*néant*); the "not" comes into the world only through it.
+- Consciousness has no contents; it is positional directedness at a transcendent object.
+- A consciousness ignorant of itself is absurd; the unconscious is ruled out at the start.
+- Intentionality is an ontological proof of transphenomenal being, not Husserlian constitution.
+- Néantisation is earned in Part One from the question and from *négatités* (Pierre's absence), not presupposed in the Introduction.
+- Nothingness is not Hegel's contemporary opposite of being and not Heidegger's extra-mundane Nothing; it is made-to-be by human reality and "lies coiled in the heart of being."
 
 ### How Sartre Differs From Prior Thinkers in the Wiki
 
-- **vs Husserl** ([[Schools/Phenomenology]]): Sartre keeps intentionality but rejects Husserl's *transcendental ego* and 1930 "monad" as a relapse into the psychologism Husserl had overcome — a consciousness that is already "something" cannot relate to the world. Where Husserl's reduction still yields a positive content (the empty glass given as such), for Sartre "the glass is empty because it is not full": pure negativity.
-- **vs [[Thinkers/Martin Heidegger]]**: Sartre adopts ontological vocabulary but starts from a *lack* of being (the néant), not from Being.
-- **vs [[Thinkers/Descartes]]**: the *cogito* is displaced — there is no thinking substance, only impersonal directedness; the "I think" is a reflective after-the-fact construction.
+- **vs [[Thinkers/Edmund Husserl]]**: keeps intentionality and *Abschattungen*; rejects *esse est percipi* for the noema, rejects *hyle* as a hybrid "which consciousness rejects and which can not be a part of the world" (BN lix), rejects the reduction that would make the world a noema-correlate. The 1930 attack on Husserl's "monad" now has its target-text: *CM* §33 (concrete ego as monad) and §41 (existents as "products" of subjectivity). See [[Sources/Cartesian Meditations - Edmund Husserl]], [[Concepts/Transcendental Idealism (Husserl)]].
+- **vs [[Thinkers/Martin Heidegger]]**: adopts ontic-ontological vocabulary and the completed Dasein formula, but the being in question is *consciousness*, and what it implies is a being *other than itself* (the in-itself).
+- **vs [[Thinkers/Berkeley]]**: *esse est percipi* would make the perceived a passivity and require consciousness (pure spontaneity) to give being to a transcendent nothingness — "so much nonsense" (BN lix).
+- **vs [[Thinkers/Descartes]]**: see [[Concepts/Pre-reflective Cogito (Sartre)]]; no thinking substance.
 
 ## Contradictions / Open Questions
-- > [!warning] Conflicts with **Freud** (and so with later depth psychology): if consciousness is wholly lucid and there is no unconscious, repression must be re-described as bad faith — see [[Contradictions/Sartre vs Freud - Lucidity vs the Unconscious]].
+
+- > [!warning] Conflicts with **Freud**: if a consciousness ignorant of itself is absurd, repression must be re-described as bad faith — see [[Contradictions/Sartre vs Freud - Lucidity vs the Unconscious]].
+- The Introduction bars realism and idealism and does not yet deliver the third relation.
 
 ## Sources
+
+- [[Sources/Being and Nothingness - Jean-Paul Sartre (Barnes trans.)]]
 - [[Sources/Sartre - Ruud Welten (2020)]]
 
 ## Related
+
 - [[Thinkers/Jean-Paul Sartre]]
-- [[Schools/Phenomenology]]
+- [[Concepts/Pre-reflective Cogito (Sartre)]]
 - [[Concepts/Being-for-itself and Being-in-itself (Sartre)]]
+- [[Schools/Phenomenology]]
+- [[Thinkers/Edmund Husserl]]
 - [[Concepts/Magical Theory of Emotions (Sartre)]]
 - [[Concepts/Bad Faith (Mauvaise Foi) (Sartre)]]
+

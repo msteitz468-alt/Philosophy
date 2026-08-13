@@ -4,7 +4,7 @@ type: concept
 domains: [technology, futurism, philosophy-of-technology, evolution-of-technology, ai, digital-culture]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["What Technology Wants - Kevin Kelly.txt", "The Inevitable_ Understanding the 12 Techn - Kevin Kelly.txt"]
+sources: ["What Technology Wants - Kevin Kelly.md", "The Inevitable_ Understanding the 12 Techn - Kevin Kelly.md"]
 tags: [kevin-kelly, technium, what-technology-wants, seventh-kingdom, exotropy, convergence, evolution, co-evolution, out-of-control]
 ---
 

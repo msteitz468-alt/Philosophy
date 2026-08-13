@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, cognitive-science]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [chalmers, awareness, psychophysical-laws, structural-coherence, global-availability, ncc]
 ---
 
@@ -22,7 +22,7 @@ This yields a **dualist (nonreductive) functionalism**: awareness suffices for c
 ## How Different Thinkers Use This
 
 - **[[Thinkers/Daniel Dennett]]**: "Consciousness is cerebral celebrity—nothing more and nothing less" — Chalmers keeps the functional story as the correlate while denying it exhausts the phenomenon.
-- **Baars / Crick & Koch**: their models, dismissed as answers to the hard problem in ch. 3, are rehabilitated here as legitimate science *of awareness* — the charitable half of Chalmers's dialectic.
+- **Baars / Crick & Koch / [[Thinkers/Stanislas Dehaene]]**: their models, dismissed as answers to the hard problem in ch. 3, are rehabilitated here as legitimate science *of awareness* — the charitable half of Chalmers's dialectic. Dehaene's primary ([[Sources/Consciousness and the Brain - Stanislas Dehaene (2014)]]) is the neuronal workspace plus the [[Concepts/Signatures of Consciousness and Ignition (Dehaene)|signatures]]; he treats that science as exhausting consciousness. See [[Contradictions/Dehaene vs Chalmers - Access Consciousness vs the Hard Problem]].
 - **[[Thinkers/Andy Clark]]** ([[Concepts/Predictive Processing (Clark)]]): predictive-processing accounts of access and precision are, in Chalmers's terms, theories of awareness; the coherence principle says why they still constrain a theory of consciousness.
 - Extends downward — dogs, mice, arguably flies — preparing the panpsychist slide of [[Concepts/Double-Aspect Theory of Information (Chalmers)]].
 

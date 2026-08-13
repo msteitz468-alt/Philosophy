@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [plato, statesman, division, cosmic-myth, law, royal-art, politics, classical-philosophy]
-sources: ["Statesman - Plato.txt"]
+sources: ["Statesman - Plato.md"]
 ---
 
 # Statesman - Plato

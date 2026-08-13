@@ -5,10 +5,10 @@ era: "20th century"
 schools: [Cybernetics, Information Theory, Philosophy of Mind]
 domains: [cybernetics, ai, information-theory, philosophy-of-mind, ethics, mathematics, computation]
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 source_count: 1
 tags: [wiener, cybernetics, feedback, entropy, alignment, learning, second-industrial-revolution, 1950, mit]
-sources: ["The Human Use of Human Beings - Norbert Wiener.txt", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt"]
+sources: ["The Human Use of Human Beings - Norbert Wiener.md", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Human Compatible - Stuart Russell (2019).txt"]
 ---
 
 # Norbert Wiener
@@ -57,6 +57,8 @@ sources: ["The Human Use of Human Beings - Norbert Wiener.txt", "Superintelligen
 
 - **With political philosophy**: Wiener is the vault's most politically engaged AI-era thinker. His critique of McCarthyism, secrecy classification, militarized science, the American "know-how" ideology, and the arms race as entropy spiral connects the AI/information leg to the political philosophy clusters (Augustine's Augustinian/Manichaean distinction, Popper's open society, Locke's liberty).
 
+- **With [[Thinkers/Stuart Russell]]**: *Human Compatible* treats Wiener 1960 ("If we use, to achieve our purposes, a mechanical agency with whose operation we cannot interfere effectively…") as the sentence the standard model cannot survive. King Midas is the Monkey's Paw from inside AIMA. Russell's recantation — "we should avoid 'putting a purpose into the machine,' as Norbert Wiener put it" — is a stricter reading than Wiener's own "know-what": not a better purpose, no purpose. The Djinnee's "own means" become the loophole principle. See [[Concepts/Alignment Problem - Sorcerer's Apprentice (Wiener)]].
+
 ## Relevance to the Vault and Meta
 
 - **Alignment bridge**: The vault's 2026 AI sources ([[Sources/Claude AI Advanced User Guide - 2026]], [[Sources/Daily Advanced AI Tips - 2026-06-02]]) are practically engaged with the alignment problem Wiener named in 1950. His Monkey's Paw/Djinnee distinction maps onto over-optimization of literal objectives vs. emergent deceptive alignment — the core current concern.
@@ -74,6 +76,7 @@ sources: ["The Human Use of Human Beings - Norbert Wiener.txt", "Superintelligen
 - [[Thinkers/Douglas Hofstadter]] (organism-as-message → strange loops; diverge on machine autonomy)
 - [[Thinkers/John Searle]] (biological grounding of mind; different mechanism)
 - [[Thinkers/Nick Bostrom]] (modern systematic treatment of the alignment/control problem Wiener first clearly articulated at the dawn of the computer age; Orthogonality Thesis and Instrumental Convergence as rigorous generalizations of Wiener's Monkey's Paw / Djinnee warnings)
+- [[Thinkers/Stuart Russell]], [[Sources/Human Compatible - Stuart Russell (2019)]] (King Midas = Monkey's Paw; recants "putting a purpose into the machine")
 
 *Thinker page created 2026-06-04 during ingest of The Human Use of Human Beings (full book, 1950). Wiener is the vault's cybernetics founder: the thinker who named the feedback loop, grounded information theory in thermodynamics, and first clearly stated the AI alignment problem.*
 

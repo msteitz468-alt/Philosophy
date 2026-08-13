@@ -6,14 +6,14 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [plotinus, enneads, neoplatonism, metaphysics, the-one, classical-philosophy, hellenistic, 3rd-century-ad]
-sources: ["The Enneads - Plotinus.txt"]
+sources: ["The Enneads - Plotinus.md"]
 ---
 
 # The Enneads - Plotinus
 
 > This file appears to be a structural or page-number reference/index for Plotinus' *Enneads* (the collected treatises of Plotinus, c. 204–270 CE, edited by his student Porphyry into 6 Enneads of 9 treatises each, totaling 54). The content consists primarily of sequential numbers (3 through 26+) with extensive whitespace, suggesting it may be a table of contents, page markers, or partial index for the metaphysical, cosmological, ethical, and psychological works of Plotinus, the founder of Neoplatonism. Key themes in the Enneads (inferred from title and classical context) include the hierarchy of reality: The One (ultimate source), Intellect (Nous), Soul, matter, the process of emanation, the return of the soul to the One, virtue, and contemplation.
 
-**Source**: `raw/The Enneads - Plotinus.txt` (short text file, 111 lines, mostly numeric page/structure markers and blanks; no extended prose in the provided content).
+**Source**: `raw/The Enneads - Plotinus.md` (short text file, 111 lines, mostly numeric page/structure markers and blanks; no extended prose in the provided content).
 
 ---
 
@@ -104,7 +104,7 @@ Fits "Research" and "Reading a book" use cases perfectly. Expands the Hellenisti
 
 ## Sources
 
-- `raw/The Enneads - Plotinus.txt` (structural reference/index for the Enneads).
+- `raw/The Enneads - Plotinus.md` (structural reference/index for the Enneads).
 
 ## Related
 

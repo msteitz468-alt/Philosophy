@@ -3,8 +3,8 @@ title: "Apeiron (Anaximander)"
 type: concept
 domains: [cosmology, metaphysics]
 created: "2026-06-11"
-updated: "2026-06-11"
-sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+updated: "2026-08-12"
+sources: ["Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 tags: [concept, apeiron, boundless, infinite, anaximander, metaphysics, cosmology]
 ---
 
@@ -28,6 +28,8 @@ The **Apeiron** (ἄπειρον) represents the first highly abstract concept i
 **Eternal Motion and Separation**:
 - The Apeiron is in eternal motion. Through this motion, the opposites (the hot and the cold, the dry and the wet) "separate out" from it to form the worlds.
 - The Apeiron is described as "eternal," "ageless," and "deathless," encompassing and steering all the infinite worlds that are generated and dissolved.
+
+**Aristotle's critique (*Physics* III)**: Anaximander is cited with "the majority of the physicists" for an infinite principle, uncreatable and indestructible, encompassing and steering, identified with the Divine, "'deathless and imperishable' as Anaximander says." Aristotle keeps the word and denies the cosmology. There is no actual infinite body; *qua* infinite the *apeiron* is **contained** (matter/privation), not what contains. The motive of positing an extra body so no contrary annihilates the rest is rejected. See [[Concepts/The Infinite (Apeiron) (Aristotle)]].
 
 ---
 

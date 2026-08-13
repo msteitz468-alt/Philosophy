@@ -8,7 +8,7 @@ source_count: 3
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [hume, david-hume, philosophy, empiricism, scepticism, epistemology, induction, causation, compatibilism, naturalism, early-modern, enlightenment, scottish-enlightenment, classical]
-sources: ["An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)", "The Logic of Scientific Discovery (Routled - Karl Popper.txt", "Language, Truth and Logic - A. J. Ayer.txt"]
+sources: ["An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)", "The Logic of Scientific Discovery (Routled - Karl Popper.md", "Language, Truth and Logic - A. J. Ayer.md"]
 ---
 
 # David Hume (1711–76)

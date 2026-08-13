@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, history, philosophy-of-history, freedom, state, cunning-of-reason, primary-source]
-sources: ["Philosophy of History - John Sibree.txt"]
+sources: ["Philosophy of History - John Sibree.md"]
 ---
 
 # Philosophy of History - Hegel (1837)

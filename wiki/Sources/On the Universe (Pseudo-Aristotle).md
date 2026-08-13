@@ -3,7 +3,7 @@ title: "On the Universe (Pseudo-Aristotle, De Mundo)"
 type: source-summary
 status: complete
 translator: "E. S. Forster"
-sources: ["On the Universe (Aristotle).txt"]
+sources: ["On the Universe (Aristotle).md"]
 created: "2026-07-01"
 updated: "2026-07-01"
 domains: [metaphysics, theology, cosmology]
@@ -35,4 +35,4 @@ The *Universe* (*kosmos*) is a single, harmoniously ordered whole composed of fi
 This short apocryphal treatise is philosophically interesting precisely because it is *not* Aristotle: it presents a Stoic-flavored theology of an effortless, remote, chain-transmitting cosmic governor — closer to Stoic providence and to the later Neoplatonic emanation scheme than to Aristotle's own [[Concepts/The Unmoved Mover (Aristotle)]], which neither creates nor administers the world and knows no particulars. Filing it under the Aristotle hub with an explicit spurious-authorship flag preserves the historical record of how ancient and medieval readers actually received "Aristotelian" cosmology (this treatise circulated as genuine for centuries) while keeping the vault's Aristotle material accurate. Its unity-from-contraries argument and city/chorus/king analogies for divine governance are its most durable philosophical contributions, and its five-element cosmology (elevating ether above the sublunary four) matches material already in [[Sources/Aristotle - Metaphysics]] and [[Sources/The Enneads - Plotinus]].
 
 ## Sources
-- Raw file: `On the Universe (Aristotle).txt` (retains original title; content is pseudonymous, see Argument Spine)
+- Raw file: `On the Universe (Aristotle).md` (retains original title; content is pseudonymous, see Argument Spine)

@@ -3,8 +3,8 @@ title: "Anxiety (Angst) (Heidegger)"
 type: concept
 domains: [ontology, phenomenology, existentialism, philosophy-of-mind]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).md", "Existentialism is a Humanism - Jean-Paul Sartre (1946).md"]
 tags: [philosophy, heidegger, anxiety, angst, attunement, uncanniness]
 ---
 
@@ -23,8 +23,8 @@ In Division Two anxiety returns as the attunement of [[Concepts/Being-toward-Dea
 
 ### How This Compares to Other Thinkers in the Wiki
 
-- **[[Thinkers/Søren Kierkegaard]]**: the acknowledged ancestor (anxiety as the dizziness of freedom before possibility); Heidegger ontologizes it, stripping the theological frame.
-- **[[Thinkers/Jean-Paul Sartre]]**: adopts *angoisse* as consciousness of one's own [[Concepts/Radical Freedom and Situation (Sartre)|radical freedom]] (vertigo at the cliff: nothing prevents me from jumping); for Heidegger the accent falls on world-collapse and individualization before death, not on the spontaneity of consciousness.
+- **[[Thinkers/Søren Kierkegaard]]**: the acknowledged ancestor (anxiety as the dizziness of freedom before possibility); Heidegger ontologizes it, stripping the theological frame. That formula is from *The Concept of Anxiety* (1844), still outstanding. The vault's first Kierkegaard primary, *Fear and Trembling*, is a different anguish: the contradiction between murder and sacrifice, and the solitude of not being able to speak. Do not collapse them. See [[Concepts/Knight of Faith and Infinite Resignation (Kierkegaard)]].
+- **[[Thinkers/Jean-Paul Sartre]]**: two registers now in the vault. Welten's BN gloss: *angoisse* as consciousness of [[Concepts/Radical Freedom and Situation (Sartre)|radical freedom]] (vertigo at the cliff: nothing prevents me from jumping). The 1945/46 lecture: anguish of the *legislator* — Abraham deciding whether the voice is an angel's; the commander who interprets a general order — "the very condition of their action," directed "towards other men who are concerned." See [[Concepts/Anguish, Abandonment and Despair (Sartre)]]. For Heidegger the accent falls on world-collapse and individualization before death, not on legislation or on the spontaneity of consciousness. Sartre also takes "abandonment" as "a favorite word of Heidegger" and uses it to mean: God does not exist, draw the consequences.
 - **[[Thinkers/Epicurus]] / the Stoics**: treat fear of death as an error to be dissolved by argument; Heidegger treats anxiety before death as a *disclosure* to be endured — suppressing it is the they's tranquillization, not wisdom.
 
 ## Contradictions / Open Questions

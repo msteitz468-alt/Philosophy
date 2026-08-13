@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [sun-tzu, art-of-war, strategy, deception, surprise, misdirection, information, classical-china]
-sources: ["The Art of War - Sun Tzu.txt"]
+sources: ["The Art of War - Sun Tzu.md"]
 ---
 
 # All Warfare Is Based on Deception (Sun Tzu)

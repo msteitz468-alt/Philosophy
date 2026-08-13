@@ -4,7 +4,7 @@ type: contradiction
 domains: [causality, statistics, philosophy-of-science, ai, history-of-science]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Book of Why - Judea Pearl.txt"]
+sources: ["The Book of Why - Judea Pearl.md"]
 tags: [pearl, causality, statistics, galton, pearson, fisher, sewall-wright, causal-revolution, simpsons-paradox, correlation, data-centrism, deep-learning, rung-1]
 ---
 

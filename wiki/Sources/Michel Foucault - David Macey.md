@@ -3,8 +3,8 @@ title: "Michel Foucault (David Macey)"
 type: source-summary
 status: complete
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Michel Foucault (David Macey).txt"]
+updated: "2026-08-12"
+sources: ["Michel Foucault (David Macey).md"]
 tags: [philosophy, biography, foucault, poststructuralism]
 ---
 
@@ -37,6 +37,10 @@ Macey argues that Foucault's philosophy cannot be separated from his biography �
 - [[Thinkers/Gilles Deleuze]] — collaboration, Anti-Oedipus, "Intellectuals and Power"
 - [[Thinkers/Ian Hacking]] — historical epistemology, Canguilhem lineage
 - [[Thinkers/Kant]] — Foucault's thesis on Kant's Anthropology; later "What is Enlightenment?"
+
+## Primary now ingested (2026-08-12)
+
+The genealogy chapter of this biography is now grounded by [[Sources/Discipline and Punish - Michel Foucault (1975)]] (Sheridan/Vintage 1995). The sexuality/biopower chapter is now grounded by [[Sources/The History of Sexuality Volume 1 - Michel Foucault (1976)]] (Hurley/Pantheon 1978). Macey remains the source for life, GIP activism, the three-phase periodization, the Iranian episode, and the 1978–79 governmentality lectures; the 1976 book is now the source for the repressive hypothesis, *scientia sexualis*, the deployment of sexuality, and the 1976 definition of bio-power. Governmentality is still lecture-course material.
 
 ## Maps Extracted
 *(none — text-only source)*

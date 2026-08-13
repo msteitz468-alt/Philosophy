@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [feyerabend, natural-interpretations, theory-ladenness, galileo, tower-argument, telescope, observation-language, anamnesis, philosophy-of-science]
-sources: ["Against Method - Paul Feyerabend.txt"]
+sources: ["Against Method - Paul Feyerabend.md"]
 ---
 
 # Natural Interpretations and the Galileo Case (Feyerabend)

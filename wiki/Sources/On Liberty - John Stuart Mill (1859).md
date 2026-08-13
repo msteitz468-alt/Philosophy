@@ -5,7 +5,7 @@ domains: [political-philosophy]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["On Liberty - John Stuart Mill.txt"]
+sources: ["On Liberty - John Stuart Mill.md"]
 tags: [mill, political-philosophy, liberty, harm-principle, free-speech, individuality, primary-source]
 ---
 
@@ -58,3 +58,5 @@ Mill's central thesis is that the only justification for society or the state to
 - [[Sources/Utilitarianism - John Stuart Mill (1861)]]
 - [[Sources/Leviathan - Thomas Hobbes (1651)]]
 - [[Thinkers/Thomas Hobbes]]
+- [[Thinkers/Isaiah Berlin]] — reception of “Two Concepts”; Mill as ancestor of the negative area and of “each by all the rest”
+- [[Concepts/Negative and Positive Liberty (Berlin)]]

@@ -5,7 +5,7 @@ domains: [metaphysics, logic, methodology]
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, dialectic, logic, metaphysics, synthesis, methodology, philosophy]
-sources: ["The Logic of Hegel - William Wallace.txt", "Phenomenology of Mind - J B Baillie.txt"]
+sources: ["The Logic of Hegel - William Wallace.md", "Phenomenology of Mind - J B Baillie.md"]
 ---
 
 # Dialectical Method (Hegel)

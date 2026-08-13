@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [plato, sophist, division, non-being, forms, five-greatest-kinds, Parmenides, classical-philosophy]
-sources: ["Sophist - Plato.txt"]
+sources: ["Sophist - Plato.md"]
 ---
 
 # Sophist - Plato

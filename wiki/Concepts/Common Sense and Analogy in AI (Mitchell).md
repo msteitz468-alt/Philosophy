@@ -4,7 +4,7 @@ type: concept
 domains: [ai, cognitive-science, philosophy-of-mind]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Artificial Intelligence - Melanie Mitchell.txt"]
+sources: ["Artificial Intelligence - Melanie Mitchell.md"]
 tags: [mitchell, common-sense, analogy, understanding, abstraction, deep-learning-limits, hofstadter, ai]
 ---
 

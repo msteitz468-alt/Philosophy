@@ -15,6 +15,8 @@ sources: ["seneca_letters_from_a_stoic_rag.md"]
 
 > Seneca's governing metaphor for the philosophical enterprise: as medicine diagnoses and treats diseases of the body, philosophy diagnoses and treats diseases of the soul — false beliefs, disordered desires, fear of death, addiction to wealth and reputation. The philosopher is both physician and patient; genuine progress (*profectus*) is the realistic goal; writing and friendship are the instruments of the therapy.
 
+[[Thinkers/Pierre Hadot]] restates the same claim as the definition of philosophy: a “therapeutic of the passions.” He cites Cicero *Tusc.* 3.6 (“philosophy is the medicine of the soul”), Epictetus (“The philosopher’s school is a clinic”), and Chrysippus’s *Therapeutics*. The metaphor is not Seneca’s private figure; it is the Hellenistic frame Hadot recovers as [[Concepts/Spiritual Exercises (Hadot)|spiritual exercise]]. See [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]].
+
 ## The Metaphor
 
 **"The philosopher's school is a surgery: you ought to go out of it in pain, not in pleasure."** (Epictetus, Fragments — the sharpest formulation of the same idea.)

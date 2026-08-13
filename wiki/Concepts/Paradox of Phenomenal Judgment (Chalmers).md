@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, epistemology]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Conscious MindIn Search of a Fundamental Theory (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [chalmers, phenomenal-judgment, zombies, acquaintance, self-knowledge, dennett]
 ---
 
@@ -22,6 +22,7 @@ Defenses against the epistemic fallout: self-knowledge rests on **acquaintance**
 ## How Different Thinkers Use This
 
 - **[[Thinkers/Daniel Dennett]]**: the chapter's main target — Dennett (1979): "There are the public reports... our judgments, and then there is—so far as introspection is concerned—darkness." Chalmers replies that Dennett describes *extrospection* and that *Consciousness Explained* trades on an ambiguity in "seem" (phenomenal vs dispositional).
+- **[[Thinkers/Frank Jackson]]** ([[Concepts/Epiphenomenal Qualia (Jackson)]], now primary): the 1982 ancestor of the cost this page prices. Jackson *advertises* physical idleness and answers the three standard objections (obvious causation, Darwin, other minds) plus the leftover "excrescence" charge (evolution does not select for understanding idle properties). Chalmers keeps causal closure, grants the resulting paradox, and looks for acquaintance / Russellian escapes Jackson does not offer.
 - **Shoemaker**: turns the same zombie-possibility into an argument *for* reductive functionalism; Chalmers's acquaintance response is the hinge of the disagreement.
 - **[[Thinkers/Douglas Hofstadter]]** ([[Sources/Gödel, Escher, Bach - Douglas Hofstadter (1979)]]): supplies the model of a self-monitoring system that would naturally make phenomenal judgments — used by Chalmers *without* the deflationary moral Hofstadter draws.
 - This is the honest cost-accounting of [[Arguments/Zombie Argument (Chalmers)]] — the point deflationists press hardest (cf. [[Concepts/Predictive Processing and the Hard Problem (Clark)]]).
@@ -30,4 +31,4 @@ Defenses against the epistemic fallout: self-knowledge rests on **acquaintance**
 - [[Sources/The Conscious Mind - David J. Chalmers (1996)]]
 
 ## Related
-- [[Concepts/Naturalistic Dualism (Chalmers)]] · [[Concepts/Qualia Disqualified (Dennett)]] · [[Thinkers/David Chalmers]]
+- [[Concepts/Naturalistic Dualism (Chalmers)]] · [[Concepts/Qualia Disqualified (Dennett)]] · [[Thinkers/David Chalmers]] · [[Thinkers/Frank Jackson]] · [[Concepts/Epiphenomenal Qualia (Jackson)]]

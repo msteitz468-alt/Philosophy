@@ -5,7 +5,7 @@ domains: [political-philosophy, political-economy, metaphysics]
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [marx, historical-materialism, base-superstructure, economy, history, materialism]
-sources: ["The Communist Manifesto - Marx and Engels.txt"]
+sources: ["The Communist Manifesto - Marx and Engels.md"]
 ---
 
 # Historical Materialism (Marx)

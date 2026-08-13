@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, philosophy-of-religion]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On Divination in Sleep (Aristotle).txt"]
+sources: ["On Divination in Sleep (Aristotle).md"]
 tags: [aristotle, dreams, divination, prophecy, naturalism, classical]
 ---
 

@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-29"
 updated: "2026-06-29"
 tags: [maimonides, creation, eternity, ex-nihilo, aristotle, plato, kalam, design, miracles, will, medieval]
-sources: ["The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Creation vs Eternity (Maimonides)

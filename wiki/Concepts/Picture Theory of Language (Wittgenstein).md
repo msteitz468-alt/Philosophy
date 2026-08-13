@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-language, logic, epistemology]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Tractatus Logico-Philosophicus - Ludwig Wittgenstein.txt"]
+sources: ["Tractatus Logico-Philosophicus - Ludwig Wittgenstein.md"]
 tags: [wittgenstein, picture-theory, tractatus, logic, philosophy-of-language, logical-atomism, representation]
 ---
 
@@ -53,6 +53,9 @@ Under the picture theory, a proposition only has sense (*Sinn*) if it represents
 ### Connection to Vault
 * **Vienna Circle and Ayer**: The logical positivists (like [[Thinkers/A.J. Ayer|A.J. Ayer]]) adopted the picture theory's demarcation line to formulate the [[Concepts/Verification Principle (Ayer)|Verification Principle]], arguing that any non-analytic, non-empirical sentence is meaningless.
 * **Isomorphism and Hofstadter**: Wittgenstein's claim that meaning arises through a structural isomorphism between symbols and the world is a direct precursor to [[Thinkers/Douglas Hofstadter|Douglas Hofstadter]]'s analysis of meaning in *Gödel, Escher, Bach*. However, Hofstadter rejects Wittgenstein's strict limits, showing that self-referential systems can generate meaning through "strange loops."
+* **Ogden–Richards**: *The Meaning of Meaning* (same series; Ogden as *Tractatus* translator) cites 6.2 / 6.24 on mathematics and, in Appendix A, rejects the picture-correspondence of propositional sign to state of affairs. "Standing for and representing are different relations"; on a [[Concepts/Contextual Theory of Reference (Ogden-Richards)|causal theory]] structural isomorphism is "unnecessary and highly improbable." Their [[Concepts/Triangle of Reference (Ogden-Richards)|triangle]] leaves the symbol–referent base empty except in the simulative case.
+
+> [!warning] Conflicts with [[Concepts/Triangle of Reference (Ogden-Richards)]] on whether the symbol–world hook is isomorphism or an imputed "stands for."
 
 ---
 
@@ -67,4 +70,5 @@ Under the picture theory, a proposition only has sense (*Sinn*) if it represents
 - [[Thinkers/A.J. Ayer]]
 - [[Thinkers/Douglas Hofstadter]]
 - [[Concepts/Verification Principle (Ayer)]]
+- [[Sources/The Meaning of Meaning - Ogden and Richards (1923)]], [[Concepts/Triangle of Reference (Ogden-Richards)]], [[Thinkers/C. K. Ogden]]
 - [[Concepts/Formal Systems and Isomorphism (Hofstadter)]]

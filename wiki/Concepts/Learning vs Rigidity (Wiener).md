@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [wiener, learning, rigidity, ants, humans, fascism, conditioned-reflex, feedback, machines, preference-vs-constraint, 1950]
-sources: ["The Human Use of Human Beings - Norbert Wiener.txt"]
+sources: ["The Human Use of Human Beings - Norbert Wiener.md"]
 ---
 
 # Learning vs Rigidity (Wiener)

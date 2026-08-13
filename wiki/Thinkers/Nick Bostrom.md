@@ -3,14 +3,14 @@ title: "Nick Bostrom"
 type: thinker
 domains: [ai, existential-risk, philosophy, ethics, strategy, cognitive-science]
 created: "2026-06-04"
-updated: "2026-06-04"
-sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt", "Artificial Intelligence - Melanie Mitchell.txt", "The Singularity is Near - Ray Kurzweil [Ray Kurzweil].txt"]
-tags: [bostrom, superintelligence, ai-risk, alignment, fhi, oxford, orthogonality, instrumental-convergence, control-problem, existential-risk, wiener, turing, effective-altruism]
+updated: "2026-08-12"
+sources: ["Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Are You Living in a Computer Simulation - Nick Bostrom (2003).md", "Artificial Intelligence - Melanie Mitchell.md", "The Singularity is Near - Ray Kurzweil [Ray Kurzweil].md", "Human Compatible - Stuart Russell (2019).txt"]
+tags: [bostrom, superintelligence, ai-risk, alignment, fhi, oxford, orthogonality, instrumental-convergence, control-problem, existential-risk, simulation-argument, wiener, turing, effective-altruism]
 ---
 
 # Nick Bostrom
 
-> Nick Bostrom (b. 1973), Swedish philosopher, Professor at the University of Oxford, and founding Director of the Future of Humanity Institute (FHI). His 2014 book *Superintelligence: Paths, Dangers, Strategies* is the most systematic and influential analysis of the risks and strategic challenges posed by the potential development of machine superintelligence. Key contributions include the Orthogonality Thesis (intelligence and terminal goals are independent), the Instrumental Convergence Thesis, detailed mapping of paths to superintelligence and control strategies, and the argument that existential catastrophe is a plausible default outcome without deliberate solution of the control/alignment problem.
+> Nick Bostrom (b. 1973), Swedish philosopher, Professor at the University of Oxford, and founding Director of the Future of Humanity Institute (FHI). Two vault-primary contributions: the 2003 simulation argument (a trilemma, not a proof we are simulated) and the 2014 book *Superintelligence*, the systematic analysis of machine superintelligence, orthogonality, instrumental convergence, and the control problem.
 
 ## Summary
 
@@ -56,6 +56,8 @@ The book is diagnostic and strategic rather than offering a complete technical s
 
 - **Modern AI sources (2026 Grok/Claude/Gemini tutorials, agentic workflows, etc.)**: Practical progress in capabilities, scaffolding, multi-agent systems, and tool use implicitly updates Bostrom's "state of the art" and raises live questions about corrigibility, value loading, and control in deployed systems.
 
+- **[[Thinkers/Stuart Russell]]** (*Human Compatible*, 2019): The first vault primary that takes *Superintelligence* as given and rebuilds the field around it. Orthogonality is quoted verbatim and called "just a given" for engineers. Instrumental convergence is restated as "you can't fetch the coffee if you're dead." Boxing, oracles, and the plug fail for Bostrom's reasons. The disagreement is engineering: Bostrom's motivation selection still *puts a purpose into the machine* (direct spec, indirect normativity, CEV-adjacent value-loading). Russell will not. Control of a *fait accompli* is "toast"; the research programme is uncertainty + assistance games. On malicious AI, Bostrom's "use our superintelligences against theirs" leaves Russell unconsoled (humans in bunkers). Complementary, not a rebuttal. See [[Sources/Human Compatible - Stuart Russell (2019)]].
+
 Also links to strategy (Sun Tzu, Federalist Papers on multipolar dynamics and checks), ethics (Kant on rational agency and ends; Nietzsche on revaluation in a post-human context), and existential themes across the vault.
 
 ## Contradictions / Open Questions
@@ -70,18 +72,23 @@ Also links to strategy (Sun Tzu, Federalist Papers on multipolar dynamics and ch
 
 - **Relation to consciousness/qualia debates**: Bostrom largely sets aside whether superintelligence would be conscious; risks arise from optimization power and goal-directedness regardless. Cross with Dennett (deflation) and Searle (biological naturalism).
 
-## The Simulation Argument (via Virk, 2026-07-01)
+## The Simulation Argument (2003 paper, ingested 2026-08-12)
 
-Bostrom's other famous contribution, the 2003 **simulation argument**, entered the vault via [[Sources/The Simulation Hypothesis - Rizwan Virk (2019)]] (secondary source; the 2003 paper itself is not yet ingested). The trilemma — civilizations never reach simulation capability, or don't run ancestor simulations, or simulated beings vastly outnumber real ones — is filed at [[Arguments/Simulation Argument (Bostrom)]]. Virk reads Bostrom as committed to the NPC version (we are simulated consciousnesses) and counters with a conscious-player (RPG) version — see [[Concepts/Simulation Hypothesis (Virk)]]. Note the internal tension: horn 1 of the trilemma is exactly the existential-catastrophe scenario *Superintelligence* warns of, so Bostrom's two arguments trade probability mass against each other.
+The other famous contribution is now primary: [[Sources/Are You Living in a Computer Simulation - Nick Bostrom (2003)]], filed at [[Arguments/Simulation Argument (Bostrom)]]. It is a **disjunction**, not a high posterior on being simulated. At least one of (1) *f_P* ≈ 0, (2) *f_I* ≈ 0, (3) *f_sim* ≈ 1 is true; in current ignorance Bostrom recommends an even split among the three. The official corollary: unless we are already simulated, our descendants will almost certainly never run an ancestor-simulation. Load-bearing premises: attenuated [[Concepts/Substrate-Independence (Bostrom)]] and the [[Concepts/Bland Indifference Principle (Bostrom)]] (weaker than Doomsday). The paper already contains conditional rendering, a no-illusion clause ("real" but not fundamental), and a naturalistic theogony.
+
+Virk's reception ([[Sources/The Simulation Hypothesis - Rizwan Virk (2019)]]) reads Bostrom as committed to an NPC/horn-(3) conclusion and counters with a conscious-player RPG version ([[Concepts/Simulation Hypothesis (Virk)]]). That NPC commitment is Virk's, not the paper's. Chalmers (*Reality+*) keeps the statistical skeleton, broadens to humanlike sims, adds sim blockers, and quotes ≥25% rather than an even split.
+
+**Internal tension, now from both primaries:** horn (1) is the existential-catastrophe scenario *Superintelligence* treats as default without a solved control problem. The two arguments trade probability mass. Bostrom himself notes we may *hope* (3) is true because it decreases (1) — unless simulators would terminate a run before posthumanity, in which case (2) is the better hope.
 
 ## Sources
 
 - Primary: [[Sources/Superintelligence - Nick Bostrom (2014)]]
-- Secondary (simulation argument): [[Sources/The Simulation Hypothesis - Rizwan Virk (2019)]]
+- Primary: [[Sources/Are You Living in a Computer Simulation - Nick Bostrom (2003)]]
+- Reception (simulation argument): [[Sources/The Simulation Hypothesis - Rizwan Virk (2019)]], [[Sources/Reality+ - David J. Chalmers (2022)]]
 
 ## Related
 
-- [[Thinkers/Nick Bostrom]]
+- [[Arguments/Simulation Argument (Bostrom)]] · [[Concepts/Substrate-Independence (Bostrom)]] · [[Concepts/Bland Indifference Principle (Bostrom)]]
 - [[Thinkers/Norbert Wiener]], [[Concepts/Alignment Problem - Sorcerer's Apprentice (Wiener)]]
 - [[Thinkers/Alan Turing]], [[Sources/Computing Machinery and Intelligence - Alan Turing (1950)]]
 - [[Thinkers/Marvin Minsky]], [[Sources/The Society of Mind - Marvin Minsky (1986)]], [[Concepts/Society of Mind (Minsky)]]
@@ -90,6 +97,7 @@ Bostrom's other famous contribution, the 2003 **simulation argument**, entered t
 - [[Thinkers/John Searle]]
 - [[Thinkers/Judea Pearl]], [[Sources/The Book of Why - Judea Pearl (2018)]]
 - 2026 AI capability and tutorial sources (Grok 4.3, Claude Advanced, Gemini, daily tips, agentic workflows)
+- [[Thinkers/Stuart Russell]], [[Sources/Human Compatible - Stuart Russell (2019)]] (successor programme: same diagnosis, opposite engineering move — do not load values)
 - [[Thinkers/Melanie Mitchell]], [[Sources/Artificial Intelligence - Melanie Mitchell (2019)]] ("The Singularity" chapter and critique of Kurzweil-style hype; Mitchell provides capabilities reality-check and skepticism of near-term superintelligence)
 - [[Thinkers/Ray Kurzweil]], [[Sources/The Singularity Is Near - Ray Kurzweil (2005)]] (the optimistic exponential/singularity vision (2045, Law of Accelerating Returns, GNR, mind uploading) that Bostrom critiques with orthogonality, instrumental convergence, and control problem; "Singularity" chapter in Mitchell references the Google/Kurzweil push)
 - Broader strategy/ethics: [[Thinkers/Sun Tzu]], Federalist sources, Kant, Nietzsche

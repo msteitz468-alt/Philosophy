@@ -7,7 +7,7 @@ created: "2026-06-11"
 updated: "2026-06-11"
 source_count: 4
 tags: [contradiction, materialism, teleology, atoms, void, demiurge, unmoved-mover, final-cause, physics, metaphysics]
-sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt", "Plato - Republic (Cambridge, 2000).md", "Plato - Timaeus & Critias (Oxford, 2008).md"]
+sources: ["Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md", "Plato - Republic (Cambridge, 2000).md", "Plato - Timaeus & Critias (Oxford, 2008).md"]
 ---
 
 # Atomist Materialism vs Platonic-Aristotelian Teleology

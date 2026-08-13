@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [shannon, entropy, channel-capacity, information-theory, noisy-channel, redundancy, bell-labs, 1948, cryptography, communication]
-sources: ["A Mathematical Theory of Communication - Claude Shannon.txt"]
+sources: ["A Mathematical Theory of Communication - Claude Shannon.md"]
 ---
 
 # Claude Shannon

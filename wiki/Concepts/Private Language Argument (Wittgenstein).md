@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, philosophy-of-language, epistemology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Philosophical Investigations (Ludwig Wittgenstein).txt", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+sources: ["Philosophical Investigations (Ludwig Wittgenstein).md", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md"]
 tags: [wittgenstein, private-language, beetle-in-a-box, sensation, criterion, philosophical-investigations, philosophy-of-mind]
 ---
 

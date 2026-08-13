@@ -7,7 +7,7 @@ source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
 tags: [epictetus, stoicism, discourses, arrian, prohairesis, dichotomy-of-control, impressions, assent, freedom, cynicism, providence, classical-philosophy]
-sources: ["The Works of Epictetus. Consisting of His Discourses, in Four Books, The Enchiridion, and Fragments [100 AD] (Epictetus, Elizabeth Carter etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Works of Epictetus. Consisting of His Discourses, in Four Books, The Enchiridion, and Fragments [100 AD] (Epictetus, Elizabeth Carter etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # The Works of Epictetus — Discourses (Four Books), Enchiridion, and Fragments

@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [locke, identity, diversity, personal-identity, consciousness, self, substances, early-modern, epistemology]
-sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.txt"]
+sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.md"]
 ---
 
 # Identity and Diversity - Personal Identity (Locke)

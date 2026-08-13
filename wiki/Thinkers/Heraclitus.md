@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [heraclitus, flux, logos, fire, change, opposites, strife, ancient-greece]
-sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+sources: ["Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 ---
 
 # Heraclitus
@@ -40,6 +40,7 @@ sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philos
 - **The Philosophy of Change**: Serves as the primary historical ancestor of process philosophy and dialectics. Directly influenced Hegel's dialectics and Nietzsche's doctrine of becoming.
 - **The Epistemic Challenge to Parmenides**: Heraclitus sits at one extreme of the foundational metaphysical debate: that only change is real. This directly opposes Parmenides' monism (only permanence is real). See [[Contradictions/Heraclitean Flux vs Parmenidean Stasis]].
 - **Influence on Stoicism**: The Stoics adapted Heraclitus's concepts of the Logos (as active cosmic reason) and fire (as the material agent of cosmic cycles / conflagration).
+- **Near-contemporary Chinese counterpart**: [[Thinkers/Laozi]] / [[Concepts/Dao - The Course (Laozi)]] (Ziporyn *Daodejing*, now primary) also treats process and the unity of opposites as basic. The split: Heraclitus's Logos is the rational rule of strife ("war is the father of all"); Laozi's course *inverts* the valued pole and occupies the soft/low/unhewn. Unity of opposites vs. asymmetric occupation of B — see [[Concepts/Unhewn Background and the A-B Reversal (Laozi)]].
 
 ## Related Pages
 - [[Sources/Early Greek Philosophy - John Burnet (1920)]]
@@ -47,6 +48,7 @@ sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philos
 - [[Concepts/Heraclitean Flux and Logos (Heraclitus)]]
 - [[Thinkers/Parmenides]] — the absolute counterpoint
 - [[Thinkers/Plato]] — attempted to resolve Heraclitus's flux (for the sensory world) and Parmenides' stasis (for the Forms)
+- [[Thinkers/Laozi]], [[Sources/Daodejing - Laozi (Ziporyn trans., 2023)]] — process and opposites without a stated Logos
 
 ## Contradictions / Open Questions
 - > [!warning] Opposes [[Thinkers/Parmenides]] on the reality of change and motion — see [[Contradictions/Heraclitean Flux vs Parmenidean Stasis]].

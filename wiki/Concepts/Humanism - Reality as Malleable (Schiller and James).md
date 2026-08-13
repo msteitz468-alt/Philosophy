@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [james, schiller, pragmatism, humanism, philosophy, truth, reality, constructivism, epistemology, american-philosophy, modern]
-sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.txt"]
+sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.md"]
 ---
 
 # Humanism - Reality as Malleable (Schiller and James)

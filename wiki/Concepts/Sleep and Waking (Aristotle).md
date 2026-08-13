@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, natural-science, physiology]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On Sleep (Aristotle).txt"]
+sources: ["On Sleep (Aristotle).md"]
 tags: [aristotle, sleep, physiology, common-sense, classical]
 ---
 

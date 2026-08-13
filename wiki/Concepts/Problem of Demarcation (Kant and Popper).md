@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 3
 tags: [popper, kant, demarcation, criterion-of-demarcation, science-vs-metaphysics, induction, critical-rationalism, philosophy-of-science, carnap, irrefutability, existential-statements, quine, verificationism, holism]
-sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.txt", "Conjectures and Refutations_ The Growth of - Karl Popper.txt", "Quine51 - Unknown.txt"]
+sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.md", "Conjectures and Refutations_ The Growth of - Karl Popper.md", "Quine51 - Unknown.md"]
 ---
 
 # Problem of Demarcation (Kant and Popper)
@@ -20,6 +20,10 @@ sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.txt", "Conje
 - Hume attempted a solution (empiricist critique of causation and induction).
 - With Kant the problem became central to the theory of knowledge.
 - For empiricists and positivists, the hope was that an "inductive logic" or "verifiability" criterion would simultaneously solve both the problem of induction and the problem of demarcation (only what is "derived from experience" or "reducible to atomic observation statements" counts as legitimate science).
+
+## Kant's Own Framing (first *Critique*, now primary)
+
+Kant does not use Popper's word "demarcation," but the book *is* a boundary-proof. Metaphysics is actual as a natural predisposition (*metaphysica naturalis*) and not yet as science (B 21–22). Critique leads to science; dogmatic use without critique leads to skepticism (B 22–23). The Dialectic shows that soul, world-whole, and God cannot be *known* speculatively; the ideas keep a [[Concepts/Regulative Use of the Ideas of Reason (Kant)|regulative]] use for inquiry. The Doctrine of Method: philosophy cannot imitate mathematics (A 713–735 / B 741–763); skepticism is "a resting-place… not a dwelling-place" (A 761 / B 789); "The critical path alone is still open" (A 856 / B 884). Popper takes the *problem* and rejects the synthetic-a-priori *solution*. See [[Sources/Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge)]].
 
 ## Popper's Diagnosis of Why Inductivist Solutions Fail
 

@@ -4,7 +4,7 @@ type: concept
 domains: [mathematics, music-theory, history-of-science]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["A History of Pythagoreanism (Carl A. Huffman) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [pythagoreanism, harmonics, music, ratios, monochord, archytas, hippasus, philolaus, sectio-canonis]
 ---
 

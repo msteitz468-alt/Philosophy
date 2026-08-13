@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [hacking, spray, entity-realism, electrons, positrons, experiment, intervention, stanford, philosophy-of-science]
-sources: ["Representing And Intervening Introductory - Ian Hacking.txt"]
+sources: ["Representing And Intervening Introductory - Ian Hacking.md"]
 ---
 
 # If You Can Spray Them Then They Are Real (Hacking)

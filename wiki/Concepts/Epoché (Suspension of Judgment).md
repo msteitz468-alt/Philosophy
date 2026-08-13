@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-03"
 tags: [sextus-empiricus, pyrrhonism, skepticism, epoché, ataraxia, classical-philosophy, hellenistic, epistemology]
-sources: ["Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.txt", "Sources/Outlines of Pyrrhonism - Sextus Empiricus"]
+sources: ["Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.md", "Sources/Outlines of Pyrrhonism - Sextus Empiricus"]
 ---
 
 # Epoché (Suspension of Judgment)
@@ -93,6 +93,7 @@ Fits "Research," "Reading a book," "Personal," and the meta "LLM Wiki" use cases
 - [[Concepts/Eudaimonia]], [[Concepts/Dichotomy of Control (Epictetus)]]
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]], [[Sources/Letters and Sayings of Epicurus - Epicurus]], [[Sources/On the Nature of Things - Lucretius (Books II-III)]], [[Sources/The Enneads - Plotinus]]
 - [[Thinkers/Aristotle]], [[Thinkers/Epicurus]], [[Thinkers/Epictetus]], [[Thinkers/Plato]], [[Thinkers/Plotinus]]
+- [[Concepts/Phenomenological Reduction and Epoché (Husserl)]] — same Greek title, opposite purpose: Husserl's epoché is parenthesizing *for* an absolutely grounded science, not equipollence *for* ataraxia. *CM* still speaks Descartes's "doubt/overthrow" for the beginning. See [[Sources/Cartesian Meditations - Edmund Husserl]].
 - [[LLM Wiki]], [[GROK]] (epistemic humility, opposition for robustness, ongoing search as maintenance practice)
 - [[Mack Steitz]] and career sources (suspension on non-controllables; tranquility through evidence-based action)
 

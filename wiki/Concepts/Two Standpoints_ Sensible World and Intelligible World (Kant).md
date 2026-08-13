@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-12
 tags: [philosophy, ethics, kant, a-priori, deontology, two-standpoints, sensible, intelligible, phenomena, noumena, freedom]
-sources: ["Metaphysics of Morals - Immanuel Kant"]
+sources: ["Metaphysics of Morals - Immanuel Kant", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md", "Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge).md"]
 ---
 
 # Two Standpoints: Sensible World and Intelligible World (Kant)
@@ -31,6 +31,14 @@ In the Third Section, Kant resolves the apparent contradiction between freedom (
 - "As if" member: "I will cognize myself... as nevertheless subject to the laws of the first [intelligible], i.e., to reason, which in the idea of freedom contains the law of the understanding’s world, and thus to autonomy of the will; consequently I must regard the laws of the world of understanding for myself as imperatives and the actions that accord with this principle as duties."
 - Categorical imperatives are possible because the idea of freedom makes me a member of an intelligible world; if I were that alone, actions would accord with autonomy; since I am also sensible, they *ought* to — the 'ought' is synthetic a priori (adding the idea of the pure will to the sensible will).
 
+## From the Gregor/Korsgaard edition (2026-08-12)
+
+Gregor (4:452): the human being "has two standpoints from which he can regard himself… first, insofar as he belongs to the world of sense, under laws of nature (heteronomy); second, as belonging to the intelligible world, under laws which, being independent of nature, are not empirical but grounded merely in reason." Suspected circle (freedom assumed to get morality, morality inferred from freedom) is dissolved at 4:453: thinking ourselves *free* = transferring into the world of understanding; thinking ourselves *obligated* = belonging to *both* worlds. "The moral 'ought' is then his own necessary 'will' as a member of an intelligible world, and is thought by him as 'ought' only insofar as he regards himself at the same time as a member of the world of sense" (4:455). "The concept of a world of understanding is thus only a *standpoint* that reason sees itself constrained to take outside appearances in order to think of itself as practical" (4:458) — not an intuition of a second realm. Interest / moral feeling is the law's *effect*, not its ground (4:460–461). Closing bound: we "comprehend its *incomprehensibility*" (4:463). See [[Contradictions/Hegelian Monism vs. Kantian Dualism]].
+
+## From the first *Critique* (2026-08-12)
+
+The two standpoints are not a moral invention of 1785. The B Preface already states that the same will can be naturally necessitated as appearance and free as thing in itself (B xxvii–xxviii), and that we must be able to *think* things in themselves "else there would be an appearance without anything that appears." The theoretical engine is [[Concepts/Phenomena and Noumena (Kant)|phenomena/noumena]] plus the Third Antinomy: "freedom and nature, each in its full significance, would both be found in the same actions, simultaneously and without any contradiction" (A 541 / B 569). The Antinomy shows only *non-conflict*, not that we *are* free ("nature at least does not conflict with causality through freedom — that was the one single thing we could accomplish," A 558 / B 586). The Canon then assigns the leftover to practical *belief*: What may I hope? See [[Arguments/Antinomies of Pure Reason (Kant)]], [[Concepts/Canon of Pure Reason - Moral Faith (Kant)]], [[Sources/Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge)]].
+
 ## Vault Relevance / AI / Personal
 
 - **Dual perspective for maintenance/agents**: View the wiki (or agent) from the "sensible" standpoint (appearances: current sources, data, inclinations for speed/elegance/approval, empirical pressures) vs "intelligible" standpoint (the schema/GROK.md as the self-given law; the authentic maintainer as intelligence following universalizable rules). Responsibility and "ought" attach to the latter. "As if" the ideal (complete, accurate, cross-linked, principled) is already legislated.
@@ -43,7 +51,7 @@ In the Third Section, Kant resolves the apparent contradiction between freedom (
 
 - [[Freedom as the Key to Autonomy (Kant)]], [[Autonomy and Heteronomy of the Will (Kant)]], [[Kingdom of Ends (Kant)]], [[Categorical Imperative - Universal Law Formulation (Kant)]]
 - Contrasts/syntheses: [[Compatibilism - Liberty and Necessity (Hume)]] (reconciles via custom/regularity in one world vs Kant's two standpoints + practical "as if" freedom); Spinoza (single substance/deterministic order vs dual standpoints allowing autonomy in intelligible); Descartes (real distinction mind/body vs appearance/thing in itself applied to the same subject).
-- Cross: [[Thinkers/Kant]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]], [[Thinkers/Descartes]]
+- Cross: [[Thinkers/Kant]], [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]], [[Thinkers/Descartes]]
 - [[GROK]] (schema as the "intelligible" law for the vault; maintenance from the standpoint of the authentic (rule-governed) self; "as if" ideal already realized through universal adherence; practical commitment without needing full theoretical grounding of "why it motivates").
 
 *Concept created during 2026-06-04 final chunked ingest (Third Section) of the Kant *Groundwork*. The dual standpoint that resolves freedom vs nature and makes the moral law operative for imperfect rational beings.*

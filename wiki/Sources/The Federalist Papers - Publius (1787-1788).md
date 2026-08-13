@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [political-philosophy, us-history, constitution, federalism, republican-government, separation-of-powers, factions, judiciary, founding-fathers, publius, hamilton, madison, jay]
-sources: ["The Federalist Papers - Publius.txt"]
+sources: ["The Federalist Papers - Publius.md"]
 ---
 
 # The Federalist Papers - Publius (1787-1788)
@@ -134,7 +134,7 @@ The text is the canonical American statement of constitutional republicanism and
 
 ## Sources
 
-- `raw/The Federalist Papers - Publius.txt` (standard collected text of the 85 essays published 1787–1788 under pseudonym Publius by Hamilton, Madison, and Jay).
+- `raw/The Federalist Papers - Publius.md` (standard collected text of the 85 essays published 1787–1788 under pseudonym Publius by Hamilton, Madison, and Jay).
 
 ## Related
 

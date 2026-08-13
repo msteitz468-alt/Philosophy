@@ -3,8 +3,8 @@ title: "Intersubjectivity and the Life-World (Husserl)"
 type: concept
 domains: [phenomenology, epistemology, social-philosophy]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+updated: "2026-08-12"
+sources: ["Husserl (David Woodruff Smith).md", "Cartesian Meditations - Edmund Husserl.md"]
 tags: [philosophy, husserl, phenomenology, life-world, intersubjectivity, empathy]
 ---
 
@@ -28,9 +28,22 @@ Structure of empathy-experience:
 
 **Objectivity via intersubjectivity**: Physical objects are constituted as "there for everyone" — not just for me but for any possible experiencer — through the intersubjective constitution of a shared world. Objectivity is not a feature of individual experience but of *intersubjective* experience.
 
-**The solipsism problem**: Husserl's *Cartesian Meditations* (Fifth Meditation) tries to reconstruct intersubjectivity from within the transcendental attitude. Smith acknowledges that Husserl was never fully satisfied with this argument. The challenge: after the epoché brackets all worldly commitments, how can we reconstitute *other* minds as genuinely other?
+**The solipsism problem, from the primary**: *Cartesian Meditations* Fifth Meditation opens with the objection as Husserl states it: after epoché, "do I not become *solus ipse*?" (§42). He refuses a metaphysical escape and stays with the intentionalities in which the alter ego is evinced *in* my sphere. The mechanism is a **second epoché** to the sphere of ownness, then [[Concepts/Pairing and Analogical Appresentation (Husserl)|pairing and analogical appresentation]] — apperception, not an inference from analogy (§§44–54).
 
-**Edith Stein** (Husserl's student) deepened the analysis of empathy in her 1916 dissertation *On the Problem of Empathy*.
+What this page's Smith paraphrase missed or flattened:
+
+- The Other's animate organism is "the intrinsically first Object"; the other man is constitutionally the first Objective man (§55).
+- One does not first have two Natures and then identify them; identity of "my" Nature and the Other's is *produced* by presentive–appresentive unity ("as if I were standing over there").
+- Really inherently, monads are **absolutely separate**; there is nonetheless an actual **intentional communion** that makes a world transcendentally possible (§56). Harmony is harmonious *confirmation*, not Leibnizian pre-establishment.
+- Higher: mutual being-for-one-another, "personalities of a higher order," cultural **Umwelt**s as concrete **life-worlds** (§58). Nature/organism/psychophysical man have *unconditional* accessibility; cultural Objectivity is restricted. "I and my culture are primordial" vs. alien culture.
+- **Metaphysical result** (§60): a world-experiencing ego exists only as member of a community of monads. Separate monad-pluralities with two infinite worlds is absurd. **Only one** community of all co-existing monads; hence only one Objective world, time, space, Nature. Leibniz is *right* that infinitely many monads/worlds are conceivable but **incompossible** as co-actual.
+- §62: the solipsism objection is **groundless**; the Other is constituted in me "appresentatively mirrored, not as the original" (not apodictic). Everything existing *for me* still derives existential sense from my consciousness. Transcendental idealism "has presented itself as a **monadology**."
+
+Smith's "never fully satisfied" is a reception judgment. In the text Husserl calls the write-up incomplete (birth, death, generation, cultural empathy postponed, §58, §61) and the Other never given originaliter; he does not recant.
+
+**Edith Stein** (Husserl's student) deepened the analysis of empathy in her 1916 dissertation *On the Problem of Empathy*. *CM* 1929 is the later, monadological restatement.
+
+**[[Thinkers/Maurice Merleau-Ponty]]** (1945, now primary) keeps "transcendental subjectivity is an intersubjectivity" and refuses the analogical "easy response." Others arrive by body-schema correspondence and shared behavior, not by pairing after a second epoché. Solipsism is not dissolved; it has a "permanent truth." See [[Concepts/Coexistence and the Other (Merleau-Ponty)]]. The word *intercorporeity* is not in that book.
 
 ## The Life-World (Lebenswelt)
 
@@ -63,20 +76,25 @@ Husserl connects this crisis to the rise of irrationalism (including Nazism): wh
 
 ## Contradictions / Open Questions
 
-- > [!warning] The solipsism problem: After the phenomenological reduction, how can we access the genuinely *other* mind? Husserl's Fifth Meditation solution via analogical apperception has been widely criticised as insufficient, and Husserl himself regarded it as incomplete.
+- > [!warning] The solipsism problem: after the reduction, how is the genuinely *other* mind given? *CM* §62 calls the objection groundless; the Other is still never given originaliter or apodictically. Smith's "Husserl regarded it as incomplete" over-reads the text: Husserl marks the *write-up* incomplete and postpones birth/death/generation. See [[Concepts/Pairing and Analogical Appresentation (Husserl)]].
 - > [!warning] The "crisis" diagnosis: Is Galilean mathematization merely a methodological abstraction (correctable by phenomenological grounding) or does it reflect something deep about the structure of nature that cannot be life-world-grounded? The natural-scientific image of the world may be simply incommensurable with the life-world, not reducible to it.
 
 ## Sources
 
 - [[Sources/Husserl - David Woodruff Smith (2013)]]
+- [[Sources/Cartesian Meditations - Edmund Husserl]]
 
 ## Related
 
 - [[Thinkers/Edmund Husserl]]
+- [[Concepts/Pairing and Analogical Appresentation (Husserl)]]
+- [[Concepts/Transcendental Idealism (Husserl)]]
 - [[Concepts/Phenomenological Reduction and Epoché (Husserl)]]
 - [[Concepts/Transcendental Ego and Constitution (Husserl)]]
 - [[Concepts/Evidence and Truth (Husserl)]]
+- [[Concepts/Monad (Leibniz)]]
 - [[Thinkers/Martin Heidegger]]
 - [[Thinkers/Jean-Paul Sartre]]
+- [[Concepts/The Look and the Other (Sartre)]]
 - [[Concepts/Forms of Life (Wittgenstein)]]
 - [[Schools/Phenomenology]]

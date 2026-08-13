@@ -5,7 +5,7 @@ domains: [metaphysics, cosmology]
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, democritus, lucretius, materialism, idealism, teleology, mechanics, dialectic, atomism]
-sources: ["Phenomenology of Mind - J B Baillie.txt", "Early Greek Philosophy - John Burnet.txt"]
+sources: ["Phenomenology of Mind - J B Baillie.md", "Early Greek Philosophy - John Burnet.md"]
 ---
 
 # Dialectical Idealism vs. Atomist Materialism

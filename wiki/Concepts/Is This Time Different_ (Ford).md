@@ -4,7 +4,7 @@ type: concept
 domains: [economics, technology, futurism, history-of-ideas, ai, labor-economics]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.txt"]
+sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.md"]
 tags: [martin-ford, is-this-time-different, automation, technological-unemployment, rise-of-the-robots, luddite-fallacy, golden-age, productivity-wage-divergence, seven-deadly-trends]
 ---
 

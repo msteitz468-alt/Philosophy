@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [ibn-rushd, averroes, philosophy, aristotle, islamic-philosophy, medieval, andalus, commentator, theology, metaphysics]
-sources: ["Incoherence of the Incoherence - Ibn Rushd.txt"]
+sources: ["Incoherence of the Incoherence - Ibn Rushd.md"]
 ---
 
 # Ibn Rushd (Averroes)

@@ -6,9 +6,9 @@ schools: [Logical Positivism, Logical Empiricism, Analytic Philosophy, Empiricis
 domains: [epistemology, philosophy-of-language, ethics, philosophy-of-science]
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [ayer, logical-positivism, verification, emotive-ethics, analytic-philosophy, empiricism, vienna-circle, metaphysics, language, meaning]
-sources: ["Language, Truth and Logic - A. J. Ayer.txt"]
+sources: ["Language, Truth and Logic - A. J. Ayer.md", "The Meaning of Meaning - Ogden and Richards (1923).md"]
 ---
 
 # A.J. Ayer (1910–1989)
@@ -30,6 +30,8 @@ Ayer synthesizes three traditions into a single slender manifesto:
 1. **Hume** ("always my master") — Hume's Fork (relations of ideas vs. matters of fact), the "flames" meaning-test, empiricism, mitigated scepticism.
 2. **Vienna Circle** (especially Carnap) — the verification principle, the program of logical analysis as philosophy's proper method, the equation of meaningful discourse with the formal + the empirically testable.
 3. **Russell and Wittgenstein** — Russell's theory of descriptions (paradigm for "definitions in use"), the program of philosophical analysis, Wittgenstein's *Tractatus* (logic as tautological, the "showing/saying" distinction in background).
+
+A fourth ancestor is now in the vault: [[Thinkers/C. K. Ogden]] and [[Thinkers/I. A. Richards]], *The Meaning of Meaning* (1923). The [[Concepts/Symbolic and Emotive Functions of Language (Ogden-Richards)|symbolic/emotive split]], the claim-to-truth test, and the treatment of `good` as an emotive blank are the missing English-language source of [[Concepts/Emotive Theory of Ethics (Ayer)|Ayer's emotivism]]. Ayer sharpens the cut (ethical symbols are *pseudo-concepts*) and routes it through the verification principle; he does not cite the triangle.
 
 ## Core Positions (from *Language, Truth and Logic*)
 
@@ -86,6 +88,7 @@ Ayer added a Preface to the second edition acknowledging four problems:
 - [[Sources/Language, Truth and Logic - A.J. Ayer (1936)]]
 - [[Concepts/Verification Principle (Ayer)]], [[Concepts/Emotive Theory of Ethics (Ayer)]], [[Concepts/Metaphysics as Meaningless (Ayer)]], [[Concepts/Analytic Propositions as Tautologies (Ayer)]]
 - [[Thinkers/Hume]], [[Thinkers/Bertrand Russell]], [[Thinkers/W.V.O. Quine]], [[Thinkers/Karl Popper]], [[Thinkers/Kant]], [[Thinkers/Locke]]
+- [[Thinkers/C. K. Ogden]], [[Thinkers/I. A. Richards]], [[Sources/The Meaning of Meaning - Ogden and Richards (1923)]], [[Concepts/Symbolic and Emotive Functions of Language (Ogden-Richards)]]
 - [[Concepts/Hume's Fork (Relations of Ideas vs Matters of Fact)]], [[Concepts/Mitigated Scepticism (Hume)]], [[Concepts/Problem of Induction (Hume)]]
 - [[Concepts/Philosophy of Logical Analysis (Russell)]], [[Concepts/Sense-Data vs. Physical Objects (Russell)]], [[Concepts/Correspondence Theory of Truth (Russell)]]
 - [[Concepts/Analytic-Synthetic Distinction (Quine)]], [[Concepts/Reductionism and Verification Theory of Meaning (Quine)]]

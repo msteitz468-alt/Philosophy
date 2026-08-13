@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, epistemology]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On Memory (Aristotle).txt"]
+sources: ["On Memory (Aristotle).md"]
 tags: [aristotle, memory, recollection, associationism, classical]
 ---
 

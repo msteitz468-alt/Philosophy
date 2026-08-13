@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [feyerabend, against-method, epistemological-anarchism, anything-goes, counterinduction, natural-interpretations, galileo, proliferation, tenacity, incommensurability, separation-of-science-and-state, philosophy-of-science, relativism]
-sources: ["Against Method - Paul Feyerabend.txt"]
+sources: ["Against Method - Paul Feyerabend.md"]
 ---
 
 # Against Method - Paul Feyerabend
@@ -64,7 +64,7 @@ This is the **radical pole** of the vault's Philosophy of Science leg — the po
 
 ## Sources
 
-- Primary: `raw/Against Method - Paul Feyerabend.txt` (3rd ed., 1993, incorporating *Science in a Free Society*).
+- Primary: `raw/Against Method - Paul Feyerabend.md` (3rd ed., 1993, incorporating *Science in a Free Society*).
 - Companions in the vault: [[Sources/The Logic of Scientific Discovery - Karl Popper (Routledge Classics)]], [[Sources/Conjectures and Refutations - Karl Popper]], [[Sources/The Structure of Scientific Revolutions - Kuhn (Chicago, 4th ed.)]], [[Sources/Two Dogmas of Empiricism - W.V.O. Quine (1951)]].
 
 ## Related

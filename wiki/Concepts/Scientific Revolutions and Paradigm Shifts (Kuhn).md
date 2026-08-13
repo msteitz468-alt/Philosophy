@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [kuhn, scientific-revolution, paradigm-shift, gestalt-switch, conversion, world-change, progress, evolution-from, philosophy-of-science]
-sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.txt"]
+sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.md"]
 ---
 
 # Scientific Revolutions and Paradigm Shifts (Kuhn)

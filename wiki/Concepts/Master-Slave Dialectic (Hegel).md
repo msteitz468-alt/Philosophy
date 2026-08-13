@@ -5,7 +5,7 @@ domains: [metaphysics, philosophy-of-mind, social-philosophy, political-philosop
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, dialectic, recognition, master-slave, labor, self-consciousness, phenomenology]
-sources: ["Phenomenology of Mind - J B Baillie.txt"]
+sources: ["Phenomenology of Mind - J B Baillie.md"]
 ---
 
 # Master-Slave Dialectic (Hegel)

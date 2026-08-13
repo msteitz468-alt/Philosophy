@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [quine, two-dogmas-of-empiricism, analyticity, analytic-synthetic-distinction, synonymy, reductionism, verification-theory-of-meaning, confirmation-holism, web-of-belief, naturalized-epistemology, pragmatism, carnap, logical-empiricism, logical-positivism, meaning-and-reference, underdetermination, posits, duhem, hume, kant, russell, frege]
-sources: ["Quine51 - Unknown.txt"]
+sources: ["Quine51 - Unknown.md"]
 ---
 
 # Two Dogmas of Empiricism - W.V.O. Quine (1951)
@@ -82,7 +82,7 @@ This is the single most important primary source for the vault's move beyond log
 
 ## Sources
 
-- Primary: `raw/Quine51 - Unknown.txt` (1951 *Philosophical Review* text with 1961 variants and editorial notes on the alterations).
+- Primary: `raw/Quine51 - Unknown.md` (1951 *Philosophical Review* text with 1961 variants and editorial notes on the alterations).
 
 ## Related
 

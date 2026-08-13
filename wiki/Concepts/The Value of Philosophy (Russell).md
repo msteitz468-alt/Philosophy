@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [russell, philosophy, value-of-philosophy, uncertainty, contemplation, the-free-intellect, metaphilosophy, modern]
-sources: ["The Problems of Philosophy - Bertrand Russell.txt"]
+sources: ["The Problems of Philosophy - Bertrand Russell.md"]
 ---
 
 # The Value of Philosophy (Russell)

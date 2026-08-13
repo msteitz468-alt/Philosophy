@@ -6,8 +6,8 @@ schools: [Neoplatonism]
 domains: [metaphysics, philosophy-of-religion]
 source_count: 1
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Neo-Platonism - Wallis, Richard T., -1985.md"]
+updated: "2026-08-12"
+sources: ["Neo-Platonism - Wallis, Richard T., -1985.md", "The Mystical Theology and The Divine Names - Dionysius the Areopagite.md"]
 tags: [proclus, neoplatonism, athenian-school, elements-of-theology, henads, late-antiquity]
 ---
 
@@ -32,13 +32,14 @@ Wallis stresses that Proclus was less an original thinker than the systematizer 
 
 ## Legacy
 
-The *Liber de Causis* (Arabic paraphrase of the *Elements*) circulated as Aristotle's until [[Thinkers/Thomas Aquinas]], using Moerbeke's 1268 translation of Proclus, exposed it. Pseudo-Dionysius put Athenian Neoplatonism in Christian dress; Hegel's dialectic is, in Wallis's shorthand, "Procline" where Schelling is Plotinian.
+The *Liber de Causis* (Arabic paraphrase of the *Elements*) circulated as Aristotle's until [[Thinkers/Thomas Aquinas]], using Moerbeke's 1268 translation of Proclus, exposed it. [[Thinkers/Pseudo-Dionysius]] put Athenian Neoplatonism in Christian dress — Rolt dates the corpus to the end of the fifth century precisely because it "appear[s] to reflect, and even to quote" Proclus (lecturing from 430). Primary correspondences now in the vault: Unparticipated Cause above "Very Qualities" (DN XII.4) ↔ Unparticipated Monad / henads; remaining-while-going-forth (DN XI.1, IV.13) ↔ *monē–proodos–epistrophē*; evil as non-being not seated in matter (DN IV.28) ↔ *parhypostasis*; descending *erōs* (DN IV.13) ↔ *erōs pronoētikos*. Hegel's dialectic is, in Wallis's shorthand, "Procline" where Schelling is Plotinian.
 
 ## Sources
 
 - [[Sources/Neoplatonism - R. T. Wallis (1972)]]
+- [[Sources/The Mystical Theology and The Divine Names - Dionysius the Areopagite]] (reception / dependence)
 
 ## Related
 
-- [[Thinkers/Iamblichus]], [[Thinkers/Plotinus]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Hegel]]
+- [[Thinkers/Iamblichus]], [[Thinkers/Plotinus]], [[Thinkers/Pseudo-Dionysius]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Hegel]]
 - [[Schools/Neoplatonism]], [[Concepts/The Henads (Proclus)]], [[Concepts/Procession, Remaining, and Return (Neoplatonic Triad)]], [[Concepts/Theurgy (Iamblichus)]]

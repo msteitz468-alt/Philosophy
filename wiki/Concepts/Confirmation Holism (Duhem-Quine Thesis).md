@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [quine, duhem, confirmation-holism, web-of-belief, underdetermination, two-dogmas, reductionism, theory-ladenness, carnap, popper, kuhn, empiricism, philosophy-of-science]
-sources: ["Quine51 - Unknown.txt"]
+sources: ["Quine51 - Unknown.md"]
 ---
 
 # Confirmation Holism (Duhem-Quine Thesis)

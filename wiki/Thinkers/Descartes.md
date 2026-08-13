@@ -6,9 +6,9 @@ schools: [Rationalism, Cartesianism]
 domains: [epistemology, metaphysics]
 source_count: 3
 created: "2026-06-04"
-updated: "2026-07-01"
+updated: "2026-08-12"
 tags: [descartes, rene-descartes, philosophy, rationalism, dualism, epistemology, god-proofs, early-modern, meditations, discourse-on-method, cogito, classical]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Heidegger (Michael Inwood).txt"]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).md", "Heidegger (Michael Inwood).md", "Existentialism is a Humanism - Jean-Paul Sartre (1946).md", "Cartesian Meditations - Edmund Husserl.md", "Descartes' Error - Antonio Damasio (1994).md"]
 ---
 
 # René Descartes (1596–1650)
@@ -61,7 +61,7 @@ The vault now holds the *Discourse* (1637) as a dedicated source — the earlier
 
 - **The four precepts of the method** (Part II): evidence (clear and distinct), analysis (division), order (simple → complex), enumeration (complete review) — Descartes's reduction of logic/analysis/algebra to four geometer-modeled rules. See [[Concepts/The Four Precepts of the Method (Descartes)]].
 - **The provisional morality** (Part III): a temporary three-maxim code (conform to custom; be resolute once decided; master yourself rather than fortune) adopted so life can continue while belief is rebuilt. Its third maxim is a rationalist restatement of the Stoic [[Concepts/Dichotomy of Control (Epictetus)]] — one of the vault's clearest rationalism↔Stoicism bridges. See [[Concepts/Provisional Morality (Descartes)]].
-- **The two tests and the animal-machine** (Part V): the body as a God-made machine; the *bête-machine* thesis (animals have no reason, only mechanism); and the two tests — *language* and *universal reason* — that no machine or beast could pass. This is the direct ancestor of the [[Concepts/Imitation Game (Turing)|Turing Test]]: Turing keeps Descartes's linguistic criterion but rejects his dualist verdict. See [[Concepts/The Two Tests and the Animal-Machine (Descartes)]].
+- **The two tests and the animal-machine** (Part V): the body as a God-made machine; the *bête-machine* thesis (animals have no reason, only mechanism); and the two tests — *language* and *universal reason* — that no machine or beast could pass. This is the direct ancestor of the [[Concepts/Imitation Game (Turing)|Turing Test]]: Turing keeps Descartes's linguistic criterion but rejects his dualist verdict. See [[Concepts/The Two Tests and the Animal-Machine (Descartes)]]. [[Thinkers/Anil Seth]] later inverts the *life-is-irrelevant* half of the same doctrine: we are conscious *because* we are beast machines ([[Concepts/Beast Machine Theory (Seth)]]).
 
 Part V also gives Descartes's mechanistic physiology (heart as heat-engine, circulation of the blood crediting Harvey) and Part VI the program of a "practical philosophy" to make us "the lords and possessors of nature" (medicine especially) — the mechanistic mastery-of-nature theme connecting to Bacon and the philosophy-of-science leg. Note: *cogito ergo sum* is **first published here** (Part IV, in the French *je pense, donc je suis*), four years before the *Meditations*.
 
@@ -77,9 +77,11 @@ Pivotal early-modern capstone (or rupture) for the classical philosophy cluster.
 - **Vs. Plato**: Innate ideas / recollection parallel; Forms-like immutable essences (math, God); interior turn for truth. But individual rational certainty vs. dialectic/Forms ascent; mechanistic bodies vs. teleological cosmos.
 - **Vs. Aristotle**: Rejects "nothing in intellect not first in senses" (revives Augustinian/innatist epistemology); mechanistic extension vs. elements/qualities + final causes; clear/distinct vs. phronesis + habituation. Retains substance language but redefines.
 - **Vs. Locke** (new primary source): the *Essay* Book I is the great empiricist reply to Cartesian innatism. Rejects the innate idea of God (trademark/causal proof), the substantial self known prior to sensation, and internal clear-and-distinct standards independent of experience. Tabula rasa / empty cabinet vs. innate characters; all ideas traced to sensation or reflection. The vault now has the explicit Lockean anti-innatist arguments grounding the Hume reaction already present.
+- **Vs. Schopenhauer, *On Vision and Colours* 1854:** *Dioptrics* ch. 1 is cited (with Locke and Sextus) for the thesis that colours clothing objects are “entirely in his eyes alone.” Not a new reading of the *Meditations*; a placement of the *Dioptrics* on the colour-in-the-eye line that Schopenhauer then radicalizes into a retinal mechanics. See [[Sources/On Vision and Colours - Schopenhauer (Cambridge 2012)]], [[Concepts/Physiological Theory of Colour (Schopenhauer)]].
 - **Vs. Augustine**: Profound interiority ("I" as certain; memory/attention themes); God as light/truth/guarantor; restless search for certainty. But epistemic foundationalism + proofs for science vs. grace, confession, and beatific rest as telos. "Restless heart" finds rational rest in clear ideas + God; vault can contrast with Augustinian "rest in you."
 - **Vs. Aquinas / scholasticism**: Proofs of God (causal + ontological) reworked from idea's reality and conservation rather than motion/essence/existence or Five Ways. "Grace perfects nature" vs. Descartes' rational reconstruction of nature/science independent of (but compatible with) faith. Hylomorphism challenged by real distinction + union. Anti-Averroist notes in vault's Aquinas pages now sit alongside Descartes' own engagement with the tradition.
 - **Vs. Stoics/Epicureans/Plotinus**: Control of assent (will) central, but directed by intellect's clear perceptions (not just dichotomy or pleasure-calculation or emanative return). Mechanistic cosmos vs. divine order or swerve or One.
+- **Vs. Nietzsche, *Beyond Good and Evil* §§16–17 (now primary):** Descartes is not named. The target is the *cogito* as “immediate certainty.” “I think” already packs unproven claims (an I that thinks, thinking as activity of a cause, a fixed sense of “thinking”). “A thought comes when ‘it’ wishes, and not when ‘I’ wish”; even “one thinks” is “an interpretation of the process.” Grammar (“every activity requires an agency”) is the same habit as atomism’s earth-residuum. Successor hypothesis: [[Concepts/Soul as Social Structure (Nietzsche)]]. See [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]].
 - **Vs. Turing / computationalism**: The *res cogitans* whose essence is thought, and the demand that the thinker *know* that it thinks (cogito), is directly challenged by Turing's 1950 mechanistic account: a physical discrete-state universal machine, programmed and educated, can produce outputs indistinguishable (under text interrogation) from a thinking thing, without a separate non-mechanical substance or guaranteed inner "feeling." The Imitation Game tests functional equivalence without privileged access to consciousness. See [[Thinkers/Alan Turing]], [[Concepts/Imitation Game (Turing)]], [[Concepts/Argument from Consciousness (Jefferson)]].
 - **Vault method and meta**: Hyperbolic doubt + clear/distinct rubric as ultimate reasoning scaffold and "lint" (clear all prejudices before building). Meditative withdrawal + ordered chain as model for ingest (one source, many pages touched in logical order). Dependence on God (veracity) for all scientia parallels dependence on [[GROK]] schema for consistent, compounding wiki maintenance. Imagination (body-directed, effortful) vs. pure intellection relevant to multimodal vs. agentic/symbolic work. Objections/Replies as ideal critical practice (opposition/equipollence before synthesis).
 - **Personal/career/insurance**: Rebuilding foundations when prior opinions (or business-as-usual) prove shaky. Disciplined will/assent for high-stakes judgement (underwriting, prospecting, promotion strategy). Withdrawal for clarity before action (deliberate practice, CPCU study). "Best of the pagan world" (Marcus) now has a rationalist successor/rupture.
@@ -93,16 +95,32 @@ Heidegger's *Being and Time* is explicitly constructed as an anti-Cartesian onto
 
 See [[Thinkers/Martin Heidegger]] and [[Concepts/Being-in-the-World (Heidegger)]].
 
-## Husserl's Engagement with Descartes (2026-06-29 Ingest)
+## Husserl's Engagement with Descartes (primary: *Cartesian Meditations*, 2026-08-12)
 
-[[Thinkers/Edmund Husserl]]'s *Cartesian Meditations* (1931) explicitly reformulates transcendental phenomenology in Cartesian terms:
+[[Sources/Cartesian Meditations - Edmund Husserl]] is the vault's first Husserl primary and names Descartes as prototype. Phenomenology is "almost" a neo-Cartesianism that must reject nearly all Cartesian doctrine (*CM* §1).
 
-- **Epoché and Cartesian doubt**: Husserl's phenomenological epoché parallels Cartesian hyperbolic doubt methodologically — both suspend ordinary commitments to redirect attention to the structure of the subject. But they differ in purpose: Descartes sought bedrock certainty about what *exists* (a metaphysical project); Husserl seeks to *describe* the structure of consciousness without making metaphysical claims.
-- **Husserl's critique**: "Descartes was close to discovering phenomenology but mistakenly held on to 'a little tag-end' of the world, in the ego or I who thinks." By retaining a substantive res cogitans, Descartes smuggled a worldly object back into what was supposed to be a purely phenomenological analysis.
-- **Shared starting point**: Both begin from the indubitable existence of the thinking act (the cogito). Husserl endorses the apodicticity of phenomenological self-reflection: the existence of a current act of experience cannot be doubted while it is occurring.
-- **The "transcendental solipsism" problem**: Husserl's *Cartesian Meditations* tries to reconstruct intersubjectivity from within the transcendental attitude (bracketed from the natural world), paralleling Descartes' famous difficulty in bridging the gap from the isolated cogito to the external world and to other minds.
+- **Kept**: the beginner must "once in his life" overthrow accepted sciences; the regress to the ego of the *cogitationes*; *ego sum* / *sum cogitans* as first apodictic basis; the historical turn "from naive Objectivism to transcendental subjectivism" (§2).
+- **Refused**: philosophy as a deductive system *ordine geometrico* on the ego as axiom plus innate principles (§3); the deduction of God by *veracitas* and then of Nature; the *res cogitans* as "a little tag-end of the world" (§10 — Husserl's own wording); the ego as *substantia cogitans* / human *mens sive animus*; "transcendental realism" (called absurd). Descartes "stands on the threshold of transcendental subjectivity and does not pass through."
+- **Purpose is still first philosophy**: Husserl wants an all-embracing genuine science on an absolute foundation. The break is anti-*deduction* and anti-worldly-ego, not a retreat from grounding to mere description (Smith's earlier gloss). The Conclusion: grounded "not on an axiom, *ego cogito*, but on an all-embracing self-investigation" (§64).
+- **Other minds**: not solved by *veracitas* but by pairing and analogical appresentation — apperception, not inference. See [[Concepts/Pairing and Analogical Appresentation (Husserl)]].
+- **Idealism**: the Cartesian problem of how immanent evidence acquires Objective significance is declared *inconsistent* (§40). Phenomenology *is* transcendental idealism; Kant's *Ding an sich* is also refused (§41). See [[Concepts/Transcendental Idealism (Husserl)]].
 
-See [[Thinkers/Edmund Husserl]], [[Concepts/Phenomenological Reduction and Epoché (Husserl)]], and [[Concepts/Transcendental Ego and Constitution (Husserl)]].
+See [[Thinkers/Edmund Husserl]], [[Concepts/Phenomenological Reduction and Epoché (Husserl)]], [[Concepts/Cogito (Descartes)]].
+
+## Damasio's Indictment (2026-08-12)
+
+[[Sources/Descartes' Error - Antonio Damasio (1994)]] names the error as the *Discourse* IV slogan plus the immediately following substance-passage: thinking thing, "entirely distinct from body," such that "even if body were not, the soul would not cease to be what it is." "This is Descartes' error: the abyssal separation between body and mind… Specifically: the separation of the most refined operations of mind from the structure and operation of a biological organism."
+
+What the book uses: the *cogito* as cultural charter for mind-as-software, brain-only neuroscience, and Cartesian medicine. What it skips: Meditation VI's union-not-pilot, already on [[Concepts/Res Cogitans and Res Extensa (Descartes)]]. *Passions of the Soul* is cited once and *accepted* on the need for thought to control inclination — then naturalized ("a biological operation structured within the human organism"). The vault should keep both the union and the indictment. See [[Concepts/Descartes' Error (Damasio)]], [[Thinkers/Antonio Damasio]].
+
+## Sartre's Use of Descartes (2026-08-12)
+
+[[Sources/Existentialism is a Humanism - Jean-Paul Sartre (1946)]] keeps the *cogito* and refuses two other Cartesian inheritances:
+
+- **Starting point.** "At the point of departure there cannot be any other truth than this, *I think, therefore I am*, which is the absolute truth of consciousness as it attains to itself." Outside it, all objects are only probable.
+- **Not solitary.** "Contrary to the philosophy of Descartes, contrary to that of Kant," the *cogito* attains the self *in the presence of the other*. Others are as certain as the self and are the condition of any truth about myself. See [[Concepts/The Look and the Other (Sartre)]], [[Concepts/Cogito (Descartes)]].
+- **God as artisan.** Descartes (with Leibniz) is the model of the "supernal artisan" whose conception of man precedes men — the essence-first picture atheistic existentialism drops. See [[Concepts/Existence Precedes Essence (Sartre)]].
+- **Despair.** "Conquer yourself rather than the world" is read as "act without hope" — the lecture's despair. See [[Concepts/Anguish, Abandonment and Despair (Sartre)]], [[Concepts/Provisional Morality (Descartes)]].
 
 ## Related
 
@@ -117,6 +135,12 @@ See [[Thinkers/Edmund Husserl]], [[Concepts/Phenomenological Reduction and Epoch
 - [[GROK]] (method, maintenance, context engineering parallels)
 - [[Sources/Daily Advanced AI Tips - 2026-06-03]] and other AI sources (reasoning scaffolds, self-critique, foundational context)
 - [[Thinkers/Alan Turing]] / [[Sources/Computing Machinery and Intelligence - Alan Turing (1950)]] (the thoroughgoing physical/discrete-state/educable-machine account of thought as a direct challenge to Cartesian dualism and the requirement of a non-mechanical *res cogitans* that knows its own thinking)
+- [[Thinkers/Jean-Paul Sartre]] / [[Sources/Existentialism is a Humanism - Jean-Paul Sartre (1946)]] (keeps the *cogito*, denies its solitude, drops the divine artisan)
+- [[Thinkers/Edmund Husserl]] / [[Sources/Cartesian Meditations - Edmund Husserl]] (neo-Cartesianism that keeps the beginning and rejects the doctrine; tag-end of the world is §10)
+- [[Thinkers/Antonio Damasio]] / [[Sources/Descartes' Error - Antonio Damasio (1994)]] / [[Concepts/Descartes' Error (Damasio)]] (prosecutes the *Discourse* slogan and its medical/cognitive afterlife; skips the Meditation VI union)
+- [[Thinkers/Francisco J. Varela]] / [[Concepts/Cartesian Anxiety (Varela)]] / [[Sources/The Embodied Mind - Varela Thompson and Rosch (2016)]] (the either/or craving for an absolute inner or outer ground; the *cogito* "stops short of examining the 'I'")
+- [[Thinkers/Hilary Putnam]] / [[Arguments/Putnam Brain in a Vat Argument]] / [[Concepts/Brain in a Vat]] (the late-twentieth-century rewrite of the evil demon; Putnam's rescue is semantic, not theological; reception only)
+- [[Arguments/Cartesian Skepticism and the Simulation Riposte (Chalmers)]] (demon → BIV → simulation; Chalmers keeps the doubt and rejects the theistic rescue)
 
 *Entity created during 2026-06-04 ingest of the primary *Meditations* source; cross-updated 2026-06-04 with primary Locke *Essay* source (new [[Thinkers/Locke]] + concepts) supplying the explicit anti-innatist empiricist reply. The hinge between the vault's ancient/medieval classical cluster and early modern rationalism/foundationalism. Enormous compounding potential for epistemology, method, dualism, and God/faith-reason threads.*
 

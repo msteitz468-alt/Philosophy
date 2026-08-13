@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [james, pragmatism, philosophy, method, metaphysics, meaning, instrumentalism, american-philosophy, modern]
-sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.txt"]
+sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.md", "The Varieties of Religious Experience - William James (1902).md"]
 ---
 
 # Pragmatic Method (James)
@@ -28,6 +28,7 @@ The method is **deflationary toward verbal disputes** and **forward-looking**: "
 - **"No difference anywhere that doesn't make a difference elsewhere — no difference in abstract truth that doesn't express itself in a difference in concrete fact and in conduct."**
 - **Solving-names vs. programs for work**: metaphysics has chased "solving names" ("God," "Matter," "Reason," "the Absolute," "Energy") as if possessing the word ends the quest ("magic"). Pragmatism makes you "bring out of each word its practical cash-value, set it at work within the stream of your experience." "Theories thus become instruments, not answers to enigmas in which we can rest."
 - **Applications (Lecture III)** show the method's bite: the dispute between **materialism and theism** is "idle and insignificant" *retrospectively* (a finished world is the same either way) but "intensely practical" *prospectively* (different promises about the future — an eternal moral order or not); **"design" is "a blank cartridge"** until you ask *what sort* of designer; **free will** matters pragmatically as "a doctrine of relief," the promise of "novelties," not as a basis for blame.
+- **Already used in 1902**, before these lectures. *Varieties* Lecture XVIII applies "the principle of *pragmatism*" (Peirce's name) to God's attributes: "Beliefs… are rules for action"; "every difference must *make* a difference"; "What is its cash-value in terms of particular experience?" Metaphysical attributes are "destitute of all intelligible significance," a "metaphysical monster"; moral attributes "positively determine fear and hope and expectation" but cannot be demonstrated. What philosophy *can* do is become a "science of religions." 1907 slogans not yet present: "the true is the expedient," "corridor in a hotel." See [[Concepts/Over-Beliefs and Piecemeal Supernaturalism (James)]], [[Sources/The Varieties of Religious Experience - William James (1902)]].
 
 ## Relation to truth and instrumentalism
 
@@ -40,6 +41,7 @@ The method leads directly into James's [[Concepts/Pragmatic Theory of Truth (Jam
 - **Vs. [[Concepts/Mitigated Scepticism (Hume)]] and [[Concepts/Hume's Fork (Relations of Ideas vs Matters of Fact)]]**: Hume's "commit it to the flames" meaning-filter (no impression / no matter of fact ⇒ empty) is the closest ancestor; James's "what difference does it make?" is a near-equivalent meaning-test, but turned constructive rather than purely sceptical.
 - **Vs. rationalism (Kant, Plato, the Absolute)**: rejects "first things, principles, categories" as terminus; treats "*the* Truth," the "categorical imperative," and the Absolute as "solving names" to be cashed out or set aside.
 - **Kinship with [[Concepts/Perspectivism (Nietzsche)]]**: both deflate "pure Truth" and judge ideas by their life-furthering work; James's "cash-value" ≈ Nietzsche's "life-furthering."
+- **Ogden–Richards, definition IX**: *The Meaning of Meaning* lists "practical consequences" as one of sixteen senses of "meaning" (James quoted) and does **not** adopt it as the theory of reference. Their accepted sense is [[Concepts/Contextual Theory of Reference (Ogden-Richards)|XIII]] (that to which the interpreting process is adapted). James is reported, not absorbed.
 
 ## Vault / AI / Personal Relevance
 
@@ -50,9 +52,10 @@ The method leads directly into James's [[Concepts/Pragmatic Theory of Truth (Jam
 
 ## Related
 
-- [[Sources/Pragmatism - William James (1907, Standard Ebooks)]], [[Thinkers/William James]]
+- [[Sources/Pragmatism - William James (1907, Standard Ebooks)]], [[Sources/The Varieties of Religious Experience - William James (1902)]], [[Thinkers/William James]]
 - [[Concepts/Pragmatic Theory of Truth (James)]], [[Concepts/Tender-Minded and Tough-Minded (James)]], [[Concepts/The One and the Many (James)]], [[Concepts/Humanism - Reality as Malleable (Schiller and James)]], [[Concepts/Meliorism (James)]]
 - [[Concepts/Hume's Fork (Relations of Ideas vs Matters of Fact)]], [[Concepts/Mitigated Scepticism (Hume)]], [[Concepts/Method of Hyperbolic Doubt (Descartes)]], [[Concepts/Perspectivism (Nietzsche)]], [[Concepts/Identity and Diversity - Personal Identity (Locke)]]
+- [[Sources/The Meaning of Meaning - Ogden and Richards (1923)]], [[Concepts/Contextual Theory of Reference (Ogden-Richards)]]
 - [[Concepts/Reasoning Scaffolds]], [[Concepts/Agentic Workflows]]
 - [[GROK]] (the "does it make a difference?" lint test; theories/pages as instruments)
 

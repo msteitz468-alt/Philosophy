@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [russell, philosophy, theology, science, epistemology, metaphilosophy, uncertainty, history-of-philosophy, modern]
-sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+sources: ["History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 ---
 
 # Philosophy as the No Man's Land between Theology and Science (Russell)

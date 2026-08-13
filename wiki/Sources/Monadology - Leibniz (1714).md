@@ -5,7 +5,7 @@ domains: [metaphysics, philosophy-of-mind]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Discourse on Metaphysics and Monadology - Leibniz.txt"]
+sources: ["Discourse on Metaphysics and Monadology - Leibniz.md"]
 tags: [leibniz, metaphysics, monad, rationalism, substance, mind-body, harmony, primary-source]
 ---
 

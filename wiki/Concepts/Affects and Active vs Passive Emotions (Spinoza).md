@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [spinoza, affects, emotions, passions, active, passive, joy, sadness, ethics]
-sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.txt"]
+sources: ["Spinoza _ Ethics_ Proved in Geometrical Or - Kisner, Matthew (EDT); Silverthorne, Micha.md"]
 ---
 
 # Affects and Active vs Passive Emotions (Spinoza)
@@ -38,6 +38,8 @@ Active emotions (from adequate ideas) are ones in which we are the cause; they i
 ## Ethical Transformation
 
 The more we have adequate ideas (especially of the second and third kinds), the more we act and the fewer passions we are subject to (3p1c, 3p3, 5p20s). Understanding the causes of our emotions (including their bodily and external causes) turns passive affects into active ones or diminishes their power.
+
+**Vault comparison (Damasio, not a citation).** 3def3 pulled apart is [[Thinkers/Antonio Damasio]]'s emotion/feeling split: emotion = bodily affection (dispositional responses toward the body); feeling = the idea of that affection (experience of the changes, juxtaposed to initiating images). *Descartes' Error* does not name Spinoza. See [[Concepts/Emotions vs Feelings (Damasio)]].
 
 In Parts IV and V, Spinoza shows how knowledge of God/Nature (adequate ideas) is the means by which we increase our power, experience more joy, and achieve the intellectual love of God—the highest, most stable, and eternal form of joy and freedom.
 

@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [butterfield, origins-of-modern-science, scientific-revolution, historiography-of-science, copernicus, galileo, harvey, bacon, descartes, newton, chemistry, whig-history, kuhn]
-sources: ["the_origins_of_modern_science_text.txt"]
+sources: ["the_origins_of_modern_science_text.md"]
 ---
 
 # The Origins of Modern Science 1300-1800 - Herbert Butterfield (1949)

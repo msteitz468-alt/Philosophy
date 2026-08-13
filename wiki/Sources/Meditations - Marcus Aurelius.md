@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [marcus-aurelius, stoicism, meditations, philosophy-as-journal, ruling-faculty, daemon, providence, cosmic-perspective, classical, 2nd-century-ad, examined-life]
-sources: ["Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.txt"]
+sources: ["Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.md"]
 ---
 
 # Meditations — Marcus Aurelius
@@ -92,7 +92,7 @@ It provides the primary textual grounding for applying Stoicism to leadership, p
 
 ## Sources
 
-- Primary: `raw/Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.txt` (the George Long Meditations + the rest of the anthology).
+- Primary: `raw/Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.md` (the George Long Meditations + the rest of the anthology).
 - Companion in vault: [[Sources/Marcus Aurelius - Biography (Lord)]] (the external life and framing).
 - Overlap note: The same raw file also contains the Golden Sayings of Epictetus (Crossley trans., already primary-sourced via the dedicated Epictetus RAG files and source page).
 

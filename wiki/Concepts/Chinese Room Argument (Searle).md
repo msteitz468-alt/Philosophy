@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [searle, chinese-room, strong-ai, syntax-semantics, understanding, intentionality, philosophy-of-mind, ai-critique]
-sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.txt", "Society of Mind - Marvin Minsky.txt"]
+sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.md", "Society of Mind - Marvin Minsky.md"]
 ---
 
 # Chinese Room Argument (Searle)
@@ -66,6 +66,7 @@ Therefore: 'If you don't understand Chinese, then no other computer could unders
 - AI and epistemology sources (challenges literal readings of Shannon-era information and Turing-era computation as full accounts of cognition and understanding)
 - [[Thinkers/Douglas Hofstadter]], [[Concepts/Strange Loops and Tangled Hierarchies (Hofstadter)]], [[Concepts/Formal Systems and Isomorphism (Hofstadter)]] (the computationalist opposition)
 - [[Contradictions/Hofstadter vs Searle - Strange Loops vs Chinese Room]]
+- [[Concepts/Misrepresentation and the Bayesian Room (Hohwy)]] — Hohwy's PEM counter: a room that minimizes prediction error perceives if average mutual information with hidden causes can fall.
 
 *Concept page created 2026-06-04 during Searle 1984 ingest. The central argument that formal computation (syntax) cannot by itself produce genuine mental content (semantics).*
 

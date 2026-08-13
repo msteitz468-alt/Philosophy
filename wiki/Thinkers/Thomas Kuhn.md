@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 2
 tags: [kuhn, paradigm, normal-science, scientific-revolution, paradigm-shift, incommensurability, history-of-science, philosophy-of-science, post-positivism, quine, holism, web-of-belief]
-sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.txt", "Quine51 - Unknown.txt"]
+sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.md", "Quine51 - Unknown.md"]
 ---
 
 # Thomas Kuhn

@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [kuhn, paradigm, normal-science, puzzle-solving, anomaly, crisis, scientific-revolution, paradigm-shift, incommensurability, gestalt-switch, progress, philosophy-of-science, popper]
-sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.txt"]
+sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.md"]
 ---
 
 # The Structure of Scientific Revolutions - Kuhn (Chicago, 4th ed.)
@@ -68,7 +68,7 @@ This is the **decisive counterweight to Popper** in the vault's Philosophy of Sc
 
 ## Sources
 
-- Primary: `raw/The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.txt` (Chicago 4th ed., 2012; Hacking intro + Kuhn text + Postscript—1969).
+- Primary: `raw/The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.md` (Chicago 4th ed., 2012; Hacking intro + Kuhn text + Postscript—1969).
 - Companion in the vault: the Popper pair — [[Sources/The Logic of Scientific Discovery - Karl Popper (Routledge Classics)]] and [[Sources/Conjectures and Refutations - Karl Popper]].
 
 ## Related

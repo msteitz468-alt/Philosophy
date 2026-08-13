@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, logic, epistemology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Metaphysics (Aristotle).txt"]
+sources: ["Metaphysics (Aristotle).md"]
 tags: [aristotle, logic, non-contradiction, excluded-middle, first-principle, relativism, classical]
 ---
 

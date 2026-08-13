@@ -5,7 +5,7 @@ domains: [ethics]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Utilitarianism - John Stuart Mill.txt"]
+sources: ["Utilitarianism - John Stuart Mill.md"]
 tags: [mill, ethics, utilitarianism, utility, happiness, pleasure, justice, primary-source]
 ---
 

@@ -19,7 +19,7 @@ tags: [pearl, causality, do-calculus, ladder-of-causation, causal-diagrams, dags
 - **Authors**: Judea Pearl (primary) and Dana Mackenzie (science writer)
 - **Publisher**: Basic Books
 - **Year**: 2018
-- **Raw source**: `The Book of Why - Judea Pearl.txt` (6709 lines)
+- **Raw source**: `The Book of Why - Judea Pearl.md` (6709 lines)
 
 ## Central Thesis
 

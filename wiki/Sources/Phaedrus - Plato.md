@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [plato, phaedrus, soul, chariot-allegory, writing, rhetoric, madness, classical-philosophy]
-sources: ["Phaedrus - Plato.txt"]
+sources: ["Phaedrus - Plato.md"]
 ---
 
 # Phaedrus - Plato

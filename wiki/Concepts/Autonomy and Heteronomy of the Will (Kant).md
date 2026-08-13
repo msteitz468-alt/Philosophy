@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 1
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-08-12
 tags: [philosophy, ethics, kant, a-priori, deontology, autonomy, heteronomy, freedom, self-legislation, will]
-sources: ["Metaphysics of Morals - Immanuel Kant"]
+sources: ["Metaphysics of Morals - Immanuel Kant", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md"]
 ---
 
 # Autonomy and Heteronomy of the Will (Kant)
@@ -32,6 +32,10 @@ In the Second Section, Kant identifies autonomy of the will as the supreme princ
 - Dignity: The legislation that determines all worth must itself have unconditioned worth. Autonomy is the ground of the dignity of every rational nature. "The sublimity of the maxim consists in just its independence of all incentives, and the dignity of every rational subject consists in being a legislative member in the realm of ends."
 - End of section: Second Section was analytic (developed the concept); the synthetic reality of the CI (how a categorical imperative is possible as synthetic a priori) requires the Third Section's transition to the critique of pure practical reason.
 
+## From the Gregor/Korsgaard edition (2026-08-12)
+
+Gregor (4:440): "**Autonomy of the will is the property of the will by which it is a law to itself (independently of any property of the objects of volition).**" Heteronomy: "If the will seeks the law that is to determine it anywhere else than in the fitness of its maxims for its own giving of universal law… I ought to do something *because I will something else*" (4:441). Taxonomy of false principles (4:441–444): **empirical** — own happiness (physical feeling) or moral feeling (Hutcheson); **rational** — ontological perfection, or independently existing divine will. Own happiness is "most objectionable" (collapses virtue and vice into calculation). Moral feeling is closer to dignity but has no uniform standard. Ontological perfection is empty/circular, yet better than a theological ground of glory, dominion, and vengefulness. All miscarry. Korsgaard: "There can be only one reason why we must do what duty demands, and that is that we demand it of ourselves." Dignity is grounded here: [[Concepts/Dignity of Rational Nature (Kant)]].
+
 ## Vault Relevance / AI / Personal
 
 - **Self-governing agents vs trained heteronomy**: True alignment or "constitutional" AI requires autonomy — the system bound by principles it can "will" as universal (consistent with its own constitution/schema), not merely shaped by external data, preferences, or reward signals (heteronomy). RLHF, preference modeling, and outcome optimization are classic heteronomous sources; they can produce compliant behavior but not genuine "respect for the law." Kant predicts they will "miscarry" for the highest (unconditional) purposes.
@@ -44,7 +48,8 @@ In the Second Section, Kant identifies autonomy of the will as the supreme princ
 
 - [[Hypothetical and Categorical Imperatives (Kant)]], [[Kingdom of Ends (Kant)]], [[Formula of Humanity as End in Itself (Kant)]], [[Categorical Imperative - Universal Law Formulation (Kant)]], [[Good Will (Kant)]], [[Duty (Kant)]]
 - Strong contrasts: [[Custom and Belief (Hume)]] (custom as the "great guide" — heteronomous natural mechanism vs autonomy of pure practical reason); [[Conatus (Spinoza)]] (will determined by its place in nature/God vs self-legislating under universal law); [[Eudaimonia]] (end given by human function/nature vs end legislated by reason itself); [[Dichotomy of Control (Epictetus)]] (what is "up to us" as prohairesis — rational assent — vs full Kantian autonomy as law-giving).
-- Cross: [[Thinkers/Kant]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]], [[Thinkers/Aristotle]], [[Thinkers/Locke]]
+- Cross: [[Thinkers/Kant]], [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]], [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]], [[Thinkers/Aristotle]], [[Thinkers/Locke]]
+- [[Concepts/Dignity of Rational Nature (Kant)]]
 - [[GROK]] (the schema is the "autonomy" of the vault: self-imposed rules that the maintainer wills as universal practice; heteronomy would be drifting according to whatever sources or pressures are currently strongest).
 
 *Concept created during 2026-06-04 chunked ingest (Second Section) of the Kant *Groundwork*. Autonomy as the supreme principle that makes morality possible; diagnosis of why all heteronomous systems fail to ground it.*

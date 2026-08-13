@@ -4,9 +4,9 @@ type: contradiction
 schools: [Ash'arism, Kalam, Aristotelianism, Islamic Philosophy]
 domains: [metaphysics, theology, cosmology]
 created: "2026-06-29"
-updated: "2026-06-29"
+updated: "2026-08-12"
 tags: [contradiction, creation, eternity, time, will, ghazali, ibn-rushd, maimonides, avicenna, aristotle, aquinas, kant, medieval]
-sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Incoherence of the Incoherence - Ibn Rushd.txt", "The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).md", "Incoherence of the Incoherence - Ibn Rushd.md", "The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Temporal Creation vs Eternal World
@@ -44,7 +44,8 @@ This is the central battle of the *Tahafut* debate and the longest discussion in
 - **[[Thinkers/Thomas Aquinas]]:** a deliberate middle, essentially adopting Maimonides' epistemic verdict. The world's temporal beginning is true but known by *faith*, not demonstrable by reason (he grants the eternity-proofs are inconclusive — agreeing with al-Ghazali's negative point). His formula "God willed from eternity that the world should be, but not that it should be from eternity" mirrors the eternal-will doctrine while declining the takfir.
 - **[[Thinkers/Augustine]]:** reaches "time is a creature" by interior phenomenology — [[Concepts/Time and Eternity - Distentio Animi (Augustine)]] — dissolving the "before creation" question Augustine famously refuses to answer with "He was preparing hell for those who pry."
 - **Neoplatonism:** eternal [[Concepts/Emanation (Proodos)|emanation]] from the One — eternal procession without temporal beginning, the very scheme the *falasifa* overlay on Aristotle and al-Ghazali attacks.
-- **Kant (First Antinomy):** the mature form of the impasse — reason can construct *equally cogent* proofs that the world does and does not have a beginning in time, suggesting the question outruns possible experience. This partly vindicates al-Ghazali's negative thesis (eternity undemonstrated) while denying his positive one equal rank.
+- **[[Thinkers/Pseudo-Dionysius]] (now primary):** God is "both Eternity and Time… before Time and above Time… before Eternity and above Eternity" (DN X.3). The universe is "produced… out of Himself as out of an all-powerful Root" (DN X.1); temporal orbits are differentiated "when they begin" (DN VIII.5). Things *called* eternal are "not simply co-ordinate with the Everlasting God Who exists before Eternity" (DN X.3). Not Ghazali's dated first instant, not Avicenna's uncreated co-eternal cosmos: production language plus God prior to both Time and Eternity. The Good extends itself "by the very fact of Its existence," "through no choice or deliberation" (DN IV.1) — the necessitarian pressure of plenitude inside a Christian treatise. See [[Concepts/Ecstasy of Divine Love (Dionysius)]].
+- **Kant (First Antinomy), now primary:** thesis "The world has a beginning in time, and in space it is also enclosed in boundaries" / antithesis "The world has no beginning and no bounds in space…" (A 426–427 / B 454–455). Both proofs are well grounded *if* appearances are things in themselves. Transcendental idealism is the key: the world-whole is not a given object, so both sides are *false* (dialectical, not analytical, opposition). This partly vindicates al-Ghazali's negative thesis (eternity undemonstrated) while denying his positive one equal rank. See [[Arguments/Antinomies of Pure Reason (Kant)]].
 
 ## Attempted Resolutions
 
@@ -53,6 +54,7 @@ No reconciliation in the ingested material. The dispute turns on a prior questio
 ## Sources
 - [[Sources/The Incoherence of the Philosophers - Al-Ghazali]]
 - [[Sources/Incoherence of the Incoherence - Ibn Rushd]]
+- [[Sources/Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge)]] (First Antinomy)
 
 ## Related
 - [[Concepts/Eternal Will and Temporal Creation (Ghazali)]]
@@ -61,4 +63,5 @@ No reconciliation in the ingested material. The dispute turns on a prior questio
 - [[Concepts/Emanation (Proodos)]]
 - [[Contradictions/Occasionalism vs Natural Causation]]
 - [[Concepts/Creation vs Eternity (Maimonides)]], [[Concepts/Critique of the Kalam (Maimonides)]]
-- [[Thinkers/Al-Ghazali]], [[Thinkers/Ibn Rushd]], [[Thinkers/Maimonides]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Augustine]]
+- [[Thinkers/Al-Ghazali]], [[Thinkers/Ibn Rushd]], [[Thinkers/Maimonides]], [[Thinkers/Thomas Aquinas]], [[Thinkers/Augustine]], [[Thinkers/Pseudo-Dionysius]]
+- [[Sources/The Mystical Theology and The Divine Names - Dionysius the Areopagite]]

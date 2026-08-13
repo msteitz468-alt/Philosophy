@@ -7,7 +7,7 @@ source_count: 1
 created: "2026-06-29"
 updated: "2026-06-29"
 tags: [philosophy, jewish-philosophy, maimonides, rambam, aristotelianism, negative-theology, kalam, creation, prophecy, providence, evil, commandments, medieval]
-sources: ["The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # The Guide for the Perplexed - Maimonides

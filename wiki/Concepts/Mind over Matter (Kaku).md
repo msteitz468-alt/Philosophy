@@ -4,7 +4,7 @@ type: concept
 domains: [physics, technology, futurism, ai, neuroscience, medicine, bci]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Physics of the Future - Michio Kaku.txt"]
+sources: ["Physics of the Future - Michio Kaku.md"]
 tags: [michio-kaku, physics-of-the-future, mind-over-matter, brain-computer-interface, bci, thought-control, superconductors, age-of-magnetism, 2100]
 ---
 

@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 2
 tags: [hofstadter, geb, strange-loop, consciousness, formal-systems, ai, self-reference, emergence, computationalism, godel-proof, nagel, newman]
-sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Godel's Proof - Ernest Nagel.txt", "Society of Mind - Marvin Minsky.txt", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt", "Artificial Intelligence - Melanie Mitchell.txt", "The Singularity is Near - Ray Kurzweil [Ray Kurzweil].txt"]
+sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Godel's Proof - Ernest Nagel.md", "Society of Mind - Marvin Minsky.md", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Artificial Intelligence - Melanie Mitchell.md", "The Singularity is Near - Ray Kurzweil [Ray Kurzweil].md"]
 ---
 
 # Douglas Hofstadter

@@ -4,7 +4,7 @@ type: source-summary
 domains: [philosophy-of-mind, cognitive-science, ai, neuroscience, philosophy-of-language, ethics, evolutionary-biology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Consciousness Explained - Daniel C. Dennett.txt", "Society of Mind - Marvin Minsky.txt"]
+sources: ["Consciousness Explained - Daniel C. Dennett.md", "Society of Mind - Marvin Minsky.md"]
 tags: [dennett, consciousness, multiple-drafts, cartesian-theater, qualia, heterophenomenology, joycean-machine, memes, self, functionalism, strong-ai, nagel, searle, turing]
 ---
 
@@ -64,7 +64,7 @@ tags: [dennett, consciousness, multiple-drafts, cartesian-theater, qualia, heter
 
 ## Sources
 
-- `Consciousness Explained - Daniel C. Dennett.txt` (raw)
+- `Consciousness Explained - Daniel C. Dennett.md` (raw)
 - [[Sources/The Society of Mind - Marvin Minsky (1986)]] (primary AI-researcher account of distributed, multi-agent mind; strong convergence with Multiple Drafts / no central self)
 
 ## Related

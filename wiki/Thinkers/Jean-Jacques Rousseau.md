@@ -4,10 +4,10 @@ type: thinker
 era: "18th century"
 schools: [Social Contract Theory, Romanticism]
 domains: [political-philosophy, ethics, education]
-source_count: 1
+source_count: 2
 created: "2026-06-11"
-updated: "2026-06-11"
-sources: ["The Social Contract - Jean-Jacques Rousseau.txt"]
+updated: "2026-08-12"
+sources: ["The Social Contract - Jean-Jacques Rousseau.md", "Isaiah Berlin and the Politics of Freedom - Baum and Nichols (2013).md", "The Crooked Timber of Humanity - Isaiah Berlin (2013).md"]
 tags: [rousseau, jean-jacques-rousseau, political-philosophy, social-contract, general-will, state-of-nature, enlightenment]
 ---
 
@@ -54,16 +54,24 @@ Rousseau provides a crucial counterpoint to the political realism of Thomas Hobb
 - **State of Nature Contrast**: Rousseau's peaceful, pity-driven natural state directly opposes Hobbes' "nasty, brutish, and short" war of all against all. See [[Contradictions/Rousseau vs. Hobbes on the State of Nature|Rousseau vs. Hobbes on the State of Nature]].
 - **The Social Contract Traditions**: Expands the contractarian cluster alongside [[Thinkers/Thomas Hobbes|Hobbes]] and [[Thinkers/Locke|Locke]], showing a radical democratic alternative to Hobbes' absolutism and Locke's constitutionalism.
 - **Ethics of Compassion**: Rousseau's grounding of morality in natural pity (*pitié*) contrasts with Kant's duty-based rationalism.
+- **Versus Nozick (2026-08-12)**: [[Thinkers/Robert Nozick]] rejects one imposed common highest goal — “none have the right to impose their vision of unity upon the rest.” The general will is imperialistic utopianism. **Demoktesis** (ownership of the people, by the people, and for the people) is a hypothetical history designed to make a more-than-minimal democracy look like slavery with a many-headed master. See [[Concepts/Framework for Utopia (Nozick)]].
+- **Versus Berlin (2026-08-12)**: [[Thinkers/Isaiah Berlin]] (reception: Baum/Nichols 2013) takes *Social Contract* I.7 — “forced to be free” — as the type-case of domination traveling as liberty. Self-mastery splits the self; the “real self” becomes the state; compulsion is renamed liberation. Rousseau’s own claim is that constraint restores the citizen to self-legislated **moral liberty** and ends personal dependence. See [[Contradictions/Berlin vs Rousseau - Negative Liberty vs Forced to Be Free]]. The 2013 volume also turns the charge around: if negative liberty has institutional “conditions,” imposing them on peoples “not ready” is the same inversion under another banner.
+
+  *Crooked Timber* (now a Berlin primary) adds a **second front**, not a restatement of I.7: Maistre inverts “Man is born free” as “the opposite of the truth”; Berlin’s Romanticism essays still read Rousseau as identifying nature with reason and writing eternal truths on the heart. Do not merge the lecture’s liberty cut with the history-of-ideas cut. See [[Thinkers/Joseph de Maistre]], [[Concepts/Romantic Will (Berlin)]].
 
 ---
 
 ## Sources
 - [[Sources/The Social Contract - Jean-Jacques Rousseau (1762)]]
+- [[Sources/Isaiah Berlin and the Politics of Freedom - Baum and Nichols (2013)]]
 
 ## Related
 - [[Thinkers/Thomas Hobbes]]
 - [[Thinkers/Locke]]
 - [[Thinkers/John Stuart Mill]]
+- [[Thinkers/Robert Nozick]]
+- [[Thinkers/Isaiah Berlin]]
 - [[Concepts/General Will (Rousseau)]]
+- [[Contradictions/Berlin vs Rousseau - Negative Liberty vs Forced to Be Free]]
 - [[Concepts/State of Nature (Rousseau)]]
 - [[Contradictions/Rousseau vs. Hobbes on the State of Nature]]

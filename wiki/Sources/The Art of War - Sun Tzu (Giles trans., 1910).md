@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [sun-tzu, art-of-war, strategy, military, statecraft, deception, intelligence, taoism, classical-china, warring-states, leadership, game-theory]
-sources: ["The Art of War - Sun Tzu.txt"]
+sources: ["The Art of War - Sun Tzu.md"]
 ---
 
 # The Art of War - Sun Tzu (Giles trans., 1910)
@@ -65,12 +65,14 @@ A **primary** classical text — but a *practical* manual, not a philosophical t
 
 ## Sources
 
-- Raw: `raw/The Art of War - Sun Tzu.txt` (Lionel Giles translation, 1910; etext conversion by Bob Sutton; long Introduction + 13 chapters with classical commentary; ~3,500 lines).
-- Cross-references: the vault's power/war and statecraft material — [[Thinkers/Thucydides]] / [[Concepts/Power, Empire, and Revolt (Thucydides)]]; [[Thinkers/Publius (Hamilton, Madison, and Jay)]] (institutional realism; Machiavelli surveyed in [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]]); strategy/mastery — [[Thinkers/Garry Kasparov]]; the career/competition thread — [[Sources/Strategy - Full - Agribusiness Sales Playbook (Alliant 2026)]], [[Concepts/Prospecting Playbook]]. Taoist resonance of the "Moral Law" (*tao*) with Lao Tzu (not yet in the vault).
+- Raw: `raw/The Art of War - Sun Tzu.md` (Lionel Giles translation, 1910; etext conversion by Bob Sutton; long Introduction + 13 chapters with classical commentary; ~3,500 lines).
+- Cross-references: the vault's power/war and statecraft material — [[Thinkers/Thucydides]] / [[Concepts/Power, Empire, and Revolt (Thucydides)]]; [[Thinkers/Publius (Hamilton, Madison, and Jay)]] (institutional realism; Machiavelli surveyed in [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]]); strategy/mastery — [[Thinkers/Garry Kasparov]]; the career/competition thread — [[Sources/Strategy - Full - Agribusiness Sales Playbook (Alliant 2026)]], [[Concepts/Prospecting Playbook]]. Taoist resonance of the "Moral Law" (*tao*) and water/formlessness is now grounded in [[Sources/Daodejing - Laozi (Ziporyn trans., 2023)]] — sibling images, opposed uses (strategic *tao* vs. nonpurposive course). Confucian counterpart now in: [[Sources/The Analects - Confucius (Chin trans., 2014)]] — third classical Chinese voice; trust and *de* vs deception as first move.
 
 ## Related
 
 - [[Thinkers/Sun Tzu]]
+- [[Thinkers/Laozi]], [[Sources/Daodejing - Laozi (Ziporyn trans., 2023)]], [[Schools/Daoism]]
+- [[Thinkers/Confucius]], [[Sources/The Analects - Confucius (Chin trans., 2014)]], [[Schools/Confucianism]]
 - [[Concepts/Calculation and the Five Factors (Sun Tzu)]], [[Concepts/Winning Without Fighting (Sun Tzu)]], [[Concepts/Know the Enemy and Know Yourself (Sun Tzu)]], [[Concepts/All Warfare Is Based on Deception (Sun Tzu)]], [[Concepts/Shih - Momentum, Formlessness, and Striking Weakness (Sun Tzu)]], [[Concepts/Foreknowledge and the Use of Spies (Sun Tzu)]]
 - [[Thinkers/Thucydides]], [[Concepts/Power, Empire, and Revolt (Thucydides)]], [[Thinkers/Garry Kasparov]], [[Thinkers/Publius (Hamilton, Madison, and Jay)]]
 - [[Concepts/Tranquillitas Ordinis - Peace as Order (Augustine)]], [[Concepts/Two Cities (Augustine)]], [[Concepts/Formula of Humanity as End in Itself (Kant)]] (the ethics/just-war counterpoint)

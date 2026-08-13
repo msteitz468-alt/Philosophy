@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 1
+source_count: 2
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [philosophy, nietzsche, ressentiment, slave-morality, revaluation, modern-philosophy, genealogy-of-morals]
-sources: ["The Genealogy of Morals - Nietzsche (1887)"]
+sources: ["The Genealogy of Morals - Nietzsche (1887)", "On the Genealogy of Morals - Nietzsche (Johnston, from 22 Classic Works).md"]
 ---
 
 # Ressentiment (Nietzsche)
@@ -29,6 +29,22 @@ In the *First Essay* of *On the Genealogy of Morals*, Nietzsche identifies *ress
 
 Ressentiment is not mere personal spite but a *historical, value-creating force* of world-historical significance. It explains the triumph of "herd" valuations in Europe.
 
+## Johnston layer (second translation)
+
+Johnston does **not** keep French *ressentiment*. He writes **resentment**, "men of resentment," "morality of resentment," "priestly people of resentment." The vault title keeps Samuel's French.
+
+**I.X (load-bearing):** "The slave revolt in morality begins when the resentment itself becomes creative and gives birth to values: the resentment of those beings who are prevented from a genuinely active reaction and who compensate for that with a merely imaginary vengeance." And: "While all noble morality grows out of a triumphant self-affirmation, slave morality from the start says 'No' to what is 'outside,' 'other,' 'a non-self'. And this 'No' is its creative act."
+
+**I.XIII:** no "being" behind the doing; "'The doer' is merely invented after the fact—the act is everything." (Lightning/flash.) Strength *is* "a will to overpower, a will to throw down, a will to rule" — **not** the slogan "will to power" in Essay I.
+
+**III.15:** the priest "alters the direction of resentment": "You yourself are the only one to blame." Essay I's creative No against the *outside* is here turned *inward*. That is how resentment becomes the soil of [[Concepts/Bad Conscience (Nietzsche)]] and [[Concepts/Ascetic Ideal (Nietzsche)]].
+
+## In *The Antichrist* (1888; Mencken)
+
+The force is named and *dated*. After the cross the disciples do not take the example of dying free of *ressentiment*; revenge demands recompense and judgment. “The One God and the Only Son of God: both were products of *ressentiment*” (A §40). Paul is “the greatest of all apostles of revenge” (§45). Mass *ressentiment* forges “equal rights for all” against the pathos of distance (§43). Mencken keeps the French. This is the *apostle*, not a new definition. See [[Concepts/Paul as Falsifier of the Evangel (Nietzsche)]].
+
+The word does not appear in the Prologue. Do not write it into the method page as if it were the method.
+
 ## Vault Relevance / AI / Personal
 
 - **Diagnostic for reactive vs. affirmative stances**: In the vault, career, and AI work, distinguish master-style spontaneous creation and self-affirmation ("we good Europeans, free very free spirits" with the tension of the bow) from slave-style reaction: resentment at "the market," "unfair clients," "biased models," "the duty of maintenance," "the prompt constraints," "the boss," "the competition." Ressentiment constructs "evil enemies" (the powerful institution, the "greedy" client, the "hallucinating" LLM) to justify inversion rather than creating new values.
@@ -48,7 +64,7 @@ Ressentiment is not mere personal spite but a *historical, value-creating force*
 
 ## Related
 
-- [[The Genealogy of Morals - Nietzsche (1887)]], [[Thinkers/Nietzsche]], [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]]
+- [[Sources/On the Genealogy of Morals - Nietzsche (Johnston)]], [[Sources/The Genealogy of Morals - Nietzsche (1887)]], [[Thinkers/Nietzsche]], [[Concepts/Genealogy (Nietzsche)]], [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]]
 - [[Concepts/Master Morality and Slave Morality (Nietzsche)]], [[Concepts/Bad Conscience (Nietzsche)]], [[Concepts/Ascetic Ideal (Nietzsche)]], [[Concepts/Sovereign Individual (Nietzsche)]], [[Concepts/Will to Power (Nietzsche)]], [[Concepts/Beyond Good and Evil (Nietzsche)]]
 - [[Thinkers/Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]], [[Thinkers/Plato]], [[Thinkers/Aristotle]]
 - [[Concepts/Good Will (Kant)]], [[Concepts/Categorical Imperative - Universal Law Formulation (Kant)]], [[Concepts/Conatus (Spinoza)]], [[Concepts/Eudaimonia]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Ataraxia]]

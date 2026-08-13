@@ -4,8 +4,8 @@ type: source-summary
 status: complete
 domains: [existentialism, phenomenology, ontology, ethics, political-philosophy]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Sartre (Ruud Welten).txt"]
+updated: "2026-08-12"
+sources: ["Sartre (Ruud Welten).md"]
 tags: [philosophy, sartre, existentialism, phenomenology, marxism]
 ---
 
@@ -33,14 +33,16 @@ Welten presents Sartre not as the author of a finished system but as a "cyclonic
 
 This is the vault's first dedicated Sartre source, and it lands him squarely inside the [[Schools/Phenomenology]] lineage already built around Husserl and [[Thinkers/Martin Heidegger]] — while showing how Sartre breaks from both: a "negative phenomenology" of the *néant* rather than Husserl's positive givenness, and an ontology that starts from a *lack* of being rather than Heidegger's Being. It supplies the bridge from phenomenology to French Marxism and post-structuralism (Welten notes Sartre became the "mastodon" the structuralists Lévi-Strauss, Foucault, Althusser defined themselves against). The book's most valuable contribution is its insistence on the *continuity* between early and late Sartre — pour-soi/en-soi reappear as "practical organism"/"practical-inert field" — which resists the standard story of two unrelated Sartres. It opens productive tensions with [[Thinkers/Karl Marx]] (subjective vs. objective dialectic; rejection of natural rights), with Freud (lucidity vs. the unconscious), and with humanism (Sartre as anti-humanist who still titles a lecture *Existentialism is a Humanism*).
 
-> [!note] Companion file not ingested
-> A second raw file, *Existentialism is a Humanism — Jean-Paul Sartre.pdf*, was found in `raw/` but is a mis-saved HTML page of an unrelated university website containing **none** of Sartre's lecture text. It was therefore not ingested. The lecture's content is summarised here only as Welten reports it (the individual's act binds all humanity; "if the angel's voice tells me what to do, it is still I who decide it is the angel's voice"; existentialism as a humanism that refuses to trap the human in base values).
+> [!note] Lecture now ingested (2026-08-12)
+> The companion PDF that sat in `raw/` at the Welten ingest was a mis-saved university webpage and was correctly left aside. A real EPUB of the Mairet/Kaufmann text was later queued and ingested as [[Sources/Existentialism is a Humanism - Jean-Paul Sartre (1946)]]. Welten's three-slogan paraphrase is now replaced, on the relevant concept pages, by the lecture's own argument (paper-knife, two atheisms, anguish/abandonment/despair, the pupil, two humanisms). Two corrections to this biography: the lecture *claims* the name humanism for self-surpassing (it is not simply anti-humanist), and it pronounces moral judgments (cowards, scum, good faith) that Welten's BN reading withholds.
 
 ## Sources
-- Raw: `Sartre (Ruud Welten).txt` (Athenaeum—Polak & Van Gennep, Amsterdam 2020; *Elementaire Deeltjes* 71)
+- Raw: `Sartre (Ruud Welten).md` (Athenaeum—Polak & Van Gennep, Amsterdam 2020; *Elementaire Deeltjes* 71)
 
 ## Related
 - [[Thinkers/Jean-Paul Sartre]]
+- [[Sources/Existentialism is a Humanism - Jean-Paul Sartre (1946)]]
+- [[Schools/Existentialism]]
 - [[Schools/Phenomenology]]
 - [[Thinkers/Martin Heidegger]]
 - [[Thinkers/Karl Marx]]

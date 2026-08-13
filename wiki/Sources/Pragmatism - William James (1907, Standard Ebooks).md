@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [james, pragmatism, philosophy, american-philosophy, epistemology, truth, metaphysics, empiricism, pluralism, monism, meliorism, humanism, religion, instrumentalism, modern]
-sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.txt"]
+sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.md"]
 ---
 
 # Pragmatism - William James (1907, Standard Ebooks)
@@ -72,8 +72,8 @@ The book closes by moving from method and truth toward metaphysics and faith: a 
 
 ## Sources
 
-- Raw: `raw/Pragmatism_ A New Name for Some Old Ways o - William James.txt` (Standard Ebooks edition, based on the Project Gutenberg transcription + Internet Archive scans; the 1907 text of the eight lectures, Preface, and endnotes; ~1,330 lines).
-- Cross-references: the empiricist/sceptical lineage James claims as forerunners — [[Thinkers/Hume]], [[Thinkers/Locke]] (Berkeley not yet an entity); the rationalist/idealist foils — [[Thinkers/Kant]], [[Thinkers/Spinoza]], [[Thinkers/Plato]], plus Leibniz, Hegel, Royce, Bradley (the "Absolute"); kinship with [[Thinkers/Nietzsche]] (perspectivism/anti-dogmatism) and [[Thinkers/Epicurus]]/[[Thinkers/Lucretius]] (the design-argument critique, voiced by Hume's "Epicurus"); the monism/pluralism axis touching [[Thinkers/Plotinus]] (the One) and Vedanta. Future: James's *The Will to Believe*, *The Varieties of Religious Experience* (the religion book he references), *A Pluralistic Universe*, *Essays in Radical Empiricism*; Dewey, Peirce, Schiller primary texts.
+- Raw: `raw/Pragmatism_ A New Name for Some Old Ways o - William James.md` (Standard Ebooks edition, based on the Project Gutenberg transcription + Internet Archive scans; the 1907 text of the eight lectures, Preface, and endnotes; ~1,330 lines).
+- Cross-references: the empiricist/sceptical lineage James claims as forerunners — [[Thinkers/Hume]], [[Thinkers/Locke]] (Berkeley not yet an entity); the rationalist/idealist foils — [[Thinkers/Kant]], [[Thinkers/Spinoza]], [[Thinkers/Plato]], plus Leibniz, Hegel, Royce, Bradley (the "Absolute"); kinship with [[Thinkers/Nietzsche]] (perspectivism/anti-dogmatism) and [[Thinkers/Epicurus]]/[[Thinkers/Lucretius]] (the design-argument critique, voiced by Hume's "Epicurus"); the monism/pluralism axis touching [[Thinkers/Plotinus]] (the One) and Vedanta. *The Varieties of Religious Experience* (1902) is now ingested: [[Sources/The Varieties of Religious Experience - William James (1902)]]. Still future: *The Will to Believe*, *A Pluralistic Universe*, *Essays in Radical Empiricism*; Dewey, Peirce, Schiller primaries.
 
 ## Related
 

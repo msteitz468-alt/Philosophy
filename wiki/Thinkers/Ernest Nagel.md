@@ -4,13 +4,13 @@ type: thinker
 domains: [philosophy-of-science, logic, mathematics, epistemology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Godel's Proof - Ernest Nagel.txt"]
+sources: ["Godel's Proof - Ernest Nagel.md"]
 tags: [nagel, godel, newman, philosophy-of-science, logic, consistency, formalization, hofstadter]
 ---
 
 # Ernest Nagel
 
-> Ernest Nagel (1901–1985), American philosopher of science, longtime Columbia University professor, and co-author (with James R. Newman) of the classic popular exposition *Gödel’s Proof* (1958; revised 2001 with foreword by Douglas Hofstadter). A leading figure in the mid-20th-century naturalistic and logical-empiricist tradition in philosophy of science; later work emphasized the structure of scientific explanation and the pragmatic, historical character of scientific knowledge.
+> Ernest Nagel (1901–1985), American philosopher of science, longtime Columbia University professor, and co-author (with James R. Newman) of the classic popular exposition *Gödel’s Proof* (1958; revised 2001 with foreword by Douglas Hofstadter). A leading figure in the mid-20th-century naturalistic and logical-empiricist tradition in philosophy of science; later work emphasized the structure of scientific explanation and the pragmatic, historical character of scientific knowledge. Not to be confused with [[Thinkers/Thomas Nagel]] (b. 1937; "What Is It Like to Be a Bat?").
 
 ## Summary
 
@@ -53,5 +53,6 @@ Nagel’s broader contributions (outside this source) include influential work o
 - [[Sources/Gödel’s Proof - Ernest Nagel and James R. Newman (1958)]]
 - [[Sources/Gödel, Escher, Bach - Douglas Hofstadter (1979)]]
 - [[Concepts/Gödelian Incompleteness and Self-Reference (Hofstadter)]]
+- [[Thinkers/Thomas Nagel]] (disambiguation — different philosopher)
 
 *Thinker page created 2026-06-04 on ingest of the source he co-authored. Nagel supplies the canonical accessible bridge between the technical 1931 result and the philosophical/AI debates that structure the vault's AI & Cognitive Science leg.*

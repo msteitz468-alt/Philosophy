@@ -4,7 +4,7 @@ type: concept
 domains: [ethics]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Nicomachean Ethics (Aristotle).txt"]
+sources: ["Nicomachean Ethics (Aristotle).md"]
 tags: [aristotle, courage, temperance, magnanimity, virtue, classical]
 ---
 

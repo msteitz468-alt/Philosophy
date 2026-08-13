@@ -4,7 +4,7 @@ type: concept
 domains: [medicine, physiology, biology, history-of-science]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [medicine, isonomia, dietetics, physiology, anatomy, embryology, botany, alcmaeon, croton, pythagoreanism, zhmud]
 ---
 

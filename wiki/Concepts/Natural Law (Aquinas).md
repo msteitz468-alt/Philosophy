@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-04"
 tags: [thomas-aquinas, natural-law, eternal-law, ethics, jurisprudence, common-good, scholasticism, medieval]
-sources: ["Summa Theologica, Part I-II - Saint Thomas Aquinas.txt", "Thomas Aquinas - Summa Theologica.txt"]
+sources: ["Summa Theologica, Part I-II - Saint Thomas Aquinas.md", "Thomas Aquinas - Summa Theologica.md"]
 ---
 
 # Natural Law (Aquinas)

@@ -4,7 +4,7 @@ type: concept
 domains: [ethics, epistemology]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The Works of Epictetus. Consisting of His Discourses, in Four Books, The Enchiridion, and Fragments [100 AD] (Epictetus, Elizabeth Carter etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Works of Epictetus. Consisting of His Discourses, in Four Books, The Enchiridion, and Fragments [100 AD] (Epictetus, Elizabeth Carter etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [epictetus, stoicism, prolepsis, preconception, criterion, epistemology, moral-philosophy]
 ---
 

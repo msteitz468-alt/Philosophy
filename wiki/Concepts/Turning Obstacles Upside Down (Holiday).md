@@ -7,7 +7,7 @@ source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
 tags: [ryan-holiday, stoicism, marcus-aurelius, obstacle, adversarial-growth, impressions, reframing, resilience, ethics]
-sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Turning Obstacles Upside Down (Holiday)
@@ -32,7 +32,7 @@ Holiday's framing device is the Zen parable of the boulder in the road, under wh
 ## How Different Thinkers Use This
 
 - **Marcus Aurelius** — the source text (5.20) and its enacted example: the revolt of Avidius Cassius became, after the rebel's death, an "opportunity to practice forgiveness on a significantly larger scale"; "the fire... rises higher by means of this very material." See [[Thinkers/Marcus Aurelius]].
-- **Nietzsche** — supplies the "stronger" formula and, via [[Concepts/Amor Fati (Love of Fate)]], the affirmative extreme; but his transvaluation is creative self-overcoming, not Stoic providence (see caveat below).
+- **Nietzsche** — the "stronger" formula is *Twilight* Maxim 8: "Out of life's school of **war**: What does not **destroy** me, makes me stronger." Kaufmann's verb is *destroy*, not "kill." The frame is martial convalescence (Preface: vigor grows through a wound), not Marcus 5.20 and not [[Concepts/Amor Fati (Love of Fate)]] (the phrase is not in *Twilight*). Holiday treats "that which doesn't kill me" as sports-psych fact. Do not write Marcus's impediment-flip as Nietzsche's maxim. See [[Sources/Twilight of the Idols - Nietzsche (Kaufmann)]].
 - **Ryan Holiday** — systematizes the flip as a repeatable method illustrated by ~50 historical vignettes. See [[Thinkers/Ryan Holiday]] and [[Sources/The Obstacle Is the Way - Ryan Holiday (2014)]].
 
 ## Contradictions / Open Questions

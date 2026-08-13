@@ -7,7 +7,7 @@ edition: "Selene Books, 1987 (abridged reprint of the 1917 London ed.; Guthrie's
 created: "2026-07-01"
 updated: "2026-07-01"
 domains: [metaphysics, philosophy-of-religion, history-of-philosophy]
-sources: ["The neoplatonic writings of Numenius (Numenius, of Apamea etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The neoplatonic writings of Numenius (Numenius, of Apamea etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [numenius, neopythagoreanism, middle-platonism, neoplatonism, three-gods, demiurge, matter-as-evil, soul, fragments]
 ---
 

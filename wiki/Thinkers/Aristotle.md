@@ -4,11 +4,11 @@ type: thinker
 era: "4th century BC"
 schools: [Aristotelianism, Peripatetic School]
 domains: [ethics, logic, rhetoric, metaphysics]
-source_count: 9
+source_count: 10
 created: "2026-06-04"
-updated: "2026-07-01"
+updated: "2026-08-12"
 tags: [aristotle, philosophy, logic, ethics, rhetoric, metaphysics, classical, 4th-century-bc]
-sources: ["Aristotle_Logic.md", "gemini-code-1780526441159.md", "gemini-code-1780526905681.md", "Metaphysics (Aristotle).txt", "Heidegger (Michael Inwood).txt", "On the Soul (Aristotle).txt", "On Sleep (Aristotle).txt", "On Dreams (Aristotle).txt", "On Memory (Aristotle).txt", "On Divination in Sleep (Aristotle).txt", "Nicomachean Ethics (Aristotle).txt", "Economics (Aristotle).txt"]
+sources: ["Aristotle_Logic.md", "gemini-code-1780526441159.md", "gemini-code-1780526905681.md", "Metaphysics (Aristotle).md", "Physics (Aristotle).txt", "Heidegger (Michael Inwood).md", "On the Soul (Aristotle).md", "On Sleep (Aristotle).md", "On Dreams (Aristotle).md", "On Memory (Aristotle).md", "On Divination in Sleep (Aristotle).md", "Nicomachean Ethics (Aristotle).md", "Economics (Aristotle).md"]
 ---
 
 # Aristotle
@@ -47,6 +47,17 @@ This is the metaphysical core only gestured at before. The fourteen books develo
 
 See [[Sources/Aristotle - Metaphysics]] for the full source-summary. This ingest grounds the act/potency and prime-mover material that [[Thinkers/Thomas Aquinas]] and [[Thinkers/Ibn Rushd]] inherit, and that [[Thinkers/Spinoza]] and [[Thinkers/Leibniz]] later transform.
 
+**Physics (Hardie & Gaye, ingested 2026-08-12)**:
+The missing *physis* treatise. Eight books on natural things as things that move. Adds what the *Metaphysics* had only restated:
+- **Nature** as internal principle of motion and rest; form rather than matter; nature acts for an end without deliberating ([[Concepts/Nature as Internal Principle of Motion (Aristotle)]]).
+- **Four causes** in their canonical physical statement; **chance** and **spontaneity** as incidental causes ([[Concepts/The Four Causes (Aristotle)]], [[Concepts/Chance and Spontaneity (Aristotle)]]).
+- **Motion** as fulfilment of the potential *qua* potential, an incomplete actuality ([[Concepts/Motion as Actuality of the Potential (Aristotle)]]).
+- **The infinite** only potentially; **place** as innermost motionless boundary; **void** denied; **time** as number of motion ([[Concepts/The Infinite (Apeiron) (Aristotle)]], [[Concepts/Place (Topos) (Aristotle)]], [[Concepts/Time (Aristotle)]]).
+- Continuum and the primary reply to [[Concepts/Zeno's Paradoxes of Motion (Zeno)]].
+- **Book VIII**: kinematic proof of an eternal unmoved first mover without magnitude, causing circular locomotion — not yet *noēsis noēseōs* ([[Concepts/The Unmoved Mover (Aristotle)]]).
+
+See [[Sources/Aristotle - Physics]]. This is the physical home of the *prima via* and of [[Concepts/Eternity of the World (Ibn Rushd)]].
+
 ## Relevance to Vault
 
 - **Classical Philosophy cluster**: Primary counterpart and successor to Plato in the vault. Logic/metaphysics (Organon) complements Timaeus cosmogony/teleology; Ethics provides practical counterpart to Republic’s ideal state and justice; Rhetoric offers systematic art of persuasion linking to sales/playbook, leadership, and AI prompting.
@@ -55,10 +66,13 @@ See [[Sources/Aristotle - Metaphysics]] for the full source-summary. This ingest
 - **Persuasion and Leadership**: Ethos/logos/pathos + integrity of judgment enrich Creative Leadership, Persuasion & Sales Science, and Values-Driven Leadership concepts. Aristotle’s emphasis on character and proper use of emotion is timeless for professional relationships.
 - **AI / Agentic**: Modal logic and demonstration for rigorous reasoning scaffolds; rhetoric for constructing persuasive agent outputs and understanding audience (attunement); practical wisdom (*phronēsis*, implied) for balancing rules and particulars in complex tasks.
 - **Descartes contrast (2026-06-04)**: Descartes retains substance/essence language and a priori elements but rejects the "nothing in the intellect not first in the senses" axiom for innate ideas + clear & distinct perception; mechanistic extension + motion (no final causes/teleology) vs. Aristotle's qualitative elements and natural places; real distinction of mind and body (separable substances) vs. hylomorphism (soul as form of *this* body). See [[Thinkers/Descartes]], [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]], and new concepts (Clear and Distinct Perception, Res Cogitans and Res Extensa). Productive tension enriches both: Aristotle supplies the pre-modern "excellence in activity" and demonstration framework that Descartes presupposes and re-grounds.
+- **Foucault inversion (2026-08-12)**: *The History of Sexuality* I (Hurley p. 143) quotes the *zōon politikon* formula in order to invert it at the "threshold of modernity": "For millennia, man remained what he was for Aristotle: a living animal with the additional capacity for a political existence; modern man is an animal whose politics places his existence as a living being in question." See [[Concepts/Biopolitics and Governmentality (Foucault)]].
 
 ## Related
 
 - [[Sources/Teachout - Break Em Up]] — Teachout invokes Aristotle's *political animal* thesis and the tyrant/legitimate ruler distinction to argue that monopolists are tyrants in the Aristotelian sense (ruling in their own interest, not the governed's); [[Concepts/Moral Economy (Teachout)]] connects to Aristotelian conditions for human flourishing.
+- [[Thinkers/Michel Foucault]] — HS1 inverts the *zōon politikon* at the threshold of modernity ([[Concepts/Biopolitics and Governmentality (Foucault)]])
+- [[Sources/Aristotle - Physics]]
 - [[Sources/Aristotle - Modal Logic (Organon, Patterson)]]
 - [[Sources/Aristotle - Nicomachean Ethics (Complete, W.D. Ross)]] (supersedes [[Sources/Aristotle - Nicomachean Ethics (Book I)]])
 - [[Sources/Aristotle (Pseudo) - Economics]]

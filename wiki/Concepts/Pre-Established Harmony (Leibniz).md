@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, philosophy-of-mind]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Discourse on Metaphysics and Monadology - Leibniz.txt"]
+sources: ["Discourse on Metaphysics and Monadology - Leibniz.md"]
 tags: [leibniz, rationalism, metaphysics, mind-body, harmony, god]
 ---
 

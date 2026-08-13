@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-03"
 tags: [sextus-empiricus, pyrrhonism, skepticism, philosophy, classical, hellenistic, 2nd-3rd-century-ad]
-sources: ["Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026"]
+sources: ["Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026"]
 ---
 
 # Sextus Empiricus

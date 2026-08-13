@@ -3,8 +3,8 @@ title: "Phenomenology"
 type: school
 domains: [epistemology, ontology, philosophy-of-mind]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt", "Sartre (Ruud Welten).txt", "Husserl (David Woodruff Smith).txt"]
+updated: "2026-08-12"
+sources: ["Heidegger (Michael Inwood).md", "Sartre (Ruud Welten).md", "Husserl (David Woodruff Smith).md", "Existentialism is a Humanism - Jean-Paul Sartre (1946).md", "Cartesian Meditations - Edmund Husserl.md", "Phenomenology of Perception - Maurice Merleau-Ponty (1945).md"]
 tags: [philosophy, phenomenology, husserl, heidegger, school]
 ---
 
@@ -33,6 +33,8 @@ Key features:
 
 **Husserl's anti-naturalism**: Phenomenology is explicitly anti-naturalist about the essence of consciousness — the essence of consciousness is irreducible to the essence of neural activity. See [[Contradictions/Husserl vs Naturalism — Phenomenal Consciousness and the Hard Problem]].
 
+**Cartesian Meditations (primary, 1929/1931)**: Phenomenology is "almost" a neo-Cartesianism that must reject nearly all Cartesian doctrine (*CM* §1). Method: Cartesian overthrow → epoché → field of transcendental experience (*ego — cogito — cogitatum*) → eidetic variation → genetic analysis (active/passive genesis, association) → pairing as constitution of the Other → a **monadology** whose first being is transcendental intersubjectivity. Phenomenology executed concretely "*is eo ipso* 'transcendental idealism'" (§41). The Conclusion: not a deductive system "as though everything that exists were included in the unity of a computation," but "a system of phenomenological disciplines… ultimately grounded, not on an axiom, *ego cogito*, but on an all-embracing self-investigation" (§64). See [[Sources/Cartesian Meditations - Edmund Husserl]], [[Concepts/Transcendental Idealism (Husserl)]], [[Concepts/Pairing and Analogical Appresentation (Husserl)]].
+
 **The noema debate**: The major interpretive dispute in Husserl scholarship concerns the noema — whether it is a Fregean abstract sense mediating reference (West Coast: Føllesdal, Dreyfus, Smith), the object-as-encountered-within-the-epoché (East Coast: Sokolowski, Drummond), or something else entirely.
 
 ### Heidegger's Transformation
@@ -53,8 +55,8 @@ Key features:
 
 The movement extends well beyond Husserl and Heidegger:
 
-- **[[Thinkers/Jean-Paul Sartre]]**: Existential phenomenology — consciousness as nothingness, radical freedom, bad faith (see below).
-- **Maurice Merleau-Ponty**: Phenomenology of embodied perception.
+- **[[Thinkers/Jean-Paul Sartre]]**: Existential phenomenology — consciousness as nothingness, radical freedom, bad faith (see below). In the 1945/46 lecture he also defines [[Schools/Existentialism]] as a school overlapping this one: existence precedes essence; Heidegger is claimed for both.
+- **[[Thinkers/Maurice Merleau-Ponty]]**: Phenomenology of embodied perception. Primary now: [[Sources/Phenomenology of Perception - Maurice Merleau-Ponty (1945)]]. Empiricism and intellectualism share the constancy hypothesis; the most important lesson of the reduction is the impossibility of a complete reduction; consciousness is originarily an *I can*; freedom gears into a sedimented situation. See [[Concepts/Phenomenal Field and the Return to Phenomena (Merleau-Ponty)]], [[Concepts/One's Own Body and the Body Schema (Merleau-Ponty)]], [[Concepts/Motor Intentionality and the Intentional Arc (Merleau-Ponty)]].
 - **Emmanuel Levinas**: Ethics as first philosophy — the face of the Other.
 - **Hans-Georg Gadamer**: Philosophical hermeneutics — understanding as historically-effected consciousness.
 - **Jacques Derrida**: Deconstruction — the radicalisation of Heidegger's *Destruktion*.
@@ -69,7 +71,7 @@ The movement extends well beyond Husserl and Heidegger:
 Phenomenology stands in productive tension with:
 - **Analytic philosophy**: [[Thinkers/Ludwig Wittgenstein]] and [[Thinkers/A.J. Ayer]] represent the "other" twentieth-century tradition. Ayer dismissed Heidegger's ontological language as paradigmatic metaphysical nonsense. The continental/analytic divide, while oversimplified, reflects genuinely different conceptions of philosophy's task.
 - **Pragmatism**: [[Thinkers/William James]]'s emphasis on lived experience and the primacy of practice has affinities with Heidegger's anti-Cartesianism.
-- **Cognitive science**: Hubert Dreyfus applied Heidegger's ready-to-hand/present-at-hand distinction to critique AI; the embodied cognition movement draws on Merleau-Ponty.
+- **Cognitive science**: [[Thinkers/Hubert Dreyfus]] applied Heidegger's ready-to-hand/present-at-hand distinction as a full critique of GOFAI — see [[Sources/What Computers Still Can't Do - Hubert Dreyfus (1992)]] and [[Contradictions/Dreyfus vs Computationalism - Skilled Coping vs Formal Rules]]. The constructive sequel is [[Schools/Enactivism]]: [[Sources/The Embodied Mind - Varela Thompson and Rosch (2016)]] continues Merleau-Ponty's double embodiment as [[Concepts/Enaction (Varela)|enaction]]. The 1991 text calls even Heidegger and Merleau-Ponty "purely theoretical"; Thompson 2016 recants that verdict. Clark is a later, different mechanization (extended mind / predictive processing), not the 1991 school.
 
 ## Key Claims / Positions
 
@@ -78,6 +80,8 @@ Phenomenology stands in productive tension with:
 - **Husserl**: Phenomenology as rigorous science — descriptive analysis of intentional consciousness leading to apodictic certainty.
 - **[[Thinkers/Martin Heidegger]]**: Phenomenology as hermeneutic ontology — "letting that which shows itself be seen from itself." The method is retained but its object shifts from consciousness to Being.
 - **[[Thinkers/Daniel Dennett]]**: [[Concepts/Heterophenomenology (Dennett)]] is a deliberate response to phenomenology — a third-person, naturalist method that takes subjects' reports as data but does not privilege first-person access.
+- **[[Thinkers/Maurice Merleau-Ponty]]**: Phenomenology as a style before a doctrine; incomplete reduction; one's own body as that by which there are objects; condemned to sense. The French third way between Husserl's constituting ego and Sartre's nothingness.
+- **[[Thinkers/Francisco J. Varela]] / [[Schools/Enactivism]]**: 1991 — Western phenomenology is the ancestor that lost its pragmatic dimension; mindfulness/awareness is the replacement method. 2016 Thompson — phenomenology remains vital; late Varela **neurophenomenology** uses it. Rosch 2016: Heidegger/Merleau-Ponty still romanticize *samsara*.
 
 ## Contradictions / Open Questions
 
@@ -89,13 +93,20 @@ Phenomenology stands in productive tension with:
 - [[Sources/Heidegger - A Very Short Introduction - Michael Inwood (1997)]]
 - [[Sources/Sartre - Ruud Welten (2020)]]
 - [[Sources/Husserl - David Woodruff Smith (2013)]]
+- [[Sources/What Computers Still Can't Do - Hubert Dreyfus (1992)]]
+- [[Sources/The Embodied Mind - Varela Thompson and Rosch (2016)]]
+- [[Sources/Existentialism is a Humanism - Jean-Paul Sartre (1946)]]
+- [[Sources/Cartesian Meditations - Edmund Husserl]]
+- [[Sources/Phenomenology of Perception - Maurice Merleau-Ponty (1945)]]
 
 ## Related
 
+- [[Schools/Existentialism]]
 - [[Thinkers/Edmund Husserl]]
 - [[Thinkers/Franz Brentano]]
 - [[Thinkers/Martin Heidegger]]
 - [[Thinkers/Jean-Paul Sartre]]
+- [[Thinkers/Maurice Merleau-Ponty]]
 - [[Concepts/Consciousness as Intentionality and Néantisation (Sartre)]]
 - [[Concepts/Being-for-itself and Being-in-itself (Sartre)]]
 - [[Concepts/Dasein (Heidegger)]]

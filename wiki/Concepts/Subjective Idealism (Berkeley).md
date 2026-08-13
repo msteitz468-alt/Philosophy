@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, epistemology]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Three Dialogues between Hylas and Philonous - George Berkeley.txt"]
+sources: ["Three Dialogues between Hylas and Philonous - George Berkeley.md"]
 tags: [berkeley, subjective-idealism, immaterialism, esse-est-percipi, metaphysics, epistemology, early-modern]
 ---
 
@@ -38,6 +38,10 @@ For Berkeley, the universe consists of two and only two things:
 If objects are only ideas, why can we not control them like imaginary concepts, and why does the world have such stable, predictable laws?
 * Berkeley explains that the ideas of sensation are not created by our own minds; they are printed on our senses by a powerful, external spirit—namely, **God**.
 * The **laws of nature** are the regular, predictable sequences in which God displays these ideas to human minds (e.g., the idea of fire is followed by the idea of heat).
+
+## Schopenhauer’s credit (*Parerga* I, 1851)
+
+The Sketch of the ideal and the real names Berkeley “creator of the proper and true *idealism*”: the intuitive world “can exist as such only in our *representation*,” and it is “absurd, even contradictory, to attribute to it as such an existence outside of all representation and independent of the cognitive subject.” That is Schopenhauer’s definition of idealism, not Berkeley’s *esse est percipi* plus God. He then says clerical theism blocked further progress — the real, for him, is will, not willing spirits. Do not rewrite this page from that verdict. See [[Concepts/Doctrine of the Ideal and the Real (Schopenhauer)]], [[Sources/Parerga and Paralipomena Volume 1 - Schopenhauer (Cambridge 2014)]].
 * The persistence of the external world when unperceived by humans is guaranteed because God's mind constantly perceives all things, keeping them in existence.
 
 ---

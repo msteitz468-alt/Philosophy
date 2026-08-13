@@ -35,7 +35,9 @@ In *The Obstacle Is the Way* (see [[Sources/The Obstacle Is the Way - Ryan Holid
 - [[Sources/Seneca - Letters from a Stoic]]
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]]
 - [[Sources/The Obstacle Is the Way - Ryan Holiday (2014)]]
-- [[Thinkers/Epictetus]], [[Thinkers/Marcus Aurelius]], [[Thinkers/Ryan Holiday]]
+- [[Thinkers/Epictetus]], [[Thinkers/Marcus Aurelius]], [[Thinkers/Ryan Holiday]], [[Thinkers/Pierre Hadot]]
+- [[Concepts/The Present Instant (Hadot)]] — *tamquam spectator novus*: seeing the world as if for the first (or last) time.
+- [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]]
 - [[Thinkers/Aristotle]] (virtue, eudaimonia parallels), [[Thinkers/Plato]]
 - [[Concepts/Philosophy as Medicine (Seneca)]]
 - [[Concepts/Premeditatio Malorum (Premeditation of Evils)]], [[Concepts/Memento Mori (Stoic Practice)]]

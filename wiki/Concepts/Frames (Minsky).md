@@ -3,8 +3,8 @@ title: "Frames (Minsky)"
 type: concept
 domains: [ai, cognitive-science, philosophy-of-mind, knowledge-representation]
 created: "2026-06-04"
-updated: "2026-06-04"
-sources: ["Society of Mind - Marvin Minsky.txt"]
+updated: "2026-08-12"
+sources: ["Society of Mind - Marvin Minsky.md"]
 tags: [minsky, frames, uniframes, knowledge-representation, defaults, learning, society-of-mind]
 ---
 
@@ -32,6 +32,7 @@ Minsky introduced frames in AI (1974 paper) as an alternative or complement to l
 - **Dennett**: Frames are one of the "drafts" or content structures that participate in the ongoing editorial processes; they are revised, overwritten, or fused as new information arrives.
 - **Hofstadter**: Frames are isomorphisms — structure-preserving mappings from past experience to present situations. Uniframes are the recognition of common patterns across levels.
 - **Turing / learning**: Frames (and the administrative machinery around them) are part of what gets installed in child machines through experience.
+- **Dreyfus**: frames are what a *competent* performer would draw if asked to make the background explicit — Husserl's noema formalized, not expertise. Story understanders still fail on script-selection, abnormal cases, and the *ceteris paribus* regress; a program in a frame language "is not always-already-in-a-situation." See [[Concepts/Commonsense Knowledge Problem (Dreyfus)]] and [[Concepts/Skilled Coping and the Five Stages of Expertise (Dreyfus)]].
 
 ## Sources
 

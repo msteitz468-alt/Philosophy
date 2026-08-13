@@ -6,7 +6,7 @@ era: "20th century"
 domains: [philosophy-of-language, philosophy-of-mind, epistemology, logic]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Philosophical Investigations (Ludwig Wittgenstein).txt"]
+sources: ["Philosophical Investigations (Ludwig Wittgenstein).md"]
 tags: [wittgenstein, philosophical-investigations, ordinary-language, language-games, rule-following, private-language, family-resemblance, forms-of-life]
 ---
 

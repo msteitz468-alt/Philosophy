@@ -8,7 +8,7 @@ source_count: 5
 created: "2026-06-04"
 updated: "2026-07-01"
 tags: [epictetus, stoicism, ethics, dichotomy-of-control, prohairesis, discourses, arrian, classical, 1st-2nd-century-ad]
-sources: ["epictetus_enchiridion_rag.md", "epictetus_fragments_rag.md", "epictetus_golden_sayings_rag.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "The Works of Epictetus. Consisting of His Discourses, in Four Books, The Enchiridion, and Fragments [100 AD] (Epictetus, Elizabeth Carter etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["epictetus_enchiridion_rag.md", "epictetus_fragments_rag.md", "epictetus_golden_sayings_rag.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "The Works of Epictetus. Consisting of His Discourses, in Four Books, The Enchiridion, and Fragments [100 AD] (Epictetus, Elizabeth Carter etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Epictetus
@@ -46,7 +46,8 @@ The full *Discourses* (ingested 2026-07-01 via the Carter/Higginson translation,
 ## Related
 - [[Sources/Epictetus - Enchiridion, Fragments, and Golden Sayings]]
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]]
-- [[Thinkers/Seneca]], [[Thinkers/Marcus Aurelius]]
+- [[Thinkers/Seneca]], [[Thinkers/Marcus Aurelius]], [[Thinkers/Pierre Hadot]], [[Thinkers/Socrates]]
+- [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]] — three *topoi* as lived physics/ethics/logic; carpenter who builds rather than discourses.
 - [[Thinkers/Aristotle]] (virtue ethics parallels), [[Thinkers/Plato]]
 - [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Ataraxia]], [[Concepts/Eudaimonia]]
 - [[Concepts/Philosophy as Medicine (Seneca)]]

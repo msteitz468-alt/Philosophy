@@ -3,8 +3,8 @@ title: "Edmund Husserl"
 type: thinker
 domains: [phenomenology, philosophy-of-mind, ontology, epistemology, logic, ethics]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+updated: "2026-08-12"
+sources: ["Husserl (David Woodruff Smith).md", "Cartesian Meditations - Edmund Husserl.md"]
 tags: [philosophy, phenomenology, husserl, consciousness, intentionality, logic]
 ---
 
@@ -90,9 +90,11 @@ See [[Concepts/Intentionality and Noema (Husserl)]], [[Concepts/Phenomenological
 
 **Lebenswelt (life-world)**: The pre-scientific, everyday world of lived experience presupposed by all scientific knowledge. The *Crisis* (1935–38) diagnoses a cultural malaise in which mathematical physics, since Galileo's "mathematization of nature," has lost contact with the life-world. This "crisis" is connected to the rise of irrationalism (including Nazism).
 
-**Cartesian Meditations and solipsism**: The epoché appears to trap the phenomenologist in solipsism. Husserl tries to rebut this via the "Fifth Meditation" analysis of the other as an "analogical apperception," but remained unsatisfied with the argument.
+**Cartesian Meditations (primary, 1929/1931)**: The vault's first Husserl primary. Two Sorbonne lectures rewritten as five meditations: a **neo-Cartesianism** that keeps Descartes's radical beginning and rejects nearly all Cartesian doctrine (*CM* §1). The First Meditation executes the "Cartesian overthrow," finds the *ego cogito* as **transcendental** subjectivity (not a *res cogitans*, not "a little tag-end of the world" — §10), and grades evidence so that world-existence is not apodictic. The Second opens the field of transcendental experience (*ego — cogito — cogitatum*; synthesis; horizon; the object as "transcendental clue"). The Third ties **pregnant** constitution to reason/unreason and makes the world an "infinite idea" correlative to perfect experiential evidence. The Fourth develops the ego as pole, substrate of [[Concepts/Transcendental Ego and Constitution (Husserl)|habitualities]], and concrete **monad**; converts analysis into eidetics; states [[Concepts/Genetic Phenomenology - Active and Passive Genesis (Husserl)|active and passive genesis]]; and identifies phenomenology with [[Concepts/Transcendental Idealism (Husserl)|transcendental idealism]] (§41: an outside of possible consciousness is "nonsense"). The Fifth answers solipsism by a second epoché to the sphere of ownness and by [[Concepts/Pairing and Analogical Appresentation (Husserl)|pairing and analogical appresentation]]; the first Object is the Other's organism; there is "only one community of monads" and so only one Objective world (§60). The Conclusion: the intrinsically first being is transcendental intersubjectivity; "Noli foras ire… in interiore homine habitat veritas."
 
-See [[Concepts/Intersubjectivity and the Life-World (Husserl)]].
+Smith's report that Husserl "remained unsatisfied" with the Fifth Meditation is a reception judgment. In the text, Husserl calls the solipsism objection "groundless" (§62) while admitting the write-up is incomplete (birth, death, generation, cultural empathy postponed) and that the Other is never given originaliter.
+
+See [[Sources/Cartesian Meditations - Edmund Husserl]], [[Concepts/Intersubjectivity and the Life-World (Husserl)]].
 
 ## Epistemology
 
@@ -120,23 +122,27 @@ See [[Concepts/Formal and Material Ethics (Husserl)]].
 
 ## Legacy
 
-**Continental tradition**: Husserl's students and interlocutors include [[Thinkers/Martin Heidegger]] (fundamental ontology), [[Thinkers/Jean-Paul Sartre]] (existential phenomenology), Maurice Merleau-Ponty (embodied perception), Emmanuel Levinas (ethics of the Other), Edith Stein (empathy), and Hans-Georg Gadamer (hermeneutics). Derrida's deconstruction is a radicalisation of Heidegger's *Destruktion* of phenomenology.
+**Continental tradition**: Husserl's students and interlocutors include [[Thinkers/Martin Heidegger]] (fundamental ontology), [[Thinkers/Jean-Paul Sartre]] (existential phenomenology), [[Thinkers/Maurice Merleau-Ponty]] (embodied perception — attended the 1929 Sorbonne lectures; Louvain 1939; keeps operative intentionality and "transcendental subjectivity is an intersubjectivity," refuses complete reduction and analogical pairing), Emmanuel Levinas (ethics of the Other), Edith Stein (empathy), and Hans-Georg Gadamer (hermeneutics). Derrida's deconstruction is a radicalisation of Heidegger's *Destruktion* of phenomenology.
 
 **Analytic tradition**: Husserl interacted with Cantor and Hilbert; Frege corresponded with him. Carnap attended his 1924–25 lectures; Tarski cites the *Logical Investigations* in his 1933 theory of truth; Gödel in his later years turned to Husserlian phenomenology to support mathematical Platonism. The analytic/continental divide obscured these connections.
 
-**Philosophy of mind today**: Husserl's moment ontology — consciousness-moment and neural-moment as distinct dependent parts of one individual — is Smith's proposed response to the "hard problem of consciousness." His theory of intersubjectivity and embodiment has been taken up in "neurophenomenology" (Varela) and the embodied cognition movement (drawing on Merleau-Ponty).
+**Philosophy of mind today**: Husserl's moment ontology — consciousness-moment and neural-moment as distinct dependent parts of one individual — is Smith's proposed response to the "hard problem of consciousness." His theory of intersubjectivity and embodiment has been taken up in "neurophenomenology" (Varela) and the embodied cognition movement (drawing on Merleau-Ponty). [[Sources/The Embodied Mind - Varela Thompson and Rosch (2016)|*The Embodied Mind*]] (1991) treated the epoché as "twentieth-century Cartesianism" that studies contents "purely internally" and called even Heidegger and Merleau-Ponty purely theoretical. Thompson's 2016 introduction recants that portrayal and names the *Crisis* life-world as the background of an enactive conception of science. Late Varela neurophenomenology uses Western phenomenology; it is post-1991.
 
 See [[Contradictions/Husserl vs Naturalism — Phenomenal Consciousness and the Hard Problem]].
 
 ## Contradictions / Open Questions
 
-- > [!warning] Whether Husserl's mature transcendental idealism (*Ideas I* §49: the world's being is "relative" to consciousness) is compatible with his systematic realism (objective meanings directed toward mind-independent states of affairs) is the central unresolved controversy in Husserl scholarship. Smith reads the idealist passages as absorbed neo-Kantian idiom, not settled ontology.
-- > [!warning] The epoché appears to generate solipsism; Husserl's intersubjectivity arguments in *Cartesian Meditations* were never regarded as fully satisfactory even by Husserl himself.
+- > [!warning] Whether Husserl's mature transcendental idealism is compatible with his systematic realism is the central unresolved controversy in Husserl scholarship. Smith reads *Ideas I* §49 as absorbed neo-Kantian idiom and glosses constitution as "meaning, not existence." *CM* §41 will not bear that gloss without remainder: phenomenology "*is eo ipso* 'transcendental idealism'"; subjectivity constitutes "sense and being"; an outside is "nonsense." See [[Concepts/Transcendental Idealism (Husserl)]].
+- > [!warning] The epoché appears to generate solipsism. *CM* §62 calls the objection groundless; the Other is still never given originaliter or apodictically. Smith's "never fully satisfied" is not a sentence of the Fifth Meditation. See [[Concepts/Pairing and Analogical Appresentation (Husserl)]].
+- > [!warning] [[Sources/Being and Nothingness - Jean-Paul Sartre (Barnes trans.)]] keeps intentionality and rejects *esse est percipi* for the noema, *hyle*, and the reduction: "Husserl can not escape solipsism any more than Kant could" (BN 235). See [[Concepts/Consciousness as Intentionality and Néantisation (Sartre)]], [[Concepts/The Look and the Other (Sartre)]].
 - > [!warning] Conflicts with [[Thinkers/Daniel Dennett]] on consciousness: Husserl insists phenomenal character is irreducible to functional/computational processes; Dennett dissolves qualia and denies any first-person "given." See [[Contradictions/Husserl vs Naturalism — Phenomenal Consciousness and the Hard Problem]] and [[Contradictions/Dennett vs Nagel - Multiple Drafts vs Subjective Experience]].
+- > [!warning] [[Sources/The Meaning of Meaning - Ogden and Richards (1923)]] (Appendix D; Ch. III) files Husserl's Word / Meaning / Object triad and the *Urteil* as a spaceless object of logic as the same unique-relation error they reject. This is a 1923 *reception*, not a reading of *Logical Investigations* on Husserl's terms. See [[Concepts/Pure Logic and Meaning (Husserl)]], [[Concepts/Contextual Theory of Reference (Ogden-Richards)]].
 
 ## Sources
 
 - [[Sources/Husserl - David Woodruff Smith (2013)]]
+- [[Sources/Cartesian Meditations - Edmund Husserl]]
+- [[Sources/The Meaning of Meaning - Ogden and Richards (1923)]] — Appendix D reception, not a Husserl primary
 
 ## Related
 
@@ -150,6 +156,9 @@ See [[Contradictions/Husserl vs Naturalism — Phenomenal Consciousness and the 
 - [[Concepts/Evidence and Truth (Husserl)]]
 - [[Concepts/Pure Logic and Meaning (Husserl)]]
 - [[Concepts/Formal and Material Ethics (Husserl)]]
+- [[Concepts/Transcendental Idealism (Husserl)]]
+- [[Concepts/Genetic Phenomenology - Active and Passive Genesis (Husserl)]]
+- [[Concepts/Pairing and Analogical Appresentation (Husserl)]]
 - [[Thinkers/Franz Brentano]]
 - [[Thinkers/Martin Heidegger]]
 - [[Thinkers/Jean-Paul Sartre]]

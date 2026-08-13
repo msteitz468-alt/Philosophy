@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [descartes, philosophy, meditations, rationalism, dualism, god, epistemology, metaphysics, early-modern, classical, skepticism, foundationalism]
-sources: ["Meditations On First Philosophy_ With Sele - Rene Descartes.txt"]
+sources: ["Meditations On First Philosophy_ With Sele - Rene Descartes.md"]
 ---
 
 # Meditations on First Philosophy - Descartes (Oxford, 2008)
@@ -84,7 +84,7 @@ Major extension of the classical philosophy domain into early modernity/rational
 
 ## Sources
 
-- Raw: `raw/Meditations On First Philosophy_ With Sele - Rene Descartes.txt` (Oxford World's Classics, Michael Moriarty trans. 2008; selections from Objections and Replies; ~8690 lines).
+- Raw: `raw/Meditations On First Philosophy_ With Sele - Rene Descartes.md` (Oxford World's Classics, Michael Moriarty trans. 2008; selections from Objections and Replies; ~8690 lines).
 - Cross-references: All major classical sources/entities/concepts (see Related); [[GROK]] (method and maintenance parallels); future: Discourse on the Method, Principles of Philosophy, Passions of the Soul.
 
 ## Related

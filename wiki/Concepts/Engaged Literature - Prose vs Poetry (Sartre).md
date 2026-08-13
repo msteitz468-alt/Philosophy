@@ -4,7 +4,7 @@ type: concept
 domains: [aesthetics, political-philosophy, philosophy-of-language, ethics]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Sartre (Ruud Welten).txt"]
+sources: ["Sartre (Ruud Welten).md"]
 tags: [philosophy, sartre, literature, engagement, prose, poetry, intellectual]
 ---
 

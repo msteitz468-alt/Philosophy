@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [turing, imitation-game, turing-test, can-machines-think, interrogator, behavioral-test, 1950]
-sources: ["Computing Machinery and Intelligence - Alan Turing.txt"]
+sources: ["Computing Machinery and Intelligence - Alan Turing.md"]
 ---
 
 # Imitation Game (Turing)

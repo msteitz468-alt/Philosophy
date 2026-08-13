@@ -8,7 +8,7 @@ source_count: 3
 created: "2026-06-04"
 updated: "2026-06-03"
 tags: [epicurus, epicureanism, philosophy, atomism, ethics, hellenistic, 4th-3rd-century-bc]
-sources: ["Letters and Sayings of Epicurus - Epicurus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Lucretius - on the nature of things - Dinko Tontchev.txt", "The Logic of Scientific Discovery (Routled - Karl Popper.txt"]
+sources: ["Letters and Sayings of Epicurus - Epicurus.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Lucretius - on the nature of things - Dinko Tontchev.md", "The Logic of Scientific Discovery (Routled - Karl Popper.md"]
 ---
 
 # Epicurus
@@ -73,6 +73,7 @@ Fits "Research," "Reading a book," and "Personal" use cases in [[GROK]]. Anti-su
 - [[Thinkers/Lucretius]] (primary elaborator — adds secondary qualities, mortalism, symmetry argument)
 - [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Thucydides]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]], [[Thinkers/Marcus Aurelius]]
 - [[Thinkers/Hume]] — kindred naturalism, anti-superstition, and evidence-proportioning; in *Enquiry* Section XI Hume literally ventriloquizes Epicurus before the Athenians to attack the design argument and the inference to providence/a future state. See [[Concepts/Mitigated Scepticism (Hume)]], [[Concepts/Of Miracles (Hume)]].
+- [[Thinkers/Nietzsche]] — recurring figure in *The Gay Science*. **§45**: the "happiness of the afternoon of antiquity," a calm sea that "could be invented only by a man who was suffering continually." **§277**: leave Epicurus's uncaring gods in peace. **§306**: Epicurean *selects* digestible situations (garden) vs Stoic training to swallow anything; for a long thread of work, "make Epicurean arrangements." Kaufmann: finally critical. See [[Sources/The Gay Science - Nietzsche (Kaufmann 1974)]], [[Concepts/Amor Fati (Love of Fate)]]. Last published reference: *The Antichrist* **§58** — Epicurus had already fought subterranean “Christianity” (guilt, punishment, immortality) until Paul; the *imperium Romanum* was then sucked dry. See [[Sources/The Antichrist - Nietzsche (Mencken, Collection 2013)]].
 - [[Concepts/Eudaimonia]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Teachability of Virtue (Plato Protagoras Meno)]], [[Concepts/Pleasure vs Intelligence as the Good (Philebus)]], [[Concepts/Power, Empire, and Revolt (Thucydides)]]
 - New concepts: Ataraxia, Epicurean Atomism (with Swerve), Live Unnoticed (lathe biosas), Principal Doctrines
 - [[Sources/MasterClass Collection - 2026]] (prudent pleasure, simple living, friendship, resilience/equanimity)

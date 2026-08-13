@@ -3,8 +3,8 @@ title: "Husserl vs Naturalism — Phenomenal Consciousness and the Hard Problem"
 type: contradiction
 domains: [phenomenology, philosophy-of-mind, ontology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+updated: "2026-08-12"
+sources: ["Husserl (David Woodruff Smith).md", "Cartesian Meditations - Edmund Husserl.md"]
 tags: [philosophy, husserl, consciousness, naturalism, hard-problem, phenomenology]
 ---
 
@@ -33,6 +33,8 @@ The structure:
 
 This is neither Cartesian substance dualism (one substance, not two) nor eliminative materialism (consciousness is real, not illusory) nor standard property dualism (formal ontology does the work, not "properties").
 
+***Cartesian Meditations* (2026-08-12) adds a second Husserl, not just a citation.** Smith's resolution via Fundierung is a reading of the *system* (especially *Ideas* and the *Investigations*). *CM* §41 identifies phenomenology with **transcendental idealism**: every imaginable being falls within constituting subjectivity; an outside of possible consciousness is "nonsense"; existents are "products." That is a stronger anti-naturalism than regional-essence-plus-dependence. Naturalism is not merely a category-mistake about essences; it is the attempt to place true being *outside* possible evidence. See [[Concepts/Transcendental Idealism (Husserl)]]. Whether the later 1934 letter Smith cites ("a word which by the way I no longer use") walks §41 back is still a question for *Ideas* I and the *Crisis*.
+
 ## Both Sides
 
 **Husserl / Smith's Husserlian argument**:
@@ -48,12 +50,13 @@ This is neither Cartesian substance dualism (one substance, not two) nor elimina
 
 ## Related Contradictions
 
-- [[Contradictions/Dennett vs Nagel - Multiple Drafts vs Subjective Experience]]: Dennett vs. Nagel on "what it is like." Husserl's phenomenology aligns with Nagel's insistence on the irreducibility of the subjective viewpoint.
+- [[Contradictions/Dennett vs Nagel - Multiple Drafts vs Subjective Experience]]: Dennett vs. Nagel on "what it is like." Husserl's phenomenology aligns with Nagel's insistence on the irreducibility of the subjective viewpoint. Nagel is now primary ([[Thinkers/Thomas Nagel]], [[Sources/What Is It Like to Be a Bat - Thomas Nagel (1974)]]). His [[Concepts/Objective Phenomenology (Nagel)]] is a *different* method from Husserl's: it tries to describe subjectivity without occupying the point of view.
 - [[Contradictions/Hofstadter vs Searle - Strange Loops vs Chinese Room]]: Hofstadter's pro-computationalist position vs. Searle's anti-functionalism. Husserl's position is closer to Searle (intentionality cannot be "derived" from syntax) but differs in grounding: Husserl uses formal ontology; Searle uses biological naturalism.
 
 ## Sources
 
 - [[Sources/Husserl - David Woodruff Smith (2013)]]
+- [[Sources/Cartesian Meditations - Edmund Husserl]]
 
 ## Related
 
@@ -61,7 +64,10 @@ This is neither Cartesian substance dualism (one substance, not two) nor elimina
 - [[Concepts/Formal and Material Ontology (Husserl)]]
 - [[Concepts/Intentionality and Noema (Husserl)]]
 - [[Concepts/Transcendental Ego and Constitution (Husserl)]]
+- [[Concepts/Transcendental Idealism (Husserl)]]
 - [[Thinkers/Daniel Dennett]]
 - [[Concepts/Qualia Disqualified (Dennett)]]
 - [[Concepts/Heterophenomenology (Dennett)]]
 - [[Schools/Phenomenology]]
+- [[Thinkers/Thomas Nagel]]
+- [[Concepts/Subjective Character of Experience (Nagel)]]

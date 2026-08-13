@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, cognitive-science, medicine, psychiatry]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The Experience Machine How Our Minds Predict and Shape Reality (Andy Clark) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Experience Machine How Our Minds Predict and Shape Reality (Andy Clark) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [placebo, nocebo, virtual-reality, psychedelics, rebus, meditation, self-affirmation, reframing, precision]
 ---
 

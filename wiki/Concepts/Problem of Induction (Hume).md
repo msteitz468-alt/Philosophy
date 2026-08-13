@@ -8,7 +8,7 @@ source_count: 3
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [hume, induction, problem-of-induction, epistemology, empiricism, uniformity-of-nature, causation, scepticism, machine-learning, generalization, enquiry, quine, holism, web-of-belief]
-sources: ["An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)", "The Logic of Scientific Discovery (Routled - Karl Popper.txt", "Quine51 - Unknown.txt"]
+sources: ["An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)", "The Logic of Scientific Discovery (Routled - Karl Popper.md", "Quine51 - Unknown.md"]
 ---
 
 # Problem of Induction (Hume)
@@ -26,6 +26,8 @@ sources: ["An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed
 5. Therefore the step from "I have always found A conjoined with B" to "this A will be conjoined with B" is **not made by reason**. "I cannot find, I cannot imagine any such reasoning."
 
 The "peasants, infants, nay even brute beasts" make this inference and learn from experience; if it required a subtle argument, they could not. So whatever drives induction is "obvious to the capacity of a mere infant" and *not* ratiocination (see [[Thinkers/Hume]] Section IX on animal reason).
+
+Kant grants that "everything that happens has a cause" is not analytic and not given in any single experience. The Second Analogy relocates it as a condition of *possible* experience of succession: if the rule were drawn from induction, its "universality and necessity would then be merely feigned" (A 196 / B 241). See [[Concepts/Schematism and Principles of Pure Understanding (Kant)]], [[Concepts/Synthetic A Priori Judgments (Kant)]].
 
 ## What It Is *Not*
 

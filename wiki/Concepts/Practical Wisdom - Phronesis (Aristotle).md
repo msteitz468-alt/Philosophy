@@ -4,7 +4,7 @@ type: concept
 domains: [ethics, epistemology]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Nicomachean Ethics (Aristotle).txt"]
+sources: ["Nicomachean Ethics (Aristotle).md"]
 tags: [aristotle, phronesis, sophia, nous, intellectual-virtue, classical]
 ---
 
@@ -43,3 +43,5 @@ Supplies the missing epistemic engine for [[Concepts/Doctrine of the Mean (Arist
 - [[Concepts/Justice - Universal, Particular, and Equity (Aristotle)]]
 - [[Concepts/Contemplation and the Best Life - Theoria (Aristotle)]]
 - [[Concepts/Active and Passive Intellect (Aristotle)]]
+- [[Concepts/Readiness-to-Hand and Presence-at-Hand (Heidegger)]] — Heidegger's ontologisation of *phronēsis*
+- [[Concepts/Skilled Coping and the Five Stages of Expertise (Dreyfus)]] — Dreyfus's AI application: the expert perceives the case; extracted rules are the beginner's.

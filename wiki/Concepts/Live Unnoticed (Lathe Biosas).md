@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [epicurus, epicureanism, live-unnoticed, withdrawal, ethics, classical, hellenistic]
-sources: ["Letters and Sayings of Epicurus - Epicurus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026"]
+sources: ["Letters and Sayings of Epicurus - Epicurus.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026"]
 ---
 
 # Live Unnoticed (Lathe Biosas)

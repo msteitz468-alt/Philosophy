@@ -3,8 +3,8 @@ title: "History of Madness (Foucault)"
 type: concept
 domains: [philosophy, history, psychiatry, political theory]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Michel Foucault (David Macey).txt"]
+updated: "2026-08-12"
+sources: ["Michel Foucault (David Macey).md", "Discipline and Punish - Michel Foucault (Sheridan trans., Vintage 1995).md", "The History of Sexuality Volume 1 - An Introduction - Michel Foucault.md"]
 tags: [philosophy, foucault, madness, power, institution]
 ---
 
@@ -36,12 +36,25 @@ The book traces three historical periods:
 
 > [!warning] Challenges the Enlightenment progress narrative shared by much of the vault's 20th-c. epistemology cluster — compare [[Thinkers/Ian Hacking]]'s more moderate historical epistemology, and [[Thinkers/Thomas Kuhn]]'s similar discontinuism in science.
 
+### From *Discipline and Punish* (1975)
+
+The Great Confinement returns as one of two political dreams in III.3: **leprosy** → exclusion / "pure community"; **plague** → segmentations / "disciplined society." The nineteenth century applies plague techniques to the leper's space of exclusion (asylum, penitentiary, hospital). Part Four then states that extra-penal incarceration was *never abandoned* (article 66 acquittals, paternal correction); hospitals, almshouses, and factory-convents sit in the widening [[Concepts/The Delinquent and the Carceral Continuum (Foucault)|carceral circles]]. Article 64 of the 1810 code (madness eliminates the crime) is shown being slowly overwritten so that one can be both guilty and mad — the judge now assesses normality. The list of bodies on which the modern soul is produced includes "madmen" (I.1).
+
+### From *The History of Sexuality* I (1976)
+
+Psychiatry annexes sexual perversions as a province; peripheral figures are "akin to madmen," locked in asylums, stamped "moral folly" and *dégénérescence*. The 1867 Jouy case — village "curdled milk" becomes a judicial-medical object, then lifelong confinement at Maréville, "a pure object of medicine and knowledge" (pp. 31–32). The psychiatrist/hysteric couple of Marcus's "other Victorians" (p. 4) is a pleasure-power pair, not a liberation. Confession emigrates from penance into clinical listening (Part Three).
+
 ## Sources
 - [[Sources/Michel Foucault - David Macey]]
+- [[Sources/Discipline and Punish - Michel Foucault (1975)]]
+- [[Sources/The History of Sexuality Volume 1 - Michel Foucault (1976)]]
 
 ## Related
 - [[Thinkers/Michel Foucault]]
 - [[Concepts/Archaeology of Knowledge (Foucault)]]
 - [[Concepts/Disciplinary Society and the Panopticon (Foucault)]]
+- [[Concepts/The Delinquent and the Carceral Continuum (Foucault)]]
+- [[Concepts/History of Sexuality (Foucault)]]
+- [[Concepts/Scientia Sexualis and Ars Erotica (Foucault)]]
 - [[Thinkers/Ian Hacking]]
 - [[Thinkers/Thomas Kuhn]]

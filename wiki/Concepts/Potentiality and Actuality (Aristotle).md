@@ -3,8 +3,8 @@ title: "Potentiality and Actuality (Aristotle)"
 type: concept
 domains: [metaphysics, ontology, philosophy-of-nature]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Metaphysics (Aristotle).txt"]
+updated: "2026-08-12"
+sources: ["Metaphysics (Aristotle).md", "Physics (Aristotle).txt"]
 tags: [aristotle, potentiality, actuality, dynamis, energeia, entelecheia, change, classical]
 ---
 
@@ -28,7 +28,7 @@ Finally, **eternal things are pure actuality**: whatever is merely potential "is
 
 ## Key Claims / Positions
 
-- **Two modes of being**: potential and actual; change is the actualization of a potentiality *qua* potential (the Physics definition restated in XI).
+- **Two modes of being**: potential and actual; change is the actualization of a potentiality *qua* potential. The primary statement is now [[Sources/Aristotle - Physics|Physics III.1]] — see [[Concepts/Motion as Actuality of the Potential (Aristotle)]] — restated in *Metaphysics* IX and XI. *Kinēsis* is incomplete actuality; seeing/thinking are complete *energeiai*.
 - **Energeia vs. kinēsis**: complete activities (their end is internal) vs. incomplete processes (their end is external).
 - **Actuality prior to potentiality** in formula, time, and substance.
 - **Eternal = purely actual**; potentiality entails perishability and the possibility of evil.
@@ -43,12 +43,14 @@ Finally, **eternal things are pure actuality**: whatever is merely potential "is
 - **[[Concepts/Becoming (Kelly)]] / [[Concepts/Great Chain of Being (Lovejoy)]]**: the actualization-of-potential schema underlies later developmental and hierarchical pictures of nature.
 
 ## Sources
-- [[Sources/Aristotle - Metaphysics]] (Book IX / Theta; motion restated in XI / Kappa)
+- [[Sources/Aristotle - Physics]] (III.1–3; motion as incomplete actuality)
+- [[Sources/Aristotle - Metaphysics]] (Book IX / Theta — priority thesis; motion restated in XI / Kappa)
 
 ## Related
 - [[Thinkers/Aristotle]]
 - [[Concepts/Form and Matter - Hylomorphism (Aristotle)]]
 - [[Concepts/Substance (Ousia) (Aristotle)]]
 - [[Concepts/The Unmoved Mover (Aristotle)]]
+- [[Concepts/Motion as Actuality of the Potential (Aristotle)]]
 - [[Concepts/Principle of Non-Contradiction (Aristotle)]]
 - [[Concepts/Parmenidean Being and the One (Parmenides)]]

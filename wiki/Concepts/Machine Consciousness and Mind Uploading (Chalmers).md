@@ -3,8 +3,8 @@ title: "Machine Consciousness and Mind Uploading (Chalmers)"
 type: concept
 domains: [philosophy-of-mind, ai, personal-identity]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md", "Being You - Anil Seth (2021).md"]
 tags: [hard-problem, zombies, fading-qualia, uploading, substrate-neutrality, personal-identity]
 ---
 
@@ -25,11 +25,12 @@ On identity: nondestructive uploading creates a new person; destructive uploadin
 - **[[Concepts/Mind Uploading (Kurzweil)]]**: Kurzweil asserts uploading survivability; Chalmers supplies the missing argument (fading qualia) while being more cautious on identity (gradual only).
 - **[[Thinkers/Alan Turing]]** ([[Sources/Computing Machinery and Intelligence - Alan Turing (1950)]]): Turing's behavioral criterion deliberately sidesteps the consciousness question Chalmers insists on (Jefferson's objection revived as the zombie worry).
 - **[[Thinkers/Daniel Dennett]] / [[Thinkers/Andy Clark]]**: deflationists for whom the hard problem is dissolved, not solved — [[Concepts/Qualia Disqualified (Dennett)]], [[Concepts/Predictive Processing and the Hard Problem (Clark)]]. Chalmers keeps qualia realism while agreeing on substrate-neutrality.
+- **[[Thinkers/Anil Seth]]**: refuses the functionalism fading-qualia needs. "Simulation is equivalent to instantiation" is "not a safe assumption." A silicon predictive-processing "beast machine" would "probably not" be conscious; "it is life, rather than information processing, that breathes the fire into the equations." See [[Concepts/Machine Minds (Seth)]].
 - **Frank Jackson**: Mary's room (with Knut Nordby as the real-life Mary: "The world of colors will forever remain a mystery to me").
 
 ## Contradictions / Open Questions
 
-- > [!warning] Substrate-neutral consciousness is load-bearing for both [[Arguments/Simulation Argument (Bostrom)]] (the anthropic step) and [[Concepts/Simulation Hypothesis (Chalmers)]]; if Searle or biological views are right, the simulation probability collapses toward the "sims impossible" horn.
+- > [!warning] Substrate-neutral consciousness is load-bearing for both [[Arguments/Simulation Argument (Bostrom)]] (the anthropic step; now from the 2003 paper's [[Concepts/Substrate-Independence (Bostrom)|attenuated premise]]) and [[Concepts/Simulation Hypothesis (Chalmers)]]; if Searle or biological views are right, the simulation probability collapses toward the "sims impossible" horn.
 
 ## Sources
 - [[Sources/Reality+ - David J. Chalmers (2022)]]

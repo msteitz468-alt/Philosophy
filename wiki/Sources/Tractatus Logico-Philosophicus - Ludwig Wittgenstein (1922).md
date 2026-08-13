@@ -5,7 +5,7 @@ domains: [philosophy-of-language, logic, metaphysics]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Tractatus Logico-Philosophicus - Ludwig Wittgenstein.txt"]
+sources: ["Tractatus Logico-Philosophicus - Ludwig Wittgenstein.md"]
 tags: [wittgenstein, tractatus, logical-atomism, logic, language, saying-showing, early-20th-century]
 ---
 
@@ -17,7 +17,7 @@ tags: [wittgenstein, tractatus, logical-atomism, logic, language, saying-showing
 
 The *Tractatus Logico-Philosophicus* is a short, dense, and highly structured work consisting of seven numbered main propositions, with sub-propositions branching out (e.g., 1.1, 1.11, 1.12) to elaborate on details. 
 
-Written by [[Thinkers/Ludwig Wittgenstein|Ludwig Wittgenstein]] during World War I, the work aims to determine the relationship between language and reality, and to define the boundary between what can be logically said with sense and what must remain unsayable. Wittgenstein presents the **Picture Theory of Language**, arguing that propositions are logical pictures of facts, and famously concludes that the most important aspects of human existence (ethics, aesthetics, meaning) lie outside the limits of logical language and can only be *shown*, not *said*.
+Written by [[Thinkers/Ludwig Wittgenstein|Ludwig Wittgenstein]] during World War I, the work aims to determine the relationship between language and reality, and to define the boundary between what can be logically said with sense and what must remain unsayable. The English International Library edition was overseen by [[Thinkers/C. K. Ogden]] (general editor; translator). *The Meaning of Meaning* (1923, same series) cites 6.2 / 6.24 on mathematics and rejects the picture-correspondence of Appendix A — see [[Concepts/Triangle of Reference (Ogden-Richards)]]. Wittgenstein presents the **Picture Theory of Language**, arguing that propositions are logical pictures of facts, and famously concludes that the most important aspects of human existence (ethics, aesthetics, meaning) lie outside the limits of logical language and can only be *shown*, not *said*.
 
 ---
 
@@ -57,7 +57,7 @@ Wittgenstein admits that his own philosophical propositions in the *Tractatus* v
 ---
 
 ## Sources
-- Raw text: `raw/Tractatus Logico-Philosophicus - Ludwig Wittgenstein.txt` (181,093 bytes; Ludwig Wittgenstein Project raw text)
+- Raw text: `raw/Tractatus Logico-Philosophicus - Ludwig Wittgenstein.md` (181,093 bytes; Ludwig Wittgenstein Project raw text)
 
 ## Related
 - [[Thinkers/Ludwig Wittgenstein]]

@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [marcus-aurelius, stoicism, daemon, ruling-faculty, inner-citadel, self-governance, classical, 2nd-century-ad]
-sources: ["Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.txt"]
+sources: ["Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.md"]
 ---
 
 # Ruling Faculty and the Daemon (Marcus Aurelius)

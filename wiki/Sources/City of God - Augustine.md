@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-03"
 updated: "2026-06-03"
 tags: [augustine, patristics, political-theology, philosophy-of-history, two-cities, peace, eschatology, platonism, porphyry, plotinus, rome, providence, just-war, resurrection, vision-of-god, 5th-century]
-sources: ["City of God (Penguin Classics) - St. Augustine of Hippo.txt"]
+sources: ["City of God (Penguin Classics) - St. Augustine of Hippo.md"]
 ---
 
 # City of God — Augustine

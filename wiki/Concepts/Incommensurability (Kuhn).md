@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [kuhn, incommensurability, meaning-change, theory-choice, relativism, feyerabend, philosophy-of-science, philosophy-of-language]
-sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.txt", "Representing And Intervening Introductory - Ian Hacking.txt"]
+sources: ["The Structure of Scientific Revolutions_ 5 - Kuhn, Thomas S_.md", "Representing And Intervening Introductory - Ian Hacking.md"]
 ---
 
 # Incommensurability (Kuhn)

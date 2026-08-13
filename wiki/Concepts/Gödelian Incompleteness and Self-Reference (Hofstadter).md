@@ -4,7 +4,7 @@ type: concept
 domains: [logic, mathematics, philosophy-of-mind, ai, epistemology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Godel's Proof - Ernest Nagel.txt"]
+sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Godel's Proof - Ernest Nagel.md"]
 tags: [hofstadter, godel, incompleteness, self-reference, formal-systems, undecidability, turing, halting-problem, mind-machines, lucas-penrose, nagel, newman]
 ---
 

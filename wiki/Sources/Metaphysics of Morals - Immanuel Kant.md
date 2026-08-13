@@ -4,9 +4,9 @@ type: source-summary
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [philosophy, ethics, kant, immanuel-kant, deontology, categorical-imperative, good-will, duty, a-priori, early-modern, moral-philosophy, hypothetical-imperative, autonomy, kingdom-of-ends]
-sources: ["Metaphysics of Morals - Immanuel Kant.txt"]
+sources: ["Metaphysics of Morals - Immanuel Kant.md"]
 ---
 
 # Metaphysics of Morals - Immanuel Kant
@@ -16,6 +16,8 @@ sources: ["Metaphysics of Morals - Immanuel Kant.txt"]
 This source is an edition of Kant's *Groundwork for the Metaphysics of Morals* (1785; Grundlegung zur Metaphysik der Sitten), presented in the "Rethinking the Western Tradition" series (Yale University Press, ed. and trans. Allen W. Wood, with essays by J. B. Schneewind, Marcia Baron, Shelly Kagan, and Allen W. Wood). The volume includes a substantial Editor's Preface, A Note on the Translation, the Kant text (Preface + three sections), and four scholarly essays exploring its significance, interpretations, and relation to Kant's later ethical works (Critique of Practical Reason 1788, Metaphysics of Morals 1797).
 
 **Full *Groundwork for the Metaphysics of Morals* (1785) ingested across three chunks (Editor's apparatus + Kant Preface + all three Sections + summaries of the four appended essays by Schneewind, Baron, Kagan, Wood). Note: the file volume title is *Metaphysics of Morals* but centers on the 1785 preparatory *Groundwork*; the later 1797 *Metaphysics of Morals* (Doctrine of Right + Doctrine of Virtue) is a separate, later work.**
+
+**2026-08-12:** A second English edition is now ingested as [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]] (Mary Gregor trans., Christine M. Korsgaard introduction, Cambridge 1998, Academy 4:387–463). That page is the citation standard going forward. This page remains the Wood/Yale edition and its four essays. The 1797 *Metaphysics of Morals* is still not in the vault.
 
 ## Edition and Context (from Editor's Preface and Note on Translation)
 
@@ -128,7 +130,7 @@ No internal contradictions in the *Groundwork*. Productive tensions with vault s
 
 ## Sources
 
-- `raw/Metaphysics of Morals - Immanuel Kant.txt` (Yale University Press edition, ed./trans. Allen W. Wood, with essays by Schneewind, Baron, Kagan, Wood; includes Editor's Preface, Note on the Translation, Kant's *Groundwork for the Metaphysics of Morals* (1785), and scholarly essays).
+- `raw/Metaphysics of Morals - Immanuel Kant.md` (Yale University Press edition, ed./trans. Allen W. Wood, with essays by Schneewind, Baron, Kagan, Wood; includes Editor's Preface, Note on the Translation, Kant's *Groundwork for the Metaphysics of Morals* (1785), and scholarly essays).
 
 ## Related
 
@@ -173,7 +175,7 @@ Categorical imperatives possible because idea of freedom makes me member of inte
 
 ## Sources
 
-- `raw/Metaphysics of Morals - Immanuel Kant.txt` (Yale University Press edition, ed./trans. Allen W. Wood, with essays by Schneewind, Baron, Kagan, Wood; includes Editor's Preface, Note on the Translation, Kant's *Groundwork for the Metaphysics of Morals* (1785), and scholarly essays).
+- `raw/Metaphysics of Morals - Immanuel Kant.md` (Yale University Press edition, ed./trans. Allen W. Wood, with essays by Schneewind, Baron, Kagan, Wood; includes Editor's Preface, Note on the Translation, Kant's *Groundwork for the Metaphysics of Morals* (1785), and scholarly essays).
 
 ## Related
 

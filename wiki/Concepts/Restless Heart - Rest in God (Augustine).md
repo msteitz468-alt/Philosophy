@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [augustine, restless-heart, rest-in-god, grace, beatitude, eudaimonia, pilgrimage, conversion, last-end, 4th-century, patristics]
-sources: ["Confessions - Augustine.txt", "Summa Theologica, Part I-II - Saint Thomas Aquinas.txt"]
+sources: ["Confessions - Augustine.md", "Summa Theologica, Part I-II - Saint Thomas Aquinas.md"]
 ---
 
 # Restless Heart - Rest in God (Augustine)

@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, cosmology]
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+sources: ["Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 tags: [concept, heraclitus, flux, logos, fire, change, metaphysics]
 ---
 
@@ -43,6 +43,8 @@ The philosophy of Heraclitus centers on two deeply interrelated concepts: **Flux
 - **Plato's Epistemology**: Plato accepted Heraclitus's flux as a true description of the physical world of sensory perception. However, because knowledge requires stability, Plato argued that there must exist a separate realm of changeless realities (the Forms).
 - **Hegelian Dialectics**: Hegel adapted the "unity of opposites" into his dialectical method (thesis-antithesis-synthesis), declaring: *"There is no proposition of Heraclitus which I have not adopted in my Logic."*
 - **Thermodynamics**: The description of the cosmos as an "ever-living fire" governed by proportion anticipates the Laws of Thermodynamics—specifically, that energy cannot be created or destroyed, but only transformed from one state to another.
+- **[[Thinkers/Laozi]] / [[Concepts/Dao - The Course (Laozi)]]** (Ziporyn *Daodejing*, 2026-08-12): another archaic process-metaphysics of opposites. Heraclitus states the *rule* of change (Logos) and treats strife as justice; Laozi refuses any course taken as *the* right course (ch. 1) and tells you to inhabit the ignored pole (soft, low, unhewn). See [[Concepts/Unhewn Background and the A-B Reversal (Laozi)]].
+- **[[Thinkers/Nietzsche]]**, *Twilight* "‘Reason’ in Philosophy" §2: "With the highest respect, I exclude the name of Heraclitus." Heraclitus rejected the senses because they showed permanence and unity; he still wronged them — they do not lie. But "Heraclitus will remain eternally right with his assertion that being is an empty fiction. The ‘apparent’ world is the only one." This is Nietzsche's Heraclitus, not Burnet's Logos. See [[Sources/Twilight of the Idols - Nietzsche (Kaufmann)]], [[Concepts/How the True World Became a Fable (Nietzsche)]].
 
 ## Related Pages
 - [[Thinkers/Heraclitus]]

@@ -4,7 +4,7 @@ type: concept
 domains: [causality, statistics, epidemiology, philosophy-of-science]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Book of Why - Judea Pearl.txt"]
+sources: ["The Book of Why - Judea Pearl.md"]
 tags: [pearl, confounding, back-door-criterion, front-door-adjustment, deconfounding, instrumental-variables, simpsons-paradox, collider-bias, sewall-wright, observational-study, rct]
 ---
 

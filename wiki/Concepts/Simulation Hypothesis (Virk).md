@@ -3,8 +3,8 @@ title: "Simulation Hypothesis (Virk)"
 type: concept
 domains: [metaphysics, ai, philosophy-of-mind, physics, religion]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["The Simulation Hypothesis An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are in a… (Rizwan Virk) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["The Simulation Hypothesis An MIT Computer Scientist Shows Why AI, Quantum Physics and Eastern Mystics All Agree We Are in a… (Rizwan Virk) (z-library.sk, 1lib.sk, z-lib.sk).md", "Are You Living in a Computer Simulation - Nick Bostrom (2003).md"]
 tags: [simulation-hypothesis, great-simulation, npc, rpg, consciousness, information]
 ---
 
@@ -20,14 +20,14 @@ The **Great Simulation** is Virk's name for the universe as a giant, consciousne
 
 ## The NPC vs RPG Versions
 
-- **NPC version** (Bostrom's default in the [[Arguments/Simulation Argument (Bostrom)]]): the simulated beings "are really artificially intelligent characters in simulations rather than conscious entities that have presence in the real world." Everyone we meet is already passing the Turing Test.
+- **NPC version** (Virk's reading of Bostrom, not Bostrom's conclusion): the simulated beings "are really artificially intelligent characters in simulations rather than conscious entities that have presence in the real world." Everyone we meet is already passing the Turing Test. The 2003 paper is officially *neutral* among its three horns and recommends an even split; it assumes simulated beings *are* conscious ([[Concepts/Substrate-Independence (Bostrom)]]) but does not pick horn (3).
 - **RPG version** (Virk's preferred): "there are billions of players who are inhabiting our consciousness" — conscious beings outside the simulation playing characters within it, though "nothing... says some percentage of the 'characters' we come in contact with couldn't be simulated consciousness."
 
 This PC-vs-NPC distinction is the book's load-bearing philosophical fork: it determines whether the hypothesis is deflationary about consciousness (everything simulated) or a modern dualism (consciousness outside, avatar inside).
 
 ## How Different Thinkers Use This
 
-- **[[Thinkers/Nick Bostrom]]** supplies the statistical engine (ancestor simulations, the trilemma) but is read by Virk as committed to the NPC version.
+- **[[Thinkers/Nick Bostrom]]** supplies the statistical engine (ancestor-simulations, the trilemma — now from the 2003 paper at [[Sources/Are You Living in a Computer Simulation - Nick Bostrom (2003)]]). Virk reads him as committed to the NPC / horn-(3) version; the paper is not.
 - **Philip K. Dick** (1977 Metz speech): "We are living in a computer-programmed reality, and the only clue we have to it is when some variable is changed."
 - **Elon Musk** (2016): chances we are *not* in a simulation are "one in billions," from the extrapolation of game realism.
 - **[[Thinkers/George Berkeley]]**: conditional rendering is a computational cousin of *esse est percipi* — the unobserved is not (fully) rendered. See [[Contradictions/Subjective Idealism vs. Physical Realism]].

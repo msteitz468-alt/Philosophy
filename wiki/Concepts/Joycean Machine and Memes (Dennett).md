@@ -5,7 +5,7 @@ domains: [philosophy-of-mind, cognitive-science, evolutionary-biology, ai]
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [dennett, joycean-machine, memes, virtual-machine, pandemonium, selfridge, baldwin-effect, consciousness, evolution, von-neumann, dawkins]
-sources: ["Consciousness Explained - Daniel C. Dennett.txt"]
+sources: ["Consciousness Explained - Daniel C. Dennett.md"]
 ---
 
 # Joycean Machine and Memes (Dennett)

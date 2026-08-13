@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [anaximenes, milesian, pre-socratic, cosmology, air, condensation, rarefaction, ancient-greece]
-sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+sources: ["Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 ---
 
 # Anaximenes

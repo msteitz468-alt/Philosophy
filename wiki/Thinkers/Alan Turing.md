@@ -5,10 +5,10 @@ era: "20th century"
 schools: [Computationalism, Functionalism, Philosophy of Computation]
 domains: [epistemology, philosophy-of-mind, computation, ai, history-of-science]
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 source_count: 1
 tags: [turing, imitation-game, turing-test, universal-machine, digital-computers, learning-machines, philosophy-of-mind, ai, computation, 1950, babbage]
-sources: ["Computing Machinery and Intelligence - Alan Turing.txt", "Godel's Proof - Ernest Nagel.txt", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt", "Artificial Intelligence - Melanie Mitchell.txt"]
+sources: ["Computing Machinery and Intelligence - Alan Turing.md", "Godel's Proof - Ernest Nagel.md", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Artificial Intelligence - Melanie Mitchell.md", "Human Compatible - Stuart Russell (2019).txt"]
 ---
 
 # Alan Turing
@@ -60,9 +60,13 @@ sources: ["Computing Machinery and Intelligence - Alan Turing.txt", "Godel's Pro
 
 - **With [[Thinkers/Daniel Dennett]]** (strong alliance, later philosophical support): Dennett's *Consciousness Explained* (1991) defends the spirit of the Imitation Game framework and the computationalist program Turing inaugurated. Dennett's Systems Reply to Searle's Chinese Room directly rebuts Searle's attempt to refute Turing-style functionalism: it is illegitimate to imagine only a toy system and then declare understanding absent; the full complexity of a Turing-test-passing program cannot be dismissed on those grounds. Dennett also provides the evolutionary story (Joycean machine, Baldwin Effect, memes) for how human minds came to be the kind of things that could — in principle — be implemented in other substrates. See [[Thinkers/Daniel Dennett]] and [[Sources/Consciousness Explained - Daniel C. Dennett (1991)]].
 
+- **With [[Thinkers/Hubert Dreyfus]]** (principal phenomenological opponent): *What Computers Still Can't Do* *uses* Turing on discrete-state machines, universality, the imitation game, and the 2000 prediction, then treats the imitation game as a builder's goal rather than a criterion of mind. Dreyfus's genealogy makes the 1950 paper the moment the Platonic–Leibnizian demand acquired a machine. The child-machine programme is left more open than "Athene-like" adult intelligence; Piaget-style learning, Dreyfus thinks, still needs the unformalizable bodily capacities. See [[Contradictions/Dreyfus vs Computationalism - Skilled Coping vs Formal Rules]].
+
 - **With [[Thinkers/Judea Pearl]]** (on AI criteria, later challenge): Pearl's "mini-Turing test" (*The Book of Why*, 2018) proposes that the real criterion for human-level AI is not behavioral imitation (rung 1) but the ability to answer causal and counterfactual questions (rungs 2–3). Pearl argues that Turing's imitation game is a rung-1 criterion — a machine can pass it by sophisticated pattern-matching without genuine causal reasoning. Pearl's alternative: "Can the machine reason about the consequences of its own actions?" This is a reframing, not a refutation — Turing's 1950 paper predates the rung-1/2/3 distinction, and Turing himself acknowledged that behavioral criteria are proxies for underlying intelligence. See [[Thinkers/Judea Pearl]], [[Contradictions/Pearl vs. Statistics Orthodoxy - Causation Purged and Recovered]], and [[Concepts/Ladder of Causation (Pearl)]].
 
 - **With [[Thinkers/Norbert Wiener]]**: Wiener's *The Human Use of Human Beings* (1950) and Turing's "Computing Machinery and Intelligence" (1950) are published in the same year and orbit the same questions about machine intelligence. Both endorse learning machines over rigid, pre-programmed systems; both anticipate modern AI. Turing focuses on the behavioral criterion (imitation game), universality of digital computers, and the child-machine learning program. Wiener focuses on feedback physiology, the social impact of automation, and the alignment danger. Wiener explicitly advocates Turing-style learning (modifiable "preference" vs. rigid "constraint") but adds the social/political analysis Turing omits — including the first formal statement of what we now call the alignment problem (Monkey's Paw / Bottled Djinnee). The two works are complementary: computation (Turing) + control and communication (Wiener) = the digital-cybernetic revolution. See [[Thinkers/Norbert Wiener]] and [[Concepts/Alignment Problem - Sorcerer's Apprentice (Wiener)]].
+
+- **With [[Thinkers/Stuart Russell]]**: *Human Compatible* endorses Turing universality and refuses the imitation game as a *definition* of intelligence (perceive–want–do; competence, not consciousness). Turing already saw that "turning off the power at strategic moments" may not be available; Russell's off-switch game is the formal condition under which it is — the machine must be uncertain about the objective. Child-machine education is still motivation selection *under* the standard model unless the objective itself is left unknown.
 
 - **With philosophy-of-science cluster (Popper, Kuhn, etc.)**: The 1950 paper sits chronologically between the logical-positivist moment (Ayer) and the post-positivist reactions. It is itself a bold conjecture about future machine performance, offered with explicit fallibilism ("conjectures are of great importance") and a clear criterion that could in principle be refuted by experiment.
 
@@ -98,8 +102,11 @@ sources: ["Computing Machinery and Intelligence - Alan Turing.txt", "Godel's Pro
 - [[Thinkers/Judea Pearl]] (mini-Turing test proposes causal reasoning as AI criterion in place of behavioral imitation; rung-1 critique of deep learning applies to Turing-style behavioral tests)
 - [[Concepts/Ladder of Causation (Pearl)]], [[Contradictions/Pearl vs. Statistics Orthodoxy - Causation Purged and Recovered]]
 - [[Contradictions/Hofstadter vs Searle - Strange Loops vs Chinese Room]] (the vault's main AI & Cognitive Science tension, with Turing's paper at the origin)
+- [[Contradictions/Dreyfus vs Computationalism - Skilled Coping vs Formal Rules]] (Heideggerian opponent: imitation game is the wrong kind of criterion)
+- [[Thinkers/Hubert Dreyfus]], [[Sources/What Computers Still Can't Do - Hubert Dreyfus (1992)]]
 - [[Thinkers/Norbert Wiener]] (co-1950 AI founding; complementary frames — computation vs. control; Wiener adds social/alignment analysis Turing omits)
 - [[Thinkers/Nick Bostrom]], [[Sources/Superintelligence - Nick Bostrom (2014)]] (detailed strategic analysis of what happens after Turing's predicted threshold: intelligence explosion, orthogonality of goals, control problem, existential stakes)
+- [[Thinkers/Stuart Russell]], [[Sources/Human Compatible - Stuart Russell (2019)]], [[Concepts/Assistance Games and the Off-Switch (Russell)]] (imitation game refused as definition; off-switch as the condition under which Turing's plug is available)
 - [[Concepts/Alignment Problem - Sorcerer's Apprentice (Wiener)]] (Wiener's parallel 1950 concern about learning machines)
 
 *Thinker page created 2026-06-04 during ingest of the 1950 Mind paper (full cluster + index + log + cross-links completed 2026-06-04). The vault's primary source for the Imitation Game criterion, universality of digital computers, and the learning-machine research agenda that initiates the AI & Cognitive Science leg.*

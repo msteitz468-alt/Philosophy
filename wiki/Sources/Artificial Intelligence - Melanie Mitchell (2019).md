@@ -4,7 +4,7 @@ type: source-summary
 domains: [ai, cognitive-science, philosophy-of-mind, history-of-ai, epistemology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Artificial Intelligence - Melanie Mitchell.txt"]
+sources: ["Artificial Intelligence - Melanie Mitchell.md"]
 tags: [mitchell, artificial-intelligence, guide-for-thinking-humans, hofstadter, geb, deep-learning, common-sense, analogy, brittleness, hype-cycles, turing-test, singularity, understanding, pattern-matching, ai-limits]
 ---
 
@@ -16,7 +16,7 @@ tags: [mitchell, artificial-intelligence, guide-for-thinking-humans, hofstadter,
 
 - **Author**: Melanie Mitchell, computer scientist and professor (Portland State University, Santa Fe Institute); PhD with Douglas Hofstadter; researcher in complex systems, analogy-making, AI.
 - **Publication**: Farrar, Straus and Giroux, 2019 (hardcover); also ebook.
-- **Raw file**: `Artificial Intelligence - Melanie Mitchell.txt` (full text).
+- **Raw file**: `Artificial Intelligence - Melanie Mitchell.md` (full text).
 - **Domain position**: A clear-eyed, non-hyped overview of the state of AI (as of ~2019, with roots in earlier work) in the vault's AI & Cognitive Science leg. Strong personal and intellectual ties to [[Sources/Gödel, Escher, Bach - Douglas Hofstadter (1979)]] and Hofstadter thinker (Mitchell was his student/research assistant; book opens with her attending a Google AI meeting with him in 2014 where he expressed terror at rapid progress and singularity hype). Complements mechanistic accounts (Minsky's agents, Dennett's drafts) and risk analyses (Bostrom) with a focus on current capabilities vs. true understanding; updates "state of the art" in recent 2026 AI tutorial sources.
 
 ## Core Thesis
@@ -81,7 +81,7 @@ The book ends with a call for clear-eyed assessment: AI is transforming many fie
 
 ## Sources
 
-- Raw: `Artificial Intelligence - Melanie Mitchell.txt`
+- Raw: `Artificial Intelligence - Melanie Mitchell.md`
 
 ## Related
 

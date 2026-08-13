@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [butterfield, historiography, whig-interpretation, scientific-revolution, origins-of-modern-science, cambridge, peterhouse, history-of-science]
-sources: ["the_origins_of_modern_science_text.txt"]
+sources: ["the_origins_of_modern_science_text.md"]
 ---
 
 # Herbert Butterfield
@@ -48,5 +48,7 @@ This thinker and source supply the classic mid-20th-century statement of the "Sc
 - **Broader implications**: The claim that by the late 17th century science began to "take control" and direct other factors resonates with later themes in the vault (technology directing society, AI as directing or disruptive force, Wiener/Bostrom alignment concerns as modern echoes of the "directing role" of new knowledge).
 
 New entity + source-summary. Targeted cross-updates to the Phil of Science cluster and History of Ideas pages. See dedicated source page and [[log]] for full entry. No prior dedicated Butterfield page existed.
+
+- **Cross to Skinner (2026-08-12)**: Butterfield's Whig-interpretation critique gets a second, sharper formulation in [[Thinkers/Quentin Skinner]]'s **mythology of prolepsis** — "the conflation of the asymmetry between the significance an observer may justifiably claim to find in a given historical episode and the meaning of that episode itself." Skinner's diagnostic test is memorable: prolepsis is present whenever "the episode has to await the future to learn its meaning" (Petrarch's ascent "inaugurating the Renaissance"; Machiavelli "at the gateway of the modern world"). Where Butterfield frames the error as one of moral judgement and partisan sympathy, Skinner reframes it as an error about **intention** — which makes it diagnosable rather than merely deplorable. Read the two together; see [[Concepts/Mythologies in the History of Ideas (Skinner)]]. Note that Skinner also criticises Butterfield's allies in a different register (ch. 8): in defending the sincerity of professed political ideals against Namier, they conceded the wrong premise — that principles matter only if they are motives. See [[Concepts/Innovating Ideologist and Legitimation (Skinner)]].
 
 *In the vault*: Butterfield provides the influential framing of the "Scientific Revolution" that the vault's critical 20th-c. philosophy-of-science sources presuppose and revise. It bridges the classical/medieval worldviews (overthrown) and the modern critical turn (Kuhn et al.). Knowledge compounds through precise historical and historiographical linkage.

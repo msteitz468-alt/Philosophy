@@ -7,7 +7,7 @@ created: "2026-06-11"
 updated: "2026-06-11"
 source_count: 2
 tags: [contradiction, flux, stasis, change, permanence, metaphysics, epistemology, pre-socratic]
-sources: ["Early Greek Philosophy - John Burnet.txt", "History of Western Philosophy_ And Its Con - Bertrand Russell.txt"]
+sources: ["Early Greek Philosophy - John Burnet.md", "History of Western Philosophy_ And Its Con - Bertrand Russell.md"]
 ---
 
 # Heraclitean Flux vs Parmenidean Stasis

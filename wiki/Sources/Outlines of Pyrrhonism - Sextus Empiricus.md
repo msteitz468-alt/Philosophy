@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-03"
 updated: "2026-06-03"
 tags: [sextus-empiricus, pyrrhonism, skepticism, classical-philosophy, hellenistic, epoché, ataraxia, 2nd-3rd-century-ad]
-sources: ["Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.txt"]
+sources: ["Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.md"]
 ---
 
 # Outlines of Pyrrhonism - Sextus Empiricus
@@ -115,7 +115,7 @@ Fits "Research," "Reading a book," and "Personal" use cases in [[GROK]]. The Ske
 
 ## Sources
 
-- `raw/Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.txt` (full text of Benson Mates translation with introduction and commentary, Oxford University Press 1996; 2128 lines covering the three books of the *Outlines*).
+- `raw/Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.md` (full text of Benson Mates translation with introduction and commentary, Oxford University Press 1996; 2128 lines covering the three books of the *Outlines*).
 
 ## Related
 

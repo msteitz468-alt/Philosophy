@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [locke, faith, reason, enthusiasm, revelation, epistemology, early-modern, religion]
-sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.txt"]
+sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.md"]
 ---
 
 # Faith and Reason - Enthusiasm (Locke)
@@ -20,13 +20,14 @@ sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of 
 ## Vault Relevance
 
 - **With Hume**: Hume's critique of miracles/design/religion builds on Locke's evidence-proportioning and reason as judge (proportion belief to evidence; no testimony for miracles unless more miraculous false).
+- **With [[Thinkers/William James]]**: *Varieties* rehabilitates feeling without making it a public rule. Lecture III: unreasoned assurance is "the deep thing in us"; he does *not yet* say the subconscious *ought* to hold primacy. Mystical states (four marks) are authoritative for the subject and bind no outsider — a stricter public limit than Locke's "reason must be our last judge," because James also denies that waking reason is the only order of truth. Origins (warmed brain, sex, colon) neither establish nor refute value. See [[Concepts/Medical Materialism and the Fruits Test (James)]], [[Concepts/Mystical States - Four Marks (James)]].
 - **Wiki / claims / lint**: "Enthusiasm" = overconfident claims without traceable evidence/sources ( "I just know" or strong persuasion alone). Faith in sources (raw) requires reason (verification via index, cross-refs, consistency). Reason as last judge = lint, self-critique, "proportion to the evidence."
 - **AI / agents**: Persuasion/ confidence not evidence. Hallucination as "enthusiasm." Require grounding + reasoning to "assent." Revelation-like (external tools) judged by internal consistency/reason.
 
 ## Related
 
-- [[Thinkers/Locke]]
-- [[Sources/An Essay Concerning Human Understanding - Locke]]
+- [[Thinkers/Locke]], [[Thinkers/William James]]
+- [[Sources/An Essay Concerning Human Understanding - Locke]], [[Sources/The Varieties of Religious Experience - William James (1902)]]
 - [[Concepts/Knowledge as Perception of Agreement or Disagreement of Ideas (Locke)]], [[Concepts/Of Miracles (Hume)]]
 - [[GROK]] (evidence-based maintenance; no ungrounded "revelations")
 

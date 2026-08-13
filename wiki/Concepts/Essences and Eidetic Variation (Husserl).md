@@ -3,8 +3,8 @@ title: "Essences and Eidetic Variation (Husserl)"
 type: concept
 domains: [ontology, epistemology, phenomenology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+updated: "2026-08-12"
+sources: ["Husserl (David Woodruff Smith).md", "Cartesian Meditations - Edmund Husserl.md"]
 tags: [philosophy, husserl, ontology, essence, eidos, eidetic]
 ---
 
@@ -58,6 +58,8 @@ Example: Vary all properties of a perceived melody — its pitch, tempo, key, in
 
 **Tension**: Husserl at times implies that all material essences can be grasped through pure imagination alone (*Ideas I*, §4). Smith flags this as problematic for natural-kind essences (Eucalyptus, Gold): in practice, empirical investigation is needed to determine material essences, not imagination alone.
 
+**Cartesian Meditations §34** (primary method statement): after delay "for pedagogical reasons," analysis becomes **eidetic**. Free phantasy-variation of a fact (this table-perception) yields the pure **eidos** (perception as such). Eidetic phenomenology uncovers "the all-embracing eidos, transcendental ego as such." "The science of pure possibilities precedes the science of actualities." Reduction + **eidetic intuition** are "the fundamental form of all particular transcendental methods." Parallel, with transcendental sense abolished: **eidetic pure psychology** of the *eidos* psyche (§35). Compossibility of types in one possible ego is itself an eidetic law (§36).
+
 ## The Synthetic A Priori
 
 Material essences generate **synthetic a priori** necessities — truths that are not analytic (they add to what is given in the concepts) but are known a priori (not contingently on empirical observation):
@@ -81,6 +83,7 @@ These are distinct from formal analytic necessities ("Every whole has parts") an
 ## Sources
 
 - [[Sources/Husserl - David Woodruff Smith (2013)]]
+- [[Sources/Cartesian Meditations - Edmund Husserl]]
 
 ## Related
 

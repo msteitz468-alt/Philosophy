@@ -4,7 +4,7 @@ type: concept
 domains: [ontology, phenomenology, ethics]
 created: "2026-06-29"
 updated: "2026-07-01"
-sources: ["Heidegger (Michael Inwood).txt", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Heidegger (Michael Inwood).md", "Being and Time A Revised Edition of the Stambaugh Translation (Martin Heidegger, Joan Stambaugh) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [philosophy, heidegger, death, authenticity, anxiety, conscience]
 ---
 
@@ -62,7 +62,7 @@ Division Two ch. 1 (§§46–53) supplies the full argument. The problem: care's
 - **St Augustine**: Conversion as a model for resoluteness — the sudden seizure of one's life as a whole.
 - **Martin Luther**: "Here I stand; I cannot do otherwise" — resolute fateful necessity that cannot be derived from calculation.
 - **St Paul**: Conversion on the road to Damascus as paradigm of the radical break with the "they-self."
-- **Kierkegaard**: Existential anxiety, the moment (*Øjeblikket*), and the leap of faith — Heidegger secularises these structures.
+- **[[Thinkers/Søren Kierkegaard]]**: Existential anxiety, the moment (*Øjeblikket*), and the leap of faith — Heidegger secularises these structures. The leap is now primary in *Fear and Trembling* (double movement, not *Sein zum Tode*). The moment and anxiety-as-dizziness remain outstanding (*The Concept of Anxiety*).
 - **[[Thinkers/Nietzsche]]**: Eternal recurrence as a test of affirmation of one's life; the Übermensch as self-overcoming. Heidegger's resoluteness has structural parallels but lacks Nietzsche's affirmative content.
 
 ## Contradictions / Open Questions
@@ -70,6 +70,7 @@ Division Two ch. 1 (§§46–53) supplies the full argument. The problem: care's
 - > [!warning] The absence of normative criteria for resoluteness is Heidegger's most vulnerable point. If authenticity is compatible with any content — Nazi or saintly — it cannot ground ethics. Adorno's *Jargon of Authenticity* presses exactly this charge.
 - > [!warning] Heidegger claims death individualises, but shared mortality, communal mourning, and comradeship-in-death (Inwood's examples) suggest death is not as non-relational as claimed.
 - The distinction between *Sterben* (existential dying) and *Ableben* (biological demise) is productive but risks ignoring the body — a frequent criticism of Heidegger's philosophy.
+- > [!warning] [[Sources/Being and Nothingness - Jean-Paul Sartre (Barnes trans.)]] refuses *Sein zum Tode*: death is absurd chance, "in no way distinguished from birth"; it *removes* meaning from life rather than concentrating possibilities; authentic/unauthentic death-attitudes are rejected. See [[Concepts/Radical Freedom and Situation (Sartre)]], [[Concepts/Temporality (Sartre)]].
 
 ## Sources
 

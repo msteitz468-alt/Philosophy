@@ -4,7 +4,7 @@ type: concept
 domains: [economics, technology, futurism, ai, labor-economics, public-policy]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.txt"]
+sources: ["Rise of the Robots_ Technology and the Thr - Martin Ford.md"]
 tags: [martin-ford, technological-unemployment, automation, job-displacement, rise-of-the-robots, predictable-jobs, white-collar-automation, consumer-demand]
 ---
 

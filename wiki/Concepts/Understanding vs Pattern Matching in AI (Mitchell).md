@@ -4,7 +4,7 @@ type: concept
 domains: [ai, cognitive-science, philosophy-of-mind, epistemology]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Artificial Intelligence - Melanie Mitchell.txt"]
+sources: ["Artificial Intelligence - Melanie Mitchell.md"]
 tags: [mitchell, understanding, pattern-matching, deep-learning, common-sense, analogy, shallowness, hofstadter]
 ---
 

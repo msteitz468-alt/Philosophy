@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [james, pragmatism, philosophy, temperament, rationalism, empiricism, monism, pluralism, american-philosophy, modern]
-sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.txt"]
+sources: ["Pragmatism_ A New Name for Some Old Ways o - William James.md"]
 ---
 
 # Tender-Minded and Tough-Minded (James)
@@ -43,6 +43,7 @@ The modern person James addresses is "almost born scientific" yet "has not neutr
 - The tender/tough axis *is* the **monism/pluralism axis** (the last row): see [[Concepts/The One and the Many (James)]] — "if you know whether a man is a decided monist or a decided pluralist, you perhaps know more about the rest of his opinions than if you give him any other name ending in 'ist.'"
 - It frames the religion of Lecture VIII and the optimism/pessimism/**meliorism** triad: see [[Concepts/Meliorism (James)]].
 - It motivates the [[Concepts/Pragmatic Method (James)]] and [[Concepts/Pragmatic Theory of Truth (James)]] as the "mixed" person's way to have facts *and* hope.
+- **Not the 1902 religious typology.** [[Concepts/Healthy-Mindedness and the Sick Soul (James)]] (once-born / twice-born) sorts how a temperament handles *evil*. This table sorts *philosophies*. A tough-minded empiricist can be once-born; a tender-minded rationalist can be a sick soul. *Varieties* does not use "tender-minded / tough-minded."
 
 ## Contrasts / Lineage
 
@@ -58,8 +59,8 @@ The modern person James addresses is "almost born scientific" yet "has not neutr
 
 ## Related
 
-- [[Sources/Pragmatism - William James (1907, Standard Ebooks)]], [[Thinkers/William James]]
-- [[Concepts/The One and the Many (James)]], [[Concepts/Pragmatic Method (James)]], [[Concepts/Pragmatic Theory of Truth (James)]], [[Concepts/Meliorism (James)]], [[Concepts/Humanism - Reality as Malleable (Schiller and James)]]
+- [[Sources/Pragmatism - William James (1907, Standard Ebooks)]], [[Sources/The Varieties of Religious Experience - William James (1902)]], [[Thinkers/William James]]
+- [[Concepts/The One and the Many (James)]], [[Concepts/Pragmatic Method (James)]], [[Concepts/Pragmatic Theory of Truth (James)]], [[Concepts/Meliorism (James)]], [[Concepts/Humanism - Reality as Malleable (Schiller and James)]], [[Concepts/Healthy-Mindedness and the Sick Soul (James)]]
 - [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]], [[Concepts/Perspectivism (Nietzsche)]], [[Concepts/Equipollence (Isosthenia) and the Modes]]
 - [[Thinkers/Hume]], [[Thinkers/Plato]], [[Thinkers/Spinoza]], [[Thinkers/Plotinus]], [[Thinkers/Epicurus]], [[Thinkers/Sextus Empiricus]], [[Thinkers/Nietzsche]]
 - [[Concepts/Cross-Model Routing]], [[Concepts/Reasoning Scaffolds]]

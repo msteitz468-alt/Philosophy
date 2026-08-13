@@ -4,13 +4,15 @@ type: concept
 domains: [ethics]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Nicomachean Ethics (Aristotle).txt"]
+sources: ["Nicomachean Ethics (Aristotle).md"]
 tags: [aristotle, virtue, mesotes, phronesis, classical]
 ---
 
 # Doctrine of the Mean (Aristotle)
 
 > Moral virtue is a stable, choice-governing disposition (*hexis*) lying in a mean between excess and deficiency of passion and action — not a mathematical midpoint but "the mean relative to us," determined by the rational principle (*orthos logos*) by which the practically wise person would determine it. Acquired by habituation ("we become just by doing just acts"), not by nature or teaching alone.
+
+Not the Confucian *zhongyong*. Analects 6.29 (Chin: "attaining a balance all the time in practical matters and in everyday life") is ordinary, usable balance among common people; Qian Mu distinguishes it from the later *Zhongyong* chapter of the *Book of Rites* (one of the Four Books, not in the vault). Do not merge the pages.
 
 ## Summary
 

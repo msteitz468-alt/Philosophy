@@ -31,6 +31,10 @@ All the Hellenistic schools agree the goal is [[Concepts/Eudaimonia|eudaimonia]]
 - To make pleasure the good is, for the Stoic, to enslave the soul to externals.
 - Held in: [[Thinkers/Seneca]], [[Thinkers/Epictetus]], [[Thinkers/Marcus Aurelius]]. See [[Sources/Seneca - Letters from a Stoic]].
 
+## Schopenhauer’s accommodation (not a third ancient school)
+
+*Parerga* I’s Aphorisms aim at a pleasant existence (painlessness over pleasure) and then call that aim an error. The system’s candidate for a retired “highest good,” if the phrase is kept, is denial of the will — which this book has set aside. Stoic techniques (Seneca, Epictetus) are borrowed without converting. See [[Concepts/Eudaemonology as Accommodation (Schopenhauer)]]. This is not a Hellenistic resolution of A vs B.
+
 ## A Platonic Third Position
 
 - In the *Philebus* the contest is reframed as **pleasure vs intelligence**, with Plato ranking the ordered, reasoning life above pleasure as such — see [[Concepts/Pleasure vs Intelligence as the Good (Philebus)]]. Neither Epicurean hedonism nor pure Stoic virtue, but a measured, intellect-governed mixture.
@@ -47,4 +51,5 @@ All the Hellenistic schools agree the goal is [[Concepts/Eudaimonia|eudaimonia]]
 ## Related
 - [[Concepts/Ataraxia]]
 - [[Concepts/Eudaimonia]]
+- [[Concepts/Eudaemonology as Accommodation (Schopenhauer)]]
 - [[Concepts/Pleasure vs Intelligence as the Good (Philebus)]]

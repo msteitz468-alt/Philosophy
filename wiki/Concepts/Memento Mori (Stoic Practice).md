@@ -6,9 +6,10 @@ schools: [Stoicism]
 domains: [ethics]
 source_count: 1
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-08-12"
+source_count: 2
 tags: [memento-mori, mortality, stoicism, seneca, marcus-aurelius, montaigne, death, ryan-holiday, ethics]
-sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Memento Mori (Stoic Practice)
@@ -16,6 +17,8 @@ sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Trium
 > *"Remember you are mortal."* The Stoic (and broadly ancient) exercise of keeping one's own death consciously in view — not as morbid dread but as a clarifying, energizing discipline that fixes priorities, deflates trivial anxieties, and makes the present a gift. Ryan Holiday places it near the climax of the discipline of the **Will** ("Meditate on Your Mortality"): *"The diagnosis is terminal for all of us."*
 
 ## The Practice
+
+[[Thinkers/Pierre Hadot]] makes this one of the four learnings (“Learning to Die,” ch. 3). Philosophy is apprenticeship for death: “Training for death is training to die to one’s individuality and passions, in order to look at things from the perspective of universality and objectivity.” Platonic source: *Phaedo* 67e. Stoic: keep death before your eyes. Seneca/Montaigne: learned how to die, un-learned how to serve. Epicurus’s *meditare mortem* is borrowed by Seneca. Hadot notes that [[Thinkers/Martin Heidegger]] distinguishes *Being-toward-death* from *meditatio mortis*. Christian monasticism takes it over as *melete thanatou* / *anachoresis*. See [[Concepts/Spiritual Exercises (Hadot)]], [[Concepts/Being-toward-Death and Authenticity (Heidegger)]].
 
 Contemplating death converts the abstract knowledge that we will die into a lived awareness that reorders everything:
 

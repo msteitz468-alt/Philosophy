@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [hacking, entity-realism, theory-realism, scientific-realism, experiment, intervention, representation, philosophy-of-science]
-sources: ["Representing And Intervening Introductory - Ian Hacking.txt"]
+sources: ["Representing And Intervening Introductory - Ian Hacking.md"]
 ---
 
 # Entity Realism vs Theory Realism (Hacking)

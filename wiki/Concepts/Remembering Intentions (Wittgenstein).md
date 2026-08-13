@@ -5,7 +5,7 @@ created: "2026-06-29"
 updated: "2026-06-29"
 domains: [philosophy-of-mind, epistemology]
 tags: [wittgenstein, mind, intentions, memory, realism, dispositionalism]
-sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md"]
 ---
 
 # Remembering Intentions (Wittgenstein)

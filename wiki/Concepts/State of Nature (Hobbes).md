@@ -5,7 +5,7 @@ domains: [political-philosophy, ethics]
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hobbes, state-of-nature, social-contract, political-philosophy, realism]
-sources: ["Leviathan - Thomas Hobbes.txt"]
+sources: ["Leviathan - Thomas Hobbes.md"]
 ---
 
 # State of Nature (Hobbes)

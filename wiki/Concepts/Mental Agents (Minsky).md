@@ -4,7 +4,7 @@ type: concept
 domains: [ai, cognitive-science, philosophy-of-mind]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Society of Mind - Marvin Minsky.txt"]
+sources: ["Society of Mind - Marvin Minsky.md"]
 tags: [minsky, agents, society-of-mind, emergence, distributed, no-homunculus]
 ---
 

@@ -3,8 +3,8 @@ title: "Intentionality and Noema (Husserl)"
 type: concept
 domains: [phenomenology, philosophy-of-mind, ontology]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+updated: "2026-08-12"
+sources: ["Husserl (David Woodruff Smith).md", "Cartesian Meditations - Edmund Husserl.md"]
 tags: [philosophy, phenomenology, husserl, intentionality, consciousness, noema]
 ---
 
@@ -40,6 +40,22 @@ Additionally, the noema has a **thetic character** — the positing mode of the 
 
 Example: "The victor at Jena" and "the vanquished at Waterloo" are different noematic senses directed toward the same object (Napoleon). This parallels Frege's Sinn/Bedeutung distinction.
 
+## *Cartesian Meditations*: Cogito — Cogitatum, Not Act–Noema–Object
+
+The Second Meditation is the vault's first primary statement of intentionality, and it does **not** use "noema" as a standing noun. The work is done by *cogitatum*, intentional object, **objective sense**, meant (*Meinung / Gemeintes*). The explicit triad is **ego — cogito — cogitatum**, not act / noema / transcendent object.
+
+> "the word intentionality signifies nothing else than this universal fundamental property of consciousness: to be consciousness *of* something; as a *cogito*, to bear within itself its *cogitatum*." (§14)
+
+Each *cogito* "means" something and bears its *cogitatum* in a fashion peculiar to the mode (perception, memory, phantasy, judging, valuing). **Noetic** and **noematic** appear as *lines of description*, not as a third ideal entity mediating reference.
+
+After epoché, worldly existence is parenthesized. What remains "in" consciousness is the appearing object as **immanent objective sense** — "not a being-in-consciousness as a really intrinsic component part, but rather a being-in-it 'ideally' as something intentional… as its immanent 'objective sense'" (§18). The object does not enter from outside; it is an "intentional effect" of **synthesis**. The fundamental form of synthesis is **identification**, first as the passively flowing all-ruling synthesis of **internal time**.
+
+Every actuality involves **potentialities** predelineated in the process (§19). Every process has a changing **horizon**. The *cogitatum qua cogitatum* is never a finished datum. The object is a **pole of identity** / **index** to a noetic intentionality belonging to its sense — functioning like *Ideas I*'s "pure X," but **not** so named and not detached as a third entity besides sense.
+
+The intentional object is the **"transcendental clue"** to infinite possible *cogitationes* of the Same (§21), particularized along formal-ontological and material-ontological lines. Intentional analysis is uncovering of potentialities implicit in actualities, not division into data and form-qualities (§20). Consciousness is a Heraclitean flux; yet in the flux of synthesis an essential *conformity to type* can be grasped in strict concepts.
+
+Do not retrofit a Fregean *Sinn*/*Bedeutung* split onto this stretch. Sense and (phenomenological) object coincide as *cogitatum qua cogitatum*. The West Coast noema-as-mediating-sense reading is a reception of *Ideas I*, not a sentence of *CM* II.
+
 ## Hyle and Noesis
 
 The **hyle** (hyletic data, sensuous material) is the non-intentional, raw sensory matter of an experience — the sensations that get "animated" by the noesis into a directed act. Hyle is real (reell) like the noesis. The noesis "informs" the hyle, making it intentional. This is Husserl's attempt to avoid both pure intellectualism (no role for sensation) and pure empiricism (sensation without intentional form).
@@ -70,6 +86,7 @@ Smith endorses a variant of the West Coast reading while integrating the phenome
 ## Sources
 
 - [[Sources/Husserl - David Woodruff Smith (2013)]]
+- [[Sources/Cartesian Meditations - Edmund Husserl]]
 
 ## Related
 

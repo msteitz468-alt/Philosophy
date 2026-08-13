@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [marcus-aurelius, stoicism, memento-mori, presence, examined-life, duty, classical, 2nd-century-ad]
-sources: ["Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.txt"]
+sources: ["Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.md"]
 ---
 
 # Every Act as if It Were the Last (Marcus Aurelius)

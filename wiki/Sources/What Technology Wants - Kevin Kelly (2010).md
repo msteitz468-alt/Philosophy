@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [kevin-kelly, what-technology-wants, technium, exotropy, seventh-kingdom, out-of-control, futurism, amish-hackers, infinite-game, evolution, technology-wants]
-sources: ["What Technology Wants - Kevin Kelly.txt"]
+sources: ["What Technology Wants - Kevin Kelly.md"]
 ---
 
 # What Technology Wants - Kevin Kelly (2010)

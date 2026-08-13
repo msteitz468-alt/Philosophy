@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [hacking, observation, skill, theory-laden, pre-theoretical, microscopes, herschel, philosophy-of-science]
-sources: ["Representing And Intervening Introductory - Ian Hacking.txt"]
+sources: ["Representing And Intervening Introductory - Ian Hacking.md"]
 ---
 
 # Observation as a Skill (Hacking)
@@ -52,5 +52,14 @@ sources: ["Representing And Intervening Introductory - Ian Hacking.txt"]
 - [[Concepts/Incommensurability (Kuhn)]], [[Concepts/Natural Interpretations and the Galileo Case (Feyerabend)]]
 - [[Sources/The Structure of Scientific Revolutions - Kuhn (Chicago, 4th ed.)]]
 - [[Concepts/Basic Statements and the Empirical Basis (Popper)]]
+- [[Concepts/The Logic of Looks (Sellars)]], [[Concepts/Myth of the Given (Sellars)]], [[Thinkers/Wilfrid Sellars]], [[Thinkers/Robert Brandom]]
+
+## Companion Argument: Sellars
+
+Hacking's case is empirical and historical — observing is a *trained* competence, often instrument-mediated. [[Thinkers/Wilfrid Sellars]] argues to a compatible conclusion *a priori* in [[Sources/Empiricism and the Philosophy of Mind - Wilfrid Sellars (1956)|EPM]]: an observation report expresses knowledge only if the reporter knows that reports of that kind are reliable indicators in conditions of that kind, so "one couldn't have observational knowledge of *any* fact unless one knew *many other things* as well" (§36). His necktie-shop story makes the training explicit — John must learn *under what conditions* things look what they are before "This looks green" can be a report at all, and "standard conditions" just means "conditions in which things look what they are."
+
+[[Thinkers/Robert Brandom]]'s reconstruction supplies the bridge to Hacking's laboratory cases directly. His **two-ply account** separates (1) a reliable differential responsive disposition — which "photocells and parrots could satisfy" — from (2) the normative dimension of endorsement and inferential commitment. On the mu-meson example: a physicist who noninferentially applies the concept *mu meson*, if sufficiently reliable, genuinely *sees* a mu meson rather than a hooked vapor trail; what fixes which, is the inferential role of the concept he applies, not the causal chain, which "includes mu mesons, hooked vapor trails, and retinal images" alike. Retreating to the safer report under challenge does not show the original was an inference.
+
+This is a strong complement to Hacking's convergence criterion: reliability plus training explains *why* the skilled observer's report is authoritative, while the inferential role explains *what* it is a report of.
 
 *Concept page created 2026-06-04 during ingest of* Representing and Intervening. *Hacking's corrective: observation is skilled, often instrument-mediated, and sometimes pre-theoretical; convergence across independent channels, not theory alone, warrants belief.*

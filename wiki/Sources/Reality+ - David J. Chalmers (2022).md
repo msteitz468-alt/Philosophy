@@ -5,7 +5,7 @@ status: complete
 domains: [metaphysics, epistemology, philosophy-of-mind, ethics, ai]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [philosophy, ai-cogsci-leg, simulation, virtual-reality]
 ---
 
@@ -22,13 +22,14 @@ The central thesis is **virtual reality is genuine reality**, broken into three 
 | Part 2 (ch 3–5) Knowledge | Cartesian skepticism; failed refutations; statistical simulation argument | master argument, Simulation Riposte, sim blockers, indifference principle | [[Arguments/Cartesian Skepticism and the Simulation Riposte (Chalmers)]]; [[Arguments/Simulation Argument (Bostrom)]] [created: 1, updated: 1] |
 | Part 3 (ch 6–9) Reality | Reality checklist; simulator-as-god; it-from-bit; simulation realism via structuralism | five criteria of realness, it-from-bit, no-illusion view | [[Concepts/Simulation Realism (Chalmers)]], [[Concepts/It-from-Bit Hypothesis (Chalmers)]], [[Concepts/Simulation Theology (Chalmers)]] [created: 3] |
 | Part 4 (ch 10–13) Real VR | Virtual digitalism; illusion-machine rebuttal; AR relativism; deepfakes | virtual-inclusive/-exclusive, phenomenology of virtuality, physicality-virtuality continuum | [[Concepts/Virtual Realism and Virtual Digitalism (Chalmers)]] [created: 1] |
-| Part 5 (ch 14–16) Mind | VR naturalizes dualism; fading qualia; extended mind via AR | perspective-relative dualism, substrate-neutrality, parity principle | [[Concepts/Virtual Worlds and Cartesian Dualism (Chalmers)]], [[Concepts/Machine Consciousness and Mind Uploading (Chalmers)]]; Extended Mind, Kurzweil uploading [created: 2, updated: 2] |
+| Part 5 (ch 14–16) Mind | VR naturalizes dualism; fading qualia; extended mind via AR | perspective-relative dualism, substrate-neutrality, parity principle | [[Concepts/Virtual Worlds and Cartesian Dualism (Chalmers)]], [[Concepts/Machine Consciousness and Mind Uploading (Chalmers)]]; Extended Mind (1998 paper now primary: [[Sources/The Extended Mind - Andy Clark and David Chalmers (1998)]]), Kurzweil uploading [created: 2, updated: 2] |
 | Part 6 (ch 17–19) Value | Reality machine vs experience machine; moral status of sims; virtual society | philosophical Vulcan, Equivalence Principle, virtual abundance | [[Concepts/Value in Virtual Worlds (Chalmers)]], [[Concepts/Ethics of Simulated Beings and Virtual Society (Chalmers)]] [created: 2] |
 | Part 7 (ch 20–24) Foundations | Semantics in VR; causal structuralism about computation; structural realism; Eden; final scorecard | externalist/internalist words, Causation Machines, imperfect realism, Boltzmann brains | [[Concepts/Structuralism and the Garden of Eden (Chalmers)]]; Dennett, Heidegger, Virk pages [created: 1, updated: 4] |
 
 ## Cross-Links Anticipated
 - [[Simulation Argument (Bostrom)]], [[Simulation Hypothesis (Virk)]], [[Nick Bostrom]]
 - [[Descartes]] — external-world skepticism, evil demon; [[Meditations on First Philosophy - Descartes (Oxford, 2008)]]
+- [[Thinkers/Hilary Putnam]] / [[Arguments/Putnam Brain in a Vat Argument]] — item 4 of the Simulation Riposte, now reconstructed from Pritchard and Ranalli 2016; 1981 primary still outstanding
 - [[George Berkeley]] — idealism vs virtual digitalism
 - [[Extended Mind (Clark and Chalmers)]], [[Andy Clark]], predictive processing cluster
 - [[Daniel Dennett]], [[John Searle]] (machine consciousness), [[Alan Turing]]

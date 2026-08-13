@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, ethics, ontology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["The Deleuze Reader (Gilles Deleuze, Constantine V. Boundas).txt"]
+sources: ["The Deleuze Reader (Gilles Deleuze, Constantine V. Boundas).md"]
 tags: [Deleuze, Nietzsche, eternal return, ontology, difference]
 ---
 
@@ -23,7 +23,7 @@ The standard reading of Nietzsche's eternal return takes it as a cosmological th
 
 **Step 4 — Transmutation.** The eternal return converts negation (will to nothingness) into affirmation — this is the Dionysian metamorphosis, not merely a reversal of values but a new mode of being. This is what Nietzsche names with "Overman": the form that arises when human forces encounter the forces of "unlimited finity" — the superfold. "The superman is much less than the disappearance of living men, and much more than a change of concept: it is the advent of a new form that is neither God nor man."
 
-**Kierkegaard vs. Nietzsche.** Both oppose repetition to generality and make it the act of freedom. But Kierkegaard's theater is of faith (the leap); Nietzsche's is of cruelty and dance (unbelief). Kierkegaard restores an interior depth; Nietzsche affirms surface multiplicity.
+**Kierkegaard vs. Nietzsche.** Both oppose repetition to generality and make it the act of freedom. But Kierkegaard's theater is of faith (the leap); Nietzsche's is of cruelty and dance (unbelief). Kierkegaard restores an interior depth; Nietzsche affirms surface multiplicity. The leap is now a vault primary: [[Concepts/Knight of Faith and Infinite Resignation (Kierkegaard)]] — infinite resignation then the finite back on the strength of the absurd. Eternal return is not that second movement.
 
 ## Key Claims
 
@@ -41,6 +41,8 @@ The standard reading of Nietzsche's eternal return takes it as a cosmological th
 ## Contradictions / Open Questions
 
 - > [!warning] Conflicts with standard Nietzsche scholarship: most scholars read eternal return as cosmological or as a phenomenological test, not as selective ontology that literally expels reactive forces from being. Deleuze's reading is philosophically productive but historically contested.
+- > [!warning] Conflicts with the *published* 1882 primary: [[Concepts/Eternal Recurrence (Nietzsche)]] / GS §341. The demon promises *everything* back — "there will be nothing new in it," this spider and this moonlight, the small and the crushing. No ontological filter, no expulsion of reactive forces. Deleuze accepts the practical test and then claims a second, esoteric selection the aphorism does not make. Flag, do not silently reconcile.
+- > [!warning] *Zarathustra* Part III undercuts the same selection. The convalescent's nausea is **"the eternal return also of the smallest man."** The animals: identical and selfsame life, greatest *and* smallest. The bite transfigures the sufferer, not the inventory of what returns. See [[Sources/Thus Spoke Zarathustra - Nietzsche (Common 1909)]].
 
 ## Sources
 - [[Sources/The Deleuze Reader]]
@@ -48,6 +50,8 @@ The standard reading of Nietzsche's eternal return takes it as a cosmological th
 ## Related
 - [[Thinkers/Gilles Deleuze]]
 - [[Thinkers/Nietzsche]]
+- [[Concepts/Eternal Recurrence (Nietzsche)]] — the GS §341 primary this page extends
+- [[Sources/The Gay Science - Nietzsche (Kaufmann 1974)]]
 - [[Concepts/Becoming (Deleuze)]]
 - [[Concepts/Ethics Without Morality (Deleuze-Spinoza)]]
 - [[Concepts/Haecceity and Multiplicity (Deleuze)]]

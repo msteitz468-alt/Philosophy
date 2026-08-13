@@ -5,7 +5,7 @@ domains: [philosophy-of-history, political-philosophy]
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, reason, history, teleology, passion, cunning-of-reason, state]
-sources: ["Philosophy of History - John Sibree.txt"]
+sources: ["Philosophy of History - John Sibree.md"]
 ---
 
 # Cunning of Reason (Hegel)

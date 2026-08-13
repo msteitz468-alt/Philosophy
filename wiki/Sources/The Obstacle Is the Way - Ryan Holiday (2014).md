@@ -6,12 +6,12 @@ source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
 tags: [ryan-holiday, stoicism, marcus-aurelius, epictetus, seneca, amor-fati, premeditatio-malorum, memento-mori, resilience, self-help, practical-philosophy, 21st-century]
-sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # The Obstacle Is the Way — Ryan Holiday (2014)
 
-> *The Obstacle Is the Way: The Timeless Art of Turning Trials Into Triumph* (Portfolio/Penguin, 2014). A modern popularization of Roman Stoicism as a practical "operating system" for adversity, built around a single sentence of Marcus Aurelius: *"The impediment to action advances action. What stands in the way becomes the way."* Holiday distills Stoic ethics into three sequential disciplines — **Perception, Action, and Will** — illustrated almost entirely through short historical vignettes (Rockefeller, Grant, Edison, Demosthenes, Lincoln, Roosevelt, Stockdale, Amelia Earhart, Steve Jobs, and dozens more) rather than through textual exegesis. It is deliberately not a scholarly study; Holiday credits Pierre Hadot's reading of Stoicism as *philosophy as a way of life* and points readers back to the primary sources.
+> *The Obstacle Is the Way: The Timeless Art of Turning Trials Into Triumph* (Portfolio/Penguin, 2014). A modern popularization of Roman Stoicism as a practical "operating system" for adversity, built around a single sentence of Marcus Aurelius: *"The impediment to action advances action. What stands in the way becomes the way."* Holiday distills Stoic ethics into three sequential disciplines — **Perception, Action, and Will** — illustrated almost entirely through short historical vignettes (Rockefeller, Grant, Edison, Demosthenes, Lincoln, Roosevelt, Stockdale, Amelia Earhart, Steve Jobs, and dozens more) rather than through textual exegesis. It is deliberately not a scholarly study; Holiday credits Pierre Hadot's reading of Stoicism as *philosophy as a way of life* and points readers back to the primary sources. That primary is now in the vault: [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]], [[Thinkers/Pierre Hadot]].
 
 **Author**: Ryan Holiday (b. 1987), American author and marketer, popularizer of Stoicism (see [[Thinkers/Ryan Holiday]]). Introduced to Stoicism via Gregory Hays's translation of the *Meditations*; student of Robert Greene.
 

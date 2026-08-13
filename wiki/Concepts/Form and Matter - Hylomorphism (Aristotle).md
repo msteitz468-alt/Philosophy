@@ -3,8 +3,8 @@ title: "Form and Matter - Hylomorphism (Aristotle)"
 type: concept
 domains: [metaphysics, ontology, philosophy-of-nature]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Metaphysics (Aristotle).txt"]
+updated: "2026-08-12"
+sources: ["Metaphysics (Aristotle).md", "Physics (Aristotle).txt"]
 tags: [aristotle, hylomorphism, form, matter, morphe, hyle, composite, classical]
 ---
 
@@ -14,7 +14,9 @@ tags: [aristotle, hylomorphism, form, matter, morphe, hyle, composite, classical
 
 ## Summary
 
-Aristotle's answer to both Presocratic materialism and Platonic Forms is **hylomorphism** (from *hylē*, matter + *morphē*, form). A bronze sphere is bronze (matter) shaped into sphericity (form); a human being is a body (matter) informed by soul (form). Book VIII (Eta) lays out the three senses of substance correspondingly: "the matter (that which, not being a *this* actually, is potentially a *this*), the formula or shape (that which being a *this* can be separately formulated), and the complex of the two." In any material thing, **matter is potentiality and form is actuality** ([[Concepts/Potentiality and Actuality (Aristotle)]]).
+*Physics* I first cuts the composite: becoming always has an underlying something; whatever comes to be is from **subject and form**; the principles are "two in a way, three in a way" — form, **privation**, and substratum/matter. Matter is "the primary substratum of each thing, from which it comes to be without qualification, and which persists in the result," known by analogy (bronze : statue). Nothing comes from not-being without qualification; a thing may come from the privation, "which in its own nature is not-being." *Physics* II then says form is nature **rather than** matter, because a thing is more what it is in fulfilment than in potency.
+
+*Metaphysics* VII–VIII deepens this into substance-theory. Aristotle's answer to both Presocratic materialism and Platonic Forms is **hylomorphism** (from *hylē*, matter + *morphē*, form). A bronze sphere is bronze (matter) shaped into sphericity (form); a human being is a body (matter) informed by soul (form). Book VIII (Eta) lays out the three senses of substance correspondingly: "the matter (that which, not being a *this* actually, is potentially a *this*), the formula or shape (that which being a *this* can be separately formulated), and the complex of the two." In any material thing, **matter is potentiality and form is actuality** ([[Concepts/Potentiality and Actuality (Aristotle)]]).
 
 The deep problem Aristotle sets himself is the **unity of the composite**: why is the syllable *ba* not merely *b* + *a*, why is flesh not merely fire + earth lying side by side? If you only ever have ingredients plus a relation, you need a further thing to unite them, and a regress threatens. His resolution: there is no gap to bridge, because **matter and form are not two independent items**. "The juxtaposition does not consist of those things of which it is the juxtaposition" — rather, the form *is* the actuality of *this* matter, and the matter *is* the potentiality for *this* form. They are one being seen as what-it-could-be and what-it-is. Unity is built in, not added.
 
@@ -38,6 +40,7 @@ A consequence (VIII): **form is neither generated nor destroyed.** When a bronze
 - **[[Thinkers/Locke]]**: [[Concepts/Primary and Secondary Qualities (Locke)]] and the corpuscularian "real constitution" replace form with micro-structure.
 
 ## Sources
+- [[Sources/Aristotle - Physics]] (I.7–9, II.1 — first cut)
 - [[Sources/Aristotle - Metaphysics]] (Books VII / Zeta, VIII / Eta)
 
 ## Related

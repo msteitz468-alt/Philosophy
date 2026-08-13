@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 2
+source_count: 3
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [kant, duty, ethics, deontology, moral-worth, respect-for-law, early-modern, moral-philosophy]
-sources: ["Metaphysics of Morals - Immanuel Kant.txt", "Metaphysics of Morals - Immanuel Kant"]
+sources: ["Metaphysics of Morals - Immanuel Kant.md", "Metaphysics of Morals - Immanuel Kant", "Kant - Groundwork of the Metaphysics of Morals (Gregor, Cambridge 1998).md"]
 ---
 
 # Duty (Kant)
@@ -39,6 +39,14 @@ Since all material principles (from inclination) have been set aside, the only r
 
 Common human reason already operates with this principle (though not always in abstract universal form) and uses it as its compass for distinguishing duty from contrary-to-duty. It does not need philosophy to know what to do to be honest/good/virtuous, but philosophy secures the principle against corruption and provides systematic clarity.
 
+## Adjacent: Confucian *shu* (Chin 2014)
+
+[[Concepts/Shu - Reciprocity (Confucius)|*Shu*]] — "Do not impose on others what you yourself do not want" (Analects 15.24) — looks like a reciprocity formula. It is not this page. Kantian moral worth requires acting *from* duty (respect for law as motive). Analects 4.2 ranks feeling at home in humaneness *above* practicing it because one "sees benefits"; the higher Confucian mark is almost the reverse of Kant's inclination-vs-duty ranking. *Shu* is analogical method from what is close at hand (6.30), inside [[Concepts/Li - Ritual Propriety (Confucius)|rites]], not a formal test of maxims. See [[Thinkers/Confucius]].
+
+## From the Gregor/Korsgaard edition (2026-08-12)
+
+Gregor: "**duty is the necessity of an action from respect for law**" (4:400). Respect (*Achtung*) is "self-wrought by means of a rational concept," the "immediate determination of the will by means of the law and consciousness of this" (4:401n). Korsgaard's standing correction of a common misreading: Kant does *not* hold that actions have moral worth "only if they are done reluctantly." The grief, suicide-prevention, and cold-temperament examples *isolate* the moral motive so it can be seen; they do not require gritted teeth (Baron, in the Wood/Yale essays, makes the same point). The four-example duty table of §II is now on [[Concepts/Perfect and Imperfect Duties (Kant)]].
+
 ## Relevance to Vault
 
 - **Core deontological contrast**: Duty as the *necessity* of action from respect for (universalizable) law, independent of consequences, happiness, or inclination—directly tensions the vault's empiricist (Hume: custom/sentiment/utility; Locke: experience-derived) and eudaimonistic (Aristotle: happiness as end) threads. Provides the a priori rational "ought" that Hume's is-ought gap and Locke's experiential materials lack.
@@ -51,9 +59,10 @@ Common human reason already operates with this principle (though not always in a
 ## Related
 
 - [[Thinkers/Kant]]
-- [[Sources/Metaphysics of Morals - Immanuel Kant]]
-- [[Concepts/Good Will (Kant)]], [[Concepts/Categorical Imperative - Universal Law Formulation (Kant)]]
+- [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]], [[Sources/Metaphysics of Morals - Immanuel Kant]]
+- [[Concepts/Good Will (Kant)]], [[Concepts/Categorical Imperative - Universal Law Formulation (Kant)]], [[Concepts/Perfect and Imperfect Duties (Kant)]], [[Concepts/Dignity of Rational Nature (Kant)]]
 - [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Aristotle]], [[Thinkers/Spinoza]], [[Thinkers/Epictetus]]
+- [[Thinkers/Søren Kierkegaard]], [[Contradictions/Kierkegaard vs Kant - Absolute Duty vs Universal Law]] — Johannes: an absolute duty to God can suspend the ethical-as-universal; Abraham cannot publish a maxim
 - [[Concepts/Impressions and Ideas - Copy Principle (Hume)]], [[Concepts/Eudaimonia]], [[Concepts/Ataraxia]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Natural Law (Aquinas)]]
 - [[GROK]] (duty to the schema; respect for accuracy and universal principles in maintenance; "from duty" vs ad hoc or inclination-driven edits)
 

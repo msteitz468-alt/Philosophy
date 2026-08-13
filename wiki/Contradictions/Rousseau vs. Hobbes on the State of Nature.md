@@ -5,7 +5,7 @@ domains: [political-philosophy, ethics]
 source_count: 2
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["The Social Contract - Jean-Jacques Rousseau.txt", "Leviathan - Thomas Hobbes.txt"]
+sources: ["The Social Contract - Jean-Jacques Rousseau.md", "Leviathan - Thomas Hobbes.md"]
 tags: [state-of-nature, hobbes, rousseau, noble-savage, war-of-all-against-all, political-philosophy, ethics]
 ---
 

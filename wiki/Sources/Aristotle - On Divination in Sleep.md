@@ -6,7 +6,7 @@ domains: [philosophy-of-mind, philosophy-of-religion, natural-science]
 source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["On Divination in Sleep (Aristotle).txt"]
+sources: ["On Divination in Sleep (Aristotle).md"]
 tags: [aristotle, parva-naturalia, dreams, divination, prophecy, classical, 4th-century-bc]
 ---
 

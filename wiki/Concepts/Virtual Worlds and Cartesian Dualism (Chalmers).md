@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-mind, metaphysics]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [dualism, descartes, elisabeth-of-bohemia, interaction-problem, vr, neutral-monism]
 ---
 

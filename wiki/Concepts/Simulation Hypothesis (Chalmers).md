@@ -3,8 +3,8 @@ title: "Simulation Hypothesis (Chalmers)"
 type: concept
 domains: [metaphysics, epistemology, ai]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md", "Are You Living in a Computer Simulation - Nick Bostrom (2003).md"]
 tags: [simulation, virtual-worlds, chalmers, matrix, taxonomy, falsifiability]
 ---
 
@@ -27,7 +27,7 @@ His formulation refines Bostrom's "We are living in a computer simulation" by ma
 
 ## How This Compares to Other Thinkers
 
-- **[[Thinkers/Nick Bostrom]]** ([[Arguments/Simulation Argument (Bostrom)]]): Chalmers accepts the statistical structure but broadens ancestor simulations to "humanlike sims" and expands the trilemma with further sim blockers.
+- **[[Thinkers/Nick Bostrom]]** ([[Arguments/Simulation Argument (Bostrom)]], now from the 2003 paper): Chalmers accepts the statistical structure but broadens ancestor-simulations to "humanlike sims," expands the trilemma with further sim blockers, and quotes ≥25% rather than Bostrom's even three-way split. Bostrom's own slogan is already lifelong-capable ("we are almost certainly living in a computer simulation") but is the reading of horn (3), not the paper's conclusion.
 - **[[Thinkers/Rizwan Virk]]** ([[Concepts/Simulation Hypothesis (Virk)]]): Virk's RPG/NPC framing treats simulation as revelation that reality is game-like and seeks physical [[Concepts/Evidence of Computation (Virk)]]; Chalmers's interest is the reverse — showing that simulation would *not* undermine the reality of the ordinary world ([[Concepts/Simulation Realism (Chalmers)]]).
 - **[[Thinkers/Karl Popper]]**: the perfect simulation hypothesis is a direct counterexample Chalmers wields against falsifiability as a meaning criterion — cf. [[Sources/The Logic of Scientific Discovery - Karl Popper (Routledge Classics)]] and [[Sources/Language, Truth and Logic - A.J. Ayer (1936)]] (verificationism, rejected in ch. 4).
 - **Baudrillard**: his four phases of simulation (representation → simulacrum) are adapted to classify computer simulations.

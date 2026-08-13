@@ -7,7 +7,7 @@ created: "2026-07-01"
 updated: "2026-07-01"
 source_count: 2
 tags: [contradiction, politics, plato, aristotle, classical]
-sources: ["The Republic - Plato (Cambridge, 2000)", "Politics (Aristotle).txt"]
+sources: ["The Republic - Plato (Cambridge, 2000)", "Politics (Aristotle).md"]
 ---
 
 # Plato vs Aristotle on the Ideal State

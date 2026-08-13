@@ -4,7 +4,7 @@ type: concept
 domains: [logic, philosophy-of-language, epistemology, phenomenology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Husserl (David Woodruff Smith).txt"]
+sources: ["Husserl (David Woodruff Smith).md"]
 tags: [philosophy, husserl, logic, meaning, anti-psychologism, semantics]
 ---
 

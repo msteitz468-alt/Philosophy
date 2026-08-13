@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [hegel, logic, lesser-logic, metaphysics, being, essence, concept, absolute-idea, primary-source]
-sources: ["The Logic of Hegel - William Wallace.txt"]
+sources: ["The Logic of Hegel - William Wallace.md"]
 ---
 
 # The Logic of Hegel - Hegel (1812)

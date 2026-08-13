@@ -4,7 +4,7 @@ type: concept
 domains: [ai, futurism, transhumanism, philosophy-of-mind]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Singularity is Near - Ray Kurzweil [Ray Kurzweil].txt"]
+sources: ["The Singularity is Near - Ray Kurzweil [Ray Kurzweil].md"]
 tags: [kurzweil, mind-uploading, brain-scanning, nonbiological-substrate, transhumanism, singularity, 2030s]
 ---
 

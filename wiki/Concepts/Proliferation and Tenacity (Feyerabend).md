@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [feyerabend, proliferation, tenacity, pluralism, theoretical-pluralism, mill, on-liberty, bohr, philosophy-of-science]
-sources: ["Against Method - Paul Feyerabend.txt"]
+sources: ["Against Method - Paul Feyerabend.md"]
 ---
 
 # Proliferation and Tenacity (Feyerabend)

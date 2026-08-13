@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-03"
 updated: "2026-06-03"
 tags: [lucretius, epicureanism, atomism, materialism, mortalism, simulacra, perception, cosmogony, religion, roman, 1st-century-bc, poetry, classical]
-sources: ["Lucretius On the nature of things _ A phil - Lucretius.txt", "Lucretius - on the nature of things - Dinko Tontchev.txt"]
+sources: ["Lucretius On the nature of things _ A phil - Lucretius.md", "Lucretius - on the nature of things - Dinko Tontchev.md"]
 ---
 
 # Lucretius

@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [popper, falsifiability, demarcation, induction, critical-rationalism, philosophy-of-science, logik-der-forschung, hypothetico-deductive, corroboration, basic-statements]
-sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.txt"]
+sources: ["The Logic of Scientific Discovery (Routled - Karl Popper.md"]
 ---
 
 # The Logic of Scientific Discovery - Karl Popper (Routledge Classics)
@@ -85,8 +85,8 @@ No major unresolved contradictions *within current wiki content* — the pre-exi
 
 ## Sources
 
-- Primary: `raw/The Logic of Scientific Discovery (Routled - Karl Popper.txt` (Routledge Classics e-book text).
-- Companion (ingested 2026-06-04): [[Sources/Conjectures and Refutations - Karl Popper]] — `raw/Conjectures and Refutations_ The Growth of - Karl Popper.txt`.
+- Primary: `raw/The Logic of Scientific Discovery (Routled - Karl Popper.md` (Routledge Classics e-book text).
+- Companion (ingested 2026-06-04): [[Sources/Conjectures and Refutations - Karl Popper]] — `raw/Conjectures and Refutations_ The Growth of - Karl Popper.md`.
 
 ## Related
 

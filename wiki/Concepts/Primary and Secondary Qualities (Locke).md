@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [locke, primary-qualities, secondary-qualities, qualities-in-bodies, ideas-in-mind, empiricism, epistemology, sensation, early-modern]
-sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.txt"]
+sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.md"]
 ---
 
 # Primary and Secondary Qualities (Locke)
@@ -31,6 +31,7 @@ Secondary qualities "vanish and cease" without sensation (reduced to their prima
 - **With Lucretius / atomism**: Both hold secondary qualities (color, taste, smell) are not "in" the fundamental particles/things but arise from arrangements + perceiver. Locke: secondary = powers depending on primary configurations. Lucretius: more radically, atoms have no color/smell/taste at all (emergent only). Vault now has both primary sources for comparison on physicalism/emergence.
 - **With Descartes (Meditations)**: Descartes also distinguishes primary (extension, shape, motion — clear in intellect) vs. secondary (sensory qualities confused). Locke grounds the distinction empirically in the two fountains and powers; Descartes via clear/distinct vs. sensory. Productive contrast now directly sourced.
 - **With Hume**: Hume's critique of the senses (Section XII) engages representative theory and questions whether even primary qualities survive the representative gap ("secondary *and* primary qualities collapse into the mind"). Locke's careful ideas-vs-qualities and resemblance for primary only sets up the debate Hume radicalizes.
+- **With Schopenhauer, *On Vision and Colours* (1816 / 1854, now primary):** He cites Descartes (*Dioptrics* ch. 1), Locke “most thoroughly,” and Sextus (*PH* II.7 §§72–75) for the standing thesis that colours clothing objects are “entirely in his eyes alone.” He does **not** stop at Locke’s secondary quality (a power in the body, depending on primary particles, to produce an idea in us). Colour *is* a polar, fractionable function of the retina: the qualitatively divided activity of that membrane. “‘The body is red’ means that in the eyes it produces the colour red.” *Seyn* = *Wirken*. Even after the understanding assigns the affection to a cause, “colour is and remains an affection of the eye.” White and black are not colours. This is stronger than “no resemblance in the bodies”: it relocates the *what* of colour from a power-table to a retinal mechanics. Do not flatten him into Locke. See [[Concepts/Physiological Theory of Colour (Schopenhauer)]], [[Sources/On Vision and Colours - Schopenhauer (Cambridge 2012)]].
 - **AI / perception / models**: Primary qualities ≈ invariant physical properties (shape, size, motion) that models can learn as robust features. Secondary ≈ subjective/observer-dependent (color in RGB vs. wavelength + human vision model). Grounding: models must distinguish powers-to-produce-sensations from the things themselves. Multimodal: different "senses" produce different secondary ideas from same primary.
 - **Wiki / epistemology**: Sources provide "primary" facts (what is really in the documents). Our summaries/concepts are "secondary" powers/ideas produced in the "mind" (Grok) — they are effects, not resemblances to be mistaken for the raw. Careful to trace back: "is this claim a resemblance (primary in source) or a power producing a sensation (interpretation)?" Avoids reifying our compounded ideas as "in" the sources.
 
@@ -38,6 +39,8 @@ Secondary qualities "vanish and cease" without sensation (reduced to their prima
 
 - [[Thinkers/Locke]]
 - [[Sources/An Essay Concerning Human Understanding - Locke]]
+- [[Concepts/Physiological Theory of Colour (Schopenhauer)]]
+- [[Thinkers/Arthur Schopenhauer]]
 - [[Concepts/Sensation and Reflection as the Two Fountains of Ideas (Locke)]], [[Concepts/Simple Ideas (Locke)]]
 - [[Concepts/Impressions and Ideas - Copy Principle (Hume)]]
 - [[Thinkers/Lucretius]], [[Thinkers/Descartes]], [[Thinkers/Hume]]

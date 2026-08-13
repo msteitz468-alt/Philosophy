@@ -3,9 +3,9 @@ title: "Harm Principle (Mill)"
 type: concept
 domains: [political-philosophy, ethics]
 created: "2026-06-11"
-updated: "2026-06-11"
+updated: "2026-08-12"
 tags: [mill, liberty, harm-principle, liberalism, freedom-of-speech, political-philosophy]
-sources: ["On Liberty - John Stuart Mill.txt"]
+sources: ["On Liberty - John Stuart Mill.md"]
 ---
 
 # Harm Principle (Mill)
@@ -34,9 +34,15 @@ sources: ["On Liberty - John Stuart Mill.txt"]
 - **Tyranny of the Majority**: The Harm Principle acts as a defense against the social tyranny and pressure to conform that Mill identifies as the greatest danger of modern democracies.
 - **Contrast with Hobbes**: Hobbes' absolute sovereign has total control over individual speech and action to ensure security; Mill limits state interference strictly to prevention of harm.
 - **Utilitarian Foundation**: Although a defense of liberty, Mill grounds the principle in *utility* in the largest sense, "grounded on the permanent interests of man as a progressive being," rather than abstract natural rights (Locke).
+- **Versus Nozick (2026-08-12)**: Shared anti-paternalism (ASU preface: the state may not prohibit activities for people’s *own* good). The *form* differs: Mill’s principle is a utility-maximizing rule; Nozick’s [[Concepts/Side Constraints (Nozick)|side constraints]] are deontic. “Harm” read aggregatively licenses more than night-watchman functions; entitlement forbids patterned redistribution even when it would prevent harm-as-need.
+- **Versus Berlin (2026-08-12)**: Berlin’s negative liberty is the closest later cousin — an area of non-interference, anti-paternalist, distinct from democracy. It is *not* the Harm Principle: Berlin refuses to call capacity “liberty” ([[Concepts/Liberty versus the Conditions of Liberty (Berlin)]]) and will not ground the area in utility. Baum (same volume) sketches an ecological update of Mill: some present options must be limited as conditions of future freedom. See [[Thinkers/Isaiah Berlin]].
 
 ## Related Pages
 - [[Thinkers/John Stuart Mill]]
 - [[Sources/On Liberty - John Stuart Mill (1859)]]
 - [[Thinkers/Thomas Hobbes]] — political contrast
+- [[Thinkers/Robert Nozick]] — shared anti-paternalism; different form
+- [[Thinkers/Isaiah Berlin]] — cousin, not the same principle
+- [[Concepts/Negative and Positive Liberty (Berlin)]]
+- [[Concepts/Side Constraints (Nozick)]]
 - [[Sources/The Federalist Papers - Publius (1787-1788)]] — political systems comparison

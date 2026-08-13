@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [russell, epistemology, acquaintance, description, sense-data, universals, analytic-philosophy, theory-of-knowledge, modern]
-sources: ["The Problems of Philosophy - Bertrand Russell.txt"]
+sources: ["The Problems of Philosophy - Bertrand Russell.md"]
 ---
 
 # Knowledge by Acquaintance and Knowledge by Description (Russell)
@@ -47,6 +47,7 @@ The pay-off: "**The chief importance of knowledge by description is that it enab
 - **Vs. [[Concepts/Cogito (Descartes)]]**: Russell's caution about the Self refines Descartes — "*a brown colour is being seen*" is more certain than "*I* see a brown colour"; acquaintance with the bare "I" is probable, not certain.
 - **Universals → [[Thinkers/Plato]]**: chs. IX–X rehabilitate a qualified Platonism (universals "subsist," are objects of acquaintance), against nominalism ([[Concepts/Nominal and Real Essences (Locke)]]).
 - **Grounds description theory of names**: the seed of Russell's "On Denoting" (1905) theory of definite descriptions, foundational for analytic philosophy of language.
+- **[[Thinkers/Saul Kripke]]'s target**: *Naming and Necessity* (now primary) takes this apparatus as the received view — ordinary names are disguised descriptions; genuine names are perhaps only "this"/"that" under acquaintance — and rejects it. Ordinary names are rigid; the descriptions a speaker associates need not uniquely identify and are not synonymous. See [[Concepts/Causal-Historical Picture of Naming (Kripke)]].
 
 ## Vault / AI / Personal Relevance
 
@@ -59,7 +60,7 @@ The pay-off: "**The chief importance of knowledge by description is that it enab
 - [[Sources/The Problems of Philosophy - Bertrand Russell (1912)]], [[Thinkers/Bertrand Russell]]
 - [[Concepts/Sense-Data vs. Physical Objects (Russell)]], [[Concepts/Correspondence Theory of Truth (Russell)]], [[Concepts/The Value of Philosophy (Russell)]]
 - [[Concepts/Impressions and Ideas - Copy Principle (Hume)]], [[Concepts/Sensation and Reflection as the Two Fountains of Ideas (Locke)]], [[Concepts/Simple Ideas (Locke)]], [[Concepts/Cogito (Descartes)]], [[Concepts/Nominal and Real Essences (Locke)]]
-- [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Descartes]], [[Thinkers/Plato]]
+- [[Thinkers/Hume]], [[Thinkers/Locke]], [[Thinkers/Descartes]], [[Thinkers/Plato]], [[Thinkers/Saul Kripke]]
 - [[Concepts/Context Engineering]], [[Concepts/Pragmatic Theory of Truth (James)]]
 - [[GROK]] (acquaintance/description ≈ the provenance rule: meaning/grounding must trace to raw sources; most wiki knowledge is description that extends reach beyond direct experience)
 

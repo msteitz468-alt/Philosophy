@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
 tags: [plato, symposium, love, eros, beauty, forms, diotima, socrates, classical-philosophy]
-sources: ["Symposium - Plato.txt"]
+sources: ["Symposium - Plato.md"]
 ---
 
 # Symposium - Plato

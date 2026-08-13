@@ -3,9 +3,9 @@ title: "Greatest Happiness Principle (Mill)"
 type: concept
 domains: [ethics]
 created: "2026-06-11"
-updated: "2026-06-11"
+updated: "2026-08-12"
 tags: [mill, utilitarianism, ethics, happiness, pleasure, utility]
-sources: ["Utilitarianism - John Stuart Mill.txt"]
+sources: ["Utilitarianism - John Stuart Mill.md"]
 ---
 
 # Greatest Happiness Principle (Mill)
@@ -31,6 +31,7 @@ sources: ["Utilitarianism - John Stuart Mill.txt"]
 ## In the Vault
 
 - **Deontological Opposition**: The Greatest Happiness Principle directly conflicts with Kant's moral deontology, which argues that actions are right only if done from duty according to formal laws, regardless of consequences. See [[Contradictions/Utilitarian Consequentialism vs. Kantian Deontology]].
+- > [!warning] In the *Groundwork* Kant calls own-happiness as a moral ground "most objectionable" (4:442): it collapses virtue and vice into calculation. Dignity admits of no equivalent ([[Concepts/Dignity of Rational Nature (Kant)]]); a person is not a unit of utility. Primary now: [[Sources/Groundwork of the Metaphysics of Morals - Immanuel Kant (Gregor, Cambridge 1998)]].
 - **Beatitude and Virtue**: Mill's conception of happiness as the highest end is a secularized, consequentialist counterpart to Aristotle's teleological [Eudaimonia](file:///home/mark/Documents/Philosophy/wiki/Concepts/Eudaimonia.md) and Aquinas' [Beatific Vision](file:///home/mark/Documents/Philosophy/wiki/Concepts/Beatific%20Vision%20-%20Last%20End%20(Aquinas).md).
 - **Conatus and Power**: Contrast with Spinoza's ethics, where the highest good is not the maximization of pleasure as an end, but the augmentation of power to act and understand ([conatus](file:///home/mark/Documents/Philosophy/wiki/Concepts/Conatus%20(Spinoza).md)).
 

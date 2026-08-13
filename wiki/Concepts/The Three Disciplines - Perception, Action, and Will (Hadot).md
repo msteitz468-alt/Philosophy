@@ -6,9 +6,10 @@ schools: [Stoicism]
 domains: [ethics]
 source_count: 1
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-08-12"
+source_count: 2
 tags: [stoicism, hadot, epictetus, marcus-aurelius, ryan-holiday, three-disciplines, topoi, spiritual-exercises, practical-philosophy]
-sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).md", "Philosophy as a Way of Life - Pierre Hadot.md"]
 ---
 
 # The Three Disciplines — Perception, Action, and Will (Hadot)
@@ -29,6 +30,24 @@ Holiday's summary formula: *"First, see clearly. Next, act correctly. Finally, e
 
 > Note: Holiday reorders Epictetus's canonical sequence (which puts desire/aversion *first* as the most fundamental) for narrative and motivational reasons, opening with perception and reserving acceptance for the climactic third act. The philosophical content is Hadot's; the ordering is Holiday's.
 
+## Hadot's Own Mapping (now primary)
+
+The vault first met this triad through Holiday. The primary statement in this wiki is now Hadot's Marcus essay in *Philosophy as a Way of Life* (ch. 6; rewritten after *La Citadelle intérieure*, 1992). See [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]].
+
+Hadot's labels are **not** Perception / Action / Will. Epictetus's pedagogical order, as Hadot states it:
+
+| Epictetus *topos* | Hadot's name | Lived part of philosophy | Virtue in Marcus |
+|---|---|---|---|
+| 1. desire / aversion (*orexis*) | discipline of desire | physics | temperance; *ataraxia*; joyful consent to fate |
+| 2. inclinations to action (*hormai*) | discipline of action / “active will” | ethics | justice; *kathēkonta* toward the community |
+| 3. assent (*sunkatathesis*) | discipline of assent / of judgment | logic | truth; *apraptōsia* toward *phantasiai* |
+
+“The object of Marcus’ meditations and exercises was none other than Epictetus’ three fundamental themes: the discipline of desire, the discipline of inclinations, and the discipline of judgment.” Each *hypomnema* trains one, two, or three. “Philosophy itself, in its divisions of physics, ethics, and logic.”
+
+Marcus’s *present-moment* list often runs **judgment → action → inner disposition** (*Med.* 9.6): “Your present value-judgement, so long as it is objective; / The action you are accomplishing at the present moment, so long as it is done for the benefit of the human community; / Your present inner disposition, as long as it rejoices in every event brought about by causes outside yourself.” Holiday’s Perception → Action → Will tracks *this* present triad, not Epictetus’s school order. “Will” flattens Hadot’s **discipline of desire** (lived physics, love of fate) into a residual endurance faculty.
+
+All three are to be practiced *now* (*prosoche*). See [[Concepts/The Present Instant (Hadot)]], [[Concepts/Spiritual Exercises (Hadot)]].
+
 ## How the Disciplines Interlock
 
 - **Perception precedes action**: "Where the head goes, the body follows." Only after judgment is cleansed of fear and the added self can action be directed rather than reactive.
@@ -41,7 +60,7 @@ This maps onto the [[Concepts/Dichotomy of Control (Epictetus)]]: perception and
 
 - **Epictetus** — originates the three *topoi* as a curriculum: master desire/aversion first (to secure equanimity), then impulse (to act with justice toward others), then assent (to judge truly). See [[Thinkers/Epictetus]], [[Concepts/Dichotomy of Control (Epictetus)]].
 - **Marcus Aurelius** — the *Meditations* enacts all three under the pressure of empire: guarding the ruling faculty ([[Concepts/Ruling Faculty and the Daemon (Marcus Aurelius)]]), acting "for the common good... as a limb of the whole," and cheerfully accepting the assigned portion and death. The epigraph Holiday builds the book on — "Objective judgment... Unselfish action... Willing acceptance of all external events. That's all you need" — is itself a one-line statement of the three disciplines.
-- **Pierre Hadot** — recovers the disciplines as **spiritual exercises** (*askēsis*), arguing ancient philosophy was a way of life, not a theory; his *Inner Citadel* is the scholarly source Holiday leans on. See [[Concepts/The Inner Citadel (Hadot)]].
+- **Pierre Hadot** — now in the vault as a primary voice ([[Thinkers/Pierre Hadot]], [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]]). Recovers the disciplines as **spiritual exercises** (*askēsis*); maps them onto lived physics / ethics / logic; reads the *Meditations* as methodical *hypomnemata*, not a gloomy diary. The fortress metaphor is the title of *La Citadelle intérieure* (1992), not of the PWL Marcus essay. See [[Concepts/The Inner Citadel (Hadot)]], [[Concepts/Spiritual Exercises (Hadot)]].
 - **Ryan Holiday** — turns the triad into a self-help program illustrated by historical vignettes; see [[Thinkers/Ryan Holiday]] and [[Concepts/Turning Obstacles Upside Down (Holiday)]].
 
 ## Relevance to Vault
@@ -51,8 +70,9 @@ This maps onto the [[Concepts/Dichotomy of Control (Epictetus)]]: perception and
 
 ## Related
 
+- [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]]
 - [[Sources/The Obstacle Is the Way - Ryan Holiday (2014)]]
-- [[Thinkers/Ryan Holiday]], [[Thinkers/Epictetus]], [[Thinkers/Marcus Aurelius]]
+- [[Thinkers/Pierre Hadot]], [[Thinkers/Ryan Holiday]], [[Thinkers/Epictetus]], [[Thinkers/Marcus Aurelius]]
 - [[Concepts/Dichotomy of Control (Epictetus)]]
 - [[Concepts/The Inner Citadel (Hadot)]]
 - [[Concepts/Turning Obstacles Upside Down (Holiday)]]

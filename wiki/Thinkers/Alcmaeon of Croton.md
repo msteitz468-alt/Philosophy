@@ -7,7 +7,7 @@ domains: [medicine, physiology, epistemology, philosophy-of-mind, cosmology]
 source_count: 1
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Pythagoras and the Early Pythagoreans (Leonid Zhmud (tr. Kevin Windle etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [alcmaeon, croton, medicine, isonomia, physiology, anatomy, embryology, brain, tekmairesthai, soul, immortality, pythagoreanism, zhmud]
 ---
 

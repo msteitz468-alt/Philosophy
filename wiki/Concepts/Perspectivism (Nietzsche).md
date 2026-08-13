@@ -4,11 +4,11 @@ type: concept
 greek: ""
 schools: []
 domains: []
-source_count: 1
+source_count: 3
 created: 2026-06-04
-updated: 2026-06-04
-tags: [philosophy, nietzsche, perspectivism, perspectives, frog-perspectives, revaluation, modern-philosophy, beyond-good-and-evil]
-sources: ["Beyond Good and Evil - Nietzsche (AmazonClassics Edition)"]
+updated: "2026-08-12"
+tags: [philosophy, nietzsche, perspectivism, perspectives, frog-perspectives, revaluation, modern-philosophy, beyond-good-and-evil, gay-science, human-all-too-human]
+sources: ["Beyond Good and Evil - Nietzsche (AmazonClassics Edition)", "The Gay Science - Nietzsche (Kaufmann 1974).md", "Human, All Too Human - Nietzsche (Zimmern, Collection excerpt).md", "The Will to Power - Nietzsche (Kaufmann, Collection 2013).md"]
 ---
 
 # Perspectivism (Nietzsche)
@@ -32,6 +32,51 @@ In the Preface and Chapter 1 of *Beyond Good and Evil*, Nietzsche develops the i
 
 Perspectivism is not relativism ("anything goes") but a call for honesty about the perspectival, value-laden, life-conditioned nature of all claims—and the courage to create and affirm new ones.
 
+## 1873 unpublished precursor (not this name)
+
+*On Truth and Lies in a Nonmoral Sense* (Breazeale) does **not** say perspectivism. It gives the mechanism later books develop: truth as a movable host of forgotten metaphors; concept as equation of unequals; “correct perception” a contradictory impossibility; at most an *aesthetic* relation between subject and object. File it as the unpublished precursor, not as this doctrine under this name. Quote **movable host**, not Kaufmann’s “mobile army.” See [[Sources/On Truth and Lies in a Nonmoral Sense - Nietzsche (Breazeale, Collection 2013)]], [[Concepts/Truth as Worn-Out Metaphor (Nietzsche)]].
+
+## 1886 Preface to *Human, All Too Human* (not 1878)
+
+The 1878 chapters do not name perspectivism. The **1886** Preface (second voice) does: the free spirit had to grasp "the perspective of every representation (*Werthschätzung*)—the dislocation, distortion and the apparent end or teleology of the horizon"; "the *inevitable* error in every Yes and in every No, error as inseparable from life, life itself as conditioned by the perspective and its inaccuracy." Near-misses in 1878: the world seen "through the medium of the human head" (§9); Kant on intellect dictating laws to our *idea* of nature (§19). Do not back-date the 1886 sentence to 1878. See [[Concepts/Free Spirit (Nietzsche)]], [[Sources/Human, All Too Human - Nietzsche (Zimmern, Collection excerpt)]].
+
+## Rest of BGE (after Ch. I)
+
+- **§11.** Belief in synthetic a priori is necessary “for the preservation of creatures like ourselves” though the judgments “are nothing but false”; the belief belongs to “the perspective view of life.”
+- **§22.** “Nature’s conformity to law” is “interpretation, not text.” Nietzsche’s own Will-to-Power reading of the same “Nature” is also only interpretation — “so much the better.”
+- **§24.** Language talks of “opposites where there are only degrees.”
+- **§30.** Esoteric view is from above downwards, not a different set of facts.
+- **§34.** Life needs “perspective estimates and semblances”; one may rise “above faith in grammar.”
+- **§108.** “No such thing as moral phenomena, but only a moral interpretation of phenomena.”
+- **§230.** The spirit is a stomach: assimilate, simplify, shut out. Knowledge is cruelty against the will to appearance; task: “translate man back again into nature.”
+
+## From *The Gay Science* (1882 / 1887)
+
+The BGE "frog perspectives" are preceded by a thicker epistemology in this book.
+
+- **§54.** Appearance is "that which lives and is effective," *not* the opposite of some essence, *not* a mask on an unknown *x*. One wakes only to the fact of dreaming and "must go on dreaming lest I perish."
+- **§57–58.** Against realists: "There is no 'reality' for us — not for you either." "What things are called is incomparably more important than what they are." Appearance grows into the thing; "We can destroy only as creators." New names, estimations, probabilities create new "things."
+- **§110–112, 121.** Useful errors (enduring things, equals, substances, free will) were incorporated; truth arrives late as "the weakest form of knowledge." Logic rests on treating the similar as equal. Cause/effect is an isolated pair from a continuum. "Life is no argument. The conditions of life might include error." Experiment: "To what extent can truth endure incorporation?"
+- **§265.** "Man's truths" are "irrefutable *errors*."
+- **§354 (1887).** "This is the essence of phenomenalism and perspectivism as I understand them": consciousness belongs to herd/social nature; we become conscious only of the average; the world of consciousness is a surface- and sign-world; "we simply lack any organ for knowledge, for 'truth.'"
+- **§374 (1887).** "We cannot look around our own corner." The world has become "'infinite' for us all over again, inasmuch as we cannot reject the possibility that *it may include infinite interpretations*" — without deifying the unknown.
+
+Do not flatten §354/374 into BGE §2. The later sections name *perspectivism* and bind it to language, herd consciousness, and a new infinite.
+
+## Named in the notebooks (n.481)
+
+Kaufmann *Will to Power* **n.481** (not a published aphorism) is the vault's thickest single statement, and the place the word is used as a heading for the anti-positivist claim:
+
+> "Against positivism, which halts at phenomena—'There are only facts'—I would say: No, facts is precisely what there is not, only interpretations."
+
+> "The 'subject' is not something given, it is something added and invented and projected behind what there is.—Finally, is it necessary to posit an interpreter behind the interpretation? Even this is invention, hypothesis."
+
+> "the world is knowable; but it is interpretable otherwise, it has no meaning behind it, but countless meanings.—'Perspectivism.'"
+
+Needs and drives interpret; every drive is a "lust to rule." **n.493:** truth is the kind of error a species needs to live. **n.540:** many kinds of eyes → many "truths" → no truth. **n.616:** the world we deal with is "not a fact but a fable."
+
+This is **notebook epistemology**, not *GS* §354's herd-consciousness and not *BGE* §22's "so much the better." Do not let n.481 replace those. Full dossier: [[Concepts/Will to Power as Knowledge (Nietzsche)]]. File: [[Sources/The Will to Power - Nietzsche (Kaufmann, Collection 2013)]].
+
 ## Vault Relevance / AI / Personal
 
 - **Multiple perspectives as strength**: The wiki's cross-linked, multi-source syntheses are inherently perspectival ("frog perspectives" from different sources, times, authors). No one "true" summary; richer knowledge from many angles, including "dangerous" or previously "evil" ones (e.g., questioning sacred cows in philosophy or practice). Supports "best of n," iterative refinement, and non-dogmatic agentic exploration.
@@ -50,6 +95,7 @@ Perspectivism is not relativism ("anything goes") but a call for honesty about t
 
 ## Related
 
+- [[Sources/On Truth and Lies in a Nonmoral Sense - Nietzsche (Breazeale, Collection 2013)]] (1873 precursor; word absent)
 - [[Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]], [[Thinkers/Nietzsche]], [[Concepts/Will to Power (Nietzsche)]]
 - [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]], [[Concepts/Beyond Good and Evil (Nietzsche)]], [[Concepts/Philosophers of the Dangerous "Perhaps" (Nietzsche)]], [[Concepts/Belief in Antitheses of Values (Nietzsche)]]
 - [[Thinkers/Kant]], [[Thinkers/Hume]], [[Thinkers/Spinoza]], [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/William James]]

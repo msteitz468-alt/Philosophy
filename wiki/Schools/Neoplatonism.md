@@ -3,8 +3,8 @@ title: "Neoplatonism"
 type: school
 domains: [metaphysics, philosophy-of-religion, history-of-philosophy]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Neo-Platonism - Wallis, Richard T., -1985.md", "The Enneads - Plotinus.txt"]
+updated: "2026-08-12"
+sources: ["Neo-Platonism - Wallis, Richard T., -1985.md", "The Enneads - Plotinus.md", "The Mystical Theology and The Divine Names - Dionysius the Areopagite.md"]
 tags: [neoplatonism, plotinus, porphyry, iamblichus, proclus, late-antiquity, theurgy]
 ---
 
@@ -36,7 +36,7 @@ Plotinus bequeathed a catalogue of unresolved problems (Wallis pp. 90–93) — 
 
 ## Influence
 
-Wallis: "the dominant trend of Christian theology, in both its Platonic and Aristotelian forms, has always been Neoplatonic." Channels: the Cappadocians and Pseudo-Dionysius (Athenian Neoplatonism in Christian dress — with the risk that God becomes "merely the supreme term in the metaphysical hierarchy"); [[Thinkers/Augustine]] (reading Plotinus "through Porphyrian eyes"); Boethius; Eriugena ("in creating other things God is equally creating himself"); Byzantine theology (creation as theophany; Psellus; the Hesychast controversy); Islamic falsafa via the *Theology of Aristotle* (extracts of Enneads IV–VI) and the *Liber de Causis* (from Proclus) — al-Farabi, Avicenna's Active-Intelligence prophetology, [[Thinkers/Al-Ghazali]]'s attack and [[Thinkers/Ibn Rushd]]'s reply; Jewish thought (Ibn Gebirol, the Cabala, ultimately [[Thinkers/Spinoza]]); [[Thinkers/Thomas Aquinas]] (who detected the *Liber de Causis*' spuriousness via Moerbeke's Proclus but inherited the imprint); the Rhineland mystics and Cusanus's learned ignorance; the Renaissance (Pletho, Ficino, Pico, Bruno); the Cambridge Platonists; German Idealism (Schelling Plotinian, Hegel Procline); Bergson. Wallis's closing valuation: the movement's enduring worth lies in its analysis of religious experience and consciousness rather than its metaphysics — "paradoxicality is inherent in the nature of conscious experience itself."
+Wallis: "the dominant trend of Christian theology, in both its Platonic and Aristotelian forms, has always been Neoplatonic." Channels: the Cappadocians and [[Thinkers/Pseudo-Dionysius]] (Athenian Neoplatonism in Christian dress — with the risk that God becomes "merely the supreme term in the metaphysical hierarchy"). The primary *Divine Names* / *Mystical Theology* (Rolt) now in the vault confirms the dress *and* a Trinitarian check on the risk: undifferenced titles apply to the whole Godhead; Father/Son/Spirit do not interchange (DN II). Super-Essence, cataphatic/apophatic itinerary, ecstasy of the Good, Existence–Life–Wisdom as one Providence, and the Darkness of Unknowing are now primary rather than reported. Also: [[Thinkers/Augustine]] (reading Plotinus "through Porphyrian eyes"); Boethius; Eriugena ("in creating other things God is equally creating himself"); Byzantine theology (creation as theophany; Psellus; the Hesychast controversy); Islamic falsafa via the *Theology of Aristotle* (extracts of Enneads IV–VI) and the *Liber de Causis* (from Proclus) — al-Farabi, Avicenna's Active-Intelligence prophetology, [[Thinkers/Al-Ghazali]]'s attack and [[Thinkers/Ibn Rushd]]'s reply; Jewish thought (Ibn Gebirol, the Cabala, ultimately [[Thinkers/Spinoza]]); [[Thinkers/Thomas Aquinas]] (who detected the *Liber de Causis*' spuriousness via Moerbeke's Proclus but inherited the imprint); the Rhineland mystics and Cusanus's learned ignorance; the Renaissance (Pletho, Ficino, Pico, Bruno); the Cambridge Platonists; German Idealism (Schelling Plotinian, Hegel Procline); Bergson. Wallis's closing valuation: the movement's enduring worth lies in its analysis of religious experience and consciousness rather than its metaphysics — "paradoxicality is inherent in the nature of conscious experience itself." [[Thinkers/William James]] (*Varieties* XVI–XVII) quotes Plotinus's centre-on-centre union and Dionysius as "fountain-head of Christian mysticism," then files both as *instances* of a monistic/optimistic drift inside a psychological classifier ([[Concepts/Mystical States - Four Marks (James)]]). He withdraws classic unanimity (Spanish personalists; dualistic Sāṃkhya; "diabolical mysticism") and will not let mysticism settle that the MORE is a unique all-inclusive God ([[Concepts/Over-Beliefs and Piecemeal Supernaturalism (James)]]).
 
 ## Contradictions / Open Questions
 
@@ -48,9 +48,11 @@ Wallis: "the dominant trend of Christian theology, in both its Platonic and Aris
 
 - [[Sources/Neoplatonism - R. T. Wallis (1972)]]
 - [[Sources/The Enneads - Plotinus]]
+- [[Sources/The Mystical Theology and The Divine Names - Dionysius the Areopagite]]
 
 ## Related
 
-- [[Thinkers/Plotinus]], [[Thinkers/Porphyry]], [[Thinkers/Iamblichus]], [[Thinkers/Proclus]], [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Augustine]]
+- [[Thinkers/Plotinus]], [[Thinkers/Porphyry]], [[Thinkers/Iamblichus]], [[Thinkers/Proclus]], [[Thinkers/Pseudo-Dionysius]], [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Augustine]], [[Thinkers/William James]]
 - [[Concepts/The One (To Hen)]], [[Concepts/Emanation (Proodos)]], [[Concepts/Return of the Soul (Epistrophe)]], [[Concepts/Theurgy (Iamblichus)]], [[Concepts/The Henads (Proclus)]], [[Concepts/Procession, Remaining, and Return (Neoplatonic Triad)]], [[Concepts/The Undescended Soul (Plotinus vs Iamblichus)]]
+- [[Concepts/Super-Essential Godhead (Dionysius)]], [[Concepts/Cataphatic and Apophatic Theology (Dionysius)]], [[Concepts/Divine Darkness and Unknowing (Dionysius)]], [[Concepts/Ecstasy of Divine Love (Dionysius)]]
 - [[Schools/Neopythagoreanism]], [[Schools/Pythagoreanism]]

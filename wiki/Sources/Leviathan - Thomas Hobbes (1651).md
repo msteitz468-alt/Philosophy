@@ -5,7 +5,7 @@ domains: [political-philosophy, ethics, metaphysics]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Leviathan - Thomas Hobbes.txt"]
+sources: ["Leviathan - Thomas Hobbes.md"]
 tags: [hobbes, sovereignty, social-contract, state-of-nature, materialism, political-philosophy, primary-source]
 ---
 

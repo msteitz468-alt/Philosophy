@@ -8,7 +8,7 @@ source_count: 6
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [augustine, hippo, patristics, confessions, city-of-god, grace, theology, philosophy, psychology, memory, time, conversion, neo-platonism, will, evil, interiority, two-cities, peace, political-theology, 4th-5th-century, bishop, doctor-gratiae, christianity]
-sources: ["Confessions - Augustine.txt", "City of God (Penguin Classics) - St. Augustine of Hippo.txt", "Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas.txt", "Summa Theologica, Part I-II - Saint Thomas Aquinas.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "The Enneads - Plotinus.txt"]
+sources: ["Confessions - Augustine.md", "City of God (Penguin Classics) - St. Augustine of Hippo.md", "Summa Theologica, Part I (QQ. 75-102) - Thomas Aquinas.md", "Summa Theologica, Part I-II - Saint Thomas Aquinas.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "The Enneads - Plotinus.md"]
 ---
 
 # Augustine
@@ -53,6 +53,7 @@ Augustine saw himself as summator and defender of the Church's faith rather than
 - Stories of others' conversions (Victorinus' humble submission, garden at Treves) create intolerable tension.
 - "Tolle, lege" and the Pauline text effect the "radical shift in mood and will." Two stages: release from incontinence/pride; slower growth in understanding and baptismal faith.
 - Necessity of the God-Man Mediator (Christ) for true return; contemplation alone insufficient.
+- **James's *Varieties*** (1902) takes the garden as the type of the **divided self** and of unification by a voice from outside the conscious field (*Sume, lege*; old/new wills). James does not adopt prevenient grace: the subliminal is a *door*, "not a substitute deity," and "would of itself establish no presumption that [incoming forces] were more divine than diabolical." See [[Concepts/Conversion and the Subliminal Self (James)]].
 
 **Time, Creation, and Hermeneutics (Books 11–13)**:
 - Time is not in God (eternity) but creaturely: "What then is time? If no one asks me, I know; if I wish to explain it to one that asketh, I know not."
@@ -110,6 +111,8 @@ Adds the pivotal patristic voice that bridges and elevates the classical cluster
 - [[Sources/Summa Theologica, Part I-II - Saint Thomas Aquinas]]
 - [[Sources/Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026]]
 - [[Sources/The Enneads - Plotinus]]
+- [[Thinkers/William James]] / [[Concepts/Conversion and the Subliminal Self (James)]] — *Varieties* Lecture VIII reads the garden conversion as psychology of the divided will.
+- [[Thinkers/Pierre Hadot]] — early Christianity as a philosophy; Platonic flight from the body as an *addition* to Christianity, not its essence, that nonetheless oriented later spirituality. See [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]] ch. 4.
 - [[LLM Wiki]]
 - [[GROK]]
 

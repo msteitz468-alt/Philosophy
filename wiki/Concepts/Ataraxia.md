@@ -8,7 +8,7 @@ source_count: 6
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [epicurus, lucretius, epicureanism, sextus-empiricus, pyrrhonism, skepticism, epoché, tranquility, peace-of-mind, ethics, mortalism, classical, hellenistic]
-sources: ["Letters and Sayings of Epicurus - Epicurus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Lucretius - on the nature of things - Dinko Tontchev.txt", "Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.txt", "Sources/Outlines of Pyrrhonism - Sextus Empiricus", "Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.txt"]
+sources: ["Letters and Sayings of Epicurus - Epicurus.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Lucretius - on the nature of things - Dinko Tontchev.md", "Microsoft Word - Outlines of Pyrronism.doc - Antonello Sciacchitano.md", "Sources/Outlines of Pyrrhonism - Sextus Empiricus", "Stoic Six Pack _ Meditations of Marcus Aur - Marcus Aurelius.md"]
 ---
 
 # Ataraxia

@@ -4,10 +4,10 @@ type: contradiction
 schools: [Rationalism, Empiricism]
 domains: [epistemology]
 created: "2026-06-04"
-updated: "2026-06-04"
-source_count: 3
-tags: [contradiction, innate-ideas, epistemology, rationalism, empiricism, descartes, locke, hume, early-modern]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "An Essay Concerning Human Understanding - Locke", "An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)"]
+updated: "2026-08-12"
+source_count: 4
+tags: [contradiction, innate-ideas, epistemology, rationalism, empiricism, descartes, locke, hume, kant, early-modern]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "An Essay Concerning Human Understanding - Locke", "An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)", "Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge).md"]
 ---
 
 # Rationalism vs Empiricism on Innate Ideas
@@ -38,12 +38,13 @@ The defining epistemological dispute of early modern philosophy: the *source* of
 
 ## Attempted Resolutions
 
-- Kant's later "Copernican" turn (forms of intuition + categories supplied by the mind, content supplied by the senses) is the historical synthesis, but the ingested Kant material ([[Sources/Metaphysics of Morals - Immanuel Kant]]) is practical philosophy and does not itself adjudicate this theoretical dispute. Left open here.
+- Kant's [[Concepts/Copernican Turn (Kant)|Copernican turn]] is the historical synthesis, now primary-sourced from the first *Critique*. He agrees with Locke that we have no innate *knowledge* of particular propositions (B 1: cognition begins with experience) and with Hume that causal necessity is not copied from impressions; he denies that the mind is a blank as to *form*. Space and time are pure forms of sensibility; the twelve [[Concepts/Categories of the Understanding (Kant)|categories]] are concepts of an object in general; both are a priori conditions of possible experience, not implanted contents. The [[Concepts/Transcendental Deduction and Unity of Apperception (Kant)|deduction]] steers "between these two cliffs" (B 127–128): Locke's *quaestio facti* and Hume's custom. Whether the synthesis *succeeds* is the rest of the book — Quine later undercuts the analytic/synthetic presupposition — but the theoretical adjudication is no longer missing. See [[Sources/Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge)]].
 
 ## Sources
 - [[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]
 - [[Sources/An Essay Concerning Human Understanding - Locke]]
 - [[Sources/An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)]]
+- [[Sources/Critique of Pure Reason - Immanuel Kant (Guyer Wood, Cambridge)]]
 
 ## Related
 - [[Concepts/Clear and Distinct Perception (Descartes)]]

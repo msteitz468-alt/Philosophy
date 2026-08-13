@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-language, epistemology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Philosophical Investigations (Ludwig Wittgenstein).txt"]
+sources: ["Philosophical Investigations (Ludwig Wittgenstein).md"]
 tags: [wittgenstein, ostensive-definition, augustine, naming, philosophical-investigations, meaning]
 ---
 

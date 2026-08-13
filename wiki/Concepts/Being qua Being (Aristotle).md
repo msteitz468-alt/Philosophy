@@ -4,7 +4,7 @@ type: concept
 domains: [metaphysics, ontology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Metaphysics (Aristotle).txt", "Heidegger (Michael Inwood).txt"]
+sources: ["Metaphysics (Aristotle).md", "Heidegger (Michael Inwood).md"]
 tags: [aristotle, being, ontology, pros-hen, first-philosophy, substance, classical]
 ---
 

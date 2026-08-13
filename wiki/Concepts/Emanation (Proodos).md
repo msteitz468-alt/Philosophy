@@ -6,9 +6,9 @@ schools: []
 domains: []
 source_count: 3
 created: "2026-06-04"
-updated: "2026-07-01"
+updated: "2026-08-12"
 tags: [plotinus, enneads, neoplatonism, emanation, proodos, hierarchy, metaphysics, classical]
-sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md"]
+sources: ["The Enneads - Plotinus.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Neo-Platonism - Wallis, Richard T., -1985.md", "The Mystical Theology and The Divine Names - Dionysius the Areopagite.md"]
 ---
 
 # Emanation (Proodos)
@@ -27,7 +27,7 @@ sources: ["The Enneads - Plotinus.txt", "Classical Philosophy - Stoics, Addition
 - **Not Creation Ex Nihilo or Demiurgic**: Contrasts with later Abrahamic creatio ex nihilo (will of a personal God) and Plato's Timaeus (demiurge crafts the world as a living image according to the Forms, with some voluntarism). Plotinus' version is more impersonal, necessary, and "generous" (overflow of plenitude).
 - **Image and Participation**: Each level is an image (*eikon*) of the prior and participates (*methexis*) in it. The sensible world is "in the likeness" of the intelligible; matter is the extreme of otherness.
 
-The reference file (raw/The Enneads - Plotinus.txt) signals the treatises on origins and order (e.g., V.1–2, VI.9) where the dynamics are worked out in detail.
+The reference file (raw/The Enneads - Plotinus.md) signals the treatises on origins and order (e.g., V.1–2, VI.9) where the dynamics are worked out in detail.
 
 ## From Wallis's *Neoplatonism* (1972)
 
@@ -36,6 +36,10 @@ The reference file (raw/The Enneads - Plotinus.txt) signals the treatises on ori
 - **Stoic ingredient**: the World-Soul generates the sensible world via seed-principles (*logoi spermatikoi*), and cosmic sympathy (*sympatheia*) — the world as one living organism whose parts react to each other (II.3.7; IV.4.32) — underwrites astrology, prayer, and magic, though only at the level of body and lower soul.
 - **Logos**: Wallis stresses the untranslatable term's triple role — ground-plan/ordering principle of unfolding, external expression of a higher principle in a lower order, and the relation between Hypostases; Soul's logoi convey the Forms into Matter.
 - **Later systematization**: Iamblichus's Law of Mean Terms and Unparticipated–Participated–Participant scheme, and Proclus's cyclic causation (higher causes reach further down; all effects revert on their causes) turn Plotinus's dynamic image into a deductive science (*Elements of Theology*).
+
+## How Pseudo-Dionysius Uses This
+
+[[Thinkers/Pseudo-Dionysius]] keeps the sun that lights "through no choice or deliberation, but by the very fact of its existence" (DN IV.1) and names the going-forth an ecstasy of Divine Love: Yearning "allowed Him not to remain unfruitful in Himself" (DN IV.10); the Creator "is transported outside of Himself… whereby He yet stays within Himself" (DN IV.13). The "Bounteous Emanation" overflows "from the Good into creation, and once again returning" (DN IV.14). Names themselves are "a Symbolical Revelation" of these "beneficent Emanations" (DN I.4), not of the Super-Essence. Christian check: one God, not stacked godheads (DN V.2). See [[Concepts/Ecstasy of Divine Love (Dionysius)]].
 
 ## Relevance to Vault
 

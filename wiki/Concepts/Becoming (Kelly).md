@@ -4,7 +4,7 @@ type: concept
 domains: [technology, futurism, philosophy-of-technology, digital-culture]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["The Inevitable_ Understanding the 12 Techn - Kevin Kelly.txt"]
+sources: ["The Inevitable_ Understanding the 12 Techn - Kevin Kelly.md"]
 tags: [kevin-kelly, becoming, protopia, flux, perpetual-newbie, products-to-processes, upgrading, technium]
 ---
 

@@ -4,7 +4,7 @@ type: concept
 domains: [ai, futurism, physics, technology, robotics, philosophy-of-mind]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["Physics of the Future - Michio Kaku.txt"]
+sources: ["Physics of the Future - Michio Kaku.md"]
 tags: [michio-kaku, physics-of-the-future, future-of-ai, rise-of-the-machines, asimo, pattern-recognition, common-sense, ai-winters, neural-nets, deep-blue, 2100]
 ---
 

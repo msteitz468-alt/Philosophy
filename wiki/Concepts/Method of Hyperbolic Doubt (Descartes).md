@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-07-01"
 tags: [descartes, doubt, skepticism, method, epistemology, foundationalism, meditations, discourse-on-method, clear-and-distinct, cogito]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Method of Hyperbolic Doubt (Descartes)

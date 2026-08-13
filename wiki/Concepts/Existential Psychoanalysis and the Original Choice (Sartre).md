@@ -3,8 +3,8 @@ title: "Existential Psychoanalysis and the Original Choice (Sartre)"
 type: concept
 domains: [philosophy-of-mind, aesthetics, ethics, existentialism]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Sartre (Ruud Welten).txt"]
+updated: "2026-08-12"
+sources: ["Being and Nothingness - Jean-Paul Sartre (Barnes trans.).md", "Sartre (Ruud Welten).md"]
 tags: [philosophy, sartre, existential-psychoanalysis, original-choice, baudelaire, genet, flaubert]
 ---
 
@@ -13,9 +13,17 @@ tags: [philosophy, sartre, existential-psychoanalysis, original-choice, baudelai
 
 ## Summary
 
-The last chapter of *Being and Nothingness* announces, instead of a conclusion, a new project: an **"existential psychoanalysis."** Its aim is not, as in Freud, cure, but a human science that describes the person as a **totality** — and above all the **original choice (choix originel)** that underlies what someone is. Because consciousness is wholly lucid (no unconscious), the buried thing to be recovered is not a repressed memory but a *free* fundamental choice of oneself. I can choose myself as someone to whom "this always happens," or as someone to whom it never will; I identify in absolute terms with what Sartre calls my **destinée** — not a fate I must accept, nor a destiny I sovereignly determine, but a destiny I *am*. Only then does the subject choose itself *as* freedom (the criterion: that I would affirm living my life again, exactly so).
+### From *Being and Nothingness*, Part Four ch. 2 (primary)
 
-Sartre develops the method primarily as a **study of literature** — of *writing*. To write is to make continuous choices of words that do not so much describe lived reality as *determine* it (naming my love, my hatred, my illness for the first time changes my whole reality). So the existential-psychoanalytic biography traces, in the *written* work, when and how choices are made. It never seeks who the author "really" was (as if an en-soi expressed itself in the work) but **what he makes of himself**.
+A person is a **totality**, not a bundle of drives. Each empirical desire expresses the whole original project (BN 557–564). Empirical psychology (Bourget on Flaubert) and even Heidegger's authentic/unauthentic stop at **pseudo-irreducibles**. The only self-evident stop is the **project of being**. Ontologically the for-itself is lack: "man fundamentally is the desire to be God" — in-itself-for-itself, *causa sui* — yet this is not a nature: freedom is the concrete mode of that lack (BN 565–568).
+
+**Existential psychoanalysis** is a comparative hermeneutic of conduct that recovers a unique **original choice**. It is objective and "has not yet found its Freud" (BN 574). It **rejects the unconscious**: "the psychic act [is] coextensive with consciousness" (BN 570). "We are not dealing with an unsolved riddle as the Freudians believe; all is there, luminous … this 'mystery in broad daylight'" (BN 571). The project is wholly conscious but not *known*; Freud's "recognition" in the mirror only makes sense as knowledge of what was already lived.
+
+The concrete categories **to do / to have / to be** collapse: doing is transitional; desire is to be or to have (art, knowing, sport are all appropriative) (BN 576–586). **To have** is a magical internal bond: "I am what I have" (BN 590–591); "to possess is to wish to possess the world across a particular object" (BN 597). Qualities as revelations of being, and the slimy as Antivalue, are the next section — see [[Concepts/Quality as Revelation of Being (Sartre)]]. The chapter's last word: "Man is a useless passion" (BN 615). Only Flaubert and Dostoevsky are named as hoped-for applications (BN 575). Baudelaire and Genet are not in this chapter.
+
+### From Welten: the later literary studies
+
+Sartre develops the method as a **study of literature**. Welten's biography, not BN, supplies Baudelaire, Genet, and Flaubert as the three great subjects. Those studies *apply* the method BN announces.
 
 Welten foregrounds Sartre's three great literary subjects — **Baudelaire, Genet, Flaubert** — united by being cast out as "immoral idiots" by parents and society, and becoming geniuses not *despite* but *by appropriating* that condemnation. Against Freud, who sends the patient back to the past, Sartre stresses present and future: the child adopts the Other's look, then discovers in puberty that parents and society have *made* something of him without consent; the relation is *dialectical* — the child forms himself in the *negation* of what they made of him. Art is a creative form of "against better knowledge": not representation of reality but a magical transformation of it.
 
@@ -38,7 +46,8 @@ Behind these studies stands the principle that art exposes the **hypocrisy of bo
 - Connects to [[Concepts/Bad Faith (Mauvaise Foi) (Sartre)|bad faith]]: art is a *lucid*, chosen form of flight that the artist can "spell out letter by letter."
 
 ## Sources
-- [[Sources/Sartre - Ruud Welten (2020)]]
+- [[Sources/Being and Nothingness - Jean-Paul Sartre (Barnes trans.)]]
+- [[Sources/Sartre - Ruud Welten (2020)]] (Baudelaire / Genet / *Family Idiot* as later applications)
 
 ## Related
 - [[Thinkers/Jean-Paul Sartre]]

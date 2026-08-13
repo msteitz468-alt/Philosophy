@@ -5,11 +5,11 @@ era: "20th-21st century"
 schools: [Biological Naturalism, Philosophy of Mind]
 domains: [philosophy-of-mind, cognitive-science, ai, philosophy]
 created: "2026-06-04"
-updated: "2026-06-04"
-cross_sources: ["Consciousness Explained - Daniel C. Dennett.txt"]
+updated: "2026-08-12"
+cross_sources: ["Consciousness Explained - Daniel C. Dennett.md"]
 source_count: 1
 tags: [searle, chinese-room, strong-ai, mind-body, biological-naturalism, intentionality, philosophy-of-mind, ai-critique, reith-lectures, 1984]
-sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.txt", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt"]
+sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.md", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md"]
 ---
 
 # John Searle
@@ -43,6 +43,8 @@ sources: ["Minds, Brains and Science (1984 Reith Lect - Unknown.txt", "Superinte
 The Chinese Room is one of the most influential and debated arguments in philosophy of mind and AI. It targets the functionalist/computationalist orthodoxy that multiple realizability + behavioral/functional equivalence suffices for mind (echoing but sharpening earlier critiques like the Argument from Consciousness). It has generated a vast literature of replies (systems reply, robot reply, brain simulator reply, etc.), all of which Searle argues fail for the same syntax/semantics reason.
 
 In the vault: Positions Searle as the major primary critic of the 'strong' computationalist reading of Turing (Imitation Game as sufficient for mind) and of information-processing models (Shannon-era ideas literalized as accounts of cognition). Complements the vault's Turing and Shannon sources by showing the limits of syntax and formal information when it comes to actual mental phenomena. Ties into epistemology (understanding, meaning, intentionality) and contrasts with purely formal or behavioral criteria. Strong vault-meta value for AI discussions: current large language models are spectacular at syntax/simulation; the Chinese Room remains a live challenge to claims of genuine understanding or 'thinking' solely in virtue of the program.
+
+**Dreyfus as ally against GOFAI, different diagnosis**: [[Thinkers/Hubert Dreyfus]] helped with the 1979 revision of *What Computers Can't Do* and is cited in 1992 on metaphor as a nonrepresentational capacity. Both reject the claim that a programmed digital computer has a mind in virtue of the program. Searle locates the failure in the syntax/semantics gap and in missing biological causal powers. Dreyfus locates it earlier: there are no discrete symbols with fixed significance, because significance is situational and bodily. A robot body would not help Searle (the robot reply still has only syntax) and might help Dreyfus if it were a *lived* body. See [[Contradictions/Dreyfus vs Computationalism - Skilled Coping vs Formal Rules]].
 
 **Dennett's Systems Reply (the canonical rejoinder)**: Daniel Dennett (*Consciousness Explained*, 1991) argues that Searle's Chinese Room illicitly substitutes a toy system (table-lookup) for the actual complexity required to pass the Turing Test. A program generating sophisticated, contextually apt, self-referential, meta-aware dialogue is "brimming with world knowledge and meta-knowledge"; we are not entitled to declare understanding absent while imagining only a minimal system. "There is also the System, CR, and it is to that self that we should attribute any understanding." Dennett also diagnoses Searle's intuition as sustained by the Cartesian Theater: the idea that there is a "real understanding" that formal processes miss only makes sense if you assume there is a neural finish-line at which understanding is "shown." Once the Cartesian Theater is abandoned, the Chinese Room's force largely dissipates. See [[Contradictions/Hofstadter vs Searle - Strange Loops vs Chinese Room]] and [[Thinkers/Daniel Dennett]].
 

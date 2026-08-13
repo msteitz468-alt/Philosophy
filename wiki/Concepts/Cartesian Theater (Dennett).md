@@ -5,7 +5,7 @@ domains: [philosophy-of-mind, cognitive-science, neuroscience]
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [dennett, cartesian-theater, cartesian-materialism, consciousness, homunculus, multiple-drafts, functionalism]
-sources: ["Consciousness Explained - Daniel C. Dennett.txt"]
+sources: ["Consciousness Explained - Daniel C. Dennett.md"]
 ---
 
 # Cartesian Theater (Dennett)
@@ -51,9 +51,15 @@ Any theory that posits a single neural location where "consciousness happens" mu
 - **[[Concepts/Heterophenomenology (Dennett)]]**: heterophenomenology is designed to study what subjects report without presupposing a Cartesian Theater generating those reports.
 - **[[Concepts/Center of Narrative Gravity (Dennett)]]**: the self, too, is not a brain-pearl at the center of the theater; it is an abstraction like center of gravity.
 
+Dehaene's [[Concepts/Global Neuronal Workspace (Dehaene)]] is the live test of whether one can keep a "stage" after discharging the homunculus. He accepts Dennett's warning and still affirms a central bottleneck whose ignition *is* the moment of consciousness. If that is Cartesian materialism with better anatomy, Multiple Drafts has not been assimilated; if the "audience" of unconscious processors is enough to block the regress, the Theater charge misses.
+
+[[Thinkers/Antonio Damasio]] (*Descartes' Error*, Ch. 5) cites Dennett's theater argument and rejects a single CinemaScope screen on neuroscientific grounds: no region processes all modalities at once; unity is "a trick of timing." His [[Concepts/Body-Minded Brain and Neural Self (Damasio)|neural self]] is "quite compatible" with no-theater; he then adds a lower subjectivity device (third image of the organism perceiving) that he distinguishes from Dennett's high-end Joycean machine.
+
 ## Sources
 
 - [[Sources/Consciousness Explained - Daniel C. Dennett (1991)]]
+- [[Sources/Consciousness and the Brain - Stanislas Dehaene (2014)]]
+- [[Sources/Descartes' Error - Antonio Damasio (1994)]]
 
 ## Related
 

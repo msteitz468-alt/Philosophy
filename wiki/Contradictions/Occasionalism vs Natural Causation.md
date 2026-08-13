@@ -7,7 +7,7 @@ created: "2026-06-04"
 updated: "2026-06-29"
 source_count: 4
 tags: [contradiction, causation, occasionalism, necessary-connexion, ghazali, ibn-rushd, maimonides, hume, medieval]
-sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).txt", "Incoherence of the Incoherence - Ibn Rushd", "The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt", "An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)"]
+sources: ["The Incoherence of the Philosophers (Abu Hamid Muhammad al-Ghazali) (z-library.sk, 1lib.sk, z-lib.sk).md", "Incoherence of the Incoherence - Ibn Rushd", "The Guide for the Perplexed (Moses Maimonides etc.) (z-library.sk, 1lib.sk, z-lib.sk).md", "An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)"]
 ---
 
 # Occasionalism vs Natural Causation
@@ -23,6 +23,7 @@ A dispute about whether causal power resides in created things at all. It is sim
 - In *The Incoherence of the Philosophers* (Seventeenth Discussion), al-Ghazali argues there is no necessary connection between what we call cause and effect; the "connection" is only habitual conjunction. God directly creates each event; the fire is merely the occasion on which God creates the burning — "as for fire, which is inanimate, it has no action."
 - This protects divine omnipotence and the possibility of miracles, and denies the philosophers' claim that the world runs by autonomous natures.
 - His primary text is now ingested ([[Sources/The Incoherence of the Philosophers - Al-Ghazali]]; held by [[Thinkers/Al-Ghazali]]) — no longer reconstructed only through Averroes' rebuttal. The text also shows al-Ghazali floating a *second*, conciliatory theory (things have real dispositions, but God can suspend them for miracles); Marmura and the sequel *Al-Iqtisad* identify strict occasionalism as the view he actually holds. Full treatment: [[Concepts/Occasionalism vs Natural Causation (Ghazali and Ibn Rushd)]].
+- **Schopenhauer’s Malebranche (Parerga I Sketch):** God is “the only active element”; physical causes are “mere occasional causes,” already “essentially the pantheism of Spinoza.” This is the ideal/real problem, not the Ghazali–Averroes fight. Flag only. See [[Concepts/Doctrine of the Ideal and the Real (Schopenhauer)]].
 
 ## Position B — Natural (secondary) causation (Ibn Rushd / Averroes)
 

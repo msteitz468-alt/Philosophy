@@ -5,7 +5,7 @@ status: complete
 domains: [ontology, phenomenology, existentialism, philosophy-of-mind, aesthetics]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Heidegger (Michael Inwood).txt"]
+sources: ["Heidegger (Michael Inwood).md"]
 tags: [philosophy, heidegger, phenomenology, ontology]
 ---
 

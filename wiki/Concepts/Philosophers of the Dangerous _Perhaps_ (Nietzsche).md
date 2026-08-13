@@ -6,7 +6,7 @@ schools: []
 domains: []
 source_count: 1
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 tags: [philosophy, nietzsche, free-spirits, revaluation, philosophers-of-the-future, perspectivism, dangerous-perhaps, modern-philosophy, beyond-good-and-evil]
 sources: ["Beyond Good and Evil - Nietzsche (AmazonClassics Edition)"]
 ---
@@ -21,7 +21,7 @@ Announced in *Beyond Good and Evil* (Preface + Chapter 1, esp. aph. 2). Having e
 
 > "Perhaps! But who wishes to concern himself with such dangerous 'Perhapses'! For that one must wait the arrival of a new order of philosophers… **philosophers of the dangerous 'Perhaps' in every sense of the term.** And to speak in all seriousness, I see such new philosophers beginning to appear."
 
-These are the "**philosophers of the future**," the "**free, very free spirits**" Nietzsche distinguishes from the dogmatists and the scholarly "philosophical labourers." Their mark is not a new doctrine but a new *stance*: experimental, suspicious of certainties, willing to risk, value-creating rather than truth-receiving.
+These are the "**philosophers of the future**." They are **not** identical with the present “free spirits.” §44: coming philosophers “will be free, very free spirits” *and* “something more, higher, greater, and fundamentally different”; “we free spirits” are “their heralds and forerunners.” Democratic *libres-penseurs* are a third abuse of the name. See [[Concepts/Free Spirit (Nietzsche)]]. Their mark is not a new doctrine but a new *stance*: experimental, suspicious of certainties, willing to risk, value-creating rather than truth-receiving.
 
 ## Key Arguments
 
@@ -29,12 +29,13 @@ These are the "**philosophers of the future**," the "**free, very free spirits**
 - **The tension of the bow.** The Preface's governing image: the long "struggle against Plato" (and against "Platonism for the 'people,'" Christianity) "produced in Europe a magnificent tension of soul… With such a tensely strained bow one can now aim at the furthest goals." Europe keeps trying "to unbend the bow" (Jesuitism; "democratic enlightenment"), but "we good Europeans, and free, very free spirits—we have it still, all the distress of spirit and all the tension of its bow! And perhaps also the arrow, the duty, and, who knows? **the goal to aim at**." The new philosopher *keeps the tension* and uses it.
 - **Beyond good and evil.** To "recognize untruth as a condition of life… has thereby alone placed itself beyond good and evil" — the new philosophers operate past the inherited moral antitheses (see [[Concepts/Beyond Good and Evil (Nietzsche)]]).
 - **Honesty about motive.** They abandon the dogmatist's "Tartuffery" (the pretence of disinterested dialectic concealing "the heart's desire abstracted and refined") — they own that thinking is value-laden and perspectival (links [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]] and [[Concepts/Perspectivism (Nietzsche)]]).
-- **Creators of values, agents of will to power.** They do not *find* values but *legislate* them — "genuine philosophers… are commanders and law-givers"; their knowing is "creating, their creating is a law-giving, their will to truth is — **Will to Power**" (see [[Concepts/Will to Power (Nietzsche)]]). This is the constructive flip-side of the chapter's critique.
+- **Creators of values, agents of will to power.** They do not *find* values but *legislate* them. Ch. VI makes the June citation good: Kant and Hegel are “philosophical workers” who “fix and formalize some great existing body of valuations”; “The *real* philosophers… are commanders and law-givers; they say: ‘Thus shall it be!’” “Their ‘knowing’ is *creating*… their will to truth is—*will to power*” (§211). §203: “a new type of philosopher and commander” who can “transvalue and invert ‘eternal valuations.’” §42 they may claim the name “tempters.” This is the constructive flip-side of the chapter’s critique.
 
 ## Contrasts / Lineage
 
 - **Vs. the dogmatists** ([[Thinkers/Plato]], [[Thinkers/Kant]], [[Thinkers/Spinoza]], the Stoics): the explicit foils — those who claimed pure, disinterested access to "the Truth"/"the Good in Itself"/"living according to Nature"/the categorical imperative. The new philosophers are defined *against* them.
 - **Vs. "philosophical labourers" and scholars**: Nietzsche also distinguishes the future philosopher from the able systematizer who merely tidies inherited values — the new philosopher *commands*.
+- **Not the 1878 [[Concepts/Free Spirit (Nietzsche)]].** *Human, All Too Human* I–III has a chemist of antitheses, not a legislator of “Perhapses.” The 1886 HAH Preface already talks “beyond good and evil”; still not this Ch. I figure.
 - **Kinship with [[Concepts/Perspectivism (Nietzsche)]] and [[Concepts/Belief in Antitheses of Values (Nietzsche)]]**: the "dangerous Perhaps" is the *practical attitude* that follows once truths are seen as perspectives and value-antitheses as prejudices.
 - **Affinity (in stance) with [[Concepts/Pragmatic Theory of Truth (James)]] / [[Concepts/Humanism - Reality as Malleable (Schiller and James)]]**: James's "philosophers of the dangerous 'Perhaps'"-like openness ("recognize untruth as a condition of life" ≈ "the true is the expedient"; reality as malleable). Differences of key: James meliorist/democratic, Nietzsche aristocratic/revaluing.
 - **Vs. [[Thinkers/Bertrand Russell]]**: Russell's "scientific truthfulness" and [[Concepts/Correspondence Theory of Truth (Russell)|correspondence truth]] are the antithesis — for Russell, "untruth as a condition of life" risks "cosmic impiety" (the intoxication of power). Nietzsche embraces precisely the danger Russell warns against.
@@ -50,6 +51,7 @@ These are the "**philosophers of the future**," the "**free, very free spirits**
 
 - [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]], [[Thinkers/Nietzsche]]
 - [[Concepts/Belief in Antitheses of Values (Nietzsche)]], [[Concepts/Perspectivism (Nietzsche)]], [[Concepts/Beyond Good and Evil (Nietzsche)]], [[Concepts/Will to Power (Nietzsche)]], [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]]
+- [[Concepts/Free Spirit (Nietzsche)]] (heralds, not the legislators)
 - [[Concepts/Sovereign Individual (Nietzsche)]] (the autonomous, value-bearing individual; kindred ideal from the *Genealogy*)
 - [[Thinkers/Plato]], [[Thinkers/Kant]], [[Thinkers/Spinoza]], [[Thinkers/William James]], [[Thinkers/Bertrand Russell]]
 - [[Concepts/Pragmatic Theory of Truth (James)]], [[Concepts/Humanism - Reality as Malleable (Schiller and James)]], [[Concepts/Correspondence Theory of Truth (Russell)]]

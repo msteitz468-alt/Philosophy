@@ -4,7 +4,7 @@ type: concept
 domains: [philosophy-of-language, philosophy-of-mind, epistemology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Philosophical Investigations (Ludwig Wittgenstein).txt"]
+sources: ["Philosophical Investigations (Ludwig Wittgenstein).md"]
 tags: [wittgenstein, meaning, use, ordinary-language, philosophical-investigations, semantics]
 ---
 

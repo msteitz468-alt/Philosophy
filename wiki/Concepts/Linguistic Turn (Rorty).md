@@ -5,7 +5,7 @@ created: "2026-06-29"
 updated: "2026-06-29"
 domains: [epistemology, metaphilosophy]
 tags: [rorty, linguistic-turn, pragmatism, metaphilosophy, therapy]
-sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+sources: ["Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md"]
 ---
 
 # Linguistic Turn (Rorty)

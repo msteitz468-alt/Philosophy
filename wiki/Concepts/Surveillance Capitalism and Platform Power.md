@@ -3,7 +3,7 @@ title: "Surveillance Capitalism and Platform Power"
 type: concept
 domains: [political philosophy, political economy, ethics]
 created: "2026-06-29"
-updated: "2026-06-29"
+updated: "2026-08-12"
 sources: ["Teachout - Break Em Up.md"]
 tags: [monopoly, surveillance, platform, big tech, corporate power, democracy]
 ---
@@ -43,7 +43,7 @@ Teachout invokes two analogies (partly following Tim Wu):
 
 ## Contradictions / Open Questions
 
-- > [!warning] Connects to [[Thinkers/Michel Foucault]]'s concept of *biopower* and *governmentality*: Foucault describes how power operates through surveillance, normalization, and the production of subjectivity — not just overt coercion. Platform surveillance is a perfect Foucauldian apparatus. Teachout does not cite Foucault, but the structural analysis is convergent.
+- > [!warning] Connects to [[Thinkers/Michel Foucault]]'s [[Concepts/Disciplinary Society and the Panopticon (Foucault)|panopticism]] more tightly than to later biopower. *Discipline and Punish* III.3: "Our society is one not of spectacle, but of surveillance"; the inmate "becomes the principle of his own subjection"; "circuits of communication" already support knowledge-centralization. Platform surveillance intensifies that diagram (visibility that makes the subject the bearer of power) but is not the Panopticon — do not map "platform" onto Bentham. Teachout does not cite Foucault; the structural analysis is convergent. See also [[Concepts/Biopolitics and Governmentality (Foucault)]].
 - > [!warning] Conflicts with libertarian defense: platforms are private; users consent; exit is available. Teachout's counter: consent under monopoly conditions is not free consent; exit is illusory (Facebook bought every competitor); users have no meaningful alternative.
 - > [!warning] The "mafia" analogy has limits: the Mafia uses violence; tech platforms use algorithmic manipulation and network effects. The power mechanisms are different even if the structural position is similar.
 
@@ -58,4 +58,5 @@ Teachout invokes two analogies (partly following Tim Wu):
 - [[Concepts/Chickenization of Labor]]
 - [[Concepts/Consumer Welfare Standard]]
 - [[Thinkers/Michel Foucault]]
+- [[Concepts/Disciplinary Society and the Panopticon (Foucault)]]
 - [[Concepts/Biopolitics and Governmentality (Foucault)]]

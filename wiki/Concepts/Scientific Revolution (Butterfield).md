@@ -4,7 +4,7 @@ type: concept
 domains: [history-of-science, historiography, philosophy-of-science, intellectual-history]
 created: "2026-06-04"
 updated: "2026-06-04"
-sources: ["the_origins_of_modern_science_text.txt"]
+sources: ["the_origins_of_modern_science_text.md"]
 tags: [butterfield, scientific-revolution, origins-of-modern-science, historiography-of-science, modernity, mental-revolution, copernican, galilean, newtonian, kuhn]
 ---
 

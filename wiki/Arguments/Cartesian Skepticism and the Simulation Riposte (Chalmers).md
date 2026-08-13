@@ -3,8 +3,8 @@ title: "Cartesian Skepticism and the Simulation Riposte (Chalmers)"
 type: argument
 domains: [epistemology, metaphysics]
 created: "2026-07-01"
-updated: "2026-07-01"
-sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+updated: "2026-08-12"
+sources: ["Reality+ (David J. Chalmers) (z-library.sk, 1lib.sk, z-lib.sk).md", "Are You Living in a Computer Simulation - Nick Bostrom (2003).md", "CB, 2016 -- Cambridge -- isbn13 9781107706965 -- 449c0ec507ffc9addf0e153da092b56a -- Anna’s Archive.pdf"]
 tags: [skepticism, descartes, external-world, simulation-riposte, moore, putnam, verificationism]
 ---
 
@@ -24,7 +24,7 @@ From Jonathan Harrison's 1967 "A Philosopher's Nightmare": to any proof of the e
 1. **Descartes's non-deceiving God** — Sim Descartes gets the idea of perfection while deceived; real simulations decisively undermine impossibility arguments.
 2. **Berkeley's idealism** (*esse is percipi*) — needs God to sustain unobserved reality; "any version of idealism that rests on equating our appearances with reality is doomed."
 3. **Verificationism** (Carnap; Wittgenstein's "Scepticism is not irrefutable, but obviously nonsensical") — the red-pill thought experiment shows the perfect simulation hypothesis stays meaningful; "Sim Bostrom was right all along."
-4. **Putnam's semantic contradictoriness argument** — works (if at all) against "brain in a vat," not "computer simulation"; Sim Putnam really is in one (developed further in ch. 20: externalism fails for structural words like "computer" and "simulation" — "Even if I'm in a computer simulation, I can truly say, 'I'm in a computer simulation'").
+4. **Putnam's semantic contradictoriness argument** — works (if at all) against "brain in a vat," not "computer simulation"; Sim Putnam really is in one (developed further in ch. 20: externalism fails for structural words like "computer" and "simulation" — "Even if I'm in a computer simulation, I can truly say, 'I'm in a computer simulation'"). The argument itself is now reconstructed from Pritchard and Ranalli 2016 (not from Putnam 1981): it is **semantic** (one cannot truly *think* "I am a BIV"), limited to lifelong computer envattment, and already under Brueckner/Wright/Stroud/Nagel pressure. See [[Arguments/Putnam Brain in a Vat Argument]], [[Concepts/Brain in a Vat]].
 5. **Russell's simplicity / Ockham's razor** — overridden once Bostrom-style reasoning gives positive reason to expect simulations.
 6. **Moore's proof** ("Here is one hand") — question-begging once simulation is a live possibility.
 
@@ -37,10 +37,14 @@ Chalmers **grants premise 1** (we can't know we're not simulated — indeed assi
 - **[[Thinkers/Descartes]]** ([[Sources/Meditations on First Philosophy - Descartes (Oxford, 2008)]]): the argument's source and final target; Chalmers keeps the doubt machinery, rejects the theistic rescue.
 - **[[Thinkers/George Berkeley]]**, **[[Thinkers/A.J. Ayer]]** ([[Sources/Language, Truth and Logic - A.J. Ayer (1936)]]), **[[Thinkers/Bertrand Russell]]** ([[Sources/The Problems of Philosophy - Bertrand Russell (1912)]] — the simplicity response): each refutation catalogued and rejected.
 - **Teresa of Ávila / al-Ghazali / Sextus Empiricus / [[Thinkers/Hume]]**: the longer skeptical lineage Chalmers surveys (Christia Mercer's case that Descartes "almost certainly read" Teresa's demon scenarios).
+- **[[Thinkers/Nick Bostrom]]** ([[Sources/Are You Living in a Computer Simulation - Nick Bostrom (2003)]]): not a skeptic. Horn (3) "should have no tendency to make us 'go crazy'" or stop us making plans for tomorrow; empirical study of the universe we see remains the guide. That is Chalmers's anti-skeptical *attitude* without the Reality-Question machinery. Bostrom's recommended credence is an even three-way split, not Chalmers's ≥25% floor on being a sim.
+- **[[Thinkers/Hilary Putnam]]** ([[Arguments/Putnam Brain in a Vat Argument]], reception via [[Sources/Putnam on BIVs and Radical Skepticism - Pritchard and Ranalli (2016)]]): the semantic ancestor of item 4. Pritchard and Ranalli insist the result is not a claim that one *knows* one is not a BIV. Chalmers's further point is that even that semantic result, if it stands, does not transfer from vats to simulations.
+- **[[Thinkers/Thomas Nagel]]** (1986, reported): treats Putnam's result as a reductio and as an exacerbation of skepticism. Third-pole contrast with Chalmers, who grants the Knowledge Question and relocates the fight. See [[Contradictions/Putnam vs Nagel - Semantic Anti-Skepticism vs Intelligible Skepticism]].
 - **[[Concepts/Reality and the External World (Heidegger)]]**: the vault's standing counter-position — Heidegger holds the "scandal of philosophy" is that proofs of the external world are *attempted* at all, since Dasein is already being-in-the-world. Chalmers stays inside the Cartesian problematic Heidegger rejects; where Heidegger dissolves the problem's premises, Chalmers answers it on its own terms.
 
 ## Sources
 - [[Sources/Reality+ - David J. Chalmers (2022)]]
+- [[Sources/Putnam on BIVs and Radical Skepticism - Pritchard and Ranalli (2016)]] (reconstruction of the Putnam item)
 
 ## Related
-- [[Thinkers/David Chalmers]] · [[Concepts/Simulation Hypothesis (Chalmers)]] · [[Concepts/Simulation Realism (Chalmers)]] · [[Concepts/Structuralism and the Garden of Eden (Chalmers)]]
+- [[Thinkers/David Chalmers]] · [[Concepts/Simulation Hypothesis (Chalmers)]] · [[Concepts/Simulation Realism (Chalmers)]] · [[Concepts/Structuralism and the Garden of Eden (Chalmers)]] · [[Arguments/Putnam Brain in a Vat Argument]] · [[Concepts/Brain in a Vat]] · [[Thinkers/Hilary Putnam]]

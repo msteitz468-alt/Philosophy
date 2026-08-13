@@ -7,7 +7,7 @@ schools: [Rationalism, Cartesianism]
 domains: [epistemology, metaphysics, ethics, philosophy-of-science, philosophy-of-mind]
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [descartes, discourse-on-method, cogito, method, provisional-morality, dualism, animal-machine, mechanism, early-modern, rationalism]
 ---
 
@@ -49,7 +49,7 @@ The *Discourse* is the vault's second Descartes primary source and the chronolog
 
 ## Sources
 
-- Raw: `raw/Ingested/Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt`
+- Raw: `raw/Ingested/Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).md`
 
 ## Related
 

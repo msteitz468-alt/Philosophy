@@ -7,7 +7,7 @@ domains: [metaphysics, philosophy-of-religion]
 source_count: 1
 created: "2026-07-01"
 updated: "2026-07-01"
-sources: ["The neoplatonic writings of Numenius (Numenius, of Apamea etc.) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The neoplatonic writings of Numenius (Numenius, of Apamea etc.) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 tags: [numenius, three-gods, demiurge, first-god, the-good, neoplatonism, hypostases, triad]
 ---
 

@@ -3,8 +3,8 @@ title: "Hofstadter vs Searle — Strange Loops vs Chinese Room"
 type: contradiction
 domains: [philosophy-of-mind, cognitive-science, ai, consciousness]
 created: "2026-06-04"
-updated: "2026-06-04"
-sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Minds, Brains and Science (1984 Reith Lect - Unknown.txt"]
+updated: "2026-08-12"
+sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Minds, Brains and Science (1984 Reith Lect - Unknown.md"]
 tags: [hofstadter, searle, strange-loop, chinese-room, syntax-semantics, strong-ai, consciousness, emergence, computationalism, biological-naturalism]
 ---
 
@@ -70,6 +70,8 @@ Hofstadter (implicit): at sufficient structural complexity, a simulation of cons
 
 Neither has persuaded the other, or the field.
 
+The [[Arguments/Simulation Argument (Bostrom)|simulation argument]] *takes Hofstadter's side as a premise* ([[Concepts/Substrate-Independence (Bostrom)]], attenuated: synaptic-level replication suffices). It does not argue the contradiction. If Searle is right, ancestor-simulations do not add observers and horn (3) is empty.
+
 ## Dennett as Third Voice
 
 [[Thinkers/Daniel Dennett]] (*Consciousness Explained*, 1991) enters the Hofstadter/Searle debate as a third voice — closer to Hofstadter, but with a different mechanism and a direct reply to Searle:
@@ -81,6 +83,10 @@ Neither has persuaded the other, or the field.
 - **Different mechanism from Hofstadter**: Hofstadter: consciousness arises from strange loops (self-referential hierarchy traversal, substrate-independent). Dennett: consciousness is the Joycean virtual machine — a more-or-less serial cultural software installation running on the brain's parallel hardware, implemented via memes (culturally transmitted patterns) and entrenched by the Baldwin Effect. Both accounts are functionalist and substrate-independent, but they offer distinct implementation stories.
 
 See [[Thinkers/Daniel Dennett]], [[Contradictions/Dennett vs Nagel - Multiple Drafts vs Subjective Experience]], and [[Sources/Consciousness Explained - Daniel C. Dennett (1991)]].
+
+## Dreyfus as Fourth Voice
+
+[[Thinkers/Hubert Dreyfus]] is not a third answer to "can syntax yield semantics?" He denies that the competence is syntactic in the first place. Everyday intelligence is situational know-how; there are no discrete symbols with fixed significance to loop over. Against Hofstadter, more self-reference does not help if the elements are the wrong kind. Against Searle, a lived body might matter even if biological causal powers are not the issue. The Dreyfus debate is therefore adjacent, not identical — see [[Contradictions/Dreyfus vs Computationalism - Skilled Coping vs Formal Rules]].
 
 ## Relation to Turing
 
@@ -95,6 +101,7 @@ The vault's 2026 AI sources — [[Sources/Daily Advanced AI Tips - 2026-06-02]],
 - [[Sources/Gödel, Escher, Bach - Douglas Hofstadter (1979)]]
 - [[Sources/Minds, Brains and Science - John Searle (1984)]]
 - [[Sources/Computing Machinery and Intelligence - Alan Turing (1950)]]
+- [[Sources/Are You Living in a Computer Simulation - Nick Bostrom (2003)]] (assumes the Hofstadter-side premise)
 
 ## Related
 

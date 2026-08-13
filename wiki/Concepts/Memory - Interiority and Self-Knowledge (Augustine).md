@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [augustine, memory, interiority, self-knowledge, confession, psychology, mind, in-interiore-homo, 4th-century, patristics]
-sources: ["Confessions - Augustine.txt"]
+sources: ["Confessions - Augustine.md"]
 ---
 
 # Memory - Interiority and Self-Knowledge (Augustine)

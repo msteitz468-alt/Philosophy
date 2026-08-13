@@ -6,7 +6,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [lovejoy, history-of-ideas, great-chain-of-being, plenitude, continuity, gradation, scala-naturae, platonism, neoplatonism, enlightenment, romanticism, unit-ideas, western-thought]
-sources: ["The Great Chain of Being - Lovejoy, Arthur; Stanlis, Peter J.;.txt"]
+sources: ["The Great Chain of Being - Lovejoy, Arthur; Stanlis, Peter J.;.md"]
 ---
 
 # The Great Chain of Being - Arthur O. Lovejoy (1936)

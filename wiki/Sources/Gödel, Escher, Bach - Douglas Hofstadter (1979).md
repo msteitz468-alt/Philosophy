@@ -5,7 +5,7 @@ domains: [ai, cognitive-science, philosophy-of-mind, logic, mathematics, conscio
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [hofstadter, geb, strange-loop, godel, escher, bach, formal-systems, consciousness, ai, emergence, self-reference, isomorphism]
-sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Godel's Proof - Ernest Nagel.txt", "Artificial Intelligence - Melanie Mitchell.txt"]
+sources: ["Douglas Hofstadter's Gödel, Escher, Bach (GEB).odt", "Godel's Proof - Ernest Nagel.md", "Artificial Intelligence - Melanie Mitchell.md"]
 ---
 
 # Gödel, Escher, Bach — Douglas Hofstadter (1979)

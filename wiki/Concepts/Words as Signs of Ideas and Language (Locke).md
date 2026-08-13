@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [locke, words, language, signs, ideas, general-terms, signification, epistemology, early-modern]
-sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.txt"]
+sources: ["An Essay Concerning Human Understanding - Locke", "Complete Works of John Locke - John Locke.md"]
 ---
 
 # Words as Signs of Ideas and Language (Locke)
@@ -23,6 +23,7 @@ Words (except proper names) are general, standing for sorts/ranks/species/genera
 
 - **With Hume**: Language as source of confusion (Hume's Fork partly cleans this; "flames" for sophistry).
 - **Wiki / signs / links**: Wikilinks and page titles as "words" standing for ideas (pages = complex ideas). Arbitrary but conventional; must stand for clear/determinate ideas in the "speaker" (Grok/maintainer) to avoid abuse (vague pages, equivocation in synthesis). General terms (concepts/categories) for sorts. "Secret reference to reality" = sources; to others' ideas = Dataview/users. Remedies = precise definitions (frontmatter, summaries), tracing to simple ideas/sources.
+- **With Ogden–Richards**: *The Meaning of Meaning* names Locke (Essay III) as a historical apex of the attack on verbal mystery. The [[Concepts/Triangle of Reference (Ogden-Richards)|triangle]] keeps his mediation (word does not touch thing) and replaces "idea" with a causal [[Concepts/Contextual Theory of Reference (Ogden-Richards)|reference]] checkable from others' behaviour. Ch. VI's **Nomads** are Locke's words without "determined ideas," renamed. Malinowski's "mode of action" then refuses the mentalist leftover for primitive speech.
 - **AI / communication**: Tokens/words as signs of internal representations. Generalization via abstract "ideas." Grounding problem if not tied to sensation/experience. Abuse = hallucination or ungrounded claims.
 
 ## Related

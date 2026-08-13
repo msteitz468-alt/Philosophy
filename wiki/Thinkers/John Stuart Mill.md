@@ -6,9 +6,9 @@ schools: [Utilitarianism, Liberalism, Empiricism]
 domains: [ethics, political-philosophy, epistemology]
 source_count: 4
 created: "2026-06-11"
-updated: "2026-06-11"
+updated: "2026-08-12"
 tags: [mill, utilitarianism, ethics, liberty, liberalism, harm-principle, political-philosophy]
-sources: ["Utilitarianism - John Stuart Mill.txt", "On Liberty - John Stuart Mill.txt", "The Rise and Decline of Nations (Mancur Olson).txt", "The Calculus of Consent (Buchanan, Tullock).txt"]
+sources: ["Utilitarianism - John Stuart Mill.md", "On Liberty - John Stuart Mill.md", "The Rise and Decline of Nations (Mancur Olson).md", "The Calculus of Consent (Buchanan, Tullock).md", "Anarchy, State, and Utopia - Robert Nozick (1974).md", "Isaiah Berlin and the Politics of Freedom - Baum and Nichols (2013).md"]
 ---
 
 # John Stuart Mill
@@ -47,6 +47,14 @@ Buchanan and Tullock's *The Calculus of Consent* (1962) formalizes and extends M
 
 See [[Thinkers/James M. Buchanan]], [[Thinkers/Gordon Tullock]], and [[Concepts/Constitutional Political Economy (Buchanan-Tullock)]].
 
+## Versus Berlin (2026-08-12 Ingest)
+
+[[Thinkers/Isaiah Berlin]] (reception: Baum/Nichols 2013) treats Mill as ancestor of the private area of non-interference *and* of the claim that democratic self-government is “not of each by himself but, at best, of each by all the rest.” Hanna Pitkin (via the editors): Mill wrote *On Liberty* rather than on freedom — “liberty” more formal and piecemeal than “freedom.” Tully analogizes Berlin’s colonial remarks (peoples “not ready”; “liberal-minded despots,” TC, 175–176) to Mill’s “severe discipline” of subject peoples; Crowder denies that Berlin licenses forcing others free from outside. See [[Concepts/Negative and Positive Liberty (Berlin)]] and [[Concepts/Liberty versus the Conditions of Liberty (Berlin)]].
+
+## Versus Nozick (2026-08-12 Ingest)
+
+[[Thinkers/Robert Nozick]] shares Mill's anti-paternalism (the state may not prohibit activities for people's *own* good) and recasts "experiments of living" as the [[Concepts/Framework for Utopia (Nozick)|framework for utopia]]. He rejects the [[Concepts/Greatest Happiness Principle (Mill)|Greatest Happiness Principle]] as the type-case of a time-slice / end-state principle, and treats a "utilitarianism of rights" (minimize violations) as still utilitarian in *form*. The [[Concepts/Harm Principle (Mill)|harm principle]] is closer in content (nonaggression) than in form (deontic [[Concepts/Side Constraints (Nozick)|side constraints]], not utility). "Taxation of earnings from labor is on a par with forced labor."
+
 ## Related Pages
 - [[Thinkers/James M. Buchanan]]
 - [[Thinkers/Gordon Tullock]]
@@ -57,7 +65,10 @@ See [[Thinkers/James M. Buchanan]], [[Thinkers/Gordon Tullock]], and [[Concepts/
 - [[Concepts/Greatest Happiness Principle (Mill)]]
 - [[Concepts/Harm Principle (Mill)]]
 - [[Thinkers/Kant]] — moral foil
+- [[Thinkers/Robert Nozick]] — shared anti-paternalism; GHP rejected as end-state; experiments of living become the utopian framework
+- [[Thinkers/Isaiah Berlin]] — reception of “Two Concepts”; Mill as ancestor and, for Tully, colonial analogue
 - [[Thinkers/Plato]] — whose elitist state Mill's liberty contrasts with
 
 ## Contradictions / Open Questions
 - > [!warning] Conflicts with [Kant](file:///home/mark/Documents/Philosophy/wiki/Thinkers/Kant.md) on whether the moral worth of an action is determined by its consequences (utility) or its intrinsic duty (categorical imperative) — see [[Contradictions/Utilitarian Consequentialism vs. Kantian Deontology]].
+- > [!warning] Conflicts with [[Thinkers/Robert Nozick]] on whether liberty is a utility-maximizing rule or a side constraint that upsets patterns — see [[Concepts/Entitlement Theory (Nozick)]] and [[Contradictions/Nozick vs Rawls - Historical Entitlement vs Patterned Justice]].

@@ -8,7 +8,7 @@ source_count: 3
 created: "2026-06-04"
 updated: "2026-06-03"
 tags: [epicurus, lucretius, atomism, physics, swerve, clinamen, free-will, mortalism, secondary-qualities, classical, hellenistic, roman]
-sources: ["Letters and Sayings of Epicurus - Epicurus.txt", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Lucretius - on the nature of things - Dinko Tontchev.txt"]
+sources: ["Letters and Sayings of Epicurus - Epicurus.md", "Classical Philosophy - Stoics, Additional Plato Dialogues, and Notes 2026", "Lucretius - on the nature of things - Dinko Tontchev.md"]
 ---
 
 # Epicurean Atomism (Swerve)

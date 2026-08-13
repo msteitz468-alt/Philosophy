@@ -6,7 +6,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [philosophy, epistemology, empiricism, early-modern, locke, john-locke, tabula-rasa, ideas, anti-innatism]
-sources: ["Complete Works of John Locke - John Locke.txt"]
+sources: ["Complete Works of John Locke - John Locke.md"]
 ---
 
 # An Essay Concerning Human Understanding - Locke
@@ -135,7 +135,7 @@ Productive tensions now richer with primary/secondary in place: vs. Lucretius (e
 
 ## Sources
 
-- `raw/Complete Works of John Locke - John Locke.txt` (Delphi Classics 2017 edition; Second Edition text of the *Essay* with Locke's own notes on revisions).
+- `raw/Complete Works of John Locke - John Locke.md` (Delphi Classics 2017 edition; Second Edition text of the *Essay* with Locke's own notes on revisions).
 
 ## Related
 

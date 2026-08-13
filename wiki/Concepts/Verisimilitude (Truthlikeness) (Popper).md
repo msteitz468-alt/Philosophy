@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [popper, verisimilitude, truthlikeness, truth-content, falsity-content, tarski, correspondence-theory, probability, growth-of-knowledge, critical-rationalism]
-sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.txt"]
+sources: ["Conjectures and Refutations_ The Growth of - Karl Popper.md"]
 ---
 
 # Verisimilitude (Truthlikeness) (Popper)

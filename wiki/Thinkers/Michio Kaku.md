@@ -8,7 +8,7 @@ source_count: 1
 created: "2026-06-04"
 updated: "2026-06-04"
 tags: [michio-kaku, physics-of-the-future, string-theory, futurism, kardashev-scale, planetary-civilization, 2100, popular-science, c-uny, visions, physics-of-the-impossible]
-sources: ["Physics of the Future - Michio Kaku.txt"]
+sources: ["Physics of the Future - Michio Kaku.md"]
 ---
 
 # Michio Kaku

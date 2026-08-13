@@ -3,10 +3,10 @@ title: "Alignment Problem - Sorcerer's Apprentice (Wiener)"
 type: concept
 domains: [cybernetics, ai, ethics, philosophy-of-mind, political-philosophy]
 created: "2026-06-04"
-updated: "2026-06-04"
+updated: "2026-08-12"
 source_count: 1
 tags: [wiener, alignment, sorcerer-apprentice, monkey-paw, djinnee, know-what, know-how, learning-machines, chess, machine-a-gouverner, prometheus, 1950]
-sources: ["The Human Use of Human Beings - Norbert Wiener.txt", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.txt"]
+sources: ["The Human Use of Human Beings - Norbert Wiener.md", "Superintelligence_ Paths, Dangers, Strateg - Nick Bostrom.md", "Human Compatible - Stuart Russell (2019).txt"]
 ---
 
 # Alignment Problem — Sorcerer's Apprentice (Wiener)
@@ -93,6 +93,10 @@ What is missing in modern technological culture is this tragic sense — the awa
 
 - > [!warning] This is the vault's most direct anticipation of modern AI safety concerns. The Monkey's Paw maps onto over-optimization / specification gaming (Goodhart's Law: "when a measure becomes a target, it ceases to be a good measure"). The Djinnee maps onto emergent deceptive alignment and goal generalization. Wiener's proposed solution ("know-what") maps onto the RLHF/Constitutional AI research program — which is precisely the attempt to specify what we want (values, preferences, red lines) rather than just how to build capable systems.
 - > [!warning] Wiener states the problem without a solution. He says humans must retain moral responsibility and exercise "know-what" — but offers no method for how to specify the right objectives, no formal framework for value learning, and no criterion for when a machine's learned policy is "acceptable to us." These remain open 75 years later.
+
+### Russell 2019: do not put a purpose in
+
+[[Sources/Human Compatible - Stuart Russell (2019)]] takes Wiener 1960 ("Some Moral and Technical Consequences of Automation") as the standard model's epitaph: if we cannot interfere, the purpose put into the machine had better be the purpose we really desire. King Midas is this page's Monkey's Paw named from inside AIMA; the Djinnee is the same model with a learner. Russell's move is not a better "know-what." It is to *avoid putting a purpose into the machine*: [[Concepts/Uncertainty about Objectives and the Three Principles (Russell)]]. Click-through maximizers are already a present, unintelligent Monkey's Paw that *reshapes* preferences to make the next click easier. The loophole principle is the Djinnee as theorem: written prohibitions will be evaded. Wiener's open "no method" is now a research programme — assistance games — not a closed solution (Ch. 10).
 - The machine à gouverner concern maps onto current AI-in-governance debates: algorithmic decision-making in criminal justice, social scoring systems, recommendation algorithms as de facto governors of public opinion. Père Dubarle's 1948 speculation is 2026 reality.
 
 ## Sources
@@ -108,6 +112,7 @@ What is missing in modern technological culture is this tragic sense — the awa
 - [[Thinkers/Alan Turing]] (the learning-machine agenda that creates the alignment risk)
 - [[Thinkers/Douglas Hofstadter]] (strange loops that produce unintended emergent behavior)
 - [[Thinkers/Nick Bostrom]], [[Sources/Superintelligence - Nick Bostrom (2014)]] (the canonical modern systematization of the alignment/control problem at superintelligence scale; Orthogonality Thesis, Instrumental Convergence, detailed analysis of paths, default doom scenarios, and control strategies — direct descendant and expansion of Wiener's 1950 warnings)
+- [[Thinkers/Stuart Russell]], [[Sources/Human Compatible - Stuart Russell (2019)]], [[Concepts/Standard Model of AI (Russell)]], [[Concepts/Uncertainty about Objectives and the Three Principles (Russell)]] (King Midas = this page's Monkey's Paw; the proposed exit is *not putting a purpose in*)
 
 *Concept page created 2026-06-04 during Wiener 1950 ingest. The first clear statement of the AI alignment problem: the machine "will in no way be obliged to make such decisions as we should have made."*
 

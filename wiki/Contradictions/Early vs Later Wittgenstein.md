@@ -4,7 +4,7 @@ type: contradiction
 domains: [philosophy-of-language, logic, philosophy-of-mind]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["Philosophical Investigations (Ludwig Wittgenstein).txt", "Tractatus Logico-Philosophicus - Ludwig Wittgenstein.txt", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+sources: ["Philosophical Investigations (Ludwig Wittgenstein).md", "Tractatus Logico-Philosophicus - Ludwig Wittgenstein.md", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md"]
 tags: [wittgenstein, tractatus, philosophical-investigations, contradiction, meaning, picture-theory, use]
 ---
 

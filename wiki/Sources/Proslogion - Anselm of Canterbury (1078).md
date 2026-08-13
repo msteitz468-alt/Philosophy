@@ -5,7 +5,7 @@ domains: [theology, metaphysics, philosophy-of-religion]
 source_count: 1
 created: "2026-06-11"
 updated: "2026-06-11"
-sources: ["Proslogion - Anselm of Canterbury.txt"]
+sources: ["Proslogion - Anselm of Canterbury.md"]
 tags: [anselm, proslogion, ontological-argument, medieval, scholasticism, theology]
 ---
 
@@ -59,7 +59,7 @@ Using the *unum argumentum*, Anselm deduces the traditional divine attributes:
 ---
 
 ## Sources
-- Raw text: `raw/Proslogion - Anselm of Canterbury.txt` (61,352 bytes)
+- Raw text: `raw/Proslogion - Anselm of Canterbury.md` (61,352 bytes)
 
 ## Related
 - [[Thinkers/Anselm of Canterbury]]

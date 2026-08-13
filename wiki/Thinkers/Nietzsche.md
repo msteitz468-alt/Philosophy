@@ -4,11 +4,11 @@ type: thinker
 era: "19th century"
 schools: []
 domains: [ethics, metaphysics, epistemology]
-source_count: 3
+source_count: 16
 created: 2026-06-04
-updated: 2026-06-04
-tags: [nietzsche, philosophy, ethics, will-to-power, perspectivism, revaluation, critique, modern-philosophy, beyond-good-and-evil, genealogy-of-morals, master-slave, ressentiment, bad-conscience, ascetic-ideal]
-sources: ["Beyond Good and Evil - Nietzsche (AmazonClassics Edition)", "The Genealogy of Morals - Nietzsche (1887)", "Heidegger (Michael Inwood).txt"]
+updated: "2026-08-12"
+tags: [nietzsche, philosophy, ethics, will-to-power, perspectivism, revaluation, critique, modern-philosophy, beyond-good-and-evil, genealogy-of-morals, gay-science, death-of-god, eternal-recurrence, amor-fati, human-all-too-human, free-spirit, decadence, wagner, zarathustra, twilight-of-the-idols, antichrist, birth-of-tragedy, apollinian, truth-and-lies, dawn]
+sources: ["The Dawn of Day - Nietzsche (Kennedy, Collection 2013).md", "Ecce Homo - Nietzsche (Collection 2013).md", "On Truth and Lies in a Nonmoral Sense - Nietzsche (Breazeale, Collection 2013).md", "The Birth of Tragedy - Nietzsche (Kaufmann, Collection 2013).md", "The Antichrist - Nietzsche (Mencken, Collection 2013).md", "Twilight of the Idols - Nietzsche (Kaufmann).md", "Thus Spoke Zarathustra - Nietzsche (Common 1909).md", "Human, All Too Human - Nietzsche (Zimmern, Collection excerpt).md", "The Gay Science - Nietzsche (Kaufmann 1974).md", "Beyond Good and Evil - Nietzsche (AmazonClassics Edition)", "The Genealogy of Morals - Nietzsche (1887)", "On the Genealogy of Morals - Nietzsche (Johnston, from 22 Classic Works).md", "Heidegger (Michael Inwood).md", "The Friedrich Nietzsche Collection 22 Classic Works.md", "The Will to Power - Nietzsche (Kaufmann, Collection 2013).md", "Nietzsche Contra Wagner - Nietzsche (Ludovici, Collection 2013).md"]
 ---
 
 # Friedrich Nietzsche (1844–1900)
@@ -21,15 +21,26 @@ Context: Post-Hegelian, post-Schopenhauer, post-Darwin; amid German unification,
 
 ## Major Works (relevant to this source)
 
-- *Beyond Good and Evil: Prelude to a Philosophy of the Future* (1886): Aphoristic critique of philosophical prejudices, introduction of will to power, perspectivism, call for new philosophers of the dangerous "Perhaps," revaluation. Direct attack on dogmatism (Plato, Kant, Spinoza, Stoics). Sets up the project continued in *Genealogy of Morals*.
+- *Beyond Good and Evil: Prelude to a Philosophy of the Future* (1886; Zimmern, AmazonClassics + same text in the 2013 collection): **now a complete primary**, not Preface + Ch. I. Will to power defined (§13 discharge; §259 organic); free spirits as heralds, not legislators (§44); soul as social structure (§§12, 19); master/slave first stated as typology (§260); pathos of distance and order of rank (§§257, 263). *Genealogy* amplifies §260. See [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]].
 
 - *On the Genealogy of Morals* (1887): The analytic and historical "polemic" that completes and grounds the revaluation. Preface (personal origin of the problem, response to Rée's utilitarian "English" psychology, call for critique of the *value* of morality and "grey" authentic history over blue vacuum theories, "rumination" as reading art). First Essay: master morality ("good/bad" from pathos of distance and aristocratic self-affirmation) vs. slave morality ("good/evil" from ressentiment of the weak/priestly; the Jewish/Christian slave revolt in morals, "evil enemy" construction, Rome vs. Judaea). Second Essay: sovereign individual (the late fruit of the morality of custom — the autonomous being competent to promise, with proud conscience as memory of the will); bad conscience as internalization of instincts when the free savage is caged by society/peace (the "illness" of man that is also "pregnancy" of soul, idealism, beauty); "ought" from "owe" (debt/guilt in creditor-ower relation); punishment's many meanings (not primarily to create remorse). Third Essay: "What is the meaning of ascetic ideals?" (nothing or too much for artists; flair for intellect in philosophers; best engine of power for priests; "horror vacui" — man needs a goal and will sooner will nothingness than not will). The genealogical method and full moral-historical account behind "beyond good and evil."
 
-- Other: *Thus Spoke Zarathustra* (poetic, eternal recurrence, Übermensch, will to power); *The Gay Science* (God is dead, eternal recurrence thought experiment).
+- *Human, All Too Human* (1878; 1886 Preface; Zimmern, collection excerpt = Preface + Vol. I chs. I–III only): first of the free-spirit series. 1878 chemistry of feelings and historical philosophising; two-fold origin of good and bad; saint as misread type. 1886 Preface is a second voice. See [[Sources/Human, All Too Human - Nietzsche (Zimmern, Collection excerpt)]].
+- *The Dawn of Day* (1881; 1886 Preface; J. M. Kennedy, from the 2013 22-work collection): the missing middle of the free-spirit series. 1886 Preface: undermine *faith in morals*; morality as Circe of philosophers; *autosuppression of morals*. 1881: morality of custom (§9); two denials of morality as alchemy (§103); feeling / love / demon of power (not will to power); pity as a multiplier of suffering; close §575 other birds will fly farther. See [[Sources/The Dawn of Day - Nietzsche (Kennedy, Collection 2013)]], [[Concepts/Morality of Custom (Nietzsche)]], [[Concepts/Faith in Morals (Nietzsche)]], [[Concepts/Feeling of Power (Nietzsche)]].
+- *The Gay Science* (1882; 2nd ed. 1887, Kaufmann Vintage 1974): last of the free-spirit series and the book that first *publishes* the death of God (§§108, 125, 343), *amor fati* (§276), and eternal recurrence as the greatest-weight thought-experiment (§341), then hands the next book to Zarathustra (§342). See [[Sources/The Gay Science - Nietzsche (Kaufmann 1974)]].
+- *On Truth and Lies in a Nonmoral Sense* (written 1873, unpublished; Breazeale, from the 2013 22-work collection): Nachlass essay. Truth as a movable host of worn-out metaphors; concept = equation of unequals; metaphor-drive escapes into myth and art; rational vs intuitive man. Not Kaufmann’s “mobile army.” See [[Sources/On Truth and Lies in a Nonmoral Sense - Nietzsche (Breazeale, Collection 2013)]].
+- *The Birth of Tragedy* (1872; Kaufmann, from the 2013 22-work collection): first book; Apollinian–Dionysian duality; tragedy from the spirit of music; aesthetic justification of existence; Socrates as theoretical man; Wagner as hoped German rebirth. **No 1886 “Attempt at a Self-Criticism” in this extract.** See [[Sources/The Birth of Tragedy - Nietzsche (Kaufmann, Collection 2013)]].
+- *The Case of Wagner: A Musician’s Problem* (1888; Ludovici/Levy line, from the 2013 22-work collection): decadence as the master problem of which good and evil is a subdivision; Wagner as Cagliostro of modernity and complete *décadent*; actor vs musician; three requisitions against theatrocracy. See [[Sources/The Case of Wagner - Nietzsche (1888)]].
+- *Thus Spoke Zarathustra* (1883–85; Thomas Common 1909, extracted from the same 2013 collection): the poetic continuation GS §342 hands off. Down-going; Superman (*Übermensch*) vs last man; three metamorphoses; Will to Power named as Life's self-surpassing (*before* BGE); redemption of the "It was"; eternal return as abysmal thought (dwarf / Moment / animals / bite); higher men who are not the Superman. Common's "Superman" is a translation, not Kaufmann's "overman." The phrase *amor fati* is not in this book. See [[Sources/Thus Spoke Zarathustra - Nietzsche (Common 1909)]].
+- *Twilight of the Idols* (written 1888; pub. 1889; Kaufmann *Portable Nietzsche* text from the same 2013 collection): recreation from the Revaluation that is also a declaration of war; eternal idols sounded with a hammer as a tuning fork. Problem of Socrates; six-stage True World fable; morality as anti-nature; four great errors; improvers; last disciple of Dionysus / teacher of the eternal recurrence. See [[Sources/Twilight of the Idols - Nietzsche (Kaufmann)]].
+- *The Antichrist* (written 1888; pub. 1895; H. L. Mencken 1920, from the same 2013 collection): Book I of the Revaluation. §2 table of values; pity as technic of nihilism; Jesus-type vs Paul the dysangelist; condemnation dated from today. Mencken says *transvaluation*, not Kaufmann’s *revaluation*. See [[Sources/The Antichrist - Nietzsche (Mencken, Collection 2013)]].
+- *The Will to Power* (notebooks 1883–1888; Kaufmann/Hollingdale, from the same 2013 collection): **not a published book**. Excerpt only — Preface + Book I (notes 1–134) + Book III.I (466–617). Books II & IV and n.1067 are missing. See [[Sources/The Will to Power - Nietzsche (Kaufmann, Collection 2013)]].
+- *Ecce Homo: How One Becomes What One Is* (written Oct–Nov 1888; published 1908; from the 2013 22-work collection): the last completed book. Self-review of the whole corpus, the Yes-half/No-half periodization, the *amor fati* formula, the dating of eternal recurrence to August 1881 at Silvaplana, the definition of the immoralist, and "Dionysus against the Crucified." **The vault's copy lacks the Preface and "Why I am So Wise."** See [[Sources/Ecce Homo - Nietzsche (Collection 2013)]].
+- Other: remainder of HATH (Vol. I chs. IV–IX and Volume II) and the History / Schopenhauer Untimelies remain outstanding. *Dawn* is now ingested. The 22-work collection stays in `raw/` for those.
 
-## Key Philosophical Positions (from *Beyond Good and Evil*, Preface + Chapter 1; *Genealogy of Morals*, full)
+## Key Philosophical Positions (from *Beyond Good and Evil*, **complete**; *Genealogy of Morals*, full)
 
-**From BGE (Preface + Ch. 1)**: (see prior; Will to Truth questioned, belief in antitheses as fundamental prejudice, philosophy as involuntary autobiography, will to power as tyrannical "creation of the world," "recognize untruth as condition of life," "beyond good and evil," "dangerous 'Perhaps,'" "frog perspectives," explicit critiques of Plato/Christianity, Kant ("Tartuffery"), Spinoza (hocus-pocus/mask), Stoics ("living according to Nature" as fraud), call for free spirits with the tension of the bow.)
+**From BGE (complete, 2026-08-12)**: Preface + Ch. I as before (Will to Truth; antitheses; autobiography; untruth as condition of life; Tartuffery of Kant; Spinoza’s mask; Stoic Nature as fraud). **Now also:** life as discharge of strength, not self-preservation (§13); soul-atomism out, soul as social structure of instincts (§12); “I think” not immediate certainty (§§16–17); will as command/obey, strong vs weak wills (§§19, 21); Nature’s laws as interpretation (§22); psychology as morphology of will to power (§23). Free spirits ≠ philosophers of the future ≠ *libres-penseurs* (§44). Religious instinct grows after theism; ladder of cruelty ends in sacrificing God for nothingness (§§53–55). Morals as sign-language and herd-fear (§§187, 201); Kant and Hegel as philosophical *workers*, genuine philosophers as commanders (§211). Honesty as leftover virtue of free spirits (§227). Good Europeans vs fatherlands (§§241, 256). Pathos of distance; exploitation as organic WzM; master/slave typology in one soul (§§257–260). Dionysus as genius of the heart (§295). See [[Concepts/Free Spirit (Nietzsche)]], [[Concepts/Soul as Social Structure (Nietzsche)]], [[Concepts/Pathos of Distance and Order of Rank (Nietzsche)]].
 
 **From *Genealogy of Morals***:
 - **Master vs. slave morality**: "Good" originates among the aristocratic/powerful via "pathos of distance" and self-affirmation (good/bad); slave morality inverts via ressentiment of the weak/priestly ("good/evil," the "evil enemy" as creation of the resentful imagination, the Jewish/Christian transvaluation as the most fateful revolt of the slaves). "Rome against Judaea" — Judaea provisionally victorious (Christianity as "Platonism for the 'people'" and the crown of hate/revenge). "Beyond Good and Evil" is not "Beyond Good and Bad."
@@ -40,6 +51,51 @@ Context: Post-Hegelian, post-Schopenhauer, post-Darwin; amid German unification,
 - **Genealogy as method**: "Grey" authentic history of moral values (origins in power, naming, ressentiment, internalization) over "blue vacuum" English utilitarian theories. The tool for questioning the *value* (not just origin) of morality and all inherited "good" things. "Rumination" as the art of reading. 
 
 The *Genealogy* supplies the full historical-psychological account that makes the BGE revaluation and "beyond good and evil" concrete and rigorous.
+
+**From Johnston (second translation, same book, 2026-08-12):** see [[Sources/On the Genealogy of Morals - Nietzsche (Johnston)]] and [[Concepts/Genealogy (Nietzsche)]]. Do not merge Samuel and Johnston wording. Johnston: "knowledgeable people," **gray** (not grey), **resentment** (not French *ressentiment*), "slave revolt in morality," Napoleon as "inhuman and the superhuman," sovereign individual **"beyond morality"** and **entitled** to promise. **"Will to power" is not in Essay I** (only "will to overpower"); it arrives at II.12 (origin ≠ purpose) and III.11/14 (priest / weakest). Essay III's hole, now filled: science is **not** the opposing ideal but "its newest and most pre-eminent form"; last unbelievers "still believe in the truth"; GS V "The Extent to Which We Also Are Still Devout" (vault §344) is cited; Christian truthfulness kills the Christian God then must ask what the will to truth *means*; close: "man will sooner will nothingness than not will." No Sils-Maria date in this extract. Prologue VIII requires *Zarathustra* first — that source is in progress from the same collection (Common 1909).
+
+## From *Human, All Too Human* (1878 / 1886 Preface)
+
+The vault's first free-spirit *primary*, and the earliest Nietzsche voice now on disk. Collection excerpt only: 1886 Preface + Volume I, chapters I–III. Do not import later jargon; search found no will to power, death of God, eternal recurrence, *amor fati*, or ressentiment in the 1878 chapters.
+
+- **Two voices.** 1878 is the chemist. 1886 Preface (Nice, Spring — BGE's season) is the convalescent who already talks "beyond good and evil" and *Rangordnung*. Free spirits "do not really exist and never did exist"; he invented them as comrades. See [[Concepts/Free Spirit (Nietzsche)]].
+- **Method (§§1–2).** Apparent antitheses are errors of popular or metaphysical comprehension. What is needed is a chemistry of moral, religious, and aesthetic feelings. "Lack of the historical sense is the traditional defect in all philosophers." "There are no eternal facts as there are no absolute truths." See [[Concepts/Historical Philosophising and the Chemistry of Concepts (Nietzsche)]].
+- **Thing-in-itself (§16).** Homeric laughter: it seemed everything and is "a void—void, that is to say, of meaning."
+- **Two-fold origin (§45).** Good and bad from ruling requital vs. subjugated hostility; for a period "noble and servile, master and slave." Existing morality from ruling races and castes. Custom vs. emancipation, not egoistic vs. non-egoistic (§96). Close: "Everything is necessity… All is guiltlessness" (§107). **Not** the 1887 slave revolt. See [[Concepts/Two-fold Historical Origin of Good and Evil (Nietzsche)]].
+- **Religion (§§108–144).** No truth in religion as dogma or allegory (§110). Need of salvation is psychology (false mirror, imaginary sin, "self-grace"). Saint-chemistry: compound impulses; historical weight is optical (§143). Not the 1887 *horror vacui*.
+
+## From *The Dawn of Day* (1881 / 1886 Preface; Kennedy)
+
+The missing free-spirit middle. 1886 Preface names the task: undermine [[Concepts/Faith in Morals (Nietzsche)]]; Circe of philosophers; *autosuppression of morals*. 1881 does the mining.
+
+- **Morality of custom (§9).** Morality *is* obedience to tradition as command. The free man who depends on himself is *immoral*. Later *Genealogy* II's sovereign individual is the fruit, not this aphorism. See [[Concepts/Morality of Custom (Nietzsche)]].
+- **Two denials (§103).** Deny morals as one denies alchemy (the hypotheses), not only the hypocrisy of motives. "Learn anew… feel anew." The 1888 "immoralist" title has a different pair of denials.
+- **Feeling of power.** Strongest propensity (§23); demon of mankind instead of need (§262). **Not** will to power. See [[Concepts/Feeling of Power (Nietzsche)]].
+- **Pity.** Multiplies suffering (§134); comedy (§383). Earlier than *The Antichrist*'s technic.
+- **Close.** §573 casting the skin; §575 other birds will fly farther.
+
+Absent from the whole book (searched): will to power, death of God, *amor fati*, eternal recurrence, ressentiment, master/slave.
+
+## From *Thus Spoke Zarathustra* (1883–85; Common 1909)
+
+The vault's first full primary of the book GS ends by handing over. Four things reception had flattened:
+
+1. **Superman ≠ higher man ≠ last man.** The Prologue teaches the *Übermensch* as meaning of the earth and man as rope/bridge. The market asks for the last man instead. Part IV's higher men are bridges and failures; pity for them is the last sin. See [[Concepts/The Superman (Nietzsche)]], [[Concepts/The Last Man (Nietzsche)]], [[Concepts/The Higher Man (Nietzsche)]].
+2. **Will to Power is named here first.** Part I "Thousand and One Goals" (a people's table); Part II "Self-Surpassing" (Life must ever surpass itself; not Will to Life). BGE is the later analytic, not the introduction of the name.
+3. **Redemption is re-willing the past.** "It was" → "Thus would I have it." Revenge = the Will's antipathy to time. The thought he will not speak is return. See [[Concepts/Redemption of the It Was (Nietzsche)]].
+4. **Return has three voices.** Dwarf: time is a circle (too light). Zarathustra: gateway This Moment. Animals: hurdy-gurdy of the identical. The nausea is that the *smallest man* returns. *Amor fati* is not in the book. See [[Concepts/Eternal Recurrence (Nietzsche)]], [[Concepts/Three Metamorphoses (Nietzsche)]].
+
+## From *The Gay Science* (1882 / 1887)
+
+The vault's first Nietzsche primary *from this book*, not from later report. Kaufmann: a microcosm and a work of art; 1882 ended at §342; 1887 added the Preface, Book V, and the songs.
+
+- **Title.** *Die fröhliche Wissenschaft* / *la gaya scienza* — not "joyful wisdom" (*Wissenschaft* never means wisdom) and not mere cheerfulness. Provençal *gai saber* (art of poetry) plus a rigorous quest for knowledge that can sing: an "artistic Socrates."
+- **Preface (1887).** Saturnalia of a convalescent. Deprivations philosophize vs riches; philosophy as "interpretation of the body"; stake of philosophizing hitherto is "health, future, growth, power, life." Great pain teaches suspicion. *Incipit tragoedia* at the end of the first edition is also *incipit parodia*. See [[Concepts/The Great Health (Nietzsche)]], [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]].
+- **Book I.** Teachers of the purpose of existence (man must periodically know *why* he exists); [[Concepts/Intellectual Conscience (Nietzsche)]] (§2); species-preserving "evil"; **feeling of power** (§13 — not yet "will to power"); consciousness as late and unfinished; Epicurus's afternoon happiness invented by a man who suffered continually (§45); appearance is not the opposite of essence (§54).
+- **Book II.** "There is no 'reality' for us" (§57); "We can destroy only as creators" (§58); art as "the good will to appearance" so that after science's untruth "existence is still *bearable* for us" (§107). Schopenhauer's followers take the vices and skip the intellectual conscience (§99).
+- **Book III.** [[Concepts/Death of God (Nietzsche)]]: shadows first (§108), de-deified nature (§109), then the madman who tells *unbelievers* they have murdered God and come too early (§125). "Morality is herd instinct in the individual" (§116). "Life is no argument" (§121). "You shall become the person you are" (§270). Seal of liberation: no longer ashamed before oneself (§275).
+- **Book IV, *Sanctus Januarius*.** [[Concepts/Amor Fati (Love of Fate)]] coined (§276) — see the necessary as beautiful, make things beautiful, Yes-sayer; *not* in-text the same as recurrence. Give style to one's character (§290). Live dangerously (§283). Stoic hedgehog vs Epicurean garden (§306). "Long live physics!" against the categorical imperative (§335). Dying Socrates: last word read as "life is a disease"; "we must overcome even the Greeks" (§340). [[Concepts/Eternal Recurrence (Nietzsche)]] as demon's *if* (§341). *Incipit tragoedia* (§342).
+- **Book V, 1887.** Cheerfulness as first consequence of God's becoming unbelievable (§343); "we too are still pious" — toward *truth* (§344); morality not yet a problem (§345); our question mark (§346); need to believe as measure of weakness (§347); life aims at expansion of power, not mere self-preservation (§349); perspectivism as he understands it (§354); Christian truthfulness kills God (§357); romanticism vs Dionysian pessimism (§370); new infinite of interpretations (§374); homeless good Europeans (§377); the great health (§382).
 
 **Critique of dogmatism and the "prejudices of philosophers"**: All previous philosophy (especially metaphysics) rests on unexamined beliefs in antitheses of values (true/false, good/evil, being/becoming, etc.), the "Thing-in-itself," Pure Spirit, the Good in Itself. These are "super-terrestrial pretensions," often based on popular superstition (soul/ego-superstition), grammar deception, or over-generalization of human facts. "The fundamental belief of metaphysicians is the belief in antitheses of values." The "Will to Truth" itself must be questioned: why truth rather than untruth, uncertainty, ignorance? "Granted that we want the truth: why not rather untruth?"
 
@@ -85,11 +141,126 @@ Heidegger's relationship with Nietzsche is a cornerstone of his later philosophy
 
 See [[Thinkers/Martin Heidegger]] and [[Concepts/Historicality and the Turn (Heidegger)]].
 
+## Hadot's Nietzsche (1995)
+
+[[Thinkers/Pierre Hadot]] uses Nietzsche twice, not as a genealogist of morals. (1) The **figure of Socrates**: amorous hatred — life-loving Eroticist vs dying Socrates / Dionysos / last words of the *Phaedo*; “The pathways of the most various philosophical modes of life lead back to him.” See [[Thinkers/Socrates]]. (2) The **present instant**: “If we say ‘Yes!’ to one single, unique moment: we have thus said yes, not only to ourselves, but to the whole of existence.” Hadot does not say *amor fati* here; the substance is [[Concepts/The Present Instant (Hadot)]]. This is the yes-saying Holiday later yokes to Stoic acceptance — a merge Nietzsche’s own critique of Stoicism (*BGE* §9) contests.
+
+## From *The Case of Wagner* (1888)
+
+The vault’s first 1888 primary. Preface: he is a decadent who recognised the fact; “‘Good and evil’ form only a playful subdivision” of *decadence*; recovery is the greatest event; “Wagner belongs only to my diseases”; the philosopher is not free to pass Wagner by — “Wagner is modernity in concentrated form.” He loved Wagner; the pamphlet is diagnosis, and (Epilogue) *gratitude*.
+
+- **[[Concepts/Decadence (Nietzsche)]]**: style-formula (life no longer animates the whole; anarchy among the atoms = “equal rights”); Wagner complete, not defective; decay universal, Wagner accelerated it.
+- **[[Concepts/Wagner as Cagliostro of Modernity (Nietzsche)]]**: *Wagner est une névrose*; three stimulants of the exhausted; opera of salvation; *Ring* wrecked on Schopenhauer; Hegel’s heir (music as Idea); *Parsifal* admired as masterpiece of seduction; Bizet / *il faut méditerraniser la musique* as convalescent climate.
+- **[[Concepts/Histrionics and Theatrocracy (Nietzsche)]]**: musician becoming actor; Talma’s rule (what must strike as true must not be true); three requisitions; Bayreuth as *plébiscite* against good taste.
+
+Do not confuse this pamphlet with the *Ecce Homo* chapter of the same name, both in the same collection. Early Wagnerism is now primary: [[Sources/The Birth of Tragedy - Nietzsche (Kaufmann, Collection 2013)]]. The tension stays open.
+
+## From *The Birth of Tragedy* (1872; Kaufmann)
+
+The vault’s first *early* Nietzsche primary. Twenty-five sections; Kaufmann **Apollinian**. The 1886 self-criticism preface is **not** in this collection text.
+
+- **[[Concepts/Apollinian and Dionysian (Nietzsche)]]**: dream / intoxication; *principium individuationis* held vs shattered; Silenus under the Olympians; “Apollo found it impossible to live without Dionysus.”
+- **[[Concepts/Tragedy from the Spirit of Music (Nietzsche)]]**: chorus first; satyr; tragedy as Dionysian chorus discharging Apollinian images; music as immediate copy of the Will (Schopenhauer’s word); opera as theoretical-layman art; hoped German rebirth, Bach–Beethoven–**Wagner**; *Tristan* as the test.
+- **[[Concepts/Aesthetic Justification of Existence (Nietzsche)]]**: “Only as *aesthetic phenomenon* can the world be *justified* to all eternity.” Man is “dissonance become man.”
+- **[[Concepts/Socratism and the Theoretical Man (Nietzsche)]]**: tragedy died by suicide; Euripides a mask, Socrates the daemon; beauty = intelligible; theoretical optimist; “Practice music, Socrates!”
+
+Do not import will to power, *décadence*, or slave morality into these 1872 claims. The 1888 books recant the Wagner application and the Schopenhauerian artist’s metaphysics; they keep Dionysus under a different ontology.
+
+## From *On Truth and Lies in a Nonmoral Sense* (1873; Breazeale)
+
+Unpublished. The vault’s first Nachlass primary. Breazeale: **movable host**, not Kaufmann’s “mobile army.” The word *perspectivism* is not in the essay.
+
+- **[[Concepts/Truth as Worn-Out Metaphor (Nietzsche)]]**: truth’s origin is a social treaty; word = two metaphors (stimulus → image → sound); concept = equation of unequals; “Truths are illusions which we have forgotten are illusions”; coins without embossing; to be truthful is to lie with the herd; “correct perception” is impossible; at most an *aesthetic* relation.
+- **[[Concepts/Intuitive Man and Rational Man (Nietzsche)]]**: metaphor-drive is fundamental and escapes into myth and art; rational man wards off pain; intuitive man (Greek type) reaps cheer and suffers more; the stoical man executes his masterpiece of deception in misfortune.
+
+Do not back-date BGE “untruth as a condition of life” or the name perspectivism into 1873.
+
+## From *Nietzsche Contra Wagner* (1888/89)
+
+Compilation, not a second pamphlet. Turin, Christmas 1888: selected earlier pieces (some from 1877), made briefer; “we are antipodes.” See [[Sources/Nietzsche Contra Wagner - Nietzsche (Ludovici, Collection 2013)]].
+
+- He had bestowed *himself* on Wagner and Schopenhauer (Dionysian misreading). Two sufferers: overflow vs reduced vitality (*GS* §370 as a Wagner chapter).
+- Objections are physiological: aesthetic = applied physiology. See [[Concepts/Aesthetic as Applied Physiology (Nietzsche)]].
+- Admires Wagner only “wherever he sets *himself* to music.”
+- Summer 1876 Bayreuth: farewell in the soul; anti-Semitism; the *décadent* on his knees before the Cross. Illness answers when the mission is doubted.
+- Epilogue: *amor fati* as “the very core of my being”; illness as higher health and even as philosophy. 1887 Preface selected, not a new coining.
+- Levy’s 1878 “Retrospect” aphorisms in this file are an appendix, not the 1888 book.
+
+## From *The Will to Power* notebooks (Kaufmann excerpt)
+
+Not a fifth published book. Sister/Gast compilation; Kaufmann numbers. This vault file is incomplete (no Book II, no Book IV, no n.1067).
+
+- **Nihilism.** "The highest values devaluate themselves" (n.2). Rooted in the Christian-moral interpretation, not in distress (n.1). Active vs passive (n.22–23 — **not** Deleuze's active/reactive). Incomplete nihilism tries to escape without revaluation (n.28). "Nihilism is no cause but merely the logical result of decadence" (n.43). See [[Concepts/European Nihilism (Nietzsche)]].
+- **Knowledge.** "No, facts is precisely what there is not, only interpretations" (n.481). Knowledge as a tool of power (n.480). Truth created, a word for will to power (n.552). Supreme will to power = impose being on becoming (n.617). Same notes deny will as mental cause. See [[Concepts/Will to Power as Knowledge (Nietzsche)]].
+- **Recurrence splits.** n.55 = extreme nihilism (the meaningless, eternally). n.617 = closest approximation of becoming to being. Neither is *GS* §341. See [[Concepts/Eternal Recurrence (Nietzsche)]].
+
+## From *Twilight of the Idols* (1888)
+
+The vault's second 1888 primary. Preface (Turin, 30 September 1888): cheerfulness and prankishness in the midst of the Revaluation; "this little essay is a great declaration of war"; eternal idols touched "with a hammer as with a tuning fork." Dated "the day when the first book of the Revaluation of All Values was completed."
+
+- **Method.** Sounding out idols; psychologist's recreation that is also war. Maxim 8: "Out of life's school of war: What does not **destroy** me, makes me stronger" — not Holiday's Marcus flip. Maxim 12: a *why* carries almost any *how*. Maxim 26: "The will to a system is a lack of integrity." Maxim 44: "a Yes, a No, a straight line, a goal."
+- **[[Thinkers/Socrates]] / [[Concepts/Decadence (Nietzsche)]].** Consensus of the sages that life is no good is a shared *physiology*, not a proof. "To have to fight the instincts — that is the definition of decadence." Reason = virtue = happiness is "that most bizarre of all equations." He forced the hemlock.
+- **[[Concepts/How the True World Became a Fable (Nietzsche)]].** Six-stage history of an error (Plato → Christian → Königsberg → positivism → free spirits → noon). Stage 6 abolishes the *apparent* world with the true one. *INCIPIT ZARATHUSTRA.* Reason chapter: Heraclitus eternally right that being is an empty fiction; "we are not rid of God because we still have faith in grammar."
+- **[[Concepts/Morality as Anti-Nature (Nietzsche)]] / [[Concepts/The Four Great Errors (Nietzsche)]].** Church castratism vs spiritualization of passion. No moral facts. Four errors: cause/effect inverted; will as cause is a fable; imaginary comforting "whys"; free will as the "foulest of all theological fictions." "We deny God… and thereby we redeem the world."
+- **Ancients / Hammer.** Thucydides vs Plato (courage before reality vs flight into the ideal). "I, the last disciple of the philosopher Dionysus — I, the teacher of the eternal recurrence." The title is claimed; GS §341's demon is not restated. Hammer: *Zarathustra* III tablet — "Become hard!"
+
+*Amor fati* is **not named**. Closest: Goethe's "joyous and trusting fatalism" baptized Dionysus (Skirmishes 49).
+
+## From *The Antichrist* (1888; Mencken)
+
+The vault’s third 1888 primary, and Book I of the Revaluation *Twilight* was written as recreation from. Mencken 1920: **transvaluation**, “botched,” signed Friedrich W. Nietzsche. Not Kaufmann.
+
+- **[[Concepts/Formula of Values (Nietzsche)]].** §2: good = feeling of power / will to power / power itself; evil = weakness; happiness = power increases, resistance overcome. First “charity”: the weak and the botched shall perish. §1 happiness formula is the same as *Twilight* Maxims §44.
+- **[[Concepts/Pity as Practice of Nihilism (Nietzsche)]].** §7: pity is the *technic* of nihilism (Schopenhauer right as description). Not *Zarathustra*’s scene of God dying of pity.
+- **[[Concepts/Psychology of the Redeemer (Nietzsche)]].** §§28–35: not Renan’s hero or genius; “resist not evil!”; kingdom as state of the heart; Dostoevsky named as the missing psychologist. Do not make a Jesus thinker page.
+- **[[Concepts/Paul as Falsifier of the Evangel (Nietzsche)]].** §§36–47: only one Christian, and he died on the cross; Paul the dysangelist; *deus, qualem Paulus creavit, dei negatio.* Do not make a Paul thinker page.
+- **Close.** §62 condemns the church as the one great curse and dates the transvaluation from today. This file has no “Law Against Christianity.”
+
+Do not fold §18’s deified nothingness into GS §125. Do not fold A §3’s “sort of superman” (lucky accident) into *Zarathustra*’s Superman.
+
+## From *Ecce Homo* (1888; published 1908)
+
+The last completed book, and the one that tells the vault how Nietzsche wanted the rest read. Its subtitle is *How One Becomes What One Is*.
+
+> [!warning] **The vault's copy is incomplete.** The extraction from the 2013 collection opens at "Why I am So Clever": the **Preface and the whole of "Why I am So Wise" are missing** (verified — no heading, no *nitimur in vetitum*). So the double descent, the father's death, and "I am a *décadent* and a beginning" are still not in the vault from a primary. See [[Sources/Ecce Homo - Nietzsche (Collection 2013)]].
+
+**Six things it settles.**
+
+1. **The corpus divides into a Yes-half and a No-half.** "Now that the affirmative part of my life task was accomplished there came the turn of the negating part both in word and deed." *Zarathustra* is the affirmation; *BGE*, the *Genealogy*, *Twilight*, *The Case of Wagner* are the war. Of the post-*Zarathustra* books: "all my writings are bait... If nothing was caught it was not I who was at fault. There were no fish." See [[Concepts/Revaluation of All Values (Nietzsche)]].
+2. ***Amor fati* is a formula for greatness in a man, and it lives in the diet chapter.** "Why I am So Clever" §10: "My formula for greatness in man is amor fati: the fact that a man wishes nothing to be different, either in the future or in the past or for all eternity... Not just to endure necessity— or to merely pretend to endure—all idealism is untruthfulness in the face of necessity—but to love it." The contrast term is **idealism**, not Stoic resignation. See [[Concepts/Amor Fati (Love of Fate)]].
+3. **Eternal recurrence has a date and a place.** August 1881, by the Lake of Silvaplana, "not far from Surlei beside a huge pyramidal block of stone," noted with "Six thousand feet beyond man and time." He concedes the cosmology may be Stoic-via-Heraclitus; the claim of originality is for the affirmative use. See [[Concepts/Eternal Recurrence (Nietzsche)]].
+4. **Philosophy is diet, climate, and choice of recreation.** The physiological programme in "Why I am So Clever" §§1–3 and §10 — "the whole casuistry of selfishness," "the scholar is a decadent," "It was only illness that brought me to reason." See [[Concepts/The Small Things - Nutrition Place Climate Recreation (Nietzsche)]].
+5. **Becoming what one is requires not knowing what one is.** §9: "Forgetting one's self, misunderstanding one's self, belittling one's self... is reason itself." See [[Concepts/Becoming What One Is (Nietzsche)]].
+6. **The immoralist is defined, and it is not a boast about conduct.** "In reality, my title immoralist involves two denials" — of the good man as highest type, and of Christian (= decadence) morality. Plus the finest argument in the book: the historical Zarathustra invented morality and, because truthfulness was his highest virtue, must be the first to destroy it — "the self-overcoming of morality through truthfulness." See [[Concepts/The Immoralist (Nietzsche)]].
+
+**On being read.** "I am one thing, my creations are another." "My time has not yet come either; some are born posthumously." *Non legor non legar.* The theory behind it — style as the communication of a state through the tempo of signs, and the **acoustic delusion** by which readers conclude that where nothing is heard there is nothing to hear — is on [[Concepts/Style as Communication of a State (Nietzsche)]]. He also documents the misreadings of the Superman already current in 1888: as saint, as genius, as Darwinism, as Carlyle's hero-cult.
+
+**Biography confirmed or added:** Pforta; Ritschl and the Basel chair at 24; Tribschen and the Wagner years; the 1876 Bayreuth rupture and the flight to Klingenbrunn; Sorrento; Peter Gast as amanuensis; Lou von Salomé's text for the *Hymn to Life*; Brandes's Copenhagen lectures as the first academic recognition; and the final autumn — Sils Maria to Turin, Via Carlo Alberto 6, 21 September 1888.
+
+**The closing formula**, and the last words of the corpus as the vault now holds it: "Have you understood me? **Dionysus against the Crucified.**"
+
+> [!warning] Do not cite *Ecce Homo* for the **will to power**. The phrase occurs twice in the whole extracted book, neither time as doctrine, and no *Will to Power* book project is mentioned. Nor does the text mention a four-part *Revaluation* or identify it with *The Antichrist* — that framing is editorial reception.
+
+## Versus Berlin (2026-08-12)
+
+[[Thinkers/Isaiah Berlin]] (*The Crooked Timber of Humanity*) places Nietzsche on the **Romantic will** line: Fichtean demiurge dramatized; hero/genius; *Kraftmenschen*. Romanticism is also a nineteenth-century source of genuine **relativism of ends** (with Schopenhauer), which Berlin distinguishes from Vico/Herder’s pluralism. This is Berlin’s grouping, not a Nietzsche primary. Nietzsche’s own anti-nationalism is not the point Berlin is making. See [[Concepts/Romantic Will (Berlin)]] and [[Concepts/Pluralism versus Relativism (Berlin)]].
+
 ## Related
 
-- [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]]
-- [[Concepts/Will to Power (Nietzsche)]], [[Concepts/Perspectivism (Nietzsche)]], [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]], [[Concepts/Beyond Good and Evil (Nietzsche)]], [[Concepts/Philosophers of the Dangerous "Perhaps" (Nietzsche)]], [[Concepts/Belief in Antitheses of Values (Nietzsche)]]
-- [[Thinkers/Kant]], [[Thinkers/Spinoza]], [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Hume]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]], [[Thinkers/Marcus Aurelius]]
+- [[Sources/On Truth and Lies in a Nonmoral Sense - Nietzsche (Breazeale, Collection 2013)]], [[Sources/The Birth of Tragedy - Nietzsche (Kaufmann, Collection 2013)]], [[Sources/The Antichrist - Nietzsche (Mencken, Collection 2013)]], [[Sources/Twilight of the Idols - Nietzsche (Kaufmann)]], [[Sources/Thus Spoke Zarathustra - Nietzsche (Common 1909)]], [[Sources/Human, All Too Human - Nietzsche (Zimmern, Collection excerpt)]], [[Sources/The Gay Science - Nietzsche (Kaufmann 1974)]], [[Sources/Beyond Good and Evil - Nietzsche (AmazonClassics Edition)]], [[Sources/The Genealogy of Morals - Nietzsche (1887)]], [[Sources/On the Genealogy of Morals - Nietzsche (Johnston)]], [[Sources/The Case of Wagner - Nietzsche (1888)]], [[Sources/Nietzsche Contra Wagner - Nietzsche (Ludovici, Collection 2013)]], [[Sources/The Will to Power - Nietzsche (Kaufmann, Collection 2013)]]
+- [[Concepts/Genealogy (Nietzsche)]], [[Concepts/Ressentiment (Nietzsche)]], [[Concepts/Master Morality and Slave Morality (Nietzsche)]], [[Concepts/Bad Conscience (Nietzsche)]], [[Concepts/Ascetic Ideal (Nietzsche)]], [[Concepts/Sovereign Individual (Nietzsche)]]
+- [[Concepts/The Superman (Nietzsche)]], [[Concepts/The Last Man (Nietzsche)]], [[Concepts/The Higher Man (Nietzsche)]], [[Concepts/Three Metamorphoses (Nietzsche)]], [[Concepts/Redemption of the It Was (Nietzsche)]]
+- [[Concepts/Free Spirit (Nietzsche)]], [[Concepts/Historical Philosophising and the Chemistry of Concepts (Nietzsche)]], [[Concepts/Two-fold Historical Origin of Good and Evil (Nietzsche)]]
+- [[Concepts/Death of God (Nietzsche)]], [[Concepts/Eternal Recurrence (Nietzsche)]], [[Concepts/Amor Fati (Love of Fate)]], [[Concepts/Intellectual Conscience (Nietzsche)]], [[Concepts/The Great Health (Nietzsche)]]
+- [[Concepts/How the True World Became a Fable (Nietzsche)]], [[Concepts/The Four Great Errors (Nietzsche)]], [[Concepts/Morality as Anti-Nature (Nietzsche)]]
+- [[Concepts/Truth as Worn-Out Metaphor (Nietzsche)]], [[Concepts/Intuitive Man and Rational Man (Nietzsche)]]
+- [[Concepts/Apollinian and Dionysian (Nietzsche)]], [[Concepts/Aesthetic Justification of Existence (Nietzsche)]], [[Concepts/Socratism and the Theoretical Man (Nietzsche)]], [[Concepts/Tragedy from the Spirit of Music (Nietzsche)]]
+- [[Concepts/Decadence (Nietzsche)]], [[Concepts/Wagner as Cagliostro of Modernity (Nietzsche)]], [[Concepts/Histrionics and Theatrocracy (Nietzsche)]], [[Concepts/Aesthetic as Applied Physiology (Nietzsche)]]
+- [[Concepts/Formula of Values (Nietzsche)]], [[Concepts/Pity as Practice of Nihilism (Nietzsche)]], [[Concepts/Psychology of the Redeemer (Nietzsche)]], [[Concepts/Paul as Falsifier of the Evangel (Nietzsche)]]
+- [[Concepts/Will to Power (Nietzsche)]], [[Concepts/Will to Power as Knowledge (Nietzsche)]], [[Concepts/European Nihilism (Nietzsche)]], [[Concepts/Perspectivism (Nietzsche)]], [[Concepts/Philosophy as Involuntary and Unconscious Autobiography (Nietzsche)]], [[Concepts/Beyond Good and Evil (Nietzsche)]], [[Concepts/Philosophers of the Dangerous "Perhaps" (Nietzsche)]], [[Concepts/Belief in Antitheses of Values (Nietzsche)]], [[Concepts/Free Spirit (Nietzsche)]], [[Concepts/Soul as Social Structure (Nietzsche)]], [[Concepts/Pathos of Distance and Order of Rank (Nietzsche)]]
+- [[Thinkers/Kant]], [[Thinkers/Spinoza]], [[Thinkers/Plato]], [[Thinkers/Aristotle]], [[Thinkers/Hume]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]], [[Thinkers/Marcus Aurelius]], [[Thinkers/Michel Foucault]], [[Thinkers/Pierre Hadot]], [[Thinkers/Socrates]], [[Thinkers/Isaiah Berlin]]
+- [[Concepts/Groundlessness and the Middle Way (Varela)]] / [[Sources/The Embodied Mind - Varela Thompson and Rosch (2016)]] (nihilism as grasping after the collapse of objectivism; Nishitani: the will / eternal return still clings)
+- [[Concepts/The Present Instant (Hadot)]], [[Concepts/Amor Fati (Love of Fate)]]
 - [[Thinkers/Bertrand Russell]] — the antagonist's verdict and the vault's clearest instance of [[Concepts/Social Cohesion vs. Individual Liberty (Russell)|disciplinarian vs. libertarian]]: "I dislike Nietzsche because he likes the contemplation of pain, because he erects conceit into a duty, because the men whom he most admires are conquerors… **Nietzsche despises universal love; I feel it the motive power to all that I desire**." Russell's "ultimate argument" against him "lies not in an appeal to facts, but in an appeal to the emotions" (the imagined Buddha-vs-Nietzsche confrontation before the Almighty). See [[Sources/A History of Western Philosophy - Bertrand Russell (1945)]].
 - [[Sources/Metaphysics of Morals - Immanuel Kant]], [[Sources/Ethics - Spinoza (Cambridge, Kisner ed. 2018)]], [[Sources/The Republic - Plato (Cambridge, 2000)]], [[Sources/An Essay Concerning Human Understanding - Locke]], [[Sources/An Enquiry concerning Human Understanding - Hume (Oxford, Millican ed.)]]
 - [[Concepts/Good Will (Kant)]], [[Concepts/Categorical Imperative - Universal Law Formulation (Kant)]], [[Concepts/Autonomy and Heteronomy of the Will (Kant)]], [[Concepts/Conatus (Spinoza)]], [[Concepts/Eudaimonia]], [[Concepts/Dichotomy of Control (Epictetus)]], [[Concepts/Ataraxia]], [[Concepts/Two Standpoints: Sensible World and Intelligible World (Kant)]], [[Concepts/Kingdom of Ends (Kant)]]
@@ -111,3 +282,7 @@ Deleuze is arguably the 20th century's most creative reader of Nietzsche. Key ex
 - **Active/reactive forces:** Deleuze systematizes Nietzsche's force-theory into a strict typology: active forces express themselves affirmatively; reactive forces operate by negation and resentment.
 - **The Overman as superfold:** The overman arises when forces within man meet forces of "unlimited finity" (silicon, genetic code, agrammatical language) — a new ontological form, not a new morality. Contrasts with Heidegger's reading of Nietzsche as completing metaphysics.
 - **Nietzsche and Spinoza:** Deleuze pairs them as the two thinkers who provide his ethics of joy and immanence — Spinoza's univocal Being and Nietzsche's active forces converge in the project of [[Concepts/Ethics Without Morality (Deleuze-Spinoza)]].
+
+## Foucault's Genealogy (from *Discipline and Punish*, 2026-08-12)
+
+[[Thinkers/Michel Foucault]]'s *Discipline and Punish* I.1 calls itself "a genealogy of the present scientifico-legal complex" and a "history of the present." Nietzsche is *not named* in that chapter; the method (no origin, only a technology that produces the soul it then claims to discover; refuse progress narratives) is Nietzschean. The Macey biography already traces the 1953 reading of the *Untimely Meditations*. *The History of Sexuality* I likewise does not name Nietzsche; the "will to knowledge" (*volonté de savoir*) that is both support and instrument of the discourses on sex, and the refusal to write that history from prohibition, continue the same method. See [[Concepts/Genealogy (Foucault)]], [[Concepts/Repressive Hypothesis (Foucault)]].

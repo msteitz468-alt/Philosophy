@@ -8,7 +8,7 @@ source_count: 2
 created: "2026-06-04"
 updated: "2026-07-01"
 tags: [descartes, clear-and-distinct, perception, criterion, truth, epistemology, certainty, meditations, discourse-on-method, god]
-sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["Meditations on First Philosophy - Descartes (Oxford, 2008)", "Discourse on the Method (René Descartes) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Clear and Distinct Perception (Descartes)

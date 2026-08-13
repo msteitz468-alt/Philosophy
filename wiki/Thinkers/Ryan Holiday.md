@@ -4,11 +4,11 @@ type: thinker
 era: "21st century"
 schools: [Stoicism]
 domains: [ethics]
-source_count: 1
+source_count: 2
 created: "2026-07-01"
-updated: "2026-07-01"
+updated: "2026-08-12"
 tags: [ryan-holiday, stoicism, practical-philosophy, self-help, marcus-aurelius, popularizer, 21st-century]
-sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).txt"]
+sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Triumph (Ryan Holiday) (z-library.sk, 1lib.sk, z-lib.sk).md"]
 ---
 
 # Ryan Holiday
@@ -17,7 +17,7 @@ sources: ["The Obstacle Is the Way The Timeless Art of Turning Trials Into Trium
 
 ## Position and Method
 
-Holiday is not a scholar but a *transmitter*: his self-described aim is "to collect, understand, and now publish" the lessons of the Stoics, in the tradition of ancient philosophy's indifference to "authorship or originality." His method is deliberately anti-academic — teaching philosophy through the dramatized actions of historical "doers" (statesmen, generals, athletes, entrepreneurs) rather than through textual argument. This is itself a philosophical thesis, borrowed explicitly from **Pierre Hadot**: that philosophy is a *way of life* and a set of "spiritual exercises," not a body of doctrine discussed in classrooms. He directs serious readers back to the primary sources (Marcus, Seneca, Epictetus) and to Hadot's *The Inner Citadel* and *Philosophy as a Way of Life*.
+Holiday is not a scholar but a *transmitter*: his self-described aim is "to collect, understand, and now publish" the lessons of the Stoics, in the tradition of ancient philosophy's indifference to "authorship or originality." His method is deliberately anti-academic — teaching philosophy through the dramatized actions of historical "doers" (statesmen, generals, athletes, entrepreneurs) rather than through textual argument. This is itself a philosophical thesis, borrowed explicitly from **Pierre Hadot**: that philosophy is a *way of life* and a set of "spiritual exercises," not a body of doctrine discussed in classrooms. He directs serious readers back to the primary sources (Marcus, Seneca, Epictetus) and to Hadot's *The Inner Citadel* and *Philosophy as a Way of Life*. The second of those is now in the vault: [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]], [[Thinkers/Pierre Hadot]]. Holiday's Perception → Action → Will tracks Marcus's *present-moment* triad, not Epictetus's school order (desire → action → assent). Hadot's own names are discipline of desire / of action / of assent, lived as physics, ethics, and logic. See [[Concepts/The Three Disciplines - Perception, Action, and Will (Hadot)]]. Holiday also inherits a merge Hadot forbids: Foucault's self-fashioning plus Hadot's exercises. Mark that fight: [[Contradictions/Hadot vs Foucault - Care of the Self vs Cosmic Universalization]]. A second merge: he treats Nietzsche's Maxim 8 ("What does not **destroy** me, makes me stronger" — *Twilight*, "life's school of war") as the same flip as Marcus 5.20. It is not. See [[Concepts/Turning Obstacles Upside Down (Holiday)]], [[Sources/Twilight of the Idols - Nietzsche (Kaufmann)]].
 
 ## Key Contributions (from *The Obstacle Is the Way*)
 
@@ -29,12 +29,14 @@ Holiday is not a scholar but a *transmitter*: his self-described aim is "to coll
 
 - **Modern reception of the Roman Stoics** — Holiday is the primary bridge from the vault's classical Stoic triad ([[Thinkers/Epictetus]], [[Thinkers/Seneca]], [[Thinkers/Marcus Aurelius]]) into contemporary practice. He documents a lineage of Stoic practitioners of action (Cato, Frederick the Great, Washington, Jefferson, Toussaint Louverture, J.S. Mill, T. Roosevelt, James Stockdale) and modern readers (Bill Clinton, Wen Jiabao, Tim Ferriss).
 - **Personal/career use case ([[Mack Steitz]])** — Holiday's register is explicitly practical and self-directed, aimed at exactly the vault owner's transition themes: focus on the controllable, treat obstacles as training, rehearse adversity in advance, persevere.
-- **Caveat** — his instrumental framing (obstacles as "fuel" for ambition and worldly success) softens the orthodox Stoic claim that virtue is the *only* good; he should be read as application/motivation, not as a source for Stoic doctrine. [[Thinkers/Nietzsche]]'s critique of Stoicism ("living according to Nature" as self-tyranny) is a useful counterweight — especially since Holiday adopts Nietzsche's own phrase *amor fati*.
+- **Caveat** — his instrumental framing (obstacles as "fuel" for ambition and worldly success) softens the orthodox Stoic claim that virtue is the *only* good; he should be read as application/motivation, not as a source for Stoic doctrine. [[Thinkers/Nietzsche]]'s critique of Stoicism ("living according to Nature" as self-tyranny) is a useful counterweight — especially since Holiday adopts Nietzsche's own phrase *amor fati*. The phrase's primary is now in: [[Sources/The Gay Science - Nietzsche (Kaufmann 1974)]] §276. Holiday's "fuel" is not in that aphorism; Nietzsche's vow is to see the necessary as beautiful, refuse accusation, and become a Yes-sayer. See [[Concepts/Amor Fati (Love of Fate)]].
 
 ## Related
 
 - [[Sources/The Obstacle Is the Way - Ryan Holiday (2014)]]
-- [[Thinkers/Marcus Aurelius]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]]
+- [[Sources/The Gay Science - Nietzsche (Kaufmann 1974)]] — *amor fati* primary, not Holiday
+- [[Sources/Philosophy as a Way of Life - Pierre Hadot (1995)]]
+- [[Thinkers/Pierre Hadot]], [[Thinkers/Marcus Aurelius]], [[Thinkers/Epictetus]], [[Thinkers/Seneca]]
 - [[Concepts/The Three Disciplines - Perception, Action, and Will (Hadot)]]
 - [[Concepts/Turning Obstacles Upside Down (Holiday)]]
 - [[Concepts/Dichotomy of Control (Epictetus)]]

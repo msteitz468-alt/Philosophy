@@ -8,7 +8,7 @@ created: "2026-06-04"
 updated: "2026-06-04"
 source_count: 1
 tags: [feyerabend, epistemological-anarchism, anything-goes, counterinduction, natural-interpretations, galileo, incommensurability, proliferation, separation-of-science-and-state, philosophy-of-science, relativism]
-sources: ["Against Method - Paul Feyerabend.txt"]
+sources: ["Against Method - Paul Feyerabend.md"]
 ---
 
 # Paul Feyerabend

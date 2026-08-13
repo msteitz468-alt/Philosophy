@@ -3,8 +3,8 @@ title: "Rule-Following (Wittgenstein)"
 type: concept
 domains: [philosophy-of-language, philosophy-of-mind, epistemology, logic]
 created: "2026-06-29"
-updated: "2026-06-29"
-sources: ["Philosophical Investigations (Ludwig Wittgenstein).txt", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).txt"]
+updated: "2026-08-12"
+sources: ["Philosophical Investigations (Ludwig Wittgenstein).md", "Wittgenstein’s Philosophical Investigations - A Critical Guide (Arif Ahmed).md", "The Predictive Mind - Jakob Hohwy (2013).md"]
 tags: [wittgenstein, rule-following, paradox, practice, philosophical-investigations, normativity]
 ---
 
@@ -42,12 +42,15 @@ What anchors the practice is shared human response: "If language is to be a mean
 
 - **Feeds the [[Concepts/Private Language Argument (Wittgenstein)|Private Language Argument]]:** "It is not possible to obey a rule privately" (§202) is the hinge: meaning a sign by a rule requires a public standard of correctness, which a logically private language lacks.
 - **Against mentalism / [[Thinkers/Descartes|Cartesian]] inner determination:** The picture that an inner act of meaning settles all future correct application is precisely what the regress refutes. Normativity is located in communal practice, not in the private mind.
-- **Kripke's "skeptical paradox":** Later philosophy (Kripke's *Wittgenstein on Rules and Private Language*) reads §§201–202 as a skeptical argument that there is no fact about an individual that constitutes meaning addition rather than a deviant "quus" function — with a "community" solution. Whether this is Wittgenstein's own view is contested.
+- **Kripke's "skeptical paradox":** Later philosophy (Kripke's *Wittgenstein on Rules and Private Language*) reads §§201–202 as a skeptical argument that there is no fact about an individual that constitutes meaning addition rather than a deviant "quus" function — with a "community" solution. Whether this is Wittgenstein's own view is contested. That book is **not** [[Sources/Naming and Necessity - Saul Kripke (1980)]] (now ingested). N&N's Wittgenstein collision is the metre bar, not quus. Do not merge.
 - **vs. Platonism about rules/mathematics:** Against the idea that a rule is an abstract object whose every application is settled in a "logical machinery," Wittgenstein makes correctness depend on agreement in technique. Cf. [[Concepts/Number as the Essence of Reality (Pythagoras)|mathematical realism]].
 - **John McDowell's semantic realism**: McDowell argues that grasping a rule is a practice-embedded ability. He rejects Kripke's skeptical view, showing that understanding is a definite state (not an occult mechanism) characterized by our primitive, shared propensities to find certain continuations natural. See [[Thinkers/John McDowell]].
+- **[[Thinkers/Hubert Dreyfus]]**: the AI form of the same regress — complete rule-theory needs rules for applying rules; humans stop when interpretation is "simply evident"; computers stop only at context-free data. Expertise is not compiled rules. See [[Concepts/Skilled Coping and the Five Stages of Expertise (Dreyfus)]].
+- **[[Thinkers/Jakob Hohwy]]** (*The Predictive Mind* ch. 8): claims a naturalistic *solution*, not a commentary. Why follow "minimize prediction error" rather than a bent rule? Because existents occupy unsurprising states; "I don't try to follow a rule in any normal sense, I just am." "Dying becomes the ultimate misperception" (p. 181). This drops shared practice / [[Concepts/Forms of Life (Wittgenstein)|form of life]] for entropy. See [[Concepts/Misrepresentation and the Bayesian Room (Hohwy)]].
 
 ## Contradictions / Open Questions
 > [!warning] Locates normativity in public practice rather than in a mind grasping a meaning — tension with [[Thinkers/Descartes]] on the self-sufficiency of the inner. Continued in [[Concepts/Private Language Argument (Wittgenstein)]].
+> [!warning] Hohwy's entropy answer supplies a further regularity Kripke can still bend; it is not obvious it yields *normativity*. See [[Concepts/Misrepresentation and the Bayesian Room (Hohwy)]].
 
 ## Sources
 - [[Sources/Philosophical Investigations - Ludwig Wittgenstein (1953)]]

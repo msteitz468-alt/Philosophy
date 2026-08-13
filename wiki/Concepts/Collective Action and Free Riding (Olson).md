@@ -4,7 +4,7 @@ type: concept
 domains: [political-philosophy, economics, sociology]
 created: "2026-06-29"
 updated: "2026-06-29"
-sources: ["The Rise and Decline of Nations (Mancur Olson).txt"]
+sources: ["The Rise and Decline of Nations (Mancur Olson).md"]
 tags: [philosophy, public-choice, collective-action, free-rider, public-goods]
 ---
 
